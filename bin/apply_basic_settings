@@ -1,0 +1,31 @@
+#! /bin/bash
+
+# DESCRIPTION
+# Applies basic system settings.
+
+# EXECUTION
+read -p "What is this machine's label (Example: \"Alchemist\")? " mac_os_label
+read -p "What is this machine's name (Example: \"alchemist\")? " mac_os_name
+
+if [[ -z "$mac_os_label" ]]; then
+  printf "ERROR: Invalid MacOS label. It must be provided.\n"
+  exit 1
+fi
+
+if [[ -z "$mac_os_name" ]]; then
+  printf "ERROR: Invalid MacOS name. It must be provided.\n"
+  exit 1
+fi
+
+printf "Cleaning default directories...\n"
+rm -rf $HOME/Documents/*
+rm -rf $HOME/Downloads/*
+
+printf "Setting system label and name...\n"
+sudo scutil --set ComputerName $mac_os_label
+sudo scutil --set HostName $mac_os_name
+sudo scutil --set LocalHostName $mac_os_name
+sudo defaults write /Library/Preferences/SystemConfiguration/com.apple.smb.server NetBIOSName -string $mac_os_name
+
+printf "Setting default desktop image (3200x2000@300).\n"
+sudo cp "$MAC_OS_CONFIG_PATH/lib/images/desktop_background.jpg" $HOME/Documents/default.jpg
