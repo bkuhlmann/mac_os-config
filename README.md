@@ -2,10 +2,11 @@
 
 [![Patreon](https://img.shields.io/badge/patreon-donate-brightgreen.svg)](https://www.patreon.com/bkuhlmann)
 
-Shell scripts for customized macOS machine setup and configuration. This project provides a highly
-opinionated default configuration for use with the [macOS](https://github.com/bkuhlmann/mac_os)
-project. Should the configuration found in this project not be to your liking feel free to fork and
-customize for your specific needs.
+Shell scripts for customized macOS machine setup and configuration.
+
+This project provides a highly opinionated default configuration built upon the
+[macOS](https://github.com/bkuhlmann/mac_os) project. Should the configuration provided by this
+project not be to your liking, feel free to fork and customize for your specific needs.
 
 <!-- Tocer[start]: Auto-generated, don't remove. -->
 
@@ -206,35 +207,35 @@ Master Version (unstable):
 
 # Usage
 
-See the [macOS](https://github.com/bkuhlmann/mac_os) project for usage as it will load and apply the
-configuration defined by this project.
+See the [macOS](https://github.com/bkuhlmann/mac_os) project for usage as it provides the command
+line interface to the configuration defined by this project.
 
 ## Customization
 
-While the default settings for this project are opinionated and tailored for my specific setup, you
-can easily fork this project and customize the settings to your specific environment. Start by
-editing the files found in the `lib` and `bin` directories. Here is a breakdown each:
+While this project's configuration is opinionated and tailored for my setup, you can easily fork
+this project and customize it for your environment. Start by editing the files found in the `bin`
+and `lib` directories. Here is a breakdown each:
 
-- `bin/apply_basic_settings` = Applies basic settings for setting up a machine.
-- `bin/apply_default_settings` = Applies system and application defaults.
-- `bin/install_applications` = Installs macOS, GUI-based, applications.
-- `bin/install_extensions` = Installs macOS application extensions.
-- `bin/install_homebrew` = Installs Homebrew, command line, software.
-- `bin/restore_backup` = Restores system/application settings from mounted backup image.
-- `bin/setup_software` = Configures and launches (if necessary) installed software.
-- `lib/settings.sh` = Defines custom settings for software applications, extensions, etc.
+- `bin/apply_basic_settings`: Applies basic, initial, settings for setting up a machine.
+- `bin/apply_default_settings`: Applies useful system and application defaults.
+- `bin/install_applications`: Installs macOS, GUI-based, applications.
+- `bin/install_extensions`: Installs macOS application extensions.
+- `bin/install_homebrew`: Installs Homebrew managed software.
+- `bin/restore_backup`: Restores system/application settings from backup image.
+- `bin/setup_software`: Configures and launches (if necessary) installed software.
+- `lib/settings.sh`: Defines custom settings for software applications, extensions, etc.
 
-*TIP*: The installer determines which applications/extensions to install as defined by the
-settings.sh script. Applications defined with the "APP_NAME" suffix and extensions defined with the
-"EXTENSION_PATH" suffix inform the installer what to care about. Removing/commenting out these
-applications/extensions within the settings.sh file will cause the installer to skip these
+*TIP*: The installer determines which applications/extensions to install as defined in the
+`settings.sh` script. Applications defined with the "APP_NAME" suffix and extensions defined with
+the "EXTENSION_PATH" suffix inform the installer what to care about. Removing/commenting out these
+applications/extensions within the `settings.sh` file will cause the installer to skip these
 applications/extensions.
 
 # Additional Software
 
 ## App Store
 
-I also recommend installing the following software found via the [App Store](http://www.apple.com/macosx/whats-new/app-store.html):
+I recommend installing the following software found via the [App Store](http://www.apple.com/macosx/whats-new/app-store.html):
 
 - [1Password](http://agilewebsolutions.com/products/1Password)
 - [Acorn](https://secure.flyingmeat.com/acorn)
@@ -275,7 +276,7 @@ I also recommend installing the following software found via the [App Store](htt
 
 ## Miscellaneous
 
-The following software is optional:
+The following software might be of interest as well:
 
 - [Hardware IO Tools for Xcode](https://developer.apple.com/downloads) - Includes the Network Link
   Conditioner, etc.
