@@ -10,150 +10,18 @@ if [[ ! -e "$mac_os_backup_root" ]]; then
   exit 1
 fi
 
-printf "Restoring Alfred...\n"
-restore_preference $mac_os_backup_root "com.runningwithcrayons.Alfred-3.plist"
-restore_preference $mac_os_backup_root "com.runningwithcrayons.Alfred-Preferences-3.plist"
+mkdir -p log
 
-printf "Restoring App Cleaner...\n"
-restore_preference $mac_os_backup_root "com.freemacsoft.AppCleaner.plist"
-restore_preference $mac_os_backup_root "net.freemacsoft.AppCleaner.plist"
-
-printf "Restoring Aurora Blu-Ray Copy...\n"
-restore_preference $mac_os_backup_root "com.bluray-player-software.AuroraBlurayCopy.plist"
-
-printf "Restoring Bartender...\n"
-restore_preference $mac_os_backup_root "com.surteesstudios.Bartender.plist"
-
-printf "Restoring Carbon Copy Cloaner...\n"
-restore_preference $mac_os_backup_root "com.bombich.ccc.plist"
-
-printf "Restoring Cheatsheet...\n"
-restore_preference $mac_os_backup_root "com.mediaatelier.CheatSheet.plist"
-
-printf "Restoring Cloak...\n"
-restore_preference $mac_os_backup_root "com.bourgeoisbits.cloak.agent.plist"
-
-printf "Restoring Dash...\n"
-restore_app_support $mac_os_backup_root "Dash"
-restore_preference $mac_os_backup_root "com.kapeli.dashdoc.plist"
-
-printf "Restoring Doxie...\n"
-restore_preference $mac_os_backup_root "com.getdoxie.doxie.plist"
-
-printf "Restoring FaceTime...\n"
-restore_preference $mac_os_backup_root "com.apple.facetime.bag.plist"
-restore_preference $mac_os_backup_root "com.apple.FaceTime.plist"
-restore_preference $mac_os_backup_root "com.apple.imservice.ids.FaceTime.plist"
-
-printf "Restoring Fantastical...\n"
-restore_preference $mac_os_backup_root "com.flexibits.fantastical.plist"
-
-printf "Restoring Firefox...\n"
-restore_preference $mac_os_backup_root "org.mozilla.firefox.plist"
-
-printf "Restoring Google Chrome...\n"
-restore_preference $mac_os_backup_root "com.google.Chrome.plist"
-
-printf "Restoring HandBrake...\n"
-restore_preference $mac_os_backup_root "fr.handbrake.HandBrake.plist"
-
-printf "Restoring Hazel...\n"
-restore_app_support $mac_os_backup_root "Hazel"
-restore_preference $mac_os_backup_root "com.noodlesoft.Hazel.plist"
-restore_preference $mac_os_backup_root "com.noodlesoft.HazelHelper.plist"
-
-printf "Restoring Image Capture...\n"
-restore_preference $mac_os_backup_root "com.apple.ImageCaptureExtension2.plist"
-restore_preference $mac_os_backup_root "com.apple.Image_Capture.plist"
-
-printf "Restoring ImageOptim...\n"
-restore_preference $mac_os_backup_root "net.pornel.ImageOptim.plist"
-
-printf "Restoring iStat Menus...\n"
-restore_preference $mac_os_backup_root "com.bjango.istatmenus.plist"
-restore_preference $mac_os_backup_root "com.bjango.istatmenus5.extras.plist"
-
-printf "Restoring iTerm...\n"
-restore_preference $mac_os_backup_root "com.googlecode.iterm2.plist"
-
-printf "Restoring iTunes...\n"
-restore_preference $mac_os_backup_root "com.apple.iTunes.eq.plist"
-restore_preference $mac_os_backup_root "com.apple.iTunes.Gracenote.plist"
-restore_preference $mac_os_backup_root "com.apple.iTunes.Gracenote.plist"
-restore_preference $mac_os_backup_root "com.apple.iTunes.plist"
-restore_preference $mac_os_backup_root "com.apple.iTunesHelper.plist"
-
-printf "Restoring Keymo...\n"
-restore_preference $mac_os_backup_root "com.manytricks.Keymo.plist"
-
-printf "Restoring Knox...\n"
-restore_preference $mac_os_backup_root "com.knoxformac.knox.plist"
-
-printf "Restoring Marked 2...\n"
-restore_preference $mac_os_backup_root "com.brettterpstra.marked2.LSSharedFileList.plist"
-restore_preference $mac_os_backup_root "com.brettterpstra.marked2.plist"
-
-printf "Restoring Marp...\n"
-restore_preference $mac_os_backup_root "jp.yhatt.marp.helper.plist"
-restore_preference $mac_os_backup_root "jp.yhatt.marp.plist"
-
-printf "Restoring Max...\n"
-restore_preference $mac_os_backup_root "org.sbooth.Max.LSSharedFileList.plist"
-restore_preference $mac_os_backup_root "org.sbooth.Max.plist"
-
-printf "Restoring MoneyWell...\n"
-restore_preference $mac_os_backup_root "com.nothirst.moneywell.mac.LSSharedFileList.plist"
-
-printf "Restoring Monosnap...\n"
-restore_preference $mac_os_backup_root "com.monosnap.monosnap.plist"
-
-printf "Restoring Moom...\n"
-restore_preference $mac_os_backup_root "com.manytricks.Moom.plist"
-
-printf "Restoring OmniGraffle...\n"
-restore_preference $mac_os_backup_root "com.omnigroup.OmniGrafflePro.plist"
-
-printf "Restoring Path Finder...\n"
-restore_app_support $mac_os_backup_root "Path Finder"
-restore_preference $mac_os_backup_root "com.cocoatech.PathFinder.LSSharedFileList.plist"
-restore_preference $mac_os_backup_root "com.cocoatech.PathFinder.plist"
-
-printf "Restoring Patterns...\n"
-restore_preference $mac_os_backup_root "com.krill.Patterns.plist"
-
-printf "Restoring Paw...\n"
-restore_preference $mac_os_backup_root "com.luckymarmot.Paw.plist"
-
-printf "Restoring pgAdmin...\n"
-restore_preference $mac_os_backup_root "org.pgadmin.pgAdmin 4.plist"
-
-printf "Restoring PSequel...\n"
-restore_preference $mac_os_backup_root "com.psequel.PSequel.plist"
-
-printf "Restoring RescueTime...\n"
-restore_preference $mac_os_backup_root "com.rescuetime.RescueTime.plist"
-
-printf "Restoring Sequel Pro...\n"
-restore_preference $mac_os_backup_root "com.sequelpro.SequelPro.plist"
-
-printf "Restoring Sonos...\n"
-restore_preference $mac_os_backup_root "com.sonos.macController.plist"
-
-printf "Restoring SurfEasy VPN...\n"
-restore_preference $mac_os_backup_root "com.surfeasy.SurfEasyVPN.plist"
-
-printf "Restoring Tor Browser...\n"
-restore_preference $mac_os_backup_root "org.mozilla.tor browser.plist"
-
-printf "Restoring Trailer...\n"
-restore_preference $mac_os_backup_root "com.housetrip.Trailer.plist"
-
-printf "Restoring Transmit...\n"
-restore_preference $mac_os_backup_root "com.panic.Transmit.plist"
-
-printf "Restoring Viscosity...\n"
-restore_preference $mac_os_backup_root "com.viscosityvpn.Viscosity.plist"
-
-printf "Restoring VLC...\n"
-restore_app_support $mac_os_backup_root "org.videolan.vlc"
-restore_preference $mac_os_backup_root "org.videolan.vlc.plist"
+sudo rsync \
+  --rsync-path="sudo rsync" \
+  --perms \
+  --recursive \
+  --compress \
+  --numeric-ids \
+  --links \
+  --hard-links \
+  --files-from="$MAC_OS_CONFIG_PATH/lib/restore.bom" \
+  --log-file="log/restore.log" \
+  --human-readable \
+  --verbose \
+  "$mac_os_backup_root/" /
