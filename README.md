@@ -341,6 +341,7 @@ That's it. System-wide log rotation is setup for your projects.
 The following are additional steps, not easily automated, that are worth completing after the
 install scripts have been executed:
 
+- Lauch App Store and install all purchased software.
 - Configure System Preferences:
   - Security & Privacy:
     - General:
