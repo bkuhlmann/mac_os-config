@@ -16,7 +16,6 @@ brew install readline
 
 # OpenSSL
 brew install openssl
-brew link --force openssl
 
 # OpenSSL OSX CA
 brew tap raggi/ale
