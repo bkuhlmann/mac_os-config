@@ -32,7 +32,7 @@ rm -rf ruby_setup
 install_git_project "https://github.com/bkuhlmann/go_setup.git" $REPO_GO_SETUP "go_setup" "bin/run i"
 
 # NPM
-install_git_project "https://github.com/bkuhlmann/npm_setup.git" $REPO_NPM_SETUP "npm_setup" "./run.sh i"
+install_git_project "https://github.com/bkuhlmann/npm_setup.git" $REPO_NPM_SETUP "npm_setup" "bin/run i"
 
 # Sublime Text Setup
 if [ ! -e "/usr/bin/sublime" ]; then
