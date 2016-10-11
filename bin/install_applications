@@ -25,6 +25,9 @@ install_dmg_app "$CHROME_APP_URL" "$CHROME_VOLUME_NAME" "$CHROME_APP_NAME"
 # Cloak
 install_dmg_app "$CLOAK_APP_URL" "$CLOAK_VOLUME_NAME" "$CLOAK_APP_NAME"
 
+# Dash
+install_zip_app "$DASH_APP_URL" "$DASH_APP_NAME"
+
 # Doxie
 install_dmg_app "$DOXIE_APP_URL" "$DOXIE_VOLUME_NAME" "$DOXIE_APP_NAME"
 
