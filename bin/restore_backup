@@ -25,3 +25,6 @@ rsync \
   --human-readable \
   --verbose \
   "$mac_os_backup_root/" /
+
+sudo cp -p "$mac_os_backup_root/etc/newsyslog.d/alchemists.conf" "/etc/newsyslog.d"
+sudo cp -p "$mac_os_backup_root/etc/newsyslog.d/homebrew.conf" "/etc/newsyslog.d"

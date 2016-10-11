@@ -163,8 +163,6 @@
 # SYSTEM
 
 # newsyslog
-/etc/newsyslog.d/alchemists.conf
-/etc/newsyslog.d/homebrew.conf
 /Users/bkuhlmann/Library/LaunchAgents/com.apple.newsyslog.plist
 
 # USER
