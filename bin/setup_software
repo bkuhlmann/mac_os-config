@@ -42,5 +42,5 @@ install_git_project "https://github.com/bkuhlmann/sublime_text_setup.git" $REPO_
 
 # Dotfiles
 rm -f $HOME/.bash_profile
-install_git_project "https://github.com/bkuhlmann/dotfiles.git" $REPO_DOTFILES "dotfiles" "./run.sh i"
+install_git_project "https://github.com/bkuhlmann/dotfiles.git" $REPO_DOTFILES "dotfiles" "bin/run i"
 source $HOME/.bashrc
