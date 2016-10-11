@@ -114,6 +114,9 @@ brew install libyaml
 # lnav
 brew install lnav
 
+# Mac App Store CLI
+brew install mas
+
 # Memcached
 brew install memcached
 
