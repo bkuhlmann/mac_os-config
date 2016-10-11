@@ -19,7 +19,6 @@ project not be to your liking, feel free to fork and customize for your specific
   - [Customization](#customization)
 - [Additional Software](#additional-software)
   - [Newsyslog](#newsyslog)
-  - [Miscellaneous](#miscellaneous)
   - [Post Install](#post-install)
 - [Versioning](#versioning)
 - [Code of Conduct](#code-of-conduct)
@@ -324,16 +323,6 @@ regularly scheduled intervals. To do this create the following file:
     </plist>
 
 That's it. System-wide log rotation is setup for your projects.
-
-## Miscellaneous
-
-The following software might be of interest as well:
-
-- [Hardware IO Tools for Xcode](https://developer.apple.com/downloads) - Includes the Network Link
-  Conditioner, etc.
-- [VMWare Fusion](http://www.vmware.com/products/fusion) (requires a registered account, download
-  only)
-- [Logitech Harmony Remote](https://support.logitech.com/en_us/product/harmony-890-advanced-universal-remote)
 
 ## Post Install
 
