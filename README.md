@@ -66,6 +66,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [libffi](https://sourceware.org/libffi)
     - [libyaml](http://pyyaml.org/wiki/LibYAML)
     - [lnav](http://braumeister.org/formula/lnav)
+    - [mas](https://kapeli.com/app_store_migrate)
     - [Memcached](http://memcached.org)
     - [Mecurial](http://mercurial.selenic.com)
     - [Mosh](http://mosh.mit.edu)
@@ -237,7 +238,7 @@ Current Version (stable):
 
     git clone https://github.com/bkuhlmann/mac_os-config.git
     cd mac_os-config
-    git checkout v1.0.0
+    git checkout v1.1.0
 
 Master Version (unstable):
 
@@ -257,8 +258,9 @@ and `lib` directories. Here is a breakdown each:
 
 - `bin/apply_basic_settings`: Applies basic, initial, settings for setting up a machine.
 - `bin/apply_default_settings`: Applies useful system and application defaults.
-- `bin/install_applications`: Installs macOS, GUI-based, applications.
-- `bin/install_extensions`: Installs macOS application extensions.
+- `bin/install_app_store`: Installs macOS, GUI-based, App Store applications.
+- `bin/install_applications`: Installs macOS, GUI-based, non-App Store applications.
+- `bin/install_extensions`: Installs macOS application extensions and add-ons.
 - `bin/install_homebrew`: Installs Homebrew managed software.
 - `bin/restore_backup`: Restores system/application settings from backup image.
 - `bin/setup_software`: Configures and launches (if necessary) installed software.
@@ -334,8 +336,8 @@ install scripts have been executed:
   - Security & Privacy:
     - General:
       - Require password immediately after sleep or screen saver begins.
-      - Show contact info when screen is locked. Example: `<twitter> | <email> | <phone> | <url>`.
-      - Allow apps downloaded from App Store and identified developers.
+      - Enable message when screen is locked. Example: `<twitter> | <email> | <phone> | <url>`.
+      - Allow your Apple Watch to unlock your Mac.
     - FileVault:
       - Enable FileVault and save the recovery key in a secure location (i.e. 1Password).
     - Firewall:
@@ -356,6 +358,7 @@ install scripts have been executed:
   - Users & Groups:
     - Update avatar.
     - Remove unused login items.
+    - Disable guest account.
 
 # Versioning
 
