@@ -14,7 +14,7 @@ IFS=$'\n\t'
 export MRI=2.3.1
 
 # Repositories
-export REPO_RUBY_SETUP=v5.0.0
+export REPO_RUBY_SETUP=v6.0.0
 export REPO_GO_SETUP=v1.0.0
 export REPO_NPM_SETUP=v1.0.0
 export REPO_SUBLIME_TEXT_SETUP=v4.1.0

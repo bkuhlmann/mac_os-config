@@ -24,7 +24,7 @@ git clone https://github.com/bkuhlmann/ruby_setup.git
   cd ruby_setup
   git checkout $REPO_RUBY_SETUP
   /usr/local/bin/ruby-install "ruby-$MRI"
-  ./run.sh i
+  bin/run i
 )
 rm -rf ruby_setup
 
