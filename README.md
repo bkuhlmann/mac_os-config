@@ -18,9 +18,8 @@ project not be to your liking, feel free to fork and customize for your specific
 - [Usage](#usage)
   - [Customization](#customization)
 - [Additional Software](#additional-software)
-  - [App Store](#app-store)
-  - [Miscellaneous](#miscellaneous)
   - [Newsyslog](#newsyslog)
+  - [Miscellaneous](#miscellaneous)
   - [Post Install](#post-install)
 - [Versioning](#versioning)
 - [Code of Conduct](#code-of-conduct)
@@ -98,8 +97,48 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Watchman](https://github.com/facebook/watchman)
     - [Wry](https://github.com/hoop33/wry)
     - [Z](https://github.com/rupa/z)
-- Downloads, installs, and configures software applications generally not in the
-  [App Store](http://www.apple.com/macosx/whats-new/app-store.html):
+- Downloads, installs, and configures
+    [App Store](http://www.apple.com/macosx/whats-new/app-store.html) applications.
+    - [1Password](http://agilewebsolutions.com/products/1Password)
+    - [Acorn](https://secure.flyingmeat.com/acorn)
+    - [AquaPath](https://itunes.apple.com/us/app/aquapath/id424425207)
+    - [CCMenu](http://ccmenu.org)
+    - [Cocoa JSON Editor](http://www.cocoajsoneditor.com)
+    - [DaisyDisk](http://www.daisydiskapp.com)
+    - [Day One](http://dayoneapp.com)
+    - [Deliveries](https://junecloud.com/software/mac/deliveries.html)
+    - [Fantastical](http://flexibits.com/fantastical)
+    - [GarageBand](http://www.apple.com/ilife/garageband)
+    - [Gradient](http://www.gradientapp.com)
+    - [iMovie](http://www.apple.com/ilife/imovie)
+    - [iPhoto](http://www.apple.com/ilife/iphoto)
+    - [Kaleidoscope](http://www.kaleidoscopeapp.com)
+    - [Key Codes](https://manytricks.com/keycodes)
+    - [Keymo](http://manytricks.com/keymo)
+    - [Keynote](https://www.apple.com/keynote)
+    - [Kindle](http://www.amazon.com/gp/feature.html?docId=1000464931)
+    - [Leech](https://manytricks.com/leech)
+    - [Marked 2](http://marked2app.com)
+    - [Medis](http://getmedis.com)
+    - [MoneyWell](http://nothirst.com/moneywell)
+    - [Monosnap](https://www.monosnap.com)
+    - [Moom](http://manytricks.com/moom)
+    - [Name Mangler](http://manytricks.com/namemangler)
+    - [Numbers](https://www.apple.com/numbers)
+    - [OmniFocus](http://www.omnigroup.com/applications/omnifocus)
+    - [OmniOutliner](http://www.omnigroup.com/applications/omnioutliner)
+    - [Pages](https://www.apple.com/pages)
+    - [Patterns](http://krillapps.com/patterns)
+    - [PDFpenPro](http://www.smilesoftware.com/PDFpenPro/index.html)
+    - [Pixelmator](http://www.pixelmator.com)
+    - [Prepo](http://wearemothership.com/work/prepo)
+    - [Slack](https://slack.com)
+    - [Sip](http://sipapp.io)
+    - [Tweetbot](http://tapbots.com/tweetbot/mac)
+    - [WiFi Explorer](http://www.adriangranados.com/apps/wifi-explorer)
+    - [Witch](https://manytricks.com/witch)
+    - [xScope](http://iconfactory.com/software/xscope)
+- Downloads, installs, and configures software applications not supported within the App Store:
     - [Alfred](http://www.alfredapp.com)
     - [App Cleaner](http://www.freemacsoft.net/appcleaner)
     - [Bartender](http://www.macbartender.com)
@@ -107,6 +146,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Cheatsheet](http://www.cheatsheetapp.com/CheatSheet)
     - [Google Chrome](http://www.google.com/chrome)
     - [Cloak](https://www.getcloak.com)
+    - [Dash](http://kapeli.com/dash)
     - [Doxie](http://www.getdoxie.com)
     - [Dropbox](https://www.dropbox.com)
     - [Firefox](http://www.mozilla.com/en-US/firefox)
@@ -233,57 +273,6 @@ applications/extensions.
 
 # Additional Software
 
-## App Store
-
-I recommend installing the following software found via the [App Store](http://www.apple.com/macosx/whats-new/app-store.html):
-
-- [1Password](http://agilewebsolutions.com/products/1Password)
-- [Acorn](https://secure.flyingmeat.com/acorn)
-- [AquaPath](https://itunes.apple.com/us/app/aquapath/id424425207)
-- [CCMenu](http://ccmenu.org)
-- [Cocoa JSON Editor](http://www.cocoajsoneditor.com)
-- [ColorSnapper](http://colorsnapper.com)
-- [DaisyDisk](http://www.daisydiskapp.com)
-- [Dash](http://kapeli.com/dash)
-- [Day One](http://dayoneapp.com)
-- [Fantastical](http://flexibits.com/fantastical)
-- [GarageBand](http://www.apple.com/ilife/garageband)
-- [Gradient](http://www.gradientapp.com)
-- [iMovie](http://www.apple.com/ilife/imovie)
-- [iPhoto](http://www.apple.com/ilife/iphoto)
-- [Kaleidoscope](http://www.kaleidoscopeapp.com)
-- [Key Codes](https://manytricks.com/keycodes)
-- [Keymo](http://manytricks.com/keymo)
-- [Kindle](http://www.amazon.com/gp/feature.html?docId=1000464931)
-- [Leech](https://manytricks.com/leech)
-- [Marked 2](http://marked2app.com)
-- [Medis](http://getmedis.com)
-- [MoneyWell](http://nothirst.com/moneywell)
-- [Monosnap](https://www.monosnap.com)
-- [Moom](http://manytricks.com/moom)
-- [Name Mangler](http://manytricks.com/namemangler)
-- [OmniFocus](http://www.omnigroup.com/applications/omnifocus)
-- [OmniOutliner](http://www.omnigroup.com/applications/omnioutliner)
-- [Patterns](http://krillapps.com/patterns)
-- [PDFpenPro](http://www.smilesoftware.com/PDFpenPro/index.html)
-- [Pixelmator](http://www.pixelmator.com)
-- [Prepo](http://wearemothership.com/work/prepo)
-- [Sketch](http://bohemiancoding.com/sketch)
-- [Slack](https://slack.com)
-- [Tweetbot](http://tapbots.com/tweetbot/mac)
-- [WiFi Explorer](http://www.adriangranados.com/apps/wifi-explorer)
-- [xScope](http://iconfactory.com/software/xscope)
-
-## Miscellaneous
-
-The following software might be of interest as well:
-
-- [Hardware IO Tools for Xcode](https://developer.apple.com/downloads) - Includes the Network Link
-  Conditioner, etc.
-- [VMWare Fusion](http://www.vmware.com/products/fusion) (requires a registered account, download
-  only)
-- [Logitech Harmony Remote](https://support.logitech.com/en_us/product/harmony-890-advanced-universal-remote)
-
 ## Newsyslog
 
 Native to macOS, [newsyslog](https://www.freebsd.org/cgi/man.cgi?newsyslog.conf(5)) can be used to
@@ -335,6 +324,16 @@ regularly scheduled intervals. To do this create the following file:
     </plist>
 
 That's it. System-wide log rotation is setup for your projects.
+
+## Miscellaneous
+
+The following software might be of interest as well:
+
+- [Hardware IO Tools for Xcode](https://developer.apple.com/downloads) - Includes the Network Link
+  Conditioner, etc.
+- [VMWare Fusion](http://www.vmware.com/products/fusion) (requires a registered account, download
+  only)
+- [Logitech Harmony Remote](https://support.logitech.com/en_us/product/harmony-890-advanced-universal-remote)
 
 ## Post Install
 
