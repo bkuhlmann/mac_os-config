@@ -38,7 +38,7 @@ install_git_project "https://github.com/bkuhlmann/npm_setup.git" $REPO_NPM_SETUP
 if [ ! -e "/usr/bin/sublime" ]; then
   sudo ln -sv "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/sublime
 fi
-install_git_project "https://github.com/bkuhlmann/sublime_text_setup.git" $REPO_SUBLIME_TEXT_SETUP "sublime_text_setup" "./run.sh i"
+install_git_project "https://github.com/bkuhlmann/sublime_text_setup.git" $REPO_SUBLIME_TEXT_SETUP "sublime_text_setup" "bin/run i"
 
 # Dotfiles
 rm -f $HOME/.bash_profile
