@@ -364,8 +364,8 @@ install scripts have been executed:
 
 Read [Semantic Versioning](http://semver.org) for details. Briefly, it means:
 
-- Patch (x.y.Z) - Incremented for small, backwards compatible bug fixes.
-- Minor (x.Y.z) - Incremented for new, backwards compatible public API enhancements and/or bug fixes.
+- Patch (x.y.Z) - Incremented for small, backwards compatible, bug fixes.
+- Minor (x.Y.z) - Incremented for new, backwards compatible, public API enhancements/fixes.
 - Major (X.y.z) - Incremented for any backwards incompatible public API changes.
 
 # Code of Conduct
