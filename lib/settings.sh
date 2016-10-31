@@ -107,7 +107,7 @@ export PAW_APP_URL="https://paw.cloud/download"
 
 export PG_ADMIN_APP_NAME="pgAdmin 4.app"
 export PG_ADMIN_VOLUME_NAME="pgAdmin 4"
-export PG_ADMIN_APP_URL="https://ftp.postgresql.org/pub/pgadmin3/pgadmin4/v1.0/macos/pgadmin4-1.0.dmg"
+export PG_ADMIN_APP_URL="https://ftp.postgresql.org/pub/pgadmin3/pgadmin4/v1.1/macos/pgadmin4-1.1.dmg"
 
 export PSEQUEL_APP_NAME=PSequel.app
 export PSEQUEL_APP_URL="http://www.psequel.com/download?version=latest"
