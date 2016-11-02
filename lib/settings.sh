@@ -139,7 +139,7 @@ export TOR_BROWSER_VOLUME_NAME="Tor Browser"
 export TOR_BROWSER_APP_URL="https://www.torproject.org/dist/torbrowser/6.0.5/TorBrowser-6.0.5-osx64_en-US.dmg"
 
 export TRAILER_APP_NAME=Trailer.app
-export TRAILER_APP_URL="http://ptsochantaris.github.io/trailer/trailer150.zip"
+export TRAILER_APP_URL="http://ptsochantaris.github.io/trailer/trailer153.zip"
 
 export TRANSMIT_APP_NAME=Transmit.app
 export TRANSMIT_APP_URL="http://download.panic.com/transmit/Transmit%204.4.10.zip"
