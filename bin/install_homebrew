@@ -117,6 +117,9 @@ brew install libyaml
 # lnav
 brew install lnav
 
+# Lynis
+brew install lynis
+
 # Mac App Store CLI
 brew install mas
 
