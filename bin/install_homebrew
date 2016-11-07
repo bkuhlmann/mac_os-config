@@ -48,6 +48,9 @@ brew install diff-so-fancy
 # direnv
 brew install direnv
 
+# ExifTool
+brew install exiftool
+
 # Elasticsearch
 brew install elasticsearch
 
