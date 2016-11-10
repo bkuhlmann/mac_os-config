@@ -99,6 +99,9 @@ install_git_app "$SCSS_EXTENSION_URL" "$SCSS_EXTENSION_PATH"
 # Sublime Text - SCSS Lint
 install_git_app "$SCSS_LINT_EXTENSION_URL" "$SCSS_LINT_EXTENSION_PATH"
 
+# Sublime Text - Shellcheck
+install_git_app "$SHELLCHECK_EXTENSION_URL" "$SHELLCHECK_EXTENSION_PATH"
+
 # Sublime Text - Sidebar Enhancments
 install_git_app "$SIDEBAR_ENHANCEMENTS_EXTENSION_URL" "$SIDEBAR_ENHANCEMENTS_EXTENSION_PATH"
 
