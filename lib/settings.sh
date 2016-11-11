@@ -23,7 +23,7 @@ export REPO_DOTFILES=v23.0.0
 # Applications
 export ALFRED_APP_NAME="Alfred 3.app"
 export ALFRED_VOLUME_NAME="Alfred"
-export ALFRED_APP_URL="https://cachefly.alfredapp.com/Alfred_3.1.1_737.dmg"
+export ALFRED_APP_URL="https://cachefly.alfredapp.com/Alfred_3.2.1_768.dmg"
 
 export APP_CLEANER_APP_NAME=AppCleaner.app
 export APP_CLEANER_APP_URL="https://freemacsoft.net/downloads/AppCleaner_3.4.zip"
