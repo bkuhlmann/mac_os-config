@@ -84,6 +84,9 @@ install_git_app "$MARKDOWN_EXTENSION_URL" "$MARKDOWN_EXTENSION_PATH"
 # Sublime Text - Move Tab
 install_git_app "$MOVE_TAB_EXTENSION_URL" "$MOVE_TAB_EXTENSION_PATH"
 
+# Sublime Text - Reek
+install_git_app "$REEK_EXTENSION_URL" "$REEK_EXTENSION_PATH"
+
 # Sublime Text - Rubocop
 install_git_app "$RUBOCOP_EXTENSION_URL" "$RUBOCOP_EXTENSION_PATH"
 
