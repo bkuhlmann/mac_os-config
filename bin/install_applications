@@ -61,6 +61,9 @@ install_zip_pkg "$KSDIFF_APP_URL" "$KSDIFF_APP_NAME"
 # Marp
 install_dmg_app "$MARP_APP_URL" "$MARP_VOLUME_NAME" "$MARP_APP_NAME"
 
+# Micro Snitch
+install_zip_app "$MICRO_SNITCH_APP_URL" "$MICRO_SNITCH_APP_NAME"
+
 # OmniGraffle
 install_dmg_app "$OMNIGRAFFLE_APP_URL" "$OMNIGRAFFLE_VOLUME_NAME" "$OMNIGRAFFLE_APP_NAME"
 

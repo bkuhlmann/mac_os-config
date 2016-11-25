@@ -87,6 +87,9 @@ export MARP_APP_NAME="Marp.app"
 export MARP_VOLUME_NAME="Marp"
 export MARP_APP_URL="https://github.com/yhatt/marp/releases/download/v0.0.8/0.0.8-Marp-darwin-x64.dmg"
 
+export MICRO_SNITCH_APP_NAME="Micro Snitch.app"
+export MICRO_SNITCH_APP_URL="https://www.obdev.at/downloads/MicroSnitch/MicroSnitch-1.2.zip"
+
 export OMNIGRAFFLE_APP_NAME="OmniGraffle Professional 5.app"
 export OMNIGRAFFLE_VOLUME_NAME="OmniGrafflePro"
 export OMNIGRAFFLE_APP_URL="http://downloads2.omnigroup.com/software/MacOSX/10.6/OmniGrafflePro-5.4.4.dmg"
