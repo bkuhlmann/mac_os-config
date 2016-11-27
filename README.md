@@ -190,7 +190,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Sublime Text 3 CTags](https://github.com/SublimeText/CTags)
     - [Sublime Text 3 DashDoc](https://github.com/farcaller/DashDoc)
     - [Sublime Text 3 Easy Motion](https://github.com/tednaleid/sublime-EasyMotion)
-    - [Sublime Text 3 Elm](https://github.com/deadfoxygrandpa/Elm.tmLanguage)
+    - [Sublime Text 3 Elm](https://github.com/elm-community/Elm.tmLanguage)
     - [Sublime Text 3 Emmet](http://emmet.io)
     - [Sublime Text 3 Emmet LiveStyle](http://livestyle.emmet.io)
     - [Sublime Text 3 Gist](https://github.com/condemil/Gist)
