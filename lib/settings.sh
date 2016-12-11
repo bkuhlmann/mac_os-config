@@ -85,7 +85,7 @@ export KSDIFF_APP_URL="https://updates.blackpixel.com/latest?app=ksdiff"
 
 export MARP_APP_NAME="Marp.app"
 export MARP_VOLUME_NAME="Marp"
-export MARP_APP_URL="https://github.com/yhatt/marp/releases/download/v0.0.8/0.0.8-Marp-darwin-x64.dmg"
+export MARP_APP_URL="https://github.com/yhatt/marp/releases/download/v0.0.10/0.0.10-Marp-darwin-x64.dmg"
 
 export MICRO_SNITCH_APP_NAME="Micro Snitch.app"
 export MICRO_SNITCH_APP_URL="https://www.obdev.at/downloads/MicroSnitch/MicroSnitch-1.2.zip"
