@@ -43,7 +43,7 @@ export CHROME_APP_URL="https://dl.google.com/chrome/mac/stable/GGRM/googlechrome
 
 export CLOAK_APP_NAME=Cloak.app
 export CLOAK_VOLUME_NAME="Cloak"
-export CLOAK_APP_URL="https://static.getcloak.com/downloads/osx/updates/Release/Cloak-2.1.0.dmg"
+export CLOAK_APP_URL="https://static.getcloak.com/downloads/osx/updates/Release/Cloak-2.1.2.dmg"
 
 export DASH_APP_NAME=Dash.app
 export DASH_APP_URL="https://sanfrancisco.kapeli.com/downloads/v3/Dash.zip"
