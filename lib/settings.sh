@@ -32,7 +32,7 @@ export BARTENDER_APP_NAME="Bartender 2.app"
 export BARTENDER_APP_URL="http://www.macbartender.com/Demo/Bartender%202.zip"
 
 export CARBON_COPY_CLONER_APP_NAME="Carbon Copy Cloner.app"
-export CARBON_COPY_CLONER_APP_URL="https://bombich.scdn1.secure.raxcdn.com/software/files/ccc-4.1.10.4428.zip"
+export CARBON_COPY_CLONER_APP_URL="https://bombich.scdn1.secure.raxcdn.com/software/files/ccc-4.1.12.4485.zip"
 
 export CHEATSHEET_APP_NAME=CheatSheet.app
 export CHEATSHEET_APP_URL="https://www.cheatsheetapp.com/CheatSheet/download.php"
