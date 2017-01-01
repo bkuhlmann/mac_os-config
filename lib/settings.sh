@@ -58,7 +58,7 @@ export DROPBOX_APP_URL="https://www.dropbox.com/download?src=index&plat=mac"
 
 export FIREFOX_APP_NAME=Firefox.app
 export FIREFOX_VOLUME_NAME="Firefox"
-export FIREFOX_APP_URL="https://download.mozilla.org/?product=firefox-49.0.1-SSL&os=osx&lang=en-US"
+export FIREFOX_APP_URL="https://download.mozilla.org/?product=firefox-50.1.0-SSL&os=osx&lang=en-US"
 
 export HAND_BRAKE_APP_NAME="HandBrake.app"
 export HAND_BRAKE_VOLUME_NAME="HandBrake-1.0.1"
