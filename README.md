@@ -44,6 +44,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [CTags](http://ctags.sourceforge.net)
     - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
     - [direnv](http://direnv.net)
+    - [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/index.html)
     - [Elasticsearch](https://www.elastic.co/products/elasticsearch)
     - [Elm](http://elm-lang.org)
     - [FFmpeg](http://ffmpeg.org)
@@ -66,6 +67,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [libffi](https://sourceware.org/libffi)
     - [libyaml](http://pyyaml.org/wiki/LibYAML)
     - [lnav](http://braumeister.org/formula/lnav)
+    - [Lynis](https://github.com/CISOfy/lynis)
     - [mas](https://kapeli.com/app_store_migrate)
     - [Memcached](http://memcached.org)
     - [Mecurial](http://mercurial.selenic.com)
@@ -93,9 +95,11 @@ project not be to your liking, feel free to fork and customize for your specific
     - [tmux](http://tmux.sourceforge.net)
     - [Reattach to User Namespace](https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard)
     - [Tree](http://mama.indstate.edu/users/ice/tree)
+    - [Unused](https://unused.codes)
     - [Vim](http://www.vim.org)
     - [Watchman](https://github.com/facebook/watchman)
     - [Wry](https://github.com/hoop33/wry)
+    - [Yarn](https://yarnpkg.com)
     - [Z](https://github.com/rupa/z)
 - Downloads, installs, and configures
     [App Store](http://www.apple.com/macosx/whats-new/app-store.html) applications.
@@ -158,6 +162,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Knox](https://agilebits.com/knox)
     - [ksdiff](http://www.kaleidoscopeapp.com/ksdiff2)
     - [Marp](https://yhatt.github.io/marp)
+    - [Micro Snitch](https://www.obdev.at/products/microsnitch/index.html)
     - [OmniGraffle](http://www.omnigroup.com/applications/omnigraffle)
     - [OpenOffice](http://www.openoffice.org)
     - [Opera](http://www.opera.com)
@@ -204,11 +209,13 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Sublime Text 3 Local History](https://github.com/vishr/local-history)
     - [Sublime Text 3 Markdown Extended](https://github.com/jonschlinkert/sublime-markdown-extended)
     - [Sublime Text 3 Move Tab](https://github.com/SublimeText/MoveTab)
+    - [Sublime Text 3 Reek Linter](https://github.com/codequest-eu/SublimeLinter-contrib-reek)
     - [Sublime Text 3 Rubocop](https://github.com/pderichs/sublime_rubocop)
     - [Sublime Text 3 Ruby Extract Method](https://github.com/pashamur/ruby-extract-method)
     - [Sublime Text 3 Ruby Slim](https://github.com/slim-template/ruby-slim.tmbundle)
     - [Sublime Text 3 SCSS](https://github.com/MarioRicalde/SCSS.tmbundle/tree/SublimeText2)
     - [Sublime Text 3 SCSS Lint](https://github.com/attenzione/SublimeLinter-scss-lint)
+    - [Sublime Text 3 Shellcheck](https://github.com/SublimeLinter/SublimeLinter-shellcheck)
     - [Sublime Text 3 Sidebar Enhancements](https://github.com/titoBouzout/SideBarEnhancements)
     - [Sublime Text 3 Table Editor](https://github.com/vkocubinsky/SublimeTableEditor)
     - [Sublime Text 3 Trailing Spaces](https://github.com/SublimeText/TrailingSpaces)
@@ -238,7 +245,7 @@ Current Version (stable):
 
     git clone https://github.com/bkuhlmann/mac_os-config.git
     cd mac_os-config
-    git checkout v1.1.0
+    git checkout v1.2.0
 
 Master Version (unstable):
 
