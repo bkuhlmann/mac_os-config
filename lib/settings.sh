@@ -17,7 +17,7 @@ export MRI=2.4.0
 export REPO_RUBY_SETUP=v6.0.0
 export REPO_GO_SETUP=v2.0.0
 export REPO_NPM_SETUP=v2.0.0
-export REPO_SUBLIME_TEXT_SETUP=v5.0.0
+export REPO_SUBLIME_TEXT_SETUP=v6.0.0
 export REPO_DOTFILES=v24.2.0
 
 # Applications
