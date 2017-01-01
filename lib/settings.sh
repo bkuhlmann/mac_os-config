@@ -29,7 +29,7 @@ export APP_CLEANER_APP_NAME=AppCleaner.app
 export APP_CLEANER_APP_URL="https://freemacsoft.net/downloads/AppCleaner_3.4.zip"
 
 export BARTENDER_APP_NAME="Bartender 2.app"
-export BARTENDER_APP_URL="http://www.macbartender.com/Demo/Bartender%202.zip"
+export BARTENDER_APP_URL="https://www.macbartender.com/Demo/Bartender%202.zip"
 
 export CARBON_COPY_CLONER_APP_NAME="Carbon Copy Cloner.app"
 export CARBON_COPY_CLONER_APP_URL="https://bombich.scdn1.secure.raxcdn.com/software/files/ccc-4.1.12.4485.zip"
