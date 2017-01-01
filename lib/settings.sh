@@ -61,8 +61,8 @@ export FIREFOX_VOLUME_NAME="Firefox"
 export FIREFOX_APP_URL="https://download.mozilla.org/?product=firefox-49.0.1-SSL&os=osx&lang=en-US"
 
 export HAND_BRAKE_APP_NAME="HandBrake.app"
-export HAND_BRAKE_VOLUME_NAME="HandBrake-0.10.5-MacOSX.6_GUI_x86_64"
-export HAND_BRAKE_APP_URL="http://handbrake.fr/rotation.php?file=HandBrake-0.10.5-MacOSX.6_GUI_x86_64.dmg"
+export HAND_BRAKE_VOLUME_NAME="HandBrake-1.0.1"
+export HAND_BRAKE_APP_URL="https://handbrake.fr/mirror/HandBrake-1.0.1.dmg"
 
 export HAZEL_APP_NAME="Install Hazel.app"
 export HAZEL_VOLUME_NAME="Hazel"
