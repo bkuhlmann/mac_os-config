@@ -151,6 +151,9 @@ export VISCOSITY_APP_NAME="Viscosity.app"
 export VISCOSITY_VOLUME_NAME="Viscosity"
 export VISCOSITY_APP_URL="https://www.sparklabs.com/downloads/Viscosity.dmg"
 
+export VISUAL_STUDIO_CODE_APP_NAME="Visual Studio Code.app"
+export VISUAL_STUDIO_CODE_APP_URL="https://go.microsoft.com/fwlink/?LinkID=620882"
+
 export VIVALDI_APP_NAME=Vivaldi.app
 export VIVALDI_VOLUME_NAME="Vivaldi 1.4.589.34"
 export VIVALDI_APP_URL="https://downloads.vivaldi.com/stable/Vivaldi.1.4.589.34.dmg"

@@ -115,6 +115,9 @@ install_zip_app "$TRANSMIT_APP_URL" "$TRANSMIT_APP_NAME"
 # Viscosity
 install_dmg_app "$VISCOSITY_APP_URL" "$VISCOSITY_VOLUME_NAME" "$VISCOSITY_APP_NAME"
 
+# Visual Studio Code
+install_zip_app "$VISUAL_STUDIO_CODE_APP_URL" "$VISUAL_STUDIO_CODE_APP_NAME"
+
 # Vivaldi
 install_dmg_app "$VIVALDI_APP_URL" "$VIVALDI_VOLUME_NAME" "$VIVALDI_APP_NAME"
 
