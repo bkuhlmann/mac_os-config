@@ -10,207 +10,302 @@ if ! command -v brew > /dev/null; then
   export PATH="/usr/local/bin:$PATH"
   printf "export PATH=\"/usr/local/bin:$PATH\"\n" >> $HOME/.bash_profile
 fi
-
-# Readline
-brew install readline
-
-# OpenSSL
-brew install openssl
-
-# OpenSSL OSX CA
-brew tap raggi/ale
-brew install openssl-osx-ca
-
-# asciinema
+brew install ack
 brew install asciinema
-
-# Bash
 brew install bash
-
-# Bash Completion
 brew install bash-completion
-
-# chruby
-brew install chruby
-
-# cloc
-brew install cloc
-
-# Colorized Cat
+brew install brew cask install qlstephen
+brew install brew tap joshuaclayton/formulae
+brew install brew tap raggi/ale
+brew install cabextract
 brew install ccat
-
-# CTags
+brew install chruby
+brew install cloc
+brew install cmake
+brew install colordiff
+brew install composer
+brew install crystal-lang --with-llvm
+brew install cscope
 brew install ctags
-
-# Diff So Fancy
+brew install curl
 brew install diff-so-fancy
-
-# direnv
 brew install direnv
-
-# ExifTool
-brew install exiftool
-
-# Elasticsearch
+brew install drupal-code-sniffer
+brew install drush
 brew install elasticsearch
-
-# Elm
 brew install elm
-
-# FFmpeg
+brew install exiftool
 brew install ffmpeg
-
-# FLAC
 brew install flac
-
-# FZF
+brew install fontconfig
+brew install fortune
+brew install freetype
 brew install fzf
-
-# GDBM
+brew install gd
 brew install gdbm
-
-# Gifsicle
+brew install ghc
 brew install gifsicle
-
-# Git
 brew install git
-
-# Go
+brew install gmp
+brew install gnutls
 brew install go
-
-# GPG
 brew install gpg
-
-# GPG Agent
 brew install gpg-agent
-
-# Graphviz
 brew install graphviz
-
-# hr
-brew install hr
-
-# Htop
-brew install htop
-
-# HTTPie
-brew install httpie
-
-# ImageMagick
-brew install imagemagick
-
-# Ioping
-brew install ioping
-
-# JSON CLI Parser
-brew install jq
-
-# Keybase
-brew install keybase
-
-# libffi
-brew install libffi
-
-# libyaml
-brew install libyaml
-
-# lnav
-brew install lnav
-
-# Lynis
-brew install lynis
-
-# Mac App Store CLI
-brew install mas
-
-# Memcached
-brew install memcached
-
-# Mercurial
+brew install handbrake
 brew install hg
-
-# Mosh
+brew install homebrew/dupes/
+brew install homebrew/dupes/diffutils
+brew install homebrew/dupes/grep
+brew install homebrew/dupes/less
+brew install homebrew/dupes/nano
+brew install hr
+brew install htop
+brew install httpie
+brew install hub
+brew install iftop
+brew install imagemagick
+brew install io
+brew install ioping
+brew install jasper
+brew install jpeg
+brew install jq
+brew install keybase
+brew install lame
+brew install legit
+brew install leiningen
+brew install lesspipe --syntax-highlighting
+brew install lftp
+brew install libevent
+brew install libffi
+brew install libgphoto2
+brew install libicns
+brew install libpng
+brew install libtasn1
+brew install libtiff
+brew install libtool
+brew install libusb
+brew install libusb-compat
+brew install libxml2
+brew install libxslt
+brew install libyaml
+brew install little-cms2
+brew install lnav
+brew install lynis
+brew install mackup
+brew install macvim
+brew install makedepend
+brew install mas
+brew install maven
+brew install memcached
+brew install midnight-commander
 brew install mobile-shell
-
-# Namebench
+brew install mtr
 brew install namebench
-
-# Network Grep
-brew install ngrep
-
-# Nginx
+brew install ncftp
+brew install net-snmp
+brew install nettle
 brew install nginx
-
-# Node
+brew install ngrep
+brew install nmap
 brew install node
-
-# Parallel
+brew install nspr
+brew install ocaml
+brew install openssl
+brew install openssl-osx-ca
+brew install p11-kit
+brew install p7zip
 brew install parallel
-
-# Peco
 brew install peco
-
-# pgcli
 brew install pgcli
-
-# Phantom.js
 brew install phantomjs
-
-# Pigz
+brew install php56
+brew install php56-igbinary
+brew install php56-memcached
+brew install pidof
 brew install pigz
-
-# Pipe Viewer
-brew install pv
-
-# PostgreSQL
+brew install pkg-config
+brew install plt-racket
 brew install postgresql
-
-# QuickLook - Plain Text
-brew cask install qlstephen
-
-# Redis
-brew install redis
-
-# Ruby Install
-brew install ruby-install
-
-# Rust
-brew install rust
-
-# ShellCheck
-brew install shellcheck
-
-# Tag
-brew install tag
-
-# Terminal Notifier
-brew install terminal-notifier
-
-# The Silver Searcher
-brew install the_silver_searcher
-
-# tmux
-brew install tmux
+brew install pstree
+brew install pv
+brew install python
+brew install qt
+brew install qt5
+brew install rakudo-star
+brew install readline
 brew install reattach-to-user-namespace
-
-# Tree
+brew install redis
+brew install rsnapshot
+brew install ruby-install
+brew install rust
+brew install sane-backends
+brew install scala
+brew install shellcheck
+brew install siege
+brew install spidermonkey
+brew install spring-roo
+brew install sqlite
+brew install ssh-copy-id
+brew install subversion
+brew install tag
+brew install tcpflow
+brew install terminal-notifier
+brew install terminus
+brew install the_silver_searcher
+brew install thefuck
+brew install tmate
+brew install tmux
+brew install tomcat
 brew install tree
-
-# Unused
-brew tap joshuaclayton/formulae
+brew install unrar
 brew install unused
-
-# Vim
 brew install vim
-
-# Watchman
 brew install watchman
-
-# Wry
+brew install webkit2png
+brew install webp
+brew install wget
+brew install wget
+brew install wine
+brew install winetricks
+brew install wireshark --with-qt
 brew install wry
-
-# Yarn
+brew install x264
+brew install xvid
 brew install yarn
-
-# Z
+brew install youtube-dl
 brew install z
+
+# Casks
+brew cask install acquia-dev-desktop
+brew cask install adobe-creative-cloud
+brew cask install adobe-photoshop-cc
+brew cask install airserver
+brew cask install amazon-drive
+brew cask install amazon-music
+brew cask install ansible
+brew cask install astropad
+brew cask install atom
+brew cask install audio-hijack
+brew cask install aurora
+brew cask install backblaze
+brew cask install balsamiq-mockups
+brew cask install bartender
+brew cask install bbedit
+brew cask install better-window-manager
+brew cask install bettertouchtool
+brew cask install betterzipql
+brew cask install beyond-compare
+brew cask install calibre
+brew cask install cert-quicklook
+brew cask install chromium
+brew cask install chronosync
+brew cask install coda
+brew cask install crashplan
+brew cask install ctivo
+brew cask install datagrip
+brew cask install deeper
+brew cask install default-folder-x
+brew cask install disk-inventory-x
+brew cask install docker
+brew cask install docker-toolbox
+brew cask install drobo-dashboard
+brew cask install dropbox
+brew cask install enscript
+brew cask install etcher
+brew cask install factor
+brew cask install ffmpegx
+brew cask install fiddler
+brew cask install filezilla
+brew cask install firefox
+brew cask install flux
+brew cask install font-source-code-pro
+brew cask install geektool
+brew cask install github-desktop
+brew cask install google-chrome
+brew cask install google-drive
+brew cask install google-nik-collection
+brew cask install google-photos-backup
+brew cask install gpgtools
+brew cask install handbrake
+brew cask install handbrakebatch
+brew cask install handbrakecli (!)
+brew cask install hazel
+brew cask install istat-menus
+brew cask install iterm2
+brew cask install java6
+brew cask install karabiner
+brew cask install keka
+brew cask install keyboard-maestro
+brew cask install kimono
+brew cask install kindle
+brew cask install lastpass
+brew cask install lingon-x
+brew cask install little-flocker
+brew cask install little-snitch
+brew cask install logitech-harmony
+brew cask install logitech-unifying
+brew cask install macupdate-desktop
+brew cask install makemkv
+brew cask install mame
+brew cask install micro-snitch
+brew cask install microsoft-office
+brew cask install mono-mdk
+brew cask install moom
+brew cask install mountain
+brew cask install mysqlworkbench
+brew cask install namechanger
+brew cask install neofinder
+brew cask install omnifocus
+brew cask install opera
+brew cask install owncloud
+brew cask install paragon-extfs
+brew cask install paragon-ntfs
+brew cask install paragon-vmdk-mounter
+brew cask install parallels-desktop
+brew cask install path-finder
+brew cask install pdfpenpro
+brew cask install phpstorm
+brew cask install plex-home-theater (!)
+brew cask install plex-media-player
+brew cask install plex-media-server
+brew cask install powershell
+brew cask install private-internet-access
+brew cask install qlcolorcode
+brew cask install qlmarkdown
+brew cask install qlprettypatch
+brew cask install qlstephen
+brew cask install quicklook-csv
+brew cask install quicklook-json
+brew cask install remote-desktop-manager
+brew cask install ringcentral
+brew cask install Caskroom/cask/scansnap-manager
+brew cask install Caskroom/cask/scansnap-manager-s1100
+brew cask install scansnap-manager-ix500
+brew cask install Caskroom/cask/scansnap-manager-ix500
+brew cask install screaming-frog-seo-spider
+brew cask install scrivener
+brew cask install skype
+brew cask install slingplayer-desktop
+brew cask install soundflower
+brew cask install soundnode
+brew cask install sourcetree
+brew cask install spyder
+brew cask install sts
+brew cask install subler
+brew cask install sublercli
+brew cask install sublime-text3
+brew cask install superduper
+brew cask install supersync
+brew cask install teamviewer
+brew cask install textexpander
+brew cask install transmission
+brew cask install tunnelblick
+brew cask install virtualbox
+brew cask install visual-studio-code
+brew cask install vlc
+brew cask install wireshark
+brew cask install xquartz
+brew cask install zend-studio
+brew cask install zoomus
+brew cask install alfred
