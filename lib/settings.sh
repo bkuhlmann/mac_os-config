@@ -25,48 +25,11 @@ export ALFRED_APP_NAME="Alfred 3.app"
 export ALFRED_VOLUME_NAME="Alfred"
 export ALFRED_APP_URL="https://cachefly.alfredapp.com/Alfred_3.2.1_768.dmg"
 
-export APP_CLEANER_APP_NAME=AppCleaner.app
-export APP_CLEANER_APP_URL="https://freemacsoft.net/downloads/AppCleaner_3.4.zip"
-
-export BARTENDER_APP_NAME="Bartender 2.app"
-export BARTENDER_APP_URL="https://www.macbartender.com/Demo/Bartender%202.zip"
-
-export CARBON_COPY_CLONER_APP_NAME="Carbon Copy Cloner.app"
-export CARBON_COPY_CLONER_APP_URL="https://bombich.scdn1.secure.raxcdn.com/software/files/ccc-4.1.12.4485.zip"
-
 export CHEATSHEET_APP_NAME=CheatSheet.app
 export CHEATSHEET_APP_URL="https://www.cheatsheetapp.com/CheatSheet/download.php"
 
-export CHROME_APP_NAME="Google Chrome.app"
-export CHROME_VOLUME_NAME="Google Chrome"
-export CHROME_APP_URL="https://dl.google.com/chrome/mac/stable/GGRM/googlechrome.dmg"
-
-export CLOAK_APP_NAME=Cloak.app
-export CLOAK_VOLUME_NAME="Cloak"
-export CLOAK_APP_URL="https://static.getcloak.com/downloads/osx/updates/Release/Cloak-2.1.2.dmg"
-
-export DASH_APP_NAME=Dash.app
-export DASH_APP_URL="https://sanfrancisco.kapeli.com/downloads/v3/Dash.zip"
-
-export DOXIE_APP_NAME=Doxie.app
-export DOXIE_VOLUME_NAME="Doxie"
-export DOXIE_APP_URL="http://www.getdoxie.com/resources/files/download_current_mac.php"
-
-export DROPBOX_APP_NAME=Dropbox.app
-export DROPBOX_VOLUME_NAME="Dropbox Installer"
-export DROPBOX_APP_URL="https://www.dropbox.com/download?src=index&plat=mac"
-
-export FIREFOX_APP_NAME=Firefox.app
-export FIREFOX_VOLUME_NAME="Firefox"
-export FIREFOX_APP_URL="https://download.mozilla.org/?product=firefox-50.1.0-SSL&os=osx&lang=en-US"
-
-export HAND_BRAKE_APP_NAME="HandBrake.app"
-export HAND_BRAKE_VOLUME_NAME="HandBrake-1.0.1"
-export HAND_BRAKE_APP_URL="https://handbrake.fr/mirror/HandBrake-1.0.1.dmg"
-
-export HAZEL_APP_NAME="Install Hazel.app"
-export HAZEL_VOLUME_NAME="Hazel"
-export HAZEL_APP_URL="http://www.noodlesoft.com/Products/Hazel/download"
+export DASHCAMVIEWER_APP_NAME=DashCamViewer.app
+export DASHCAMVIEWER_APP_URL="https://dl.dropboxusercontent.com/u/25150850/Dashcam_Viewer_v2.5.7.dmg"
 
 export IMAGE_OPTIM_APP_NAME=ImageOptim.app
 export IMAGE_OPTIM_APP_URL="http://imageoptim.com/ImageOptim.tbz2"

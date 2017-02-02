@@ -10,7 +10,7 @@ if ! command -v mas > /dev/null; then
   printf "       Please ensure Homebrew and mas (i.e. brew install mas) have been installed first."
   exit 1
 fi
-mas install 937984704  # Anphetamine (3.0.2)
+mas install 937984704  # Amphetamine (3.0.2)
 mas install 408981426  # Aperture (3.6)
 mas install 668841348  # Authy Bluetooth (1.3)
 mas install 427475982  # BreakTime (2.5.2)
@@ -43,6 +43,7 @@ mas install 715768417  # Microsoft Remote Desktop (8.0.27246)
 mas install 992076693  # MindNode (2.4.5)
 mas install 969978718  # Noiseless (1.3.2)
 mas install 409203825  # Numbers (4.0.5)
+mas install 429449079  # Patterns
 mas install 409201541  # Pages (6.0.5)
 mas install 451907568  # Paprika Recipe Manager (2.2.0)
 mas install 463362050  # PhotoSweeper (2.2.6)
