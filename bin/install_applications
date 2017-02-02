@@ -7,44 +7,11 @@
 # Alfred
 install_dmg_app "$ALFRED_APP_URL" "$ALFRED_VOLUME_NAME" "$ALFRED_APP_NAME"
 
-# App Cleaner
-install_zip_app "$APP_CLEANER_APP_URL" "$APP_CLEANER_APP_NAME"
-
-# Bartender
-install_zip_app "$BARTENDER_APP_URL" "$BARTENDER_APP_NAME"
-
-# Carbon Copy Cloner
-install_zip_app "$CARBON_COPY_CLONER_APP_URL" "$CARBON_COPY_CLONER_APP_NAME"
-
 # CheatSheet
 install_zip_app "$CHEATSHEET_APP_URL" "$CHEATSHEET_APP_NAME"
 
-# Google Chrome
-install_dmg_app "$CHROME_APP_URL" "$CHROME_VOLUME_NAME" "$CHROME_APP_NAME"
-
-# Cloak
-install_dmg_app "$CLOAK_APP_URL" "$CLOAK_VOLUME_NAME" "$CLOAK_APP_NAME"
-
-# Dash
-install_zip_app "$DASH_APP_URL" "$DASH_APP_NAME"
-
-# Doxie
-install_dmg_app "$DOXIE_APP_URL" "$DOXIE_VOLUME_NAME" "$DOXIE_APP_NAME"
-
-# Dropbox
-install_dmg_app "$DROPBOX_APP_URL" "$DROPBOX_VOLUME_NAME" "$DROPBOX_APP_NAME"
-
-# Firefox
-install_dmg_app "$FIREFOX_APP_URL" "$FIREFOX_VOLUME_NAME" "$FIREFOX_APP_NAME"
-
-# HandBrake
-install_dmg_app "$HAND_BRAKE_APP_URL" "$HAND_BRAKE_VOLUME_NAME" "$HAND_BRAKE_APP_NAME"
-
-# Hazel
-install_dmg_app "$HAZEL_APP_URL" "$HAZEL_VOLUME_NAME" "$HAZEL_APP_NAME"
-
-# ImageOptim
-install_tar_app "$IMAGE_OPTIM_APP_URL" "$IMAGE_OPTIM_APP_NAME" "-xjf"
+# DashCamViewer
+install_dmg_app "$DASHCAMVIEWER_APP_URL" "$DASHCAMVIEWER_APP_NAME"
 
 # iStat Menus
 install_zip_app "$ISTATS_APP_URL" "$ISTATS_APP_NAME"
@@ -114,6 +81,9 @@ install_zip_app "$TRANSMIT_APP_URL" "$TRANSMIT_APP_NAME"
 
 # Viscosity
 install_dmg_app "$VISCOSITY_APP_URL" "$VISCOSITY_VOLUME_NAME" "$VISCOSITY_APP_NAME"
+
+# Visual Studio Code
+install_zip_app "$VISUAL_STUDIO_CODE_APP_URL" "$VISUAL_STUDIO_CODE_APP_NAME"
 
 # Vivaldi
 install_dmg_app "$VIVALDI_APP_URL" "$VIVALDI_VOLUME_NAME" "$VIVALDI_APP_NAME"

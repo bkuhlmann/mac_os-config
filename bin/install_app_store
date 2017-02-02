@@ -10,120 +10,59 @@ if ! command -v mas > /dev/null; then
   printf "       Please ensure Homebrew and mas (i.e. brew install mas) have been installed first."
   exit 1
 fi
-
-# 1Password
-mas install 443987910
-
-# Acorn
-mas install 1019272813
-
-# AquaPath
-mas install 424425207
-
-# CCMenu
-mas install 603117688
-
-# Cocoa JSON Editor
-mas install 442160773
-
-# DaisyDisk
-mas install 411643860
-
-# Day One
-mas install 1055511498
-
-# Deliveries
-mas install 924726344
-
-# Fantastical
-mas install 975937182
-
-# GarageBand
-mas install 682658836
-
-# Gradient
-mas install 481981128
-
-# iMovie
-mas install 408981434
-
-# iPhoto
-mas install 408981381
-
-# Kaleidoscope
-mas install 587512244
-
-# Key Codes
-mas install 414568915
-
-# Keymo
-mas install 449863619
-
-# Keynote
-mas install 409183694
-
-# Kindle
-mas install 405399194
-
-# Leech
-mas install 1101735327
-
-# Marked 2
-mas install 890031187
-
-# Medis
-mas install 1063631769
-
-# MoneyWell
-mas install 404246493
-
-# Monosnap
-mas install 540348655
-
-# Moom
-mas install 419330170
-
-# Name Mangler
-mas install 603637384
-
-# Numbers
-mas install 409203825
-
-# OmniFocus
-mas install 867299399
-
-# OmniOutliner
-mas install 404478020
-
-# Pages
-mas install 409201541
-
-# Patterns
-mas install 429449079
-
-# PDFpenPro
-mas install 403758325
-
-# Pixelmator
-mas install 407963104
-
-# Prepo
-mas install 476533227
-
-# Slack
-mas install 803453959
-
-# Sip
-mas install 507257563
-
-# Tweetbot
-mas install 557168941
-
-# WiFi Explorer
-mas install 494803304
-
-# Witch
-mas install 412485838
-
-# xScope
-mas install 447661441
+mas install 937984704  # Amphetamine (3.0.2)
+mas install 408981426  # Aperture (3.6)
+mas install 668841348  # Authy Bluetooth (1.3)
+mas install 427475982  # BreakTime (2.5.2)
+mas install 420212497  # Byword (2.8)
+mas install 411246225  # Caffeine (1.1.1)
+mas install 686910553  # Daily (1.8.0)
+mas install 411643860  # DaisyDisk (4.3.2)
+mas install 430173763  # Degrees (4.2.1)
+mas install 924726344  # Deliveries (3.0.1)
+mas install 549083868  # Display Menu (2.2.2)
+mas install 686428787  # Duplicate Detective (1.98)
+mas install 1056077392  # DxOOpticsProForPhotos (1.4.0)
+mas install 406056744  # Evernote (6.10)
+mas install 435003921  # Fantastical (1.3.19)
+mas install 446994638  # FastScripts (2.6.11)
+mas install 905384638  # FileBot (4.7.7)
+mas install 406351403  # Fresh (2.8.0)
+mas install 671736912  # FruitJuice (2.3.2)
+mas install 1094748271  # FullContact (1.11.1)
+mas install 682658836  # GarageBand (10.1.5)
+mas install 467939042  # Growl (2.1.3)
+mas install 731062389  # iFlicks 2 (2.4.7)
+mas install 999997712  # iHeartRadio (1.0.8)
+mas install 404167677  # IP Scanner Pro (3.53)
+mas install 409183694  # Keynote (7.0.5)
+mas install 926036361  # LastPass (3.18.0)
+mas install 985958984  # Lynda.com (1.3.5)
+mas install 430255202  # Mactracker (7.6.3)
+mas install 715768417  # Microsoft Remote Desktop (8.0.27246)
+mas install 992076693  # MindNode (2.4.5)
+mas install 969978718  # Noiseless (1.3.2)
+mas install 409203825  # Numbers (4.0.5)
+mas install 429449079  # Patterns
+mas install 409201541  # Pages (6.0.5)
+mas install 451907568  # Paprika Recipe Manager (2.2.0)
+mas install 463362050  # PhotoSweeper (2.2.6)
+mas install 568494494  # Pocket (1.6.2)
+mas install 445189367  # PopClip (1.5.6)
+mas install 572716744  # Reditr (3.0.1)
+mas install 409907375  # Remote Desktop (3.8)
+mas install 897118787  # Shazam (1.2.2)
+mas install 425955336  # Skitch (2.8)
+mas install 803453959  # Slack (2.4.1)
+mas install 747648890  # Telegram (2.30)
+mas install 572491815  # Textastic (3.3)
+mas install 942305623  # Thessa (1.4)
+mas install 929285034  # Tumblr (1.0.1)
+mas install 557168941  # Tweetbot (2.4.6)
+mas install 485812721  # TweetDeck (3.9.889)
+mas install 409789998  # Twitter (4.2.4)
+mas install 597887722  # VisualGrep (1.2.8)
+mas install 533696630  # Webcam Settings (2.3)
+mas install 570644822  # WebCode (1.2)
+mas install 494803304  # WiFi Explorer (2.2)
+mas install 497799835  # Xcode (8.2.1)
