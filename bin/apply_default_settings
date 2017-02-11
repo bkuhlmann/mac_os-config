@@ -212,3 +212,92 @@ defaults write com.apple.appstore WebKitDeveloperExtras -bool true
 
 printf "App Store - Enable Debug Menu in the Mac App Store\n"
 defaults write com.apple.appstore ShowDebugMenu -bool true
+
+printf "CCMenu - Add open source projects\n"
+defaults write net.sourceforge.cruisecontrol.CCMenu Projects '
+(
+  {
+    projectName = "bkuhlmann/auther";
+    serverUrl = "https://api.travis-ci.org/repos/bkuhlmann/auther/cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/db";
+    serverUrl = "https://api.travis-ci.org/repos/bkuhlmann/db/cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/flacsmith";
+    serverUrl = "https://api.travis-ci.org/repos/bkuhlmann/flacsmith/cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/gemsmith";
+    serverUrl = "https://api.travis-ci.org/repos/bkuhlmann/gemsmith/cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/lineage";
+    serverUrl = "https://api.travis-ci.org/repos/bkuhlmann/lineage/cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/linguist";
+    serverUrl = "https://api.travis-ci.org/repos/bkuhlmann/linguist/cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/milestoner";
+    serverUrl = "https://api.travis-ci.org/repos/bkuhlmann/milestoner/cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/navigator";
+    serverUrl = "https://api.travis-ci.org/repos/bkuhlmann/navigator/cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/pennyworth";
+    serverUrl = "https://api.travis-ci.org/repos/bkuhlmann/pennyworth/cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/pragmater";
+    serverUrl = "https://api.travis-ci.org/repos/bkuhlmann/pragmater/cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/prawn_plus";
+    serverUrl = "https://api.travis-ci.org/repos/bkuhlmann/prawn_plus/cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/refinements";
+    serverUrl = "https://api.travis-ci.org/repos/bkuhlmann/refinements/cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/resourcer";
+    serverUrl = "https://api.travis-ci.org/repos/bkuhlmann/resourcer/cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/runcom";
+    serverUrl = "https://api.travis-ci.org/repos/bkuhlmann/runcom/cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/sessioner";
+    serverUrl = "https://api.travis-ci.org/repos/bkuhlmann/sessioner/cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/sorter";
+    serverUrl = "https://api.travis-ci.org/repos/bkuhlmann/sorter/cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/sublime_text_kit";
+    serverUrl = "https://api.travis-ci.org/repos/bkuhlmann/sublime_text_kit/cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/thor_plus";
+    serverUrl = "https://api.travis-ci.org/repos/bkuhlmann/thor_plus/cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/tocer";
+    serverUrl = "https://api.travis-ci.org/repos/bkuhlmann/tocer/cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/tokener";
+    serverUrl = "https://api.travis-ci.org/repos/bkuhlmann/tokener/cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/versionaire";
+    serverUrl = "https://api.travis-ci.org/repos/bkuhlmann/versionaire/cc.xml";
+  }
+)'
