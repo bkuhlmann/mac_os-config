@@ -91,6 +91,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Tag](https://github.com/jdberry/tag)
     - [Terminal Notifier](https://github.com/alloy/terminal-notifier)
     - [The Silver Surfer](https://github.com/ggreer/the_silver_searcher)
+    - [Tig](https://jonas.github.io/tig)
     - [tmux](http://tmux.sourceforge.net)
     - [Reattach to User Namespace](https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard)
     - [Tree](http://mama.indstate.edu/users/ice/tree)

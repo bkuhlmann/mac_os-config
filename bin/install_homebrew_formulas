@@ -186,6 +186,9 @@ brew install terminal-notifier
 # The Silver Searcher
 brew install the_silver_searcher
 
+# Tig
+brew install tig
+
 # tmux
 brew install tmux
 brew install reattach-to-user-namespace
