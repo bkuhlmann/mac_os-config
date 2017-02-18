@@ -206,6 +206,9 @@ brew install watchman
 # Wry
 brew install wry
 
+# Yank
+brew install yank
+
 # Yarn
 brew install yarn
 

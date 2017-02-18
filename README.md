@@ -98,6 +98,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Vim](http://www.vim.org)
     - [Watchman](https://github.com/facebook/watchman)
     - [Wry](https://github.com/hoop33/wry)
+    - [Yank](https://github.com/mptre/yank)
     - [Yarn](https://yarnpkg.com)
     - [Z](https://github.com/rupa/z)
 - Downloads, installs, and configures [Homebrew Casks](https://caskroom.github.io) command line
