@@ -1,0 +1,6 @@
+#! /usr/bin/env bash
+
+# DESCRIPTION
+# Installs Homebrew Casks.
+
+brew cask install keybase

@@ -31,7 +31,7 @@ project not be to your liking, feel free to fork and customize for your specific
 
 # Features
 
-- Downloads, installs, and configures [Homebrew](http://brew.sh) command line software:
+- Downloads, installs, and configures [Homebrew Formulas](http://brew.sh) command line software:
     - [Readline](http://tiswww.case.edu/php/chet/readline/rltop.html)
     - [OpenSSL](https://openssl.org)
     - [OpenSSL OSX CA](https://github.com/raggi/openssl-osx-ca)
@@ -63,7 +63,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [ImageMagick](http://www.imagemagick.org)
     - [Ioping](https://code.google.com/p/ioping)
     - [jq](http://stedolan.github.com/jq)
-    - [Keybase](https://keybase.io)
     - [libffi](https://sourceware.org/libffi)
     - [libyaml](http://pyyaml.org/wiki/LibYAML)
     - [lnav](http://braumeister.org/formula/lnav)
@@ -101,6 +100,9 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Wry](https://github.com/hoop33/wry)
     - [Yarn](https://yarnpkg.com)
     - [Z](https://github.com/rupa/z)
+- Downloads, installs, and configures [Homebrew Casks](https://caskroom.github.io) command line
+  software:
+    - [Keybase](https://keybase.io)
 - Downloads, installs, and configures
     [App Store](http://www.apple.com/macosx/whats-new/app-store.html) applications.
     - [1Password](http://agilewebsolutions.com/products/1Password)
