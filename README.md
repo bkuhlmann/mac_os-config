@@ -83,6 +83,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Pipe Viewer](http://www.ivarch.com/programs/pv.shtml)
     - [PostgreSQL](http://www.postgresql.org)
     - [QuickLook Plain Text](https://github.com/whomwah/qlstephen)
+    - [Ranger](http://ranger.nongnu.org)
     - [Redis](http://redis.io)
     - [ruby-install](https://github.com/postmodern/ruby-install)
     - [Rust](https://www.rust-lang.org)

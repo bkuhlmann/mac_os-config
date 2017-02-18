@@ -165,6 +165,9 @@ brew install postgresql
 # QuickLook - Plain Text
 brew cask install qlstephen
 
+# Ranger
+brew install ranger
+
 # Redis
 brew install redis
 
