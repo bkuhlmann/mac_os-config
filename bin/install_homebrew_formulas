@@ -105,9 +105,6 @@ brew install ioping
 # JSON CLI Parser
 brew install jq
 
-# Keybase
-brew install keybase
-
 # libffi
 brew install libffi
 
