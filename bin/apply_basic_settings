@@ -5,21 +5,28 @@
 
 # EXECUTION
 read -p "What is this machine's label (Example: \"Alchemist\")? " mac_os_label
-read -p "What is this machine's name (Example: \"alchemist\")? " mac_os_name
-
 if [[ -z "$mac_os_label" ]]; then
-  printf "ERROR: Invalid MacOS label. It must be provided.\n"
+  printf "ERROR: Invalid MacOS label.\n"
   exit 1
 fi
 
+read -p "What is this machine's name (Example: \"alchemist\")? " mac_os_name
 if [[ -z "$mac_os_name" ]]; then
-  printf "ERROR: Invalid MacOS name. It must be provided.\n"
+  printf "ERROR: Invalid MacOS name.\n"
   exit 1
 fi
 
-printf "Cleaning default directories...\n"
-rm -rf $HOME/Documents/*
-rm -rf $HOME/Downloads/*
+read -p "Delete all files in $HOME/Documents (y/n)? " documents
+if [[ "$documents" == "y" ]]; then
+  rm -rf $HOME/Documents/*
+  printf "%s\n" "Documents deleted."
+fi
+
+read -p "Delete all files in $HOME/Downloads (y/n)? " downloads
+if [[ "$downloads" == "y" ]]; then
+  rm -rf $HOME/Downloads/*
+  printf "%s\n" "Downloads deleted."
+fi
 
 printf "Setting system label and name...\n"
 sudo scutil --set ComputerName $mac_os_label
