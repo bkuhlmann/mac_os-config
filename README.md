@@ -82,7 +82,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Pigz](http://www.zlib.net/pigz)
     - [Pipe Viewer](http://www.ivarch.com/programs/pv.shtml)
     - [PostgreSQL](http://www.postgresql.org)
-    - [QuickLook Plain Text](https://github.com/whomwah/qlstephen)
     - [Ranger](http://ranger.nongnu.org)
     - [Redis](http://redis.io)
     - [ruby-install](https://github.com/postmodern/ruby-install)
@@ -105,6 +104,7 @@ project not be to your liking, feel free to fork and customize for your specific
 - Downloads, installs, and configures [Homebrew Casks](https://caskroom.github.io) command line
   software:
     - [Keybase](https://keybase.io)
+    - [QuickLook Plain Text](https://github.com/whomwah/qlstephen)
 - Downloads, installs, and configures
     [App Store](http://www.apple.com/macosx/whats-new/app-store.html) applications.
     - [1Password](http://agilewebsolutions.com/products/1Password)

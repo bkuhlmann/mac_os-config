@@ -162,9 +162,6 @@ brew install pv
 # PostgreSQL
 brew install postgresql
 
-# QuickLook - Plain Text
-brew cask install qlstephen
-
 # Ranger
 brew install ranger
 

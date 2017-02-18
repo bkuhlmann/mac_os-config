@@ -4,3 +4,4 @@
 # Installs Homebrew Casks.
 
 brew cask install keybase
+brew cask install qlstephen
