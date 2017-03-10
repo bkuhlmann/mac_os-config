@@ -139,7 +139,7 @@ export SURF_EASY_VPN_APP_URL="https://updates.surfeasy.com/downloads/se0201/Surf
 
 export TOR_BROWSER_APP_NAME="TorBrowser.app"
 export TOR_BROWSER_VOLUME_NAME="Tor Browser"
-export TOR_BROWSER_APP_URL="https://dist.torproject.org/torbrowser/6.0.8/TorBrowser-6.0.8-osx64_en-US.dmg"
+export TOR_BROWSER_APP_URL="https://www.torproject.org/dist/torbrowser/6.5.1/TorBrowser-6.5.1-osx64_en-US.dmg"
 
 export TRAILER_APP_NAME=Trailer.app
 export TRAILER_APP_URL="http://ptsochantaris.github.io/trailer/trailer154.zip"
