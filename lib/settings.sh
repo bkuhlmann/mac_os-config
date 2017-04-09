@@ -28,9 +28,6 @@ export OMNIGRAFFLE_APP_NAME="OmniGraffle Professional 5.app"
 export OMNIGRAFFLE_VOLUME_NAME="OmniGrafflePro"
 export OMNIGRAFFLE_APP_URL="http://downloads2.omnigroup.com/software/MacOSX/10.6/OmniGrafflePro-5.4.4.dmg"
 
-export QUICK_LOOK_MARKDOWN_APP_NAME="QLMarkdown.qlgenerator"
-export QUICK_LOOK_MARKDOWN_APP_URL="https://github.com/toland/qlmarkdown/releases/download/v1.3.5/QLMarkdown.qlgenerator.zip"
-
 export SUBLIME_URL_HANDLER_APP_NAME="SublHandler.app"
 export SUBLIME_URL_HANDLER_APP_URL="https://github.com/downloads/asuth/subl-handler/SublHandler.zip"
 

@@ -183,7 +183,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [xScope](http://iconfactory.com/software/xscope)
 - Downloads, installs, and configures software applications not supported within the App Store:
     - [OmniGraffle](http://www.omnigroup.com/applications/omnigraffle)
-    - [QLMarkdown](https://github.com/toland/qlmarkdown)
     - [Sublime Text URL Handler](https://github.com/asuth/subl-handler)
 - Downloads, installs, and configures software extensions:
     - [Sublime Text 3 Advanced New File](https://github.com/skuroda/Sublime-AdvancedNewFile)
