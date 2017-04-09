@@ -34,10 +34,6 @@ export QUICK_LOOK_MARKDOWN_APP_URL="https://github.com/toland/qlmarkdown/release
 export SUBLIME_URL_HANDLER_APP_NAME="SublHandler.app"
 export SUBLIME_URL_HANDLER_APP_URL="https://github.com/downloads/asuth/subl-handler/SublHandler.zip"
 
-export SURF_EASY_VPN_APP_NAME="SurfEasy VPN.app"
-export SURF_EASY_VPN_VOLUME_NAME="SurfEasy VPN"
-export SURF_EASY_VPN_APP_URL="https://updates.surfeasy.com/downloads/se0201/SurfEasyVPN-Installer.dmg"
-
 export VIVALDI_APP_NAME=Vivaldi.app
 export VIVALDI_VOLUME_NAME="Vivaldi 1.4.589.34"
 export VIVALDI_APP_URL="https://downloads.vivaldi.com/stable/Vivaldi.1.4.589.34.dmg"
