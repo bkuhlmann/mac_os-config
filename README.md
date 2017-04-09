@@ -182,7 +182,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Witch](https://manytricks.com/witch)
     - [xScope](http://iconfactory.com/software/xscope)
 - Downloads, installs, and configures software applications not supported within the App Store:
-    - [Knox](https://agilebits.com/knox)
     - [OmniGraffle](http://www.omnigroup.com/applications/omnigraffle)
     - [QLMarkdown](https://github.com/toland/qlmarkdown)
     - [Sublime Text URL Handler](https://github.com/asuth/subl-handler)

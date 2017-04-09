@@ -24,9 +24,6 @@ export REPO_DOTFILES=v24.2.0
 export CHEATSHEET_APP_NAME=CheatSheet.app
 export CHEATSHEET_APP_URL="https://www.cheatsheetapp.com/CheatSheet/download.php"
 
-export KNOX_APP_NAME=Knox.app
-export KNOX_APP_URL="https://d13itkw33a7sus.cloudfront.net/dist/K/Knox-2.3.2.zip"
-
 export OMNIGRAFFLE_APP_NAME="OmniGraffle Professional 5.app"
 export OMNIGRAFFLE_VOLUME_NAME="OmniGrafflePro"
 export OMNIGRAFFLE_APP_URL="http://downloads2.omnigroup.com/software/MacOSX/10.6/OmniGrafflePro-5.4.4.dmg"
