@@ -21,114 +21,18 @@ export REPO_SUBLIME_TEXT_SETUP=v6.0.0
 export REPO_DOTFILES=v24.2.0
 
 # Applications
-export ALFRED_APP_NAME="Alfred 3.app"
-export ALFRED_VOLUME_NAME="Alfred"
-export ALFRED_APP_URL="https://cachefly.alfredapp.com/Alfred_3.2.1_768.dmg"
-
-export APP_CLEANER_APP_NAME=AppCleaner.app
-export APP_CLEANER_APP_URL="https://freemacsoft.net/downloads/AppCleaner_3.4.zip"
-
-export BARTENDER_APP_NAME="Bartender 2.app"
-export BARTENDER_APP_URL="https://www.macbartender.com/Demo/Bartender%202.zip"
-
-export CARBON_COPY_CLONER_APP_NAME="Carbon Copy Cloner.app"
-export CARBON_COPY_CLONER_APP_URL="https://bombich.scdn1.secure.raxcdn.com/software/files/ccc-4.1.12.4485.zip"
-
 export CHEATSHEET_APP_NAME=CheatSheet.app
 export CHEATSHEET_APP_URL="https://www.cheatsheetapp.com/CheatSheet/download.php"
 
-export CHROME_APP_NAME="Google Chrome.app"
-export CHROME_VOLUME_NAME="Google Chrome"
-export CHROME_APP_URL="https://dl.google.com/chrome/mac/stable/GGRM/googlechrome.dmg"
-
-export CLOAK_APP_NAME=Cloak.app
-export CLOAK_VOLUME_NAME="Cloak"
-export CLOAK_APP_URL="https://static.getcloak.com/downloads/osx/updates/Release/Cloak-2.1.2.dmg"
-
-export DASH_APP_NAME=Dash.app
-export DASH_APP_URL="https://sanfrancisco.kapeli.com/downloads/v3/Dash.zip"
-
-export DOXIE_APP_NAME=Doxie.app
-export DOXIE_VOLUME_NAME="Doxie"
-export DOXIE_APP_URL="http://www.getdoxie.com/resources/files/download_current_mac.php"
-
-export DROPBOX_APP_NAME=Dropbox.app
-export DROPBOX_VOLUME_NAME="Dropbox Installer"
-export DROPBOX_APP_URL="https://www.dropbox.com/download?src=index&plat=mac"
-
-export FIREFOX_APP_NAME=Firefox.app
-export FIREFOX_VOLUME_NAME="Firefox"
-export FIREFOX_APP_URL="https://download.mozilla.org/?product=firefox-50.1.0-SSL&os=osx&lang=en-US"
-
-export HAND_BRAKE_APP_NAME="HandBrake.app"
-export HAND_BRAKE_VOLUME_NAME="HandBrake-1.0.1"
-export HAND_BRAKE_APP_URL="https://handbrake.fr/mirror/HandBrake-1.0.1.dmg"
-
-export HAZEL_APP_NAME="Install Hazel.app"
-export HAZEL_VOLUME_NAME="Hazel"
-export HAZEL_APP_URL="http://www.noodlesoft.com/Products/Hazel/download"
-
-export IMAGE_OPTIM_APP_NAME=ImageOptim.app
-export IMAGE_OPTIM_APP_URL="http://imageoptim.com/ImageOptim.tbz2"
-
-export ISTATS_APP_NAME="iStat Menus.app"
-export ISTATS_APP_URL="http://download.bjango.com/istatmenus"
-
-export ITERM_APP_NAME=iTerm.app
-export ITERM_APP_URL="https://iterm2.com/downloads/stable/latest"
-
 export KNOX_APP_NAME=Knox.app
 export KNOX_APP_URL="https://d13itkw33a7sus.cloudfront.net/dist/K/Knox-2.3.2.zip"
-
-export KSDIFF_APP_NAME="ksdiff"
-export KSDIFF_APP_URL="https://updates.blackpixel.com/latest?app=ksdiff"
-
-export MARP_APP_NAME="Marp.app"
-export MARP_VOLUME_NAME="Marp"
-export MARP_APP_URL="https://github.com/yhatt/marp/releases/download/v0.0.10/0.0.10-Marp-darwin-x64.dmg"
-
-export MICRO_SNITCH_APP_NAME="Micro Snitch.app"
-export MICRO_SNITCH_APP_URL="https://www.obdev.at/downloads/MicroSnitch/MicroSnitch-1.2.zip"
 
 export OMNIGRAFFLE_APP_NAME="OmniGraffle Professional 5.app"
 export OMNIGRAFFLE_VOLUME_NAME="OmniGrafflePro"
 export OMNIGRAFFLE_APP_URL="http://downloads2.omnigroup.com/software/MacOSX/10.6/OmniGrafflePro-5.4.4.dmg"
 
-export OPEN_OFFICE_APP_NAME=OpenOffice.app
-export OPEN_OFFICE_VOLUME_NAME="OpenOffice"
-export OPEN_OFFICE_APP_URL="https://downloads.sourceforge.net/project/openofficeorg.mirror/4.1.2/binaries/en-US/Apache_OpenOffice_4.1.2_MacOS_x86-64_install_en-US.dmg"
-
-export OPERA_APP_NAME=Opera.app
-export OPERA_VOLUME_NAME="Opera"
-export OPERA_APP_URL="https://download2.operacdn.com/pub/opera/desktop/40.0.2308.75/mac/Opera_40.0.2308.75_Setup.dmg"
-
-export PATH_FINDER_APP_NAME="Path Finder.app"
-export PATH_FINDER_APP_URL="http://get.cocoatech.com/PF7.zip"
-
-export PAW_APP_NAME=Paw.app
-export PAW_APP_URL="https://paw.cloud/download"
-
-export PG_ADMIN_APP_NAME="pgAdmin 4.app"
-export PG_ADMIN_VOLUME_NAME="pgAdmin 4"
-export PG_ADMIN_APP_URL="https://ftp.postgresql.org/pub/pgadmin3/pgadmin4/v1.1/macos/pgadmin4-1.1.dmg"
-
-export PSEQUEL_APP_NAME=PSequel.app
-export PSEQUEL_APP_URL="http://www.psequel.com/download?version=latest"
-
 export QUICK_LOOK_MARKDOWN_APP_NAME="QLMarkdown.qlgenerator"
 export QUICK_LOOK_MARKDOWN_APP_URL="https://github.com/toland/qlmarkdown/releases/download/v1.3.5/QLMarkdown.qlgenerator.zip"
-
-export RESCUE_TIME_APP_NAME=RescueTime.app
-export RESCUE_TIME_VOLUME_NAME="RescueTime"
-export RESCUE_TIME_APP_URL="https://www.rescuetime.com/installers/RescueTimeInstaller.dmg"
-
-export SONOS_APP_NAME=Sonos.app
-export SONOS_VOLUME_NAME="Sonos"
-export SONOS_APP_URL="http://www.sonos.com/redir/controller_software_mac"
-
-export SUBLIME_TEXT_APP_NAME="Sublime Text.app"
-export SUBLIME_TEXT_VOLUME_NAME="Sublime Text"
-export SUBLIME_TEXT_APP_URL="https://download.sublimetext.com/Sublime%20Text%20Build%203126.dmg"
 
 export SUBLIME_URL_HANDLER_APP_NAME="SublHandler.app"
 export SUBLIME_URL_HANDLER_APP_URL="https://github.com/downloads/asuth/subl-handler/SublHandler.zip"
@@ -137,30 +41,9 @@ export SURF_EASY_VPN_APP_NAME="SurfEasy VPN.app"
 export SURF_EASY_VPN_VOLUME_NAME="SurfEasy VPN"
 export SURF_EASY_VPN_APP_URL="https://updates.surfeasy.com/downloads/se0201/SurfEasyVPN-Installer.dmg"
 
-export TOR_BROWSER_APP_NAME="TorBrowser.app"
-export TOR_BROWSER_VOLUME_NAME="Tor Browser"
-export TOR_BROWSER_APP_URL="https://www.torproject.org/dist/torbrowser/6.5.1/TorBrowser-6.5.1-osx64_en-US.dmg"
-
-export TRAILER_APP_NAME=Trailer.app
-export TRAILER_APP_URL="http://ptsochantaris.github.io/trailer/trailer154.zip"
-
-export TRANSMIT_APP_NAME=Transmit.app
-export TRANSMIT_APP_URL="http://download.panic.com/transmit/Transmit%204.4.10.zip"
-
-export VISCOSITY_APP_NAME="Viscosity.app"
-export VISCOSITY_VOLUME_NAME="Viscosity"
-export VISCOSITY_APP_URL="https://www.sparklabs.com/downloads/Viscosity.dmg"
-
-export VISUAL_STUDIO_CODE_APP_NAME="Visual Studio Code.app"
-export VISUAL_STUDIO_CODE_APP_URL="https://go.microsoft.com/fwlink/?LinkID=620882"
-
 export VIVALDI_APP_NAME=Vivaldi.app
 export VIVALDI_VOLUME_NAME="Vivaldi 1.4.589.34"
 export VIVALDI_APP_URL="https://downloads.vivaldi.com/stable/Vivaldi.1.4.589.34.dmg"
-
-export VLC_APP_NAME=VLC.app
-export VLC_VOLUME_NAME="vlc-2.2.4"
-export VLC_APP_URL="https://get.videolan.org/vlc/2.2.4/macosx/vlc-2.2.4.dmg"
 
 export SUBLIME_TEXT_EXTENSION_ROOT="$HOME/Library/Application Support/Sublime Text 3/Packages"
 export ADVANCED_NEW_FILE_EXTENSION_PATH="$SUBLIME_TEXT_EXTENSION_ROOT/AdvancedNewFile"
