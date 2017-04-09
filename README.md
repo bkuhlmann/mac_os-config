@@ -104,6 +104,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Z](https://github.com/rupa/z)
 - Downloads, installs, and configures [Homebrew Casks](https://caskroom.github.io) command line
   software:
+    - [DNS Crypt](https://dnscrypt.org)
     - [Keybase](https://keybase.io)
     - [QuickLook Plain Text](https://github.com/whomwah/qlstephen)
 - Downloads, installs, and configures
