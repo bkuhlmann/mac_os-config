@@ -5,4 +5,5 @@
 
 brew cask install dnscrypt
 brew cask install keybase
+brew cask install ngrok
 brew cask install qlstephen

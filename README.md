@@ -106,6 +106,7 @@ project not be to your liking, feel free to fork and customize for your specific
   software:
     - [DNS Crypt](https://dnscrypt.org)
     - [Keybase](https://keybase.io)
+    - [Ngrok](https://ngrok.com)
     - [QuickLook Plain Text](https://github.com/whomwah/qlstephen)
 - Downloads, installs, and configures
     [App Store](http://www.apple.com/macosx/whats-new/app-store.html) applications.
