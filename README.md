@@ -115,6 +115,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Firefox](http://www.mozilla.com/en-US/firefox)
     - [Google Chrome](http://www.google.com/chrome)
     - [HandBrake](http://handbrake.fr)
+    - [HandBrake CLI](http://handbrake.fr)
     - [Hazel](http://www.noodlesoft.com/hazel.php)
     - [ImageOptim](http://imageoptim.pornel.net)
     - [iStat Menus](https://bjango.com/mac/istatmenus)
