@@ -31,7 +31,7 @@ project not be to your liking, feel free to fork and customize for your specific
 
 # Features
 
-- Downloads, installs, and configures [Homebrew Formulas](http://brew.sh) command line software:
+- Downloads, installs, and configures [Homebrew Formula](http://brew.sh) command line software:
     - [Readline](http://tiswww.case.edu/php/chet/readline/rltop.html)
     - [OpenSSL](https://openssl.org)
     - [OpenSSL OSX CA](https://github.com/raggi/openssl-osx-ca)
@@ -101,7 +101,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Yank](https://github.com/mptre/yank)
     - [Yarn](https://yarnpkg.com)
     - [Z](https://github.com/rupa/z)
-- Downloads, installs, and configures [Homebrew Casks](https://caskroom.github.io) command line
+- Downloads, installs, and configures [Homebrew Cask](https://caskroom.github.io) command line
   software:
     - [Alfred](http://www.alfredapp.com)
     - [App Cleaner](http://www.freemacsoft.net/appcleaner)
@@ -181,7 +181,9 @@ project not be to your liking, feel free to fork and customize for your specific
     - [WiFi Explorer](http://www.adriangranados.com/apps/wifi-explorer)
     - [Witch](https://manytricks.com/witch)
     - [xScope](http://iconfactory.com/software/xscope)
-- Downloads, installs, and configures software applications not supported within the App Store:
+- Downloads, installs, and configures software applications not supported via Homebrew or the App
+  Store:
+    - [CheatSheet](https://www.mediaatelier.com/CheatSheet)
     - [OmniGraffle](http://www.omnigroup.com/applications/omnigraffle)
     - [Sublime Text URL Handler](https://github.com/asuth/subl-handler)
 - Downloads, installs, and configures software extensions:

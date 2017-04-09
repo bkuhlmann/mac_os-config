@@ -4,6 +4,7 @@
 # Installs applications.
 
 # EXECUTION
+
 # CheatSheet
 install_zip_app "$CHEATSHEET_APP_URL" "$CHEATSHEET_APP_NAME"
 
