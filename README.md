@@ -185,7 +185,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [OmniGraffle](http://www.omnigroup.com/applications/omnigraffle)
     - [QLMarkdown](https://github.com/toland/qlmarkdown)
     - [Sublime Text URL Handler](https://github.com/asuth/subl-handler)
-    - [Vivaldi](https://vivaldi.com)
 - Downloads, installs, and configures software extensions:
     - [Sublime Text 3 Advanced New File](https://github.com/skuroda/Sublime-AdvancedNewFile)
     - [Sublime Text 3 Alignment](https://github.com/wbond/sublime_alignment)
