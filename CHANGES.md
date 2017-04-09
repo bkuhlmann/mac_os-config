@@ -1,3 +1,35 @@
+# v2.0.0 (2017-04-09)
+
+- Fixed applying basic system settings by prompting for deletion.
+- Fixed documentation.
+- Added CCMenu defaults.
+- Added Homebrew Casks install script.
+- Added Homebrew DNS Crypt cask.
+- Added Homebrew Handbrake CLI cask.
+- Added Homebrew Ngrok cask.
+- Added Homebrew Ranger formula.
+- Added Homebrew Tig formula.
+- Added Homebrew Yank formula.
+- Added Homebrew Zoom cask.
+- Added Visual Studio Code application install.
+- Added Yarn Setup support.
+- Updated README semantic versioning order.
+- Updated contributing documentation.
+- Updated to Dotfiles 25.0.0.
+- Updated to Ruby 2.4.1.
+- Updated to Sublime Text Setup 6.3.0.
+- Updated to Tor Browser 6.5.1.
+- Updated to Trailer 1.5.4.
+- Removed Homebrew Keybase formula.
+- Removed Knox application install.
+- Removed NPM Setup project support.
+- Removed QL Markdown quicklook application install.
+- Removed SurfEasy VPN application install.
+- Removed Vivaldi application install.
+- Removed scripted application installs (use Homebrew Cask instead).
+- Refactored Homebrew software as Homebrew Formulas.
+- Refactored QuickLook Plain Text to Homebrew Casks scripts.
+
 # v1.2.0 (2017-01-01)
 
 - Fixed Bartender download to use HTTPS URL.

@@ -251,7 +251,7 @@ Current Version (stable):
 
     git clone https://github.com/bkuhlmann/mac_os-config.git
     cd mac_os-config
-    git checkout v1.2.0
+    git checkout v2.0.0
 
 Master Version (unstable):
 
@@ -269,12 +269,13 @@ While this project's configuration is opinionated and tailored for my setup, you
 this project and customize it for your environment. Start by editing the files found in the `bin`
 and `lib` directories. Here is a breakdown each:
 
-- `bin/apply_basic_settings`: Applies basic, initial, settings for setting up a machine.
+- `bin/apply_basic_settings`: Applies basic and initial settings for setting up a machine.
 - `bin/apply_default_settings`: Applies useful system and application defaults.
 - `bin/install_app_store`: Installs macOS, GUI-based, App Store applications.
 - `bin/install_applications`: Installs macOS, GUI-based, non-App Store applications.
 - `bin/install_extensions`: Installs macOS application extensions and add-ons.
-- `bin/install_homebrew`: Installs Homebrew managed software.
+- `bin/install_homebrew_casks`: Installs Homebrew Casks.
+- `bin/install_homebrew_formulas`: Installs Homebrew Formulas.
 - `bin/restore_backup`: Restores system/application settings from backup image.
 - `bin/setup_software`: Configures and launches (if necessary) installed software.
 - `lib/settings.sh`: Defines custom settings for software applications, extensions, etc.
