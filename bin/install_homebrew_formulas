@@ -196,10 +196,6 @@ brew install reattach-to-user-namespace
 # Tree
 brew install tree
 
-# Unused
-brew tap joshuaclayton/formulae
-brew install unused
-
 # Vim
 brew install vim
 

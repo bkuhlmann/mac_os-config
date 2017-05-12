@@ -94,7 +94,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [tmux](http://tmux.sourceforge.net)
     - [Reattach to User Namespace](https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard)
     - [Tree](http://mama.indstate.edu/users/ice/tree)
-    - [Unused](https://unused.codes)
     - [Vim](http://www.vim.org)
     - [Watchman](https://github.com/facebook/watchman)
     - [Wry](https://github.com/hoop33/wry)
