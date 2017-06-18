@@ -10,26 +10,26 @@ project not be to your liking, feel free to fork and customize for your specific
 
 <!-- Tocer[start]: Auto-generated, don't remove. -->
 
-# Table of Contents
+## Table of Contents
 
-- [Features](#features)
-- [Requirements](#requirements)
-- [Setup](#setup)
-- [Usage](#usage)
-  - [Customization](#customization)
+  - [Features](#features)
+  - [Requirements](#requirements)
+  - [Setup](#setup)
+  - [Usage](#usage)
+    - [Customization](#customization)
 - [Additional Software](#additional-software)
-  - [Newsyslog](#newsyslog)
-  - [Post Install](#post-install)
-- [Versioning](#versioning)
-- [Code of Conduct](#code-of-conduct)
-- [Contributions](#contributions)
-- [License](#license)
-- [History](#history)
-- [Credits](#credits)
+    - [Newsyslog](#newsyslog)
+    - [Post Install](#post-install)
+  - [Versioning](#versioning)
+  - [Code of Conduct](#code-of-conduct)
+  - [Contributions](#contributions)
+  - [License](#license)
+  - [History](#history)
+  - [Credits](#credits)
 
 <!-- Tocer[finish]: Auto-generated, don't remove. -->
 
-# Features
+## Features
 
 - Downloads, installs, and configures [Homebrew Formula](http://brew.sh) command line software:
     - [Readline](http://tiswww.case.edu/php/chet/readline/rltop.html)
@@ -237,11 +237,11 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Vim Text Object Ruby Block](https://github.com/nelstrom/vim-textobj-rubyblock)
     - [Vim Unimpaired](https://github.com/tpope/vim-unimpaired)
 
-# Requirements
+## Requirements
 
 0. [macOS](https://github.com/bkuhlmann/mac_os)
 
-# Setup
+## Setup
 
 Open a terminal window and execute one of the following setup sequences depending on your version
 preference:
@@ -257,12 +257,12 @@ Master Version (unstable):
     git clone https://github.com/bkuhlmann/mac_os-config.git
     cd mac_os-config
 
-# Usage
+## Usage
 
 See the [macOS](https://github.com/bkuhlmann/mac_os) project for usage as it provides the command
 line interface to the configuration defined by this project.
 
-## Customization
+### Customization
 
 While this project's configuration is opinionated and tailored for my setup, you can easily fork
 this project and customize it for your environment. Start by editing the files found in the `bin`
@@ -287,7 +287,7 @@ applications/extensions.
 
 # Additional Software
 
-## Newsyslog
+### Newsyslog
 
 Native to macOS, [newsyslog](https://www.freebsd.org/cgi/man.cgi?newsyslog.conf(5)) can be used to
 configure system-wide log rotation across multiple projects. It's a good recommendation to set this
@@ -339,7 +339,7 @@ regularly scheduled intervals. To do this create the following file:
 
 That's it. System-wide log rotation is setup for your projects.
 
-## Post Install
+### Post Install
 
 The following are additional steps, not easily automated, that are worth completing after the
 install scripts have been executed:
@@ -373,7 +373,7 @@ install scripts have been executed:
     - Remove unused login items.
     - Disable guest account.
 
-# Versioning
+## Versioning
 
 Read [Semantic Versioning](http://semver.org) for details. Briefly, it means:
 
@@ -381,26 +381,26 @@ Read [Semantic Versioning](http://semver.org) for details. Briefly, it means:
 - Minor (x.Y.z) - Incremented for new, backwards compatible, public API enhancements/fixes.
 - Patch (x.y.Z) - Incremented for small, backwards compatible, bug fixes.
 
-# Code of Conduct
+## Code of Conduct
 
 Please note that this project is released with a [CODE OF CONDUCT](CODE_OF_CONDUCT.md). By
 participating in this project you agree to abide by its terms.
 
-# Contributions
+## Contributions
 
 Read [CONTRIBUTING](CONTRIBUTING.md) for details.
 
-# License
+## License
 
 Copyright (c) 2016 [Alchemists](https://www.alchemists.io).
 Read [LICENSE](LICENSE.md) for details.
 
-# History
+## History
 
 Read [CHANGES](CHANGES.md) for details.
 Built with [Bashsmith](https://github.com/bkuhlmann/bashsmith).
 
-# Credits
+## Credits
 
 Developed by [Brooke Kuhlmann](https://www.alchemists.io) at
 [Alchemists](https://www.alchemists.io).
