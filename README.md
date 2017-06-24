@@ -167,7 +167,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Marked 2](http://marked2app.com)
     - [Medis](http://getmedis.com)
     - [MoneyWell](http://nothirst.com/moneywell)
-    - [Monosnap](https://www.monosnap.com)
     - [Moom](http://manytricks.com/moom)
     - [Name Mangler](http://manytricks.com/namemangler)
     - [Numbers](https://www.apple.com/numbers)
