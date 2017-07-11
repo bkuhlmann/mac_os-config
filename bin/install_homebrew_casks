@@ -24,6 +24,7 @@ brew cask install keybase
 brew cask install ksdiff
 brew cask install marp
 brew cask install micro-snitch
+brew cask install muzzle
 brew cask install ngrok
 brew cask install openoffice
 brew cask install opera
