@@ -269,7 +269,7 @@ line interface to the configuration defined by this project.
 
 While this project's configuration is opinionated and tailored for my setup, you can easily fork
 this project and customize it for your environment. Start by editing the files found in the `bin`
-and `lib` directories. Here is a breakdown each:
+and `lib` directories. Here is a breakdown of each:
 
 - `bin/apply_basic_settings`: Applies basic and initial settings for setting up a machine.
 - `bin/apply_default_settings`: Applies useful system and application defaults.
