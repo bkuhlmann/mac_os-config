@@ -35,7 +35,6 @@ project not be to your liking, feel free to fork and customize for your specific
 - Downloads, installs, and configures [Homebrew Formula](http://brew.sh) command line software:
     - [Readline](http://tiswww.case.edu/php/chet/readline/rltop.html)
     - [OpenSSL](https://openssl.org)
-    - [OpenSSL OSX CA](https://github.com/raggi/openssl-osx-ca)
     - [asciinema](https://asciinema.org)
     - [Bash](https://www.gnu.org/software/bash)
     - [Bash Completion](http://bash-completion.alioth.debian.org)

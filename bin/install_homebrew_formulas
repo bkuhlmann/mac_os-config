@@ -17,10 +17,6 @@ brew install readline
 # OpenSSL
 brew install openssl
 
-# OpenSSL OSX CA
-brew tap raggi/ale
-brew install openssl-osx-ca
-
 # asciinema
 brew install asciinema
 
