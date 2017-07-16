@@ -1,3 +1,23 @@
+# v3.0.0 (2017-07-16)
+
+- Added CCMenu Git Cop defaults.
+- Added Gif Brewery App Store install.
+- Added Git Cop support.
+- Added Homebrew Kap cask.
+- Added Homebrew Muzzle cask.
+- Added Homebrew Numi cask.
+- Added Vim Blockle extension.
+- Added Vim Splitjoin extension.
+- Updated CCMenu defaults to use Circle CI URLs.
+- Updated CONTRIBUTING documentation.
+- Updated GitHub templates.
+- Updated README headers.
+- Removed (disabled) Game Center.
+- Removed DB project from CCMenu settings.
+- Removed Monosnap App Store install.
+- Removed OpenSSL OSX CA formula.
+- Removed unused Homebrew formula.
+
 # v2.0.0 (2017-04-09)
 
 - Fixed applying basic system settings by prompting for deletion.
