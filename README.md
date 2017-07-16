@@ -127,6 +127,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Micro Snitch](https://www.obdev.at/products/microsnitch/index.html)
     - [Muzzle](https://muzzleapp.com)
     - [Ngrok](https://ngrok.com)
+    - [Numi](http://numi.io)
     - [OpenOffice](http://www.openoffice.org)
     - [Opera](http://www.opera.com)
     - [Path Finder](http://cocoatech.com)
