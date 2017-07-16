@@ -229,6 +229,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Sublime Text 3 Trailing Spaces](https://github.com/SublimeText/TrailingSpaces)
     - [Sublime Text 3 Web Inspector](http://sokolovstas.github.com/SublimeWebInspector)
     - [Sublime Text 3 Wrap+](https://github.com/ehuss/Sublime-Wrap-Plus)
+    - [Vim Blockle](https://github.com/jgdavey/vim-blockle)
     - [Vim Bundler](https://github.com/tpope/vim-bundler)
     - [Vim Commentary](https://github.com/tpope/vim-commentary)
     - [Vim Fugitive](https://github.com/tpope/vim-fugitive)

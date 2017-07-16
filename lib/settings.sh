@@ -113,6 +113,8 @@ export WRAP_PLUS_EXTENSION_PATH="$SUBLIME_TEXT_EXTENSION_ROOT/WrapPlus"
 export WRAP_PLUS_EXTENSION_URL="https://github.com/ehuss/Sublime-Wrap-Plus.git"
 
 export VIM_EXTENSION_ROOT="$HOME/.vim/bundle"
+export VIM_BLOCKLE_EXTENSION_PATH="$VIM_EXTENSION_ROOT/vim-blockle"
+export VIM_BLOCKLE_EXTENSION_URL="https://github.com/tpope/vim-bundler"
 export VIM_BUNDLER_EXTENSION_PATH="$VIM_EXTENSION_ROOT/vim-bundler"
 export VIM_BUNDLER_EXTENSION_URL="https://github.com/tpope/vim-bundler"
 export VIM_COMMENTARY_EXTENSION_PATH="$VIM_EXTENSION_ROOT/vim-commentary"
