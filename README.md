@@ -236,6 +236,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Vim Pathogen](https://github.com/tpope/vim-pathogen)
     - [Vim Rails](https://github.com/tpope/vim-rails)
     - [Vim Ruby](https://github.com/vim-ruby/vim-ruby)
+    - [Vim Splitjoin](https://github.com/AndrewRadev/splitjoin.vim)
     - [Vim Text Object User](https://github.com/kana/vim-textobj-user)
     - [Vim Text Object Ruby Block](https://github.com/nelstrom/vim-textobj-rubyblock)
     - [Vim Unimpaired](https://github.com/tpope/vim-unimpaired)
