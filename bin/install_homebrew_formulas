@@ -179,6 +179,9 @@ brew install tag
 # Terminal Notifier
 brew install terminal-notifier
 
+# Terraform
+brew install terraform
+
 # The Silver Searcher
 brew install the_silver_searcher
 
