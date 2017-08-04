@@ -18,7 +18,7 @@ project not be to your liking, feel free to fork and customize for your specific
   - [Setup](#setup)
   - [Usage](#usage)
     - [Customization](#customization)
-- [Additional Software](#additional-software)
+  - [Additional Software](#additional-software)
     - [Newsyslog](#newsyslog)
     - [Post Install](#post-install)
   - [Versioning](#versioning)
@@ -290,7 +290,7 @@ the "EXTENSION_PATH" suffix inform the installer what to care about. Removing/co
 applications/extensions within the `settings.sh` file will cause the installer to skip these
 applications/extensions.
 
-# Additional Software
+## Additional Software
 
 ### Newsyslog
 
