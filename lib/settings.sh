@@ -14,11 +14,11 @@ IFS=$'\n\t'
 export MRI=2.4.1
 
 # Repositories
-export REPO_RUBY_SETUP=v7.0.0
+export REPO_RUBY_SETUP=v8.1.0
 export REPO_YARN_SETUP=v0.1.0
 export REPO_GO_SETUP=v2.1.0
-export REPO_SUBLIME_TEXT_SETUP=v6.3.0
-export REPO_DOTFILES=v25.0.0
+export REPO_SUBLIME_TEXT_SETUP=v6.4.0
+export REPO_DOTFILES=v27.0.0
 
 # Applications
 export CHEATSHEET_APP_NAME=CheatSheet.app
