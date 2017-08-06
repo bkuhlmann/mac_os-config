@@ -1,3 +1,10 @@
+# v3.1.0 (2017-08-06)
+
+- Fixed table of contents.
+- Added Terraform Homebrew formula.
+- Updated repository dependencies.
+- Updated to Git Cop 1.5.0.
+
 # v3.0.0 (2017-07-16)
 
 - Added CCMenu Git Cop defaults.
