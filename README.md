@@ -75,6 +75,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Network Grep](http://ngrep.sourceforge.net)
     - [Nginx](http://wiki.nginx.org)
     - [Node.js](http://nodejs.org)
+    - [Overmind](https://github.com/DarthSim/overmind)
     - [Parallel](https://savannah.gnu.org/projects/parallel)
     - [Peco](https://github.com/peco/peco)
     - [pgcli](http://pgcli.com)

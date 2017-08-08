@@ -137,6 +137,9 @@ brew install nginx
 # Node
 brew install node
 
+# Overmind
+brew install overmind
+
 # Parallel
 brew install parallel
 
