@@ -11,7 +11,7 @@ set -o pipefail
 IFS=$'\n\t'
 
 # Ruby
-export MRI=2.4.1
+export MRI=2.4.2
 
 # Repositories
 export REPO_RUBY_SETUP=v8.1.0
