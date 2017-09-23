@@ -1,3 +1,14 @@
+# v3.2.0 (2017-09-23)
+
+- Added Overmind Homebrew formula.
+- Updated gem dependencies.
+- Updated to Dotfiles 28.0.0.
+- Updated to Go Setup 2.2.0.
+- Updated to Ruby 2.4.2.
+- Updated to Ruby Setup 9.0.0.
+- Updated to Sublime Text Setup 7.0.0.
+- Updated to Yarn Setup 0.3.0.
+
 # v3.1.0 (2017-08-06)
 
 - Fixed table of contents.
