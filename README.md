@@ -100,6 +100,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Wry](https://github.com/hoop33/wry)
     - [Yank](https://github.com/mptre/yank)
     - [Yarn](https://yarnpkg.com)
+    - [YouTube Download](https://rg3.github.io/youtube-dl)
     - [Z](https://github.com/rupa/z)
 - Downloads, installs, and configures [Homebrew Cask](https://caskroom.github.io) command line
   software:

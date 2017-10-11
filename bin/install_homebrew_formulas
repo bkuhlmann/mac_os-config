@@ -213,5 +213,8 @@ brew install yank
 # Yarn
 brew install yarn
 
+# YouTube Download
+brew install youtube-dl
+
 # Z
 brew install z
