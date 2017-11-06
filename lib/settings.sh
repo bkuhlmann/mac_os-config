@@ -18,7 +18,7 @@ export REPO_RUBY_SETUP=v9.0.0
 export REPO_YARN_SETUP=v0.3.0
 export REPO_GO_SETUP=v2.2.0
 export REPO_SUBLIME_TEXT_SETUP=v7.0.0
-export REPO_DOTFILES=v28.0.0
+export REPO_DOTFILES=v29.0.0
 
 # Applications
 export CHEATSHEET_APP_NAME=CheatSheet.app
