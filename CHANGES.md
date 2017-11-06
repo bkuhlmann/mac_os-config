@@ -1,3 +1,14 @@
+# v3.3.0 (2017-11-05)
+
+- Added Homebrew cask install for Cardhop.
+- Added Homebrew cask install for Signal.
+- Added YouTube Download Homebrew formula.
+- Updated Gemfile.lock file.
+- Updated to Bundler 1.16.0.
+- Updated to Dotfiles 29.0.0.
+- Updated to Git Cop 1.7.0.
+- Updated to Rubocop 0.51.0.
+
 # v3.2.0 (2017-09-23)
 
 - Added Overmind Homebrew formula.

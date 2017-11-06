@@ -108,6 +108,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [App Cleaner](http://www.freemacsoft.net/appcleaner)
     - [Bartender](http://www.macbartender.com)
     - [Carbon Copy Cloner](http://www.bombich.com)
+    - [Cardhop](https://flexibits.com/cardhop)
     - [Cloak](https://www.getcloak.com)
     - [Dash](http://kapeli.com/dash)
     - [DNS Crypt](https://dnscrypt.org)
@@ -137,6 +138,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [PSequel](http://www.psequel.com)
     - [QLStephen](https://whomwah.github.io/qlstephen)
     - [RescueTime](https://www.rescuetime.com)
+    - [Signal](https://signal.org)
     - [Sonos](http://www.sonos.com)
     - [Sublime Text 3](http://www.sublimetext.com)
     - [Tor Browser](https://www.torproject.org)
@@ -257,7 +259,7 @@ Current Version (stable):
 
     git clone https://github.com/bkuhlmann/mac_os-config.git
     cd mac_os-config
-    git checkout v3.2.0
+    git checkout v3.3.0
 
 Master Version (unstable):
 
