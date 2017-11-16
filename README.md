@@ -109,6 +109,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Bartender](http://www.macbartender.com)
     - [Carbon Copy Cloner](http://www.bombich.com)
     - [Cardhop](https://flexibits.com/cardhop)
+    - [ClipGrab](https://clipgrab.org)
     - [Cloak](https://www.getcloak.com)
     - [Dash](http://kapeli.com/dash)
     - [DNS Crypt](https://dnscrypt.org)
