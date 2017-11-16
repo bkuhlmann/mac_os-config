@@ -26,15 +26,15 @@
 # Cheatsheet
 /Users/bkuhlmann/Library/Preferences/com.mediaatelier.CheatSheet.plist
 
-# Cloak
-/Users/bkuhlmann/Library/Preferences/com.bourgeoisbits.cloak.agent.plist
-
 # Dash
 /Users/bkuhlmann/Library/Application Support/Dash
 /Users/bkuhlmann/Library/Preferences/com.kapeli.dashdoc.plist
 
 # Doxie
 /Users/bkuhlmann/Library/Preferences/com.getdoxie.doxie.plist
+
+# Encrypt.me
+/Users/bkuhlmann/Library/Preferences/com.bourgeoisbits.cloak.agent.plist
 
 # FaceTime
 /Users/bkuhlmann/Library/Preferences/com.apple.facetime.bag.plist

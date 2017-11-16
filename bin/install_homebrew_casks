@@ -9,11 +9,11 @@ brew cask install bartender
 brew cask install carbon-copy-cloner
 brew cask install cardhop
 brew cask install clipgrab
-brew cask install cloak
 brew cask install dash
 brew cask install dnscrypt
 brew cask install doxie
 brew cask install dropbox
+brew cask install encryptme
 brew cask install firefox
 brew cask install google-chrome
 brew cask install handbrake
