@@ -78,7 +78,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Parallel](https://savannah.gnu.org/projects/parallel)
     - [Peco](https://github.com/peco/peco)
     - [pgcli](http://pgcli.com)
-    - [Phantom.js](http://phantomjs.org)
     - [Pigz](http://www.zlib.net/pigz)
     - [Pipe Viewer](http://www.ivarch.com/programs/pv.shtml)
     - [PostgreSQL](http://www.postgresql.org)

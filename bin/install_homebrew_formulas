@@ -146,9 +146,6 @@ brew install peco
 # pgcli
 brew install pgcli
 
-# Phantom.js
-brew install phantomjs
-
 # Pigz
 brew install pigz
 
