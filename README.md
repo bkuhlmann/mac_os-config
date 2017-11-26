@@ -53,7 +53,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [GDBM](http://www.gnu.org.ua/software/gdbm)
     - [Gifsicle](http://www.lcdf.org/gifsicle)
     - [Git](http://git-scm.com)
-    - [Go](http://golang.org)
     - [GPG](https://www.gnupg.org)
     - [GPG Agent](https://www.gnupg.org)
     - [Graphviz](http://www.graphviz.org)

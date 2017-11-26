@@ -71,9 +71,6 @@ brew install gifsicle
 # Git
 brew install git
 
-# Go
-brew install go
-
 # GPG
 brew install gpg
 
