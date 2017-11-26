@@ -26,6 +26,12 @@
 # Cheatsheet
 /Users/bkuhlmann/Library/Preferences/com.mediaatelier.CheatSheet.plist
 
+# ClipGrab
+/Users/bkuhlmann/Library/Preferences/de.clipgrab.ClipGrab.plist
+
+# Contacts
+/Users/bkuhlmann/Library/Preferences/com.apple.AddressBook.plist
+
 # Dash
 /Users/bkuhlmann/Library/Application Support/Dash
 /Users/bkuhlmann/Library/Preferences/com.kapeli.dashdoc.plist
@@ -82,11 +88,19 @@
 /Users/bkuhlmann/Library/Preferences/com.apple.iTunes.plist
 /Users/bkuhlmann/Library/Preferences/com.apple.iTunesHelper.plist
 
+# Kap
+/Users/bkuhlmann/Library/Preferences/com.wulkano.kap.helper.plist
+/Users/bkuhlmann/Library/Preferences/com.wulkano.kap.plist
+
 # Keymo
 /Users/bkuhlmann/Library/Preferences/com.manytricks.Keymo.plist
 
 # Knox
 /Users/bkuhlmann/Library/Preferences/com.knoxformac.knox.plist
+
+# Mail
+/Users/bkuhlmann/Library/Preferences/com.apple.mail-shared.plist
+/Users/bkuhlmann/Library/Preferences/com.apple.mail.plist
 
 # Marked 2
 /Users/bkuhlmann/Library/Preferences/com.brettterpstra.marked2.LSSharedFileList.plist
@@ -99,6 +113,9 @@
 # Max
 /Users/bkuhlmann/Library/Preferences/org.sbooth.Max.LSSharedFileList.plist
 /Users/bkuhlmann/Library/Preferences/org.sbooth.Max.plist
+
+# Micro Snitch
+/Users/bkuhlmann/Library/Preferences/at.obdev.MicroSnitch.plist
 
 # MoneyWell
 /Users/bkuhlmann/Library/Preferences/com.nothirst.moneywell.mac.LSSharedFileList.plist
@@ -135,11 +152,16 @@
 # Sequel Pro
 /Users/bkuhlmann/Library/Preferences/com.sequelpro.SequelPro.plist
 
+# Signal
+/Users/bkuhlmann/Library/Preferences/org.whispersystems.signal-desktop.helper.plist
+/Users/bkuhlmann/Library/Preferences/org.whispersystems.signal-desktop.plist
+
 # Sonos
 /Users/bkuhlmann/Library/Preferences/com.sonos.macController.plist
 
-# SurfEasy VPN
-/Users/bkuhlmann/Library/Preferences/com.surfeasy.SurfEasyVPN.plist
+# Spotify
+/Users/bkuhlmann/Library/Preferences/com.spotify.client.helper.plist
+/Users/bkuhlmann/Library/Preferences/com.spotify.client.plist
 
 # System Preferences
 /Users/bkuhlmann/Library/Preferences/com.apple.systempreferences.plist
@@ -153,12 +175,22 @@
 # Transmit
 /Users/bkuhlmann/Library/Preferences/com.panic.Transmit.plist
 
+# Tweetbot
+/Users/bkuhlmann/Library/Preferences/com.tapbots.TweetbotMac.plist
+
 # Viscosity
 /Users/bkuhlmann/Library/Preferences/com.viscosityvpn.Viscosity.plist
+
+# Visual Studio Code
+/Users/bkuhlmann/Library/Preferences/com.microsoft.VSCode.helper.plist
+/Users/bkuhlmann/Library/Preferences/com.microsoft.VSCode.plist
 
 # VLC
 /Users/bkuhlmann/Library/Application Support/org.videolan.vlc
 /Users/bkuhlmann/Library/Preferences/org.videolan.vlc.plist
+
+# Zoom
+/Users/bkuhlmann/Library/Preferences/us.zoom.xos.plist
 
 # SYSTEM
 
@@ -170,22 +202,19 @@
 /Users/bkuhlmann/.asciinema
 /Users/bkuhlmann/.bash/env.sh
 /Users/bkuhlmann/.bundle/config
-/Users/bkuhlmann/.dbrc
+/Users/bkuhlmann/.config
 /Users/bkuhlmann/.gem/credentials
-/Users/bkuhlmann/.gemsmithrc
 /Users/bkuhlmann/.gitconfig
+/Users/bkuhlmann/.gitconfigs
 /Users/bkuhlmann/.gnupg
-/Users/bkuhlmann/.milestonerrc
+/Users/bkuhlmann/.heroku
+/Users/bkuhlmann/.netrc
 /Users/bkuhlmann/.ngrok2
-/Users/bkuhlmann/.pennyworthrc
 /Users/bkuhlmann/.ssh
 /Users/bkuhlmann/.ssl
-/Users/bkuhlmann/.sublime_text_kitrc
-/Users/bkuhlmann/.travis
-/Users/bkuhlmann/.trc
+/Users/bkuhlmann/.vscode
 /Users/bkuhlmann/.z
 /Users/bkuhlmann/Apps
-/Users/bkuhlmann/Data
 /Users/bkuhlmann/Documents/desktop_background.jpg
 /Users/bkuhlmann/Downloads
 /Users/bkuhlmann/Dropbox
