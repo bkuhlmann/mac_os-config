@@ -1,3 +1,15 @@
+# v4.0.0 (2017-11-26)
+
+- Added ClipGrab Homebrew cask install.
+- Updated Encrypt Me Homebrew cask installer.
+- Updated restore BOM to reflect recent app changes.
+- Updated to Rake 12.3.0.
+- Removed Deliveries App Store app.
+- Removed Go Homebrew formula.
+- Removed Go Setup project.
+- Removed Phantom.js Homebrew formula.
+- Removed Wry Homebrew formula.
+
 # v3.3.0 (2017-11-05)
 
 - Added Homebrew cask install for Cardhop.
