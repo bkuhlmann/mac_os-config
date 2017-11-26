@@ -256,10 +256,6 @@ defaults write net.sourceforge.cruisecontrol.CCMenu Projects '
     serverUrl = "https://circleci.com/gh/bkuhlmann/git-cop.cc.xml";
   },
   {
-    projectName = "bkuhlmann/go_setup";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/go_setup.cc.xml";
-  },
-  {
     projectName = "bkuhlmann/lineage";
     serverUrl = "https://circleci.com/gh/bkuhlmann/lineage.cc.xml";
   },

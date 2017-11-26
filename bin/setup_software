@@ -31,9 +31,6 @@ rm -rf ruby_setup
 # Yarn
 install_git_project "https://github.com/bkuhlmann/yarn_setup.git" $REPO_YARN_SETUP "yarn_setup" "bin/run i"
 
-# Go
-install_git_project "https://github.com/bkuhlmann/go_setup.git" $REPO_GO_SETUP "go_setup" "bin/run i"
-
 # Sublime Text Setup
 if [ ! -e "/usr/bin/sublime" ]; then
   sudo ln -sv "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/sublime
