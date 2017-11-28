@@ -137,7 +137,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [QLStephen](https://whomwah.github.io/qlstephen)
     - [RescueTime](https://www.rescuetime.com)
     - [Signal](https://signal.org)
-    - [Sonos](http://www.sonos.com)
     - [Sublime Text 3](http://www.sublimetext.com)
     - [Tor Browser](https://www.torproject.org)
     - [Trailer](http://ptsochantaris.github.io/trailer)
@@ -190,6 +189,7 @@ project not be to your liking, feel free to fork and customize for your specific
   Store:
     - [CheatSheet](https://www.mediaatelier.com/CheatSheet)
     - [OmniGraffle](http://www.omnigroup.com/applications/omnigraffle)
+    - [Sonos](http://www.sonos.com)
     - [Sublime Text URL Handler](https://github.com/asuth/subl-handler)
 - Downloads, installs, and configures software extensions:
     - [Sublime Text 3 Advanced New File](https://github.com/skuroda/Sublime-AdvancedNewFile)

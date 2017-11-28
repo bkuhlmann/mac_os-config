@@ -11,5 +11,8 @@ install_zip_app "$CHEATSHEET_APP_URL" "$CHEATSHEET_APP_NAME"
 # OmniGraffle
 install_dmg_app "$OMNIGRAFFLE_APP_URL" "$OMNIGRAFFLE_VOLUME_NAME" "$OMNIGRAFFLE_APP_NAME"
 
+# Sonos
+install_dmg_app "$SONOS_APP_URL" "$SONOS_VOLUME_NAME" "$SONOS_APP_NAME"
+
 # Sublime Text URL Handler
 install_zip_app "$SUBLIME_URL_HANDLER_APP_URL" "$SUBLIME_URL_HANDLER_APP_NAME"
