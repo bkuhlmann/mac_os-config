@@ -137,6 +137,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [QLStephen](https://whomwah.github.io/qlstephen)
     - [RescueTime](https://www.rescuetime.com)
     - [Signal](https://signal.org)
+    - [Spotify](https://www.spotify.com)
     - [Sublime Text 3](http://www.sublimetext.com)
     - [Tor Browser](https://www.torproject.org)
     - [Trailer](http://ptsochantaris.github.io/trailer)
