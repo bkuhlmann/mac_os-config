@@ -129,6 +129,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Muzzle](https://muzzleapp.com)
     - [Ngrok](https://ngrok.com)
     - [Numi](http://numi.io)
+    - [OpenEmu](http://openemu.org)
     - [OpenOffice](http://www.openoffice.org)
     - [Opera](http://www.opera.com)
     - [Path Finder](http://cocoatech.com)
