@@ -80,6 +80,9 @@ brew install gpg-agent
 # Graphviz
 brew install graphviz
 
+# Heroku
+brew install heroku
+
 # hr
 brew install hr
 
