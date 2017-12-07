@@ -353,7 +353,6 @@ That's it. System-wide log rotation is setup for your projects.
 The following are additional steps, not easily automated, that are worth completing after the
 install scripts have been executed:
 
-- Lauch App Store and install all purchased software.
 - Configure System Preferences:
   - Security & Privacy:
     - General:
@@ -369,6 +368,14 @@ install scripts have been executed:
     - Privacy:
       - Apps like Cheat Sheet, Dash, Dropbox, Trailer, etc. will need to be enabled for
         accessibility.
+  - Notifications:
+    - Enable *Do Not Disturb* from 9pm to 7am.
+    - Enable *When display is sleeping.*
+    - Enable *When mirroring.*
+    - Enable allow repeated calls.
+    - Disable *Show notifications on lock screen* for all apps.
+    - Disable *Play sounds for notifications* for all apps.
+    - Configure all calendar apps to show banners instead of alerts for notifications.
   - Printers & Scanners:
     - Add printer/scanner.
   - iCloud:
