@@ -124,6 +124,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Kap](https://getkap.co)
     - [Keybase](https://keybase.io)
     - [ksdiff](http://www.kaleidoscopeapp.com/ksdiff2)
+    - [Launch Control](http://www.soma-zone.com/LaunchControl)
     - [Marp](https://yhatt.github.io/marp)
     - [Micro Snitch](https://www.obdev.at/products/microsnitch/index.html)
     - [Muzzle](https://muzzleapp.com)

@@ -25,6 +25,7 @@ brew cask install iterm2
 brew cask install kap
 brew cask install keybase
 brew cask install ksdiff
+brew cask install launchcontrol
 brew cask install marp
 brew cask install micro-snitch
 brew cask install muzzle
