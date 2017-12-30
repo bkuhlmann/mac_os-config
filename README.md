@@ -76,6 +76,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Nginx](http://wiki.nginx.org)
     - [Node.js](http://nodejs.org)
     - [Overmind](https://github.com/DarthSim/overmind)
+    - [Pandoc](https://pandoc.org)
     - [Parallel](https://savannah.gnu.org/projects/parallel)
     - [Peco](https://github.com/peco/peco)
     - [pgcli](http://pgcli.com)

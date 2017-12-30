@@ -140,6 +140,9 @@ brew install node
 # Overmind
 brew install overmind
 
+# Pandoc
+brew install pandoc
+
 # Parallel
 brew install parallel
 
