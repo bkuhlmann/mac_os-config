@@ -17,7 +17,7 @@ export MRI=2.5.0
 export REPO_RUBY_SETUP=v10.0.0
 export REPO_YARN_SETUP=v1.0.0
 export REPO_SUBLIME_TEXT_SETUP=v8.0.0
-export REPO_DOTFILES=v29.0.0
+export REPO_DOTFILES=v30.0.0
 
 # Applications
 export CHEATSHEET_APP_NAME=CheatSheet.app
