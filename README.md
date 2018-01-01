@@ -1,4 +1,4 @@
-# macOS config
+# macOS Configuration
 
 [![Circle CI Status](https://circleci.com/gh/bkuhlmann/mac_os-config.svg?style=svg)](https://circleci.com/gh/bkuhlmann/mac_os-config)
 [![Patreon](https://img.shields.io/badge/patreon-donate-brightgreen.svg)](https://www.patreon.com/bkuhlmann)
@@ -261,7 +261,7 @@ Current Version (stable):
 
     git clone https://github.com/bkuhlmann/mac_os-config.git
     cd mac_os-config
-    git checkout v4.0.0
+    git checkout v5.0.0
 
 Master Version (unstable):
 

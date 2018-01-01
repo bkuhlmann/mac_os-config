@@ -1,3 +1,22 @@
+# v5.0.0 (2018-01-01)
+
+- Fixed Sonos application install.
+- Fixed Zoom Homebrew cask install command.
+- Added Gemfile.lock to .gitignore.
+- Added Heroku CLI Homebrew formula.
+- Added Launch Control Homebrew cask.
+- Added OpenEmu Homebrew cask.
+- Added Pandoc Homebrew formula.
+- Added Spotify Homebrew cask.
+- Added post-install notification configuration to README.
+- Updated to Apache 2.0 license.
+- Updated to Dotfiles 30.0.0.
+- Updated to Ruby 2.4.3.
+- Updated to Ruby 2.5.0.
+- Updated to Ruby Setup 10.0.0.
+- Updated to Sublime Text Setup 8.0.0.
+- Updated to Yarn Setup 1.0.0.
+
 # v4.0.0 (2017-11-26)
 
 - Added ClipGrab Homebrew cask install.
