@@ -132,7 +132,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Numi](http://numi.io)
     - [OpenEmu](http://openemu.org)
     - [OpenOffice](http://www.openoffice.org)
-    - [Opera](http://www.opera.com)
     - [Path Finder](http://cocoatech.com)
     - [Paw](https://paw.cloud)
     - [pgAdmin](http://www.pgadmin.org/index.php)
