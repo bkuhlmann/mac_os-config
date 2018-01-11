@@ -23,9 +23,6 @@
 # Carbon Copy Cloner
 /Users/bkuhlmann/Library/Preferences/com.bombich.ccc.plist
 
-# Cheatsheet
-/Users/bkuhlmann/Library/Preferences/com.mediaatelier.CheatSheet.plist
-
 # ClipGrab
 /Users/bkuhlmann/Library/Preferences/de.clipgrab.ClipGrab.plist
 
@@ -94,9 +91,6 @@
 # Keymo
 /Users/bkuhlmann/Library/Preferences/com.manytricks.Keymo.plist
 
-# Knox
-/Users/bkuhlmann/Library/Preferences/com.knoxformac.knox.plist
-
 # Mail
 /Users/bkuhlmann/Library/Preferences/com.apple.mail-shared.plist
 /Users/bkuhlmann/Library/Preferences/com.apple.mail.plist
@@ -118,9 +112,6 @@
 
 # MoneyWell
 /Users/bkuhlmann/Library/Preferences/com.nothirst.moneywell.mac.LSSharedFileList.plist
-
-# Monosnap
-/Users/bkuhlmann/Library/Preferences/com.monosnap.monosnap.plist
 
 # Moom
 /Users/bkuhlmann/Library/Preferences/com.manytricks.Moom.plist
