@@ -160,6 +160,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Fantastical](http://flexibits.com/fantastical)
     - [GarageBand](http://www.apple.com/ilife/garageband)
     - [Gif Brewery](http://gifbrewery.com)
+    - [Gifox](https://gifox.io)
     - [Gradient](http://www.gradientapp.com)
     - [iMovie](http://www.apple.com/ilife/imovie)
     - [iPhoto](http://www.apple.com/ilife/iphoto)
