@@ -37,7 +37,6 @@ brew cask install paw
 brew cask install pgadmin4
 brew cask install psequel
 brew cask install qlstephen
-brew cask install rescuetime
 brew cask install signal
 brew cask install spotify
 brew cask install sublime-text
