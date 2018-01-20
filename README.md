@@ -57,7 +57,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Graphviz](http://www.graphviz.org)
     - [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
     - [hr](https://github.com/LuRsT/hr)
-    - [htop](http://hisham.hm/htop)
     - [HTTPie](https://github.com/jkbrzt/httpie)
     - [ImageMagick](http://www.imagemagick.org)
     - [Ioping](https://code.google.com/p/ioping)
