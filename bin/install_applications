@@ -5,9 +5,6 @@
 
 # EXECUTION
 
-# CheatSheet
-install_zip_app "$CHEATSHEET_APP_URL" "$CHEATSHEET_APP_NAME"
-
 # OmniGraffle
 install_dmg_app "$OMNIGRAFFLE_APP_URL" "$OMNIGRAFFLE_VOLUME_NAME" "$OMNIGRAFFLE_APP_NAME"
 

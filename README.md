@@ -186,7 +186,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [xScope](http://iconfactory.com/software/xscope)
 - Downloads, installs, and configures software applications not supported via Homebrew or the App
   Store:
-    - [CheatSheet](https://www.mediaatelier.com/CheatSheet)
     - [OmniGraffle](http://www.omnigroup.com/applications/omnigraffle)
     - [Sonos](http://www.sonos.com)
     - [Sublime Text URL Handler](https://github.com/asuth/subl-handler)

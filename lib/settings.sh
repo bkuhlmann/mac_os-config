@@ -20,9 +20,6 @@ export REPO_SUBLIME_TEXT_SETUP=v8.0.0
 export REPO_DOTFILES=v30.0.0
 
 # Applications
-export CHEATSHEET_APP_NAME=CheatSheet.app
-export CHEATSHEET_APP_URL="https://www.cheatsheetapp.com/CheatSheet/download.php"
-
 export OMNIGRAFFLE_APP_NAME="OmniGraffle Professional 5.app"
 export OMNIGRAFFLE_VOLUME_NAME="OmniGrafflePro"
 export OMNIGRAFFLE_APP_URL="http://downloads2.omnigroup.com/software/MacOSX/10.6/OmniGrafflePro-5.4.4.dmg"
