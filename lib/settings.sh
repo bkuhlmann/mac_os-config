@@ -20,6 +20,10 @@ export REPO_SUBLIME_TEXT_SETUP=v8.0.0
 export REPO_DOTFILES=v30.0.0
 
 # Applications
+export AUDIO_BRIDGE_APP_NAME="AudioBridge.app"
+export AUDIO_BRIDGE_VOLUME_NAME="AudioBridge"
+export AUDIO_BRIDGE_APP_URL="https://audiobridge.site/releases/AudioBridge-1.3.0.dmg"
+
 export OMNIGRAFFLE_APP_NAME="OmniGraffle Professional 5.app"
 export OMNIGRAFFLE_VOLUME_NAME="OmniGrafflePro"
 export OMNIGRAFFLE_APP_URL="http://downloads2.omnigroup.com/software/MacOSX/10.6/OmniGrafflePro-5.4.4.dmg"
