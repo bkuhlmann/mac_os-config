@@ -114,7 +114,7 @@ brew install mas
 brew install hg
 
 # Mosh
-brew install mobile-shell
+brew install mosh
 
 # Namebench
 brew install namebench
