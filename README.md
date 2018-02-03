@@ -86,7 +86,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Rust](https://www.rust-lang.org)
     - [ShellCheck](https://github.com/koalaman/shellcheck)
     - [Tag](https://github.com/jdberry/tag)
-    - [Terminal Notifier](https://github.com/alloy/terminal-notifier)
     - [The Silver Surfer](https://github.com/ggreer/the_silver_searcher)
     - [Tig](https://jonas.github.io/tig)
     - [tmux](http://tmux.sourceforge.net)
