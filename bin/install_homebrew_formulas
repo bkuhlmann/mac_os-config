@@ -65,9 +65,6 @@ brew install fzf
 # GDBM
 brew install gdbm
 
-# Gifsicle
-brew install gifsicle
-
 # Git
 brew install git
 
