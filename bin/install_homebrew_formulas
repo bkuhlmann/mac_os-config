@@ -89,9 +89,6 @@ brew install ioping
 # JSON CLI Parser
 brew install jq
 
-# libffi
-brew install libffi
-
 # libyaml
 brew install libyaml
 

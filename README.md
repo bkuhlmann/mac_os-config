@@ -58,7 +58,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [ImageMagick](http://www.imagemagick.org)
     - [Ioping](https://code.google.com/p/ioping)
     - [jq](http://stedolan.github.com/jq)
-    - [libffi](https://sourceware.org/libffi)
     - [libyaml](http://pyyaml.org/wiki/LibYAML)
     - [lnav](http://braumeister.org/formula/lnav)
     - [Lynis](https://github.com/CISOfy/lynis)
