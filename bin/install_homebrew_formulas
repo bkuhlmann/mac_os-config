@@ -53,9 +53,6 @@ brew install elasticsearch
 # Elm
 brew install elm
 
-# FFmpeg
-brew install ffmpeg
-
 # FLAC
 brew install flac
 

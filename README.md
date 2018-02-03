@@ -46,7 +46,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/index.html)
     - [Elasticsearch](https://www.elastic.co/products/elasticsearch)
     - [Elm](http://elm-lang.org)
-    - [FFmpeg](http://ffmpeg.org)
     - [FLAC](https://www.xiph.org/flac)
     - [FZF](https://github.com/junegunn/fzf)
     - [GDBM](http://www.gnu.org.ua/software/gdbm)
