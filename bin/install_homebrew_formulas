@@ -192,9 +192,6 @@ brew install tree
 # Vim
 brew install vim
 
-# Watchman
-brew install watchman
-
 # Yank
 brew install yank
 
