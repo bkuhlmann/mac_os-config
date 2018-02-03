@@ -66,7 +66,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [lnav](http://braumeister.org/formula/lnav)
     - [Lynis](https://github.com/CISOfy/lynis)
     - [mas](https://kapeli.com/app_store_migrate)
-    - [Memcached](http://memcached.org)
     - [Mecurial](http://mercurial.selenic.com)
     - [Mosh](http://mosh.mit.edu)
     - [Namebench](https://code.google.com/p/namebench)

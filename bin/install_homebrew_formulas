@@ -113,9 +113,6 @@ brew install lynis
 # Mac App Store CLI
 brew install mas
 
-# Memcached
-brew install memcached
-
 # Mercurial
 brew install hg
 
