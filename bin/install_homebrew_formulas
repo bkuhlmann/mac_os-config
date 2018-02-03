@@ -59,9 +59,6 @@ brew install flac
 # FZF
 brew install fzf
 
-# GDBM
-brew install gdbm
-
 # Git
 brew install git
 

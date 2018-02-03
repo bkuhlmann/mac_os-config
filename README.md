@@ -48,7 +48,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Elm](http://elm-lang.org)
     - [FLAC](https://www.xiph.org/flac)
     - [FZF](https://github.com/junegunn/fzf)
-    - [GDBM](http://www.gnu.org.ua/software/gdbm)
     - [Git](http://git-scm.com)
     - [GPG](https://www.gnupg.org)
     - [GPG Agent](https://www.gnupg.org)
