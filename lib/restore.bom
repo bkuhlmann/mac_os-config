@@ -191,6 +191,8 @@
 /Users/bkuhlmann/.bundle/config
 /Users/bkuhlmann/.config
 /Users/bkuhlmann/.gem/credentials
+/Users/bkuhlmann/.gem/gem-private_key.pem
+/Users/bkuhlmann/.gem/gem-public_cert.pem
 /Users/bkuhlmann/.gitconfig
 /Users/bkuhlmann/.gitconfigs
 /Users/bkuhlmann/.gnupg
