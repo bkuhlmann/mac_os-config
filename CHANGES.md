@@ -1,3 +1,32 @@
+# v6.0.0 (2018-02-20)
+
+- Added Audio Bridge software install.
+- Added Gifox App Store install.
+- Added Homebrew Skitch cask.
+- Added Ruby gem credentials to BOM.
+- Updated Mosh Homebrew formula install command.
+- Updated README license information.
+- Updated to Circle CI 2.0.0 configuration.
+- Updated to Dotfiles 31.0.0.
+- Removed Bash custom environment from BOM.
+- Removed CheatSheet application.
+- Removed FFMPEG Homebrew formula.
+- Removed GDBM Homebrew formula.
+- Removed Gif Brewery.
+- Removed Gifsicle Homebrew formula.
+- Removed Kap Homebrew cask install.
+- Removed Memcached Homebrew formula.
+- Removed Opera Homebrew cask.
+- Removed Patreon badge from README.
+- Removed Prepo App Store install.
+- Removed RescueTime Homebrew cask install.
+- Removed Terminal Notifier Homebrew formula.
+- Removed Watchman Homebrew formula.
+- Removed htop Homebrew formula.
+- Removed libffi Homebrew formula.
+- Removed libyaml Homebrew formula.
+- Removed unused apps from BOM.
+
 # v5.0.0 (2018-01-01)
 
 - Fixed Sonos application install.

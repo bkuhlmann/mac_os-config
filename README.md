@@ -248,7 +248,7 @@ Current Version (stable):
 
     git clone https://github.com/bkuhlmann/mac_os-config.git
     cd mac_os-config
-    git checkout v5.0.0
+    git checkout v6.0.0
 
 Master Version (unstable):
 
@@ -355,8 +355,7 @@ install scripts have been executed:
       - Automatically allow signed software.
       - Enable stealth mode.
     - Privacy:
-      - Apps like Cheat Sheet, Dash, Dropbox, Trailer, etc. will need to be enabled for
-        accessibility.
+      - Apps like Dash, Dropbox, etc. will need to be enabled for accessibility.
   - Notifications:
     - Enable *Do Not Disturb* from 9pm to 7am.
     - Enable *When display is sleeping.*
