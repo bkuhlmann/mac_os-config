@@ -89,9 +89,6 @@ brew install ioping
 # JSON CLI Parser
 brew install jq
 
-# libyaml
-brew install libyaml
-
 # lnav
 brew install lnav
 
