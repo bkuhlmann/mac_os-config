@@ -155,6 +155,9 @@ brew install rust
 # ShellCheck
 brew install shellcheck
 
+# Siege
+brew install siege
+
 # Tag
 brew install tag
 

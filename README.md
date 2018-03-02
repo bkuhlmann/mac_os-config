@@ -80,6 +80,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [ruby-install](https://github.com/postmodern/ruby-install)
     - [Rust](https://www.rust-lang.org)
     - [ShellCheck](https://github.com/koalaman/shellcheck)
+    - [Siege](https://www.joedog.org/siege-home)
     - [Tag](https://github.com/jdberry/tag)
     - [The Silver Surfer](https://github.com/ggreer/the_silver_searcher)
     - [Tig](https://jonas.github.io/tig)
