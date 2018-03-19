@@ -248,6 +248,10 @@ defaults write net.sourceforge.cruisecontrol.CCMenu Projects '
     serverUrl = "https://circleci.com/gh/bkuhlmann/flacsmith.cc.xml";
   },
   {
+    projectName = "bkuhlmann/form-validator";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/form-validator.cc.xml";
+  },
+  {
     projectName = "bkuhlmann/gemsmith";
     serverUrl = "https://circleci.com/gh/bkuhlmann/gemsmith.cc.xml";
   },
