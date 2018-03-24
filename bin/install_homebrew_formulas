@@ -44,6 +44,9 @@ brew install diff-so-fancy
 # direnv
 brew install direnv
 
+# duti
+brew install duti
+
 # ExifTool
 brew install exiftool
 

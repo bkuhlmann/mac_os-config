@@ -43,6 +43,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [CTags](http://ctags.sourceforge.net)
     - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
     - [direnv](http://direnv.net)
+    - [duti](http://duti.org)
     - [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/index.html)
     - [Elasticsearch](https://www.elastic.co/products/elasticsearch)
     - [Elm](http://elm-lang.org)

@@ -41,3 +41,6 @@ install_git_project "https://github.com/bkuhlmann/sublime_text_setup.git" $REPO_
 rm -f $HOME/.bash_profile
 install_git_project "https://github.com/bkuhlmann/dotfiles.git" $REPO_DOTFILES "dotfiles" "bin/run i"
 source $HOME/.bashrc
+
+# duti
+duti ~/.config/duti/configuration.duti
