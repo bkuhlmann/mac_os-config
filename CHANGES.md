@@ -1,4 +1,4 @@
-# v6.1.0 (2018-04-01)
+# 6.1.0 (2018-04-01)
 
 - Added Form Validator CCMenu configuration.
 - Added Parallel configuration and Engineering directory to BOM.
@@ -11,7 +11,7 @@
 - Updated to Sublime Text Setup 8.1.0.
 - Updated to Yarn Setup 1.1.0.
 
-# v6.0.0 (2018-02-20)
+# 6.0.0 (2018-02-20)
 
 - Added Audio Bridge software install.
 - Added Gifox App Store install.
@@ -40,7 +40,7 @@
 - Removed libyaml Homebrew formula.
 - Removed unused apps from BOM.
 
-# v5.0.0 (2018-01-01)
+# 5.0.0 (2018-01-01)
 
 - Fixed Sonos application install.
 - Fixed Zoom Homebrew cask install command.
@@ -59,7 +59,7 @@
 - Updated to Sublime Text Setup 8.0.0.
 - Updated to Yarn Setup 1.0.0.
 
-# v4.0.0 (2017-11-26)
+# 4.0.0 (2017-11-26)
 
 - Added ClipGrab Homebrew cask install.
 - Updated Encrypt Me Homebrew cask installer.
@@ -71,7 +71,7 @@
 - Removed Phantom.js Homebrew formula.
 - Removed Wry Homebrew formula.
 
-# v3.3.0 (2017-11-05)
+# 3.3.0 (2017-11-05)
 
 - Added Homebrew cask install for Cardhop.
 - Added Homebrew cask install for Signal.
@@ -82,7 +82,7 @@
 - Updated to Git Cop 1.7.0.
 - Updated to Rubocop 0.51.0.
 
-# v3.2.0 (2017-09-23)
+# 3.2.0 (2017-09-23)
 
 - Added Overmind Homebrew formula.
 - Updated gem dependencies.
@@ -93,14 +93,14 @@
 - Updated to Sublime Text Setup 7.0.0.
 - Updated to Yarn Setup 0.3.0.
 
-# v3.1.0 (2017-08-06)
+# 3.1.0 (2017-08-06)
 
 - Fixed table of contents.
 - Added Terraform Homebrew formula.
 - Updated repository dependencies.
 - Updated to Git Cop 1.5.0.
 
-# v3.0.0 (2017-07-16)
+# 3.0.0 (2017-07-16)
 
 - Added CCMenu Git Cop defaults.
 - Added Gif Brewery App Store install.
@@ -120,7 +120,7 @@
 - Removed OpenSSL OSX CA formula.
 - Removed unused Homebrew formula.
 
-# v2.0.0 (2017-04-09)
+# 2.0.0 (2017-04-09)
 
 - Fixed applying basic system settings by prompting for deletion.
 - Fixed documentation.
@@ -152,7 +152,7 @@
 - Refactored Homebrew software as Homebrew Formulas.
 - Refactored QuickLook Plain Text to Homebrew Casks scripts.
 
-# v1.2.0 (2017-01-01)
+# 1.2.0 (2017-01-01)
 
 - Fixed Bartender download to use HTTPS URL.
 - Fixed Sublime Text Elm extension install.
@@ -181,7 +181,7 @@
 - Updated to pgAdmin 4.1.1.
 - Removed CHANGELOG.md (use CHANGES.md instead).
 
-# v1.1.0 (2016-10-11)
+# 1.1.0 (2016-10-11)
 
 - Fixed Bash script header to dynamically load correct environment.
 - Fixed application install script description.
@@ -201,6 +201,6 @@
 - Removed Homebrew OpenSSL force link.
 - Removed miscellaneous software from README.
 
-# v1.0.0 (2016-10-05)
+# 1.0.0 (2016-10-05)
 
 - Initial version.
