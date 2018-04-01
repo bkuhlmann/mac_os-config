@@ -1,3 +1,16 @@
+# v6.1.0 (2018-04-01)
+
+- Added Form Validator CCMenu configuration.
+- Added Parallel configuration and Engineering directory to BOM.
+- Added Siege Homebrew formula.
+- Added duti support.
+- Updated to Dotfiles 31.2.0.
+- Updated to Git Cop 2.2.0.
+- Updated to Ruby 2.5.1.
+- Updated to Ruby Setup 10.1.0.
+- Updated to Sublime Text Setup 8.1.0.
+- Updated to Yarn Setup 1.1.0.
+
 # v6.0.0 (2018-02-20)
 
 - Added Audio Bridge software install.
