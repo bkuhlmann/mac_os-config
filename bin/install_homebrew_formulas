@@ -155,6 +155,9 @@ brew install ruby-install
 # Rust
 brew install rust
 
+# SASSC
+brew install sassc
+
 # ShellCheck
 brew install shellcheck
 

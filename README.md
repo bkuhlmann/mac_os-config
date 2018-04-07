@@ -80,6 +80,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Redis](http://redis.io)
     - [ruby-install](https://github.com/postmodern/ruby-install)
     - [Rust](https://www.rust-lang.org)
+    - [SASSC](https://github.com/sass/sassc)
     - [ShellCheck](https://github.com/koalaman/shellcheck)
     - [Siege](https://www.joedog.org/siege-home)
     - [Tag](https://github.com/jdberry/tag)
