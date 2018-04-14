@@ -140,6 +140,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Viscosity](https://www.sparklabs.com/viscosity)
     - [Visual Studio Code](https://code.visualstudio.com)
     - [VLC](http://www.videolan.org/vlc)
+    - [Witch](https://manytricks.com/witch)
     - [Zoom](https://zoom.us)
 - Downloads, installs, and configures
     [App Store](http://www.apple.com/macosx/whats-new/app-store.html) applications.
