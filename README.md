@@ -176,6 +176,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Patterns](http://krillapps.com/patterns)
     - [PDFpenPro](http://www.smilesoftware.com/PDFpenPro/index.html)
     - [Pixelmator](http://www.pixelmator.com)
+    - [Shush](http://mizage.com/shush)
     - [Slack](https://slack.com)
     - [Sip](http://sipapp.io)
     - [Tweetbot](http://tapbots.com/tweetbot/mac)
