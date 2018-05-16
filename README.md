@@ -233,6 +233,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Vim Fugitive](https://github.com/tpope/vim-fugitive)
     - [Vim Git Gutter](https://github.com/airblade/vim-gitgutter)
     - [Vim Pathogen](https://github.com/tpope/vim-pathogen)
+    - [Vim Projectionist](https://github.com/tpope/vim-projectionist)
     - [Vim Rails](https://github.com/tpope/vim-rails)
     - [Vim Ruby](https://github.com/vim-ruby/vim-ruby)
     - [Vim Splitjoin](https://github.com/AndrewRadev/splitjoin.vim)
