@@ -28,6 +28,9 @@ export OMNIGRAFFLE_APP_NAME="OmniGraffle Professional 5.app"
 export OMNIGRAFFLE_VOLUME_NAME="OmniGrafflePro"
 export OMNIGRAFFLE_APP_URL="http://downloads2.omnigroup.com/software/MacOSX/10.6/OmniGrafflePro-5.4.4.dmg"
 
+export RETROBATCH_HANDLER_APP_NAME="Retrobatch.app"
+export RETROBATCH_HANDLER_APP_URL="https://flyingmeat.com/download/Retrobatch.zip"
+
 export SONOS_APP_NAME="Sonos.app"
 export SONOS_VOLUME_NAME="Sonos"
 export SONOS_APP_URL="https://www.sonos.com/redir/controller_software_mac"
