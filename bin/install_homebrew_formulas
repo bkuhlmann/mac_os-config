@@ -189,6 +189,9 @@ brew install tree
 # Vim
 brew install vim
 
+# Watch
+brew install watch
+
 # Yank
 brew install yank
 

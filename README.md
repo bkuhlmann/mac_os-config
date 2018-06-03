@@ -91,6 +91,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Reattach to User Namespace](https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard)
     - [Tree](http://mama.indstate.edu/users/ice/tree)
     - [Vim](http://www.vim.org)
+    - [Watch](https://gitlab.com/procps-ng/procps)
     - [Yank](https://github.com/mptre/yank)
     - [Yarn](https://yarnpkg.com)
     - [YouTube Download](https://rg3.github.io/youtube-dl)
