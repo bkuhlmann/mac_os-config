@@ -167,6 +167,9 @@ brew install shellcheck
 # Siege
 brew install siege
 
+# Sleepwatcher
+brew install sleepwatcher
+
 # Tag
 brew install tag
 

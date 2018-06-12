@@ -84,6 +84,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [SASSC](https://github.com/sass/sassc)
     - [ShellCheck](https://github.com/koalaman/shellcheck)
     - [Siege](https://www.joedog.org/siege-home)
+    - [Sleepwatcher](http://www.bernhard-baehr.de)
     - [Tag](https://github.com/jdberry/tag)
     - [The Silver Surfer](https://github.com/ggreer/the_silver_searcher)
     - [Tig](https://jonas.github.io/tig)
