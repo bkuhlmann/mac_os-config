@@ -41,6 +41,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [chruby](https://github.com/postmodern/chruby)
     - [cloc](http://cloc.sourceforge.net)
     - [Colorized Cat](https://github.com/jingweno/ccat)
+    - [Crystal](https://crystal-lang.org)
     - [CTags](http://ctags.sourceforge.net)
     - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
     - [direnv](http://direnv.net)

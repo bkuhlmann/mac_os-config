@@ -38,6 +38,9 @@ brew install cloc
 # Colorized Cat
 brew install ccat
 
+# Crystal
+brew install crystal
+
 # CTags
 brew install ctags
 
