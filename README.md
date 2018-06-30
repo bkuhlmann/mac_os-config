@@ -153,6 +153,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [AquaPath](https://itunes.apple.com/us/app/aquapath/id424425207)
     - [CCMenu](http://ccmenu.org)
     - [Cocoa JSON Editor](http://www.cocoajsoneditor.com)
+    - [Contrast](https://usecontrast.com)
     - [DaisyDisk](http://www.daisydiskapp.com)
     - [Day One](http://dayoneapp.com)
     - [Fantastical](http://flexibits.com/fantastical)
