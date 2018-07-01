@@ -77,6 +77,9 @@ brew install gpg
 # GPG Agent
 brew install gpg-agent
 
+# Graphics Magick
+brew install graphicsmagick
+
 # Graphviz
 brew install graphviz
 

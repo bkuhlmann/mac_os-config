@@ -54,6 +54,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Git](http://git-scm.com)
     - [GPG](https://www.gnupg.org)
     - [GPG Agent](https://www.gnupg.org)
+    - [Graphics Magick](http://www.graphicsmagick.org)
     - [Graphviz](http://www.graphviz.org)
     - [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
     - [hr](https://github.com/LuRsT/hr)
