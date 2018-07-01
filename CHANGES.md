@@ -1,3 +1,25 @@
+# 7.0.0 (2018-07-01)
+
+- Added Certbot Homebrew formula.
+- Added Contrast Mac App Store app.
+- Added Crystal Homebrew formula.
+- Added GPG Suite Homebrew cask install.
+- Added Graphics Magick Homebrew formula.
+- Added Retrobatch application install.
+- Added SASSC Homebrew formula.
+- Added Shush macOS app.
+- Added Sleepwatcher Homebrew formula.
+- Added Vim Projectionist extension install.
+- Added Watch Homebrew formula.
+- Added Witch Homebrew cask.
+- Updated Semantic Versioning links to be HTTPS.
+- Updated project changes to use semantic versions.
+- Updated restore BOM.
+- Updated to Dotfiles 32.0.0.
+- Updated to Sublime Text Setup 8.3.0.
+- Removed ImageMagick Homebrew formula.
+- Removed Sublime Text extension installs.
+
 # 6.1.0 (2018-04-01)
 
 - Added Form Validator CCMenu configuration.
