@@ -92,9 +92,6 @@ brew install hr
 # HTTPie
 brew install httpie
 
-# ImageMagick
-brew install imagemagick
-
 # Ioping
 brew install ioping
 
