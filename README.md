@@ -212,7 +212,7 @@ project not be to your liking, feel free to fork and customize for your specific
 
 ## Requirements
 
-0. [macOS](https://github.com/bkuhlmann/mac_os)
+1. [macOS](https://github.com/bkuhlmann/mac_os)
 
 ## Setup
 
