@@ -10,9 +10,16 @@
 /Users/bkuhlmann/Library/Preferences/com.runningwithcrayons.Alfred-3.plist
 /Users/bkuhlmann/Library/Preferences/com.runningwithcrayons.Alfred-Preferences-3.plist
 
+# App Store
+/Users/bkuhlmann/Library/Preferences/com.apple.appstore.commerce.plist
+/Users/bkuhlmann/Library/Preferences/com.apple.appstore.plist
+
 # App Cleaner
 /Users/bkuhlmann/Library/Preferences/com.freemacsoft.AppCleaner.plist
 /Users/bkuhlmann/Library/Preferences/net.freemacsoft.AppCleaner.plist
+
+# AudioBridge
+/Users/bkuhlmann/Library/Preferences/org.jhurliman.AudioBridge.plist
 
 # Aurora Blu-Ray Copy
 /Users/bkuhlmann/Library/Preferences/com.bluray-player-software.AuroraBlurayCopy.plist
@@ -36,9 +43,6 @@
 # Doxie
 /Users/bkuhlmann/Library/Preferences/com.getdoxie.doxie.plist
 
-# Encrypt.me
-/Users/bkuhlmann/Library/Preferences/com.bourgeoisbits.cloak.agent.plist
-
 # FaceTime
 /Users/bkuhlmann/Library/Preferences/com.apple.facetime.bag.plist
 /Users/bkuhlmann/Library/Preferences/com.apple.FaceTime.plist
@@ -52,6 +56,9 @@
 
 # Firefox
 /Users/bkuhlmann/Library/Preferences/org.mozilla.firefox.plist
+
+# GPG Keychain
+/Users/bkuhlmann/Library/Preferences/org.gpgtools.gpgkeychain.plist
 
 # Gifox
 /Users/bkuhlmann/Library/Preferences/com.gifox.gifox.plist
@@ -67,6 +74,9 @@
 /Users/bkuhlmann/Library/Preferences/com.noodlesoft.Hazel.plist
 /Users/bkuhlmann/Library/Preferences/com.noodlesoft.HazelHelper.plist
 
+# IVPN
+/Users/bkuhlmann/Library/Preferences/net.ivpn.client.IVPN.plist
+
 # Image Capture
 /Users/bkuhlmann/Library/Preferences/com.apple.ImageCaptureExtension2.plist
 /Users/bkuhlmann/Library/Preferences/com.apple.Image_Capture.plist
@@ -76,7 +86,7 @@
 
 # iStat Menus
 /Users/bkuhlmann/Library/Preferences/com.bjango.istatmenus.plist
-/Users/bkuhlmann/Library/Preferences/com.bjango.istatmenus5.extras.plist
+/Users/bkuhlmann/Library/Preferences/com.bjango.istatmenus6.extras.plist
 
 # iTerm
 /Users/bkuhlmann/Library/Preferences/com.googlecode.iterm2.plist
@@ -116,6 +126,12 @@
 # Moom
 /Users/bkuhlmann/Library/Preferences/com.manytricks.Moom.plist
 
+# Muzzle
+/Users/bkuhlmann/Library/Preferences/com.incident57.Muzzle.plist
+
+# Numi
+/Users/bkuhlmann/Library/Preferences/com.dmitrynikolaev.numi.plist
+
 # OmniGraffle
 /Users/bkuhlmann/Library/Preferences/com.omnigroup.OmniGrafflePro.plist
 
@@ -123,9 +139,6 @@
 /Users/bkuhlmann/Library/Application Support/Path Finder
 /Users/bkuhlmann/Library/Preferences/com.cocoatech.PathFinder.LSSharedFileList.plist
 /Users/bkuhlmann/Library/Preferences/com.cocoatech.PathFinder.plist
-
-# Patterns
-/Users/bkuhlmann/Library/Preferences/com.krill.Patterns.plist
 
 # Paw
 /Users/bkuhlmann/Library/Preferences/com.luckymarmot.Paw.plist
@@ -135,6 +148,9 @@
 
 # PSequel
 /Users/bkuhlmann/Library/Preferences/com.psequel.PSequel.plist
+
+# Retrobatch
+/Users/bkuhlmann/Library/Preferences/com.flyingmeat.Retrobatch.plist
 
 # Sequel Pro
 /Users/bkuhlmann/Library/Preferences/com.sequelpro.SequelPro.plist
@@ -156,9 +172,6 @@
 # Tor Browser
 /Users/bkuhlmann/Library/Preferences/org.mozilla.tor browser.plist
 
-# Trailer
-/Users/bkuhlmann/Library/Preferences/com.housetrip.Trailer.plist
-
 # Transmit
 /Users/bkuhlmann/Library/Preferences/com.panic.Transmit.plist
 
@@ -175,6 +188,9 @@
 # VLC
 /Users/bkuhlmann/Library/Application Support/org.videolan.vlc
 /Users/bkuhlmann/Library/Preferences/org.videolan.vlc.plist
+
+# Witch
+/Users/bkuhlmann/Library/Preferences/com.manytricks.Witch.plist
 
 # Zoom
 /Users/bkuhlmann/Library/Preferences/us.zoom.xos.plist
