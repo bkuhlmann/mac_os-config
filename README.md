@@ -191,6 +191,7 @@ project not be to your liking, feel free to fork and customize for your specific
 - Downloads, installs, and configures software applications not supported via Homebrew or the App
   Store:
     - [Audio Bridge](https://audiobridge.site)
+    - [Aurora Blu-ray Copy](http://www.bluray-player-software.com/mac-bluray-dvd-copy.htm)
     - [OmniGraffle](http://www.omnigroup.com/applications/omnigraffle)
     - [Retrobatch](https://flyingmeat.com/retrobatch)
     - [Sonos](http://www.sonos.com)

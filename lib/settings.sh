@@ -24,6 +24,10 @@ export AUDIO_BRIDGE_APP_NAME="AudioBridge.app"
 export AUDIO_BRIDGE_VOLUME_NAME="AudioBridge"
 export AUDIO_BRIDGE_APP_URL="https://audiobridge.site/releases/AudioBridge-1.3.0.dmg"
 
+export AURORA_BLU_RAY_COPY_APP_NAME="Aurora Blu-ray Copy.app"
+export AURORA_BLU_RAY_COPY_VOLUME_NAME="Aurora Blu-ray Copy"
+export AURORA_BLU_RAY_COPY_APP_URL="http://www.bluray-player-software.com/user/download/Aurora_Bluray_Copy.dmg"
+
 export OMNIGRAFFLE_APP_NAME="OmniGraffle Professional 5.app"
 export OMNIGRAFFLE_VOLUME_NAME="OmniGrafflePro"
 export OMNIGRAFFLE_APP_URL="http://downloads2.omnigroup.com/software/MacOSX/10.6/OmniGrafflePro-5.4.4.dmg"
