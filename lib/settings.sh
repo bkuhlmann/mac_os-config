@@ -22,7 +22,7 @@ export REPO_DOTFILES=32.0.0
 # Applications
 export AUDIO_BRIDGE_APP_NAME="AudioBridge.app"
 export AUDIO_BRIDGE_VOLUME_NAME="AudioBridge"
-export AUDIO_BRIDGE_APP_URL="https://audiobridge.site/releases/AudioBridge-1.3.0.dmg"
+export AUDIO_BRIDGE_APP_URL="https://audiobridge.site/releases/AudioBridge-1.5.1.dmg"
 
 export AURORA_BLU_RAY_COPY_APP_NAME="Aurora Blu-ray Copy.app"
 export AURORA_BLU_RAY_COPY_VOLUME_NAME="Aurora Blu-ray Copy"
