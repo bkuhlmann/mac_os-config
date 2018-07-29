@@ -28,6 +28,10 @@ export AURORA_BLU_RAY_COPY_APP_NAME="Aurora Blu-ray Copy.app"
 export AURORA_BLU_RAY_COPY_VOLUME_NAME="Aurora Blu-ray Copy"
 export AURORA_BLU_RAY_COPY_APP_URL="http://www.bluray-player-software.com/user/download/Aurora_Bluray_Copy.dmg"
 
+export IVPN_APP_NAME="IVPN.app"
+export IVPN_VOLUME_NAME="IVPN"
+export IVPN_APP_URL="https://www.ivpn.net/releases/osx/IVPN-2.8.1.dmg"
+
 export OMNIGRAFFLE_APP_NAME="OmniGraffle Professional 5.app"
 export OMNIGRAFFLE_VOLUME_NAME="OmniGrafflePro"
 export OMNIGRAFFLE_APP_URL="http://downloads2.omnigroup.com/software/MacOSX/10.6/OmniGrafflePro-5.4.4.dmg"

@@ -192,6 +192,7 @@ project not be to your liking, feel free to fork and customize for your specific
   Store:
     - [Audio Bridge](https://audiobridge.site)
     - [Aurora Blu-ray Copy](http://www.bluray-player-software.com/mac-bluray-dvd-copy.htm)
+    - [IVPN](https://www.ivpn.net)
     - [OmniGraffle](http://www.omnigroup.com/applications/omnigraffle)
     - [Retrobatch](https://flyingmeat.com/retrobatch)
     - [Sonos](http://www.sonos.com)
