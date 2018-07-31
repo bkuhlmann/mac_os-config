@@ -22,7 +22,7 @@ printf "%s\n" "$MRI" > "$HOME/.ruby-version"
 git clone https://github.com/bkuhlmann/ruby_setup.git
 (
   cd ruby_setup
-  git checkout $REPO_RUBY_SETUP
+  git -c advice.detachedHead=false checkout $REPO_RUBY_SETUP
   /usr/local/bin/ruby-install "ruby-$MRI"
   bin/run i
 )
