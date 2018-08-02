@@ -16,10 +16,11 @@ project not be to your liking, feel free to fork and customize for your specific
   - [Requirements](#requirements)
   - [Setup](#setup)
   - [Usage](#usage)
-    - [Customization](#customization)
-  - [Additional Software](#additional-software)
+    - [Pre-Install](#pre-install)
+    - [Install](#install)
+    - [Post-Install](#post-install)
     - [Newsyslog](#newsyslog)
-    - [Post Install](#post-install)
+    - [Customization](#customization)
   - [Versioning](#versioning)
   - [Code of Conduct](#code-of-conduct)
   - [Contributions](#contributions)
@@ -225,7 +226,7 @@ Current Version (stable):
 
     git clone https://github.com/bkuhlmann/mac_os-config.git
     cd mac_os-config
-    git checkout 7.0.0
+    git checkout 7.1.0
 
 Master Version (unstable):
 
@@ -234,33 +235,61 @@ Master Version (unstable):
 
 ## Usage
 
-See the [macOS](https://github.com/bkuhlmann/mac_os) project for usage as it provides the command
-line interface to the configuration defined by this project.
+The following will walk you through the steps of installing/re-installing your machine.
 
-### Customization
+### Pre-Install
 
-While this project's configuration is opinionated and tailored for my setup, you can easily fork
-this project and customize it for your environment. Start by editing the files found in the `bin`
-and `lib` directories. Here is a breakdown of each:
+Double check you have the following in place:
 
-- `bin/apply_basic_settings`: Applies basic and initial settings for setting up a machine.
-- `bin/apply_default_settings`: Applies useful system and application defaults.
-- `bin/install_app_store`: Installs macOS, GUI-based, App Store applications.
-- `bin/install_applications`: Installs macOS, GUI-based, non-App Store applications.
-- `bin/install_extensions`: Installs macOS application extensions and add-ons.
-- `bin/install_homebrew_casks`: Installs Homebrew Casks.
-- `bin/install_homebrew_formulas`: Installs Homebrew Formulas.
-- `bin/restore_backup`: Restores system/application settings from backup image.
-- `bin/setup_software`: Configures and launches (if necessary) installed software.
-- `lib/settings.sh`: Defines custom settings for software applications, extensions, etc.
+1. A recent backup of your machine and a copy of your credentials to restore the backup.
+1. A copy of your of your Apple credentials.
 
-*TIP*: The installer determines which applications/extensions to install as defined in the
-`settings.sh` script. Applications defined with the "APP_NAME" suffix and extensions defined with
-the "EXTENSION_PATH" suffix inform the installer what to care about. Removing/commenting out these
-applications/extensions within the `settings.sh` file will cause the installer to skip these
-applications/extensions.
+### Install
 
-## Additional Software
+See the [macOS](https://github.com/bkuhlmann/mac_os#usage) project for usage as it provides the
+command line interface for running the configuration defined by this project.
+
+### Post-Install
+
+The following are additional steps, not easily automated, that are worth completing after the
+install scripts have been executed:
+
+- System Preferences:
+  - Security & Privacy:
+    - General:
+      - Require password immediately after sleep or screen saver begins.
+      - Enable message when screen is locked. Example: `<twitter> | <email> | <phone> | <url>`.
+      - Allow your Apple Watch to unlock your Mac.
+    - FileVault:
+      - Enable FileVault and save the recovery key in a secure location (i.e. 1Password).
+    - Firewall:
+      - Enabled it.
+      - Automatically allow signed software.
+      - Enable stealth mode.
+    - Privacy:
+      - Apps like Dash, Dropbox, etc. will need to be enabled for accessibility.
+  - Notifications:
+    - Enable *Do Not Disturb* from 9pm to 7am.
+    - Enable *When display is sleeping.*
+    - Enable *When mirroring.*
+    - Enable allow repeated calls.
+    - Disable *Show notifications on lock screen* for all apps.
+    - Disable *Play sounds for notifications* for all apps.
+    - Configure all calendar apps to show banners instead of alerts for notifications.
+  - Printers & Scanners:
+    - Add printer/scanner.
+  - iCloud:
+    - Enable Find My Mac.
+  - Internet Accounts:
+    - Add all accounts used by Mail.
+  - Network:
+    - Configure Wi-Fi.
+  - Users & Groups:
+    - Update avatar.
+    - Remove unused login items.
+    - Disable guest account.
+- iStat Menus (double click, within the Applications folder, to install as a system preference).
+- Hazel (double click, within the Applications folder, to install as a system preference).
 
 ### Newsyslog
 
@@ -314,45 +343,28 @@ regularly scheduled intervals. To do this create the following file:
 
 That's it. System-wide log rotation is setup for your projects.
 
-### Post Install
+### Customization
 
-The following are additional steps, not easily automated, that are worth completing after the
-install scripts have been executed:
+While this project's configuration is opinionated and tailored for my setup, you can easily fork
+this project and customize it for your environment. Start by editing the files found in the `bin`
+and `lib` directories. Here is a breakdown of each:
 
-- Configure System Preferences:
-  - Security & Privacy:
-    - General:
-      - Require password immediately after sleep or screen saver begins.
-      - Enable message when screen is locked. Example: `<twitter> | <email> | <phone> | <url>`.
-      - Allow your Apple Watch to unlock your Mac.
-    - FileVault:
-      - Enable FileVault and save the recovery key in a secure location (i.e. 1Password).
-    - Firewall:
-      - Enabled it.
-      - Automatically allow signed software.
-      - Enable stealth mode.
-    - Privacy:
-      - Apps like Dash, Dropbox, etc. will need to be enabled for accessibility.
-  - Notifications:
-    - Enable *Do Not Disturb* from 9pm to 7am.
-    - Enable *When display is sleeping.*
-    - Enable *When mirroring.*
-    - Enable allow repeated calls.
-    - Disable *Show notifications on lock screen* for all apps.
-    - Disable *Play sounds for notifications* for all apps.
-    - Configure all calendar apps to show banners instead of alerts for notifications.
-  - Printers & Scanners:
-    - Add printer/scanner.
-  - iCloud:
-    - Enable Find My Mac.
-  - Internet Accounts:
-    - Add all accounts used by Mail.
-  - Network:
-    - Configure Wi-Fi.
-  - Users & Groups:
-    - Update avatar.
-    - Remove unused login items.
-    - Disable guest account.
+- `bin/apply_basic_settings`: Applies basic and initial settings for setting up a machine.
+- `bin/apply_default_settings`: Applies useful system and application defaults.
+- `bin/install_app_store`: Installs macOS, GUI-based, App Store applications.
+- `bin/install_applications`: Installs macOS, GUI-based, non-App Store applications.
+- `bin/install_extensions`: Installs macOS application extensions and add-ons.
+- `bin/install_homebrew_casks`: Installs Homebrew Casks.
+- `bin/install_homebrew_formulas`: Installs Homebrew Formulas.
+- `bin/restore_backup`: Restores system/application settings from backup image.
+- `bin/setup_software`: Configures and launches (if necessary) installed software.
+- `lib/settings.sh`: Defines custom settings for software applications, extensions, etc.
+
+*TIP*: The installer determines which applications/extensions to install as defined in the
+`settings.sh` script. Applications defined with the "APP_NAME" suffix and extensions defined with
+the "EXTENSION_PATH" suffix inform the installer what to care about. Removing/commenting out these
+applications/extensions within the `settings.sh` file will cause the installer to skip these
+applications/extensions.
 
 ## Versioning
 

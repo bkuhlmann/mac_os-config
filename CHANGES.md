@@ -1,3 +1,12 @@
+# 7.1.0 (2018-08-01)
+
+- Fixed Markdown ordered list numbering.
+- Added Aurora Blu-ray Copy application install.
+- Added IVPN application install.
+- Updated Git checkout to silence detached head warnings.
+- Updated restore BOM with latest applications.
+- Updated to AudioBridge 1.5.1.
+
 # 7.0.0 (2018-07-01)
 
 - Added Certbot Homebrew formula.
