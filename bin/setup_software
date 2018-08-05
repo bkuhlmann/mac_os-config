@@ -19,28 +19,17 @@ chsh -s /usr/local/bin/bash
 printf "%s\n" "---" > "$HOME/.gemrc"
 printf "%s\n" "gem: --no-document" >> "$HOME/.gemrc"
 printf "%s\n" "$MRI" > "$HOME/.ruby-version"
-git clone https://github.com/bkuhlmann/ruby_setup.git
-(
-  cd ruby_setup
-  git -c advice.detachedHead=false checkout $REPO_RUBY_SETUP
-  /usr/local/bin/ruby-install "ruby-$MRI"
-  bin/run i
-)
-rm -rf ruby_setup
+/usr/local/bin/ruby-install "ruby-$MRI"
 
-# Yarn
-install_git_project "https://github.com/bkuhlmann/yarn_setup.git" $REPO_YARN_SETUP "yarn_setup" "bin/run i"
-
-# Sublime Text Setup
+# Sublime Text
 if [ ! -e "/usr/bin/sublime" ]; then
   sudo ln -sv "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/sublime
 fi
-install_git_project "https://github.com/bkuhlmann/sublime_text_setup.git" $REPO_SUBLIME_TEXT_SETUP "sublime_text_setup" "bin/run i"
 
 # Dotfiles
 rm -f $HOME/.bash_profile
 install_git_project "https://github.com/bkuhlmann/dotfiles.git" $REPO_DOTFILES "dotfiles" "bin/run i"
 source $HOME/.bashrc
 
-# duti
-duti ~/.config/duti/configuration.duti
+# Yarn Setup
+install_git_project "https://github.com/bkuhlmann/yarn_setup.git" $REPO_YARN_SETUP "yarn_setup" "bin/run i"
