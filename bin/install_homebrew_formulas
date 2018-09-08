@@ -92,6 +92,9 @@ brew install heroku
 # hr
 brew install hr
 
+# Htop
+brew install htop
+
 # HTTPie
 brew install httpie
 
