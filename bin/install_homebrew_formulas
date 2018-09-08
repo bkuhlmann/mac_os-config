@@ -26,6 +26,9 @@ brew install bash
 # Bash Completion
 brew install bash-completion
 
+# Bat
+brew install bat
+
 # Certbot
 brew install certbot
 

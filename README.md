@@ -38,6 +38,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [asciinema](https://asciinema.org)
     - [Bash](https://www.gnu.org/software/bash)
     - [Bash Completion](http://bash-completion.alioth.debian.org)
+    - [Bat](https://github.com/sharkdp/bat)
     - [Certbot](https://certbot.eff.org)
     - [chruby](https://github.com/postmodern/chruby)
     - [cloc](http://cloc.sourceforge.net)
