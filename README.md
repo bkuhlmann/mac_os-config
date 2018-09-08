@@ -70,6 +70,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Mecurial](http://mercurial.selenic.com)
     - [Mosh](http://mosh.mit.edu)
     - [Namebench](https://code.google.com/p/namebench)
+    - [NCurses Disk Usage](https://dev.yorhel.nl/ncdu)
     - [Network Grep](http://ngrep.sourceforge.net)
     - [Nginx](http://wiki.nginx.org)
     - [Node.js](http://nodejs.org)

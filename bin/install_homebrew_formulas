@@ -122,6 +122,9 @@ brew install mosh
 # Namebench
 brew install namebench
 
+# NCurses Disk Usage
+brew install ncdu
+
 # Network Grep
 brew install ngrep
 
