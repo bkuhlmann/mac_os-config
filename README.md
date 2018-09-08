@@ -74,6 +74,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Network Grep](http://ngrep.sourceforge.net)
     - [Nginx](http://wiki.nginx.org)
     - [Node.js](http://nodejs.org)
+    - [Noti](https://github.com/variadico/noti)
     - [Overmind](https://github.com/DarthSim/overmind)
     - [Pandoc](https://pandoc.org)
     - [Parallel](https://savannah.gnu.org/projects/parallel)

@@ -134,6 +134,9 @@ brew install nginx
 # Node
 brew install node
 
+# Noti
+brew install noti
+
 # Overmind
 brew install overmind
 
