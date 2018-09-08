@@ -80,6 +80,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Peco](https://github.com/peco/peco)
     - [pgcli](http://pgcli.com)
     - [Pigz](http://www.zlib.net/pigz)
+    - [Pretty Ping](http://denilson.sa.nom.br/prettyping)
     - [Pipe Viewer](http://www.ivarch.com/programs/pv.shtml)
     - [PostgreSQL](http://www.postgresql.org)
     - [Ranger](http://ranger.nongnu.org)
