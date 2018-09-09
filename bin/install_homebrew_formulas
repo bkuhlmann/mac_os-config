@@ -65,6 +65,9 @@ brew install elasticsearch
 # Elm
 brew install elm
 
+# fd
+brew install fd
+
 # FLAC
 brew install flac
 

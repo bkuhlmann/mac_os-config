@@ -51,6 +51,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/index.html)
     - [Elasticsearch](https://www.elastic.co/products/elasticsearch)
     - [Elm](http://elm-lang.org)
+    - [fd](https://github.com/sharkdp/fd)
     - [FLAC](https://www.xiph.org/flac)
     - [FZF](https://github.com/junegunn/fzf)
     - [Git](http://git-scm.com)
