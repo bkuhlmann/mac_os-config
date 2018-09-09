@@ -63,6 +63,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [hr](https://github.com/LuRsT/hr)
     - [htop](http://hisham.hm/htop)
     - [HTTPie](https://github.com/jkbrzt/httpie)
+    - [Hyperfine](https://github.com/sharkdp/hyperfine)
     - [Ioping](https://code.google.com/p/ioping)
     - [jq](http://stedolan.github.com/jq)
     - [lnav](http://braumeister.org/formula/lnav)

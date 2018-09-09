@@ -101,6 +101,9 @@ brew install htop
 # HTTPie
 brew install httpie
 
+# Hyperfine
+brew install hyperfine
+
 # Ioping
 brew install ioping
 
