@@ -111,6 +111,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Alfred](http://www.alfredapp.com)
     - [App Cleaner](http://www.freemacsoft.net/appcleaner)
     - [Bartender](http://www.macbartender.com)
+    - [Brave](https://brave.com)
     - [Carbon Copy Cloner](http://www.bombich.com)
     - [Cardhop](https://flexibits.com/cardhop)
     - [ClipGrab](https://clipgrab.org)
