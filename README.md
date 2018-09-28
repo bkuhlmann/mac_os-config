@@ -175,7 +175,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [iPhoto](http://www.apple.com/ilife/iphoto)
     - [Kaleidoscope](http://www.kaleidoscopeapp.com)
     - [Key Codes](https://manytricks.com/keycodes)
-    - [Keymo](http://manytricks.com/keymo)
+    - [Keymou](https://manytricks.com/keymou)
     - [Keynote](https://www.apple.com/keynote)
     - [Kindle](http://www.amazon.com/gp/feature.html?docId=1000464931)
     - [Leech](https://manytricks.com/leech)
