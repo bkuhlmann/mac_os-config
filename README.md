@@ -115,7 +115,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Cardhop](https://flexibits.com/cardhop)
     - [ClipGrab](https://clipgrab.org)
     - [Dash](http://kapeli.com/dash)
-    - [DNS Crypt](https://dnscrypt.org)
     - [Doxie](http://www.getdoxie.com)
     - [Dropbox](https://www.dropbox.com)
     - [Encrypt Me](https://encrypt.me)
