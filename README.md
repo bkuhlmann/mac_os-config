@@ -140,7 +140,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Paw](https://paw.cloud)
     - [pgAdmin](http://www.pgadmin.org/index.php)
     - [PSequel](http://www.psequel.com)
-    - [QLStephen](https://whomwah.github.io/qlstephen)
     - [Signal](https://signal.org)
     - [Skitch](https://evernote.com/products/skitch)
     - [Spotify](https://www.spotify.com)
