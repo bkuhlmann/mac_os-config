@@ -13,7 +13,6 @@ brew cask install clipgrab
 brew cask install dash
 brew cask install doxie
 brew cask install dropbox
-brew cask install encryptme
 brew cask install firefox
 brew cask install google-chrome
 brew cask install gpg-suite

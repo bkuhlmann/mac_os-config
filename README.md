@@ -117,7 +117,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Dash](http://kapeli.com/dash)
     - [Doxie](http://www.getdoxie.com)
     - [Dropbox](https://www.dropbox.com)
-    - [Encrypt Me](https://encrypt.me)
     - [Firefox](http://www.mozilla.com/en-US/firefox)
     - [Google Chrome](http://www.google.com/chrome)
     - [GPG Suite](https://gpgtools.org)
