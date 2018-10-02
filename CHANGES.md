@@ -1,3 +1,21 @@
+# 7.2.0 (2018-10-01)
+
+- Fixed Mac App Store link.
+- Added Bat Homebrew formula.
+- Added Bear macOS App Store application.
+- Added Brave Homebrew cask.
+- Added Hyperfine Homebrew formula.
+- Added Noti Homebrew formula.
+- Added Pretty Ping Homebrew formula.
+- Added fd Homebrew formula.
+- Added htop Homebrew formula.
+- Added ncdu Homebrew formula.
+- Updated software setup and restore scripts.
+- Updated to Contributor Covenant Code of Conduct 1.4.1.
+- Updated to Dotfiles 32.1.0.
+- Updated to Ruby Setup 10.2.0.
+- Updated to new Keymou name.
+
 # 7.1.0 (2018-08-01)
 
 - Fixed Markdown ordered list numbering.
