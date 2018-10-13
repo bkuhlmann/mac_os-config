@@ -65,6 +65,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Hyperfine](https://github.com/sharkdp/hyperfine)
     - [Ioping](https://code.google.com/p/ioping)
     - [jq](http://stedolan.github.com/jq)
+    - [lame](http://lame.sourceforge.net)
     - [lnav](http://braumeister.org/formula/lnav)
     - [Lynis](https://github.com/CISOfy/lynis)
     - [Mac App Store](https://github.com/mas-cli/mas)

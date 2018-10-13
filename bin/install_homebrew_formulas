@@ -107,6 +107,9 @@ brew install ioping
 # JSON CLI Parser
 brew install jq
 
+# lame
+brew install lame
+
 # lnav
 brew install lnav
 
