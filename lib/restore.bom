@@ -57,9 +57,6 @@
 # Firefox
 /Users/bkuhlmann/Library/Preferences/org.mozilla.firefox.plist
 
-# GPG Keychain
-/Users/bkuhlmann/Library/Preferences/org.gpgtools.gpgkeychain.plist
-
 # Gifox
 /Users/bkuhlmann/Library/Preferences/com.gifox.gifox.plist
 

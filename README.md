@@ -120,7 +120,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Dropbox](https://www.dropbox.com)
     - [Firefox](http://www.mozilla.com/en-US/firefox)
     - [Google Chrome](http://www.google.com/chrome)
-    - [GPG Suite](https://gpgtools.org)
     - [HandBrake](http://handbrake.fr)
     - [HandBrake CLI](http://handbrake.fr)
     - [Hazel](http://www.noodlesoft.com/hazel.php)
