@@ -86,9 +86,6 @@ brew install graphicsmagick
 # Graphviz
 brew install graphviz
 
-# Heroku
-brew install heroku
-
 # hr
 brew install hr
 
