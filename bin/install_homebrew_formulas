@@ -74,9 +74,6 @@ brew install git
 # GPG
 brew install gpg
 
-# GPG Agent
-brew install gpg-agent
-
 # Graphics Magick
 brew install graphicsmagick
 
