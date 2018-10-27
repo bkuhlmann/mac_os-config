@@ -56,9 +56,6 @@ brew install duti
 # ExifTool
 brew install exiftool
 
-# Elasticsearch
-brew install elasticsearch
-
 # Elm
 brew install elm
 

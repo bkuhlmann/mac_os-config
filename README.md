@@ -48,7 +48,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [direnv](http://direnv.net)
     - [duti](http://duti.org)
     - [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/index.html)
-    - [Elasticsearch](https://www.elastic.co/products/elasticsearch)
     - [Elm](http://elm-lang.org)
     - [fd](https://github.com/sharkdp/fd)
     - [FLAC](https://www.xiph.org/flac)
