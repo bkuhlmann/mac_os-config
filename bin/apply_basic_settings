@@ -1,9 +1,7 @@
 #! /usr/bin/env bash
 
-# DESCRIPTION
 # Applies basic system settings.
 
-# EXECUTION
 read -p "What is this machine's label (Example: \"Alchemist\")? " mac_os_label
 if [[ -z "$mac_os_label" ]]; then
   printf "ERROR: Invalid MacOS label.\n"

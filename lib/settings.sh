@@ -1,9 +1,7 @@
 #! /usr/bin/env bash
 
-# DESCRIPTION
 # Defines global settings.
 
-# SETTINGS
 # General
 set -o nounset
 set -o errexit
@@ -50,6 +48,7 @@ export SONOS_APP_URL="https://www.sonos.com/redir/controller_software_mac"
 export SUBLIME_URL_HANDLER_APP_NAME="SublHandler.app"
 export SUBLIME_URL_HANDLER_APP_URL="https://github.com/downloads/asuth/subl-handler/SublHandler.zip"
 
+# Application Extensions
 export VIM_EXTENSION_ROOT="$HOME/.vim/bundle"
 export VIM_BLOCKLE_EXTENSION_PATH="$VIM_EXTENSION_ROOT/vim-blockle"
 export VIM_BLOCKLE_EXTENSION_URL="https://github.com/tpope/vim-bundler"

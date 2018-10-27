@@ -1,6 +1,5 @@
 #! /usr/bin/env bash
 
-# DESCRIPTION
 # Sets up and launches (if necessary) installed software.
 
 # Bash

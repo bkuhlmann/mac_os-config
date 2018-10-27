@@ -1,6 +1,5 @@
 #! /usr/bin/env bash
 
-# DESCRIPTION
 # Performs restoration of backup data.
 
 read -p "What is the backup volume root path (Example: \"/Volumes/alchemist\")? " mac_os_backup_root

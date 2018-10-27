@@ -1,9 +1,7 @@
 #! /usr/bin/env bash
 
-# DESCRIPTION
 # Applies system and application defaults.
 
-# EXECUTION
 printf "System - Disable boot sound effects\n"
 sudo nvram SystemAudioVolume=" "
 

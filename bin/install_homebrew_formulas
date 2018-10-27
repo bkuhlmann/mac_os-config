@@ -1,223 +1,81 @@
 #! /usr/bin/env bash
 
-# DESCRIPTION
 # Installs Homebrew software.
 
-# EXECUTION
-# Homebrew
 if ! command -v brew > /dev/null; then
   ruby -e "$(curl --location --fail --silent --show-error https://raw.githubusercontent.com/Homebrew/install/master/install)"
   export PATH="/usr/local/bin:$PATH"
   printf "export PATH=\"/usr/local/bin:$PATH\"\n" >> $HOME/.bash_profile
 fi
 
-# Readline
 brew install readline
-
-# OpenSSL
 brew install openssl
-
-# asciinema
 brew install asciinema
-
-# Bash
 brew install bash
-
-# Bash Completion
 brew install bash-completion
-
-# Bat
 brew install bat
-
-# Certbot
 brew install certbot
-
-# chruby
 brew install chruby
-
-# cloc
 brew install cloc
-
-# Crystal
 brew install crystal
-
-# CTags
 brew install ctags
-
-# Diff So Fancy
 brew install diff-so-fancy
-
-# direnv
 brew install direnv
-
-# duti
 brew install duti
-
-# ExifTool
 brew install exiftool
-
-# Elm
 brew install elm
-
-# fd
 brew install fd
-
-# FLAC
 brew install flac
-
-# FZF
 brew install fzf
-
-# Git
 brew install git
-
-# GPG
 brew install gpg
-
-# Graphics Magick
 brew install graphicsmagick
-
-# Graphviz
 brew install graphviz
-
-# hr
 brew install hr
-
-# Htop
 brew install htop
-
-# HTTPie
 brew install httpie
-
-# Hyperfine
 brew install hyperfine
-
-# Ioping
 brew install ioping
-
-# JSON CLI Parser
 brew install jq
-
-# lame
 brew install lame
-
-# lnav
 brew install lnav
-
-# Lynis
 brew install lynis
-
-# Mac App Store CLI
 brew install mas
-
-# Mercurial
 brew install hg
-
-# Mosh
 brew install mosh
-
-# Namebench
 brew install namebench
-
-# NCurses Disk Usage
 brew install ncdu
-
-# Network Grep
 brew install ngrep
-
-# Nginx
 brew install nginx
-
-# Node
 brew install node
-
-# Noti
 brew install noti
-
-# Overmind
 brew install overmind
-
-# Pandoc
 brew install pandoc
-
-# Parallel
 brew install parallel
-
-# Peco
 brew install peco
-
-# pgcli
 brew install pgcli
-
-# Pigz
 brew install pigz
-
-# Pretty Ping
 brew install prettyping
-
-# Pipe Viewer
 brew install pv
-
-# PostgreSQL
 brew install postgresql
-
-# Ranger
 brew install ranger
-
-# Redis
 brew install redis
-
-# Ruby Install
 brew install ruby-install
-
-# Rust
 brew install rust
-
-# SASSC
 brew install sassc
-
-# ShellCheck
 brew install shellcheck
-
-# Siege
 brew install siege
-
-# Sleepwatcher
 brew install sleepwatcher
-
-# Tag
 brew install tag
-
-# Terraform
 brew install terraform
-
-# The Silver Searcher
 brew install the_silver_searcher
-
-# Tig
 brew install tig
-
-# tmux
 brew install tmux
 brew install reattach-to-user-namespace
-
-# Tree
 brew install tree
-
-# Vim
 brew install vim
-
-# Watch
 brew install watch
-
-# Yank
 brew install yank
-
-# Yarn
 brew install yarn
-
-# YouTube Download
 brew install youtube-dl
-
-# Z
 brew install z

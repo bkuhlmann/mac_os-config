@@ -1,47 +1,17 @@
 #! /usr/bin/env bash
 
-# DESCRIPTION
 # Installs application extensions.
 
-# SETUP
-
-# EXECUTION
-
-# Vim - Blockle
 install_git_app "$VIM_BLOCKLE_EXTENSION_URL" "$VIM_BLOCKLE_EXTENSION_PATH"
-
-# Vim - Bundler
 install_git_app "$VIM_BUNDLER_EXTENSION_URL" "$VIM_BUNDLER_EXTENSION_PATH"
-
-# Vim - Commentary
 install_git_app "$VIM_COMMENTARY_EXTENSION_URL" "$VIM_COMMENTARY_EXTENSION_PATH"
-
-# Vim - Fugitive
 install_git_app "$VIM_FUGITIVE_EXTENSION_URL" "$VIM_FUGITIVE_EXTENSION_PATH"
-
-# Vim - Git Gutter
 install_git_app "$VIM_GIT_GUTTER_EXTENSION_URL" "$VIM_GIT_GUTTER_EXTENSION_PATH"
-
-# Vim - Pathogen
 install_file "$VIM_PATHOGEN_EXTENSION_URL" "$VIM_PATHOGEN_EXTENSION_PATH"
-
-# Vim - Projectionist
 install_git_app "$VIM_PROJECTIONIST_EXTENSION_URL" "$VIM_PROJECTIONIST_EXTENSION_PATH"
-
-# Vim - Rails
 install_git_app "$VIM_RAILS_EXTENSION_URL" "$VIM_RAILS_EXTENSION_PATH"
-
-# Vim - Ruby
 install_git_app "$VIM_RUBY_EXTENSION_URL" "$VIM_RUBY_EXTENSION_PATH"
-
-# Vim - Splitjoin
 install_git_app "$VIM_SPLITJOIN_EXTENSION_URL" "$VIM_SPLITJOIN_EXTENSION_PATH"
-
-# Vim - Text Object
 install_git_app "$VIM_TEXT_OBJECT_EXTENSION_URL" "$VIM_TEXT_OBJECT_EXTENSION_PATH"
-
-# Vim - Text Object Ruby Block
 install_git_app "$VIM_TEXT_OBJECT_RUBY_BLOCK_EXTENSION_URL" "$VIM_TEXT_OBJECT_RUBY_BLOCK_EXTENSION_PATH"
-
-# Vim - Unimpaired
 install_git_app "$VIM_UNIMPAIRED_EXTENSION_URL" "$VIM_UNIMPAIRED_EXTENSION_PATH"
