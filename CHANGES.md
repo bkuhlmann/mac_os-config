@@ -1,3 +1,29 @@
+# 8.0.0 (2018-11-01)
+
+- Fixed Brave Homebrew cask install.
+- Fixed Tor Browser cask install.
+- Added Lame Homebrew formula.
+- Added ScreenTray application install.
+- Updated Homebrew formulas to be alpa-sorted.
+- Updated to Dotfiles 32.2.0.
+- Updated to OmniFocus 3.
+- Updated to Ruby 2.5.2.
+- Updated to Ruby 2.5.3.
+- Updated to Ruby Setup 11.0.0.
+- Updated to Sublime Text Setup 8.4.0.
+- Updated to Yarn Setup 1.2.0.
+- Removed Colorized Cat Homebrew formula.
+- Removed DNS Crypt.
+- Removed Elasticsearch Homebrew formula.
+- Removed Encrypt.me.
+- Removed GPG Agent Homebrew formula.
+- Removed GPG Suite Homebrew cask.
+- Removed Heroku Homebrew formula.
+- Removed Quicklook Stephen.
+- Removed Skitch application.
+- Removed YouTube DL Homebrew formula.
+- Removed unnecessary script comments.
+
 # 7.2.0 (2018-10-01)
 
 - Fixed Mac App Store link.
