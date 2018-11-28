@@ -118,7 +118,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Firefox](http://www.mozilla.com/en-US/firefox)
     - [Google Chrome](http://www.google.com/chrome)
     - [HandBrake](http://handbrake.fr)
-    - [HandBrake CLI](http://handbrake.fr)
+    - [HandBrake Batch](https://osomac.com/apps/osx/handbrake-batch)
     - [Hazel](http://www.noodlesoft.com/hazel.php)
     - [ImageOptim](http://imageoptim.pornel.net)
     - [iStat Menus](https://bjango.com/mac/istatmenus)
@@ -194,6 +194,7 @@ project not be to your liking, feel free to fork and customize for your specific
   Store:
     - [Audio Bridge](https://audiobridge.site)
     - [Aurora Blu-ray Copy](http://www.bluray-player-software.com/mac-bluray-dvd-copy.htm)
+    - [HandBrake CLI](http://handbrake.fr)
     - [IVPN](https://www.ivpn.net)
     - [OmniGraffle](http://www.omnigroup.com/applications/omnigraffle)
     - [Retrobatch](https://flyingmeat.com/retrobatch)

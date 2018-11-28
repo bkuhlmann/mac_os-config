@@ -26,6 +26,10 @@ export AURORA_BLU_RAY_COPY_APP_NAME="Aurora Blu-ray Copy.app"
 export AURORA_BLU_RAY_COPY_VOLUME_NAME="Aurora Blu-ray Copy"
 export AURORA_BLU_RAY_COPY_APP_URL="http://www.bluray-player-software.com/user/download/Aurora_Bluray_Copy.dmg"
 
+export HAND_BRAKE_CLI_APP_NAME="HandBrakeCLI"
+export HAND_BRAKE_CLI_VOLUME_NAME="HandBrakeCLI-1.1.2"
+export HAND_BRAKE_CLI_APP_URL="https://download.handbrake.fr/releases/1.1.2/HandBrakeCLI-1.1.2.dmg"
+
 export IVPN_APP_NAME="IVPN.app"
 export IVPN_VOLUME_NAME="IVPN"
 export IVPN_APP_URL="https://www.ivpn.net/releases/osx/IVPN-2.8.1.dmg"
