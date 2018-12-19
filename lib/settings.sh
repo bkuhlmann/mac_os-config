@@ -42,7 +42,7 @@ export RETROBATCH_HANDLER_APP_NAME="Retrobatch.app"
 export RETROBATCH_HANDLER_APP_URL="https://flyingmeat.com/download/Retrobatch.zip"
 
 export SCREENTRAY_APP_NAME="ScreenTray.app"
-export SCREENTRAY_VOLUME_NAME="ScreenTray 1.1.0"
+export SCREENTRAY_VOLUME_NAME="ScreenTray 1.2.0"
 export SCREENTRAY_APP_URL="https://screentray.com/download"
 
 export SONOS_APP_NAME="Sonos.app"
