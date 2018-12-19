@@ -32,7 +32,7 @@ export HAND_BRAKE_CLI_APP_URL="https://download.handbrake.fr/releases/1.1.2/Hand
 
 export IVPN_APP_NAME="IVPN.app"
 export IVPN_VOLUME_NAME="IVPN"
-export IVPN_APP_URL="https://www.ivpn.net/releases/osx/IVPN-2.8.1.dmg"
+export IVPN_APP_URL="https://cdn.ivpn.net/releases/osx/IVPN-2.9.4.dmg"
 
 export OMNIGRAFFLE_APP_NAME="OmniGraffle Professional 5.app"
 export OMNIGRAFFLE_VOLUME_NAME="OmniGrafflePro"
