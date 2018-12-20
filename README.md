@@ -142,7 +142,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Spotify](https://www.spotify.com)
     - [Sublime Text 3](http://www.sublimetext.com)
     - [Tor Browser](https://www.torproject.org)
-    - [Trailer](http://ptsochantaris.github.io/trailer)
     - [Transmit](https://panic.com/transmit)
     - [Viscosity](https://www.sparklabs.com/viscosity)
     - [Visual Studio Code](https://code.visualstudio.com)

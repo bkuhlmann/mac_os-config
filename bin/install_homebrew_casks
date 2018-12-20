@@ -39,7 +39,6 @@ brew cask install signal
 brew cask install spotify
 brew cask install sublime-text
 brew cask install tor-browser
-brew cask install trailer
 brew cask install transmit
 brew cask install viscosity
 brew cask install visual-studio-code
