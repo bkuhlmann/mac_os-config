@@ -15,7 +15,6 @@ brew cask install dropbox
 brew cask install firefox
 brew cask install google-chrome
 brew cask install handbrake
-brew cask install handbrakebatch
 brew cask install hazel
 brew cask install imageoptim
 brew cask install istat-menus
