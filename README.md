@@ -246,7 +246,7 @@ The following will walk you through the steps of installing/re-installing your m
 Double check you have the following in place:
 
 1. A recent backup of your machine and a copy of your credentials to restore the backup.
-1. A copy of your of your Apple credentials.
+1. A copy of your of your Apple, backup server, and backup volume credentials.
 
 ### Install
 
