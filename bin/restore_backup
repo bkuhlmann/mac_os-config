@@ -2,7 +2,14 @@
 
 # Performs restoration of backup data.
 
-read -p "What is the backup volume root path (Example: \"/Volumes/alchemist\")? " mac_os_backup_root
+read -p "Has machine been rebooted since install (y/n)? " mac_os_reboot
+
+if [[ "$mac_os_reboot" != "y" ]]; then
+  printf "ERROR: System or shell must be rebooted to leverage newly installed software.\n"
+  exit 1
+fi
+
+read -p "Where is the backup volume (Example: \"/Volumes/alchemist\")? " mac_os_backup_root
 
 if [[ ! -e "$mac_os_backup_root" ]]; then
   printf "ERROR: Backup volume cannot be found: $mac_os_backup_root\n"
