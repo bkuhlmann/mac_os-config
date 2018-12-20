@@ -262,7 +262,7 @@ install scripts have been executed:
   - Security & Privacy:
     - General:
       - Require password immediately after sleep or screen saver begins.
-      - Enable message when screen is locked. Example: `<twitter> | <email> | <phone> | <url>`.
+      - Enable message when screen is locked. Example: `<url> | <email> | <phone>`.
       - Allow your Apple Watch to unlock your Mac.
     - FileVault:
       - Enable FileVault and save the recovery key in a secure location (i.e. 1Password).
