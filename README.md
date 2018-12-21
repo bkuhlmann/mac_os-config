@@ -193,6 +193,7 @@ project not be to your liking, feel free to fork and customize for your specific
   Store:
     - [Audio Bridge](https://audiobridge.site)
     - [Aurora Blu-ray Copy](http://www.bluray-player-software.com/mac-bluray-dvd-copy.htm)
+    - [Coolant](https://coolantformac.com)
     - [HandBrake CLI](http://handbrake.fr)
     - [IVPN](https://www.ivpn.net)
     - [OmniGraffle](http://www.omnigroup.com/applications/omnigraffle)

@@ -26,6 +26,9 @@ export AURORA_BLU_RAY_COPY_APP_NAME="Aurora Blu-ray Copy.app"
 export AURORA_BLU_RAY_COPY_VOLUME_NAME="Aurora Blu-ray Copy"
 export AURORA_BLU_RAY_COPY_APP_URL="http://www.bluray-player-software.com/user/download/Aurora_Bluray_Copy.dmg"
 
+export COOLANT_APP_NAME="Coolant.app"
+export COOLANT_APP_URL="https://coolantformac.com/download/Coolant.zip"
+
 export HAND_BRAKE_CLI_APP_NAME="HandBrakeCLI"
 export HAND_BRAKE_CLI_VOLUME_NAME="HandBrakeCLI-1.1.2"
 export HAND_BRAKE_CLI_APP_URL="https://download.handbrake.fr/releases/1.1.2/HandBrakeCLI-1.1.2.dmg"
