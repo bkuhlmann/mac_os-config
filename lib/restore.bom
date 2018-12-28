@@ -1,8 +1,5 @@
 # APPLICATIONS
 
-# 1Password
-/Users/bkuhlmann/Library/Preferences/com.agilebits.onepassword-osx.plist
-
 # Acorn
 /Users/bkuhlmann/Library/Preferences/com.flyingmeat.Acorn5.LSSharedFileList.plist
 
@@ -23,9 +20,6 @@
 
 # Aurora Blu-Ray Copy
 /Users/bkuhlmann/Library/Preferences/com.bluray-player-software.AuroraBlurayCopy.plist
-
-# Bear
-/Users/bkuhlmann/Library/Preferences/net.shinyfrog.bear.plist
 
 # Bartender
 /Users/bkuhlmann/Library/Preferences/com.surteesstudios.Bartender.plist
@@ -62,9 +56,6 @@
 
 # Firefox
 /Users/bkuhlmann/Library/Preferences/org.mozilla.firefox.plist
-
-# Gifox
-/Users/bkuhlmann/Library/Preferences/com.gifox.gifox.plist
 
 # Google Chrome
 /Users/bkuhlmann/Library/Preferences/com.google.Chrome.plist
@@ -103,14 +94,6 @@
 
 # Keymo
 /Users/bkuhlmann/Library/Preferences/com.manytricks.Keymo.plist
-
-# Mail
-/Users/bkuhlmann/Library/Preferences/com.apple.mail-shared.plist
-/Users/bkuhlmann/Library/Preferences/com.apple.mail.plist
-
-# Marked 2
-/Users/bkuhlmann/Library/Preferences/com.brettterpstra.marked2.LSSharedFileList.plist
-/Users/bkuhlmann/Library/Preferences/com.brettterpstra.marked2.plist
 
 # Marp
 /Users/bkuhlmann/Library/Preferences/jp.yhatt.marp.helper.plist
@@ -178,9 +161,6 @@
 # Transmit
 /Users/bkuhlmann/Library/Preferences/com.panic.Transmit.plist
 
-# Tweetbot
-/Users/bkuhlmann/Library/Preferences/com.tapbots.TweetbotMac.plist
-
 # Viscosity
 /Users/bkuhlmann/Library/Preferences/com.viscosityvpn.Viscosity.plist
 
@@ -204,7 +184,6 @@
 /Users/bkuhlmann/Library/LaunchAgents/com.apple.newsyslog.plist
 
 # USER
-/Users/bkuhlmann/.archiver
 /Users/bkuhlmann/.asciinema
 /Users/bkuhlmann/.bundle/config
 /Users/bkuhlmann/.config
@@ -213,11 +192,9 @@
 /Users/bkuhlmann/.gem/gem-public_cert.pem
 /Users/bkuhlmann/.gitconfig
 /Users/bkuhlmann/.gnupg
-/Users/bkuhlmann/.heroku
 /Users/bkuhlmann/.netrc
 /Users/bkuhlmann/.parallel
 /Users/bkuhlmann/.pgadmin
-/Users/bkuhlmann/.ngrok2
 /Users/bkuhlmann/.parallel
 /Users/bkuhlmann/.siege
 /Users/bkuhlmann/.ssh
@@ -225,6 +202,7 @@
 /Users/bkuhlmann/.vscode
 /Users/bkuhlmann/.z
 /Users/bkuhlmann/Apps
+/Users/bkuhlmann/Desktop
 /Users/bkuhlmann/Documents
 /Users/bkuhlmann/Downloads
 /Users/bkuhlmann/Dropbox
