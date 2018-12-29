@@ -26,6 +26,9 @@ export AURORA_BLU_RAY_COPY_APP_NAME="Aurora Blu-ray Copy.app"
 export AURORA_BLU_RAY_COPY_VOLUME_NAME="Aurora Blu-ray Copy"
 export AURORA_BLU_RAY_COPY_APP_URL="http://www.bluray-player-software.com/user/download/Aurora_Bluray_Copy.dmg"
 
+export CODE_CLIMATE_REPORTER_APP_NAME="cc-test-reporter"
+export CODE_CLIMATE_REPORTER_APP_URL="https://codeclimate.com/downloads/test-reporter/test-reporter-latest-darwin-amd64"
+
 export COOLANT_APP_NAME="Coolant.app"
 export COOLANT_APP_URL="https://coolantformac.com/download/Coolant.zip"
 
