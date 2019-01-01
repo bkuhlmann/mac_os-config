@@ -1,3 +1,30 @@
+# 9.0.0 (2019-01-01)
+
+- Fixed Circle CI cache for Ruby version.
+- Fixed documents restoration.
+- Added Bear preference restoration support.
+- Added Circle CI Bundler cache.
+- Added Code Climate Test Reporter application.
+- Added Coolant application.
+- Added HandBrake CLI application install.
+- Added OWASP Zed Attack Proxy Homebrew cask.
+- Added system reboot prompt to backup restoration script.
+- Updated README post-install steps.
+- Updated README pre-install steps.
+- Updated settings to use Ruby 2.6.0.
+- Updated to Dotfiles 32.3.0.
+- Updated to Git Cop 3.0.0.
+- Updated to IVPN 2.9.4.
+- Updated to Ruby 2.6.0.
+- Updated to Ruby Setup 12.0.0.
+- Updated to ScreenTray 1.2.0.
+- Updated to Sublime Text Setup 9.0.0.
+- Updated to Yarn Setup 1.3.0.
+- Removed Day One App Store application.
+- Removed Handbrake Batch Homebrew cask.
+- Removed Trailer Homebrew cask.
+- Removed unused application preferences from restore BOM.
+
 # 8.0.0 (2018-11-01)
 
 - Fixed Brave Homebrew cask install.
