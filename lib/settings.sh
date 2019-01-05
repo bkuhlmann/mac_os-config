@@ -47,6 +47,10 @@ export OMNIGRAFFLE_APP_URL="http://downloads2.omnigroup.com/software/MacOSX/10.6
 export RETROBATCH_HANDLER_APP_NAME="Retrobatch.app"
 export RETROBATCH_HANDLER_APP_URL="https://flyingmeat.com/download/Retrobatch.zip"
 
+export RESOLUTIONATOR_APP_NAME="Resolutionator.app"
+export RESOLUTIONATOR_VOLUME_NAME="Resolutionator"
+export RESOLUTIONATOR_APP_URL="https://manytricks.com/download/resolutionator"
+
 export SCREENTRAY_APP_NAME="ScreenTray.app"
 export SCREENTRAY_VOLUME_NAME="ScreenTray 1.2.0"
 export SCREENTRAY_APP_URL="https://screentray.com/download"
