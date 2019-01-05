@@ -46,6 +46,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [direnv](http://direnv.net)
     - [duti](http://duti.org)
     - [Elm](http://elm-lang.org)
+    - [Entr](http://eradman.com/entrproject)
     - [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/index.html)
     - [fd](https://github.com/sharkdp/fd)
     - [FLAC](https://www.xiph.org/flac)
