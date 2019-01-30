@@ -9,7 +9,7 @@ set -o pipefail
 IFS=$'\n\t'
 
 # Ruby
-export MRI=2.6.0
+export MRI=2.6.1
 
 # Repositories
 export REPO_RUBY_SETUP=12.0.0
