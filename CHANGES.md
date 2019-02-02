@@ -1,3 +1,11 @@
+# 9.1.0 (2019-02-01)
+
+- Added Entr Homebrew formula.
+- Added Resolutionator application.
+- Updated to Dotfiles 32.4.0.
+- Updated to Ruby 2.6.1.
+- Updated to Sublime Text Setup 9.1.0.
+
 # 9.0.0 (2019-01-01)
 
 - Fixed Circle CI cache for Ruby version.
