@@ -20,6 +20,9 @@ printf "%s\n" "gem: --no-document" >> "$HOME/.gemrc"
 printf "%s\n" "$MRI" > "$HOME/.ruby-version"
 /usr/local/bin/ruby-install "ruby-$MRI"
 
+# Rust
+curl --fail --silent --show-error https://sh.rustup.rs | sh
+
 # Sublime Text
 if [ ! -e "/usr/bin/sublime" ]; then
   sudo ln -sv "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/local/bin/sublime

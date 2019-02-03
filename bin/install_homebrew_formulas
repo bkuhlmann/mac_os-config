@@ -63,7 +63,6 @@ brew install readline
 brew install reattach-to-user-namespace
 brew install redis
 brew install ruby-install
-brew install rust
 brew install sassc
 brew install shellcheck
 brew install siege
