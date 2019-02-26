@@ -32,6 +32,10 @@ export CODE_CLIMATE_REPORTER_APP_URL="https://codeclimate.com/downloads/test-rep
 export COOLANT_APP_NAME="Coolant.app"
 export COOLANT_APP_URL="https://coolantformac.com/download/Coolant.zip"
 
+export DOCKER_APP_NAME="Docker.app"
+export DOCKER_VOLUME_NAME="Docker"
+export DOCKER_APP_URL="https://download.docker.com/mac/stable/Docker.dmg"
+
 export HAND_BRAKE_CLI_APP_NAME="HandBrakeCLI"
 export HAND_BRAKE_CLI_VOLUME_NAME="HandBrakeCLI-1.1.2"
 export HAND_BRAKE_CLI_APP_URL="https://download.handbrake.fr/releases/1.1.2/HandBrakeCLI-1.1.2.dmg"
