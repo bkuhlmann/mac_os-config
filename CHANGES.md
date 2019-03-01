@@ -1,3 +1,12 @@
+# 9.2.0 (2019-03-01)
+
+- Added Docker application install.
+- Updated to Dotfiles 32.5.0.
+- Updated to Ruby Setup 12.1.0.
+- Updated to Sublime Text Setup 9.2.0.
+- Updated to Yarn Setup 1.4.0.
+- Refactored Rust install.
+
 # 9.1.0 (2019-02-01)
 
 - Added Entr Homebrew formula.
