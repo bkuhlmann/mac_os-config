@@ -1,3 +1,11 @@
+# 9.3.0 (2019-04-01)
+
+- Updated to Dotfiles 33.0.0.
+- Updated to Ruby 2.6.2.
+- Updated to Ruby Setup 12.2.0.
+- Updated to Sublime Text Setup 9.3.0.
+- Updated to Yarn Setup 1.5.0.
+
 # 9.2.0 (2019-03-01)
 
 - Added Docker application install.
