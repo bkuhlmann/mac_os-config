@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="mac_os-config.png" alt="MacOS Config Icon"/>
+</p>
+
 # macOS Configuration
 
 [![Circle CI Status](https://circleci.com/gh/bkuhlmann/mac_os-config.svg?style=svg)](https://circleci.com/gh/bkuhlmann/mac_os-config)
