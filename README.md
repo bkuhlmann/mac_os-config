@@ -236,7 +236,7 @@ Current Version (stable):
 
     git clone https://github.com/bkuhlmann/mac_os-config.git
     cd mac_os-config
-    git checkout 9.3.0
+    git checkout 9.3.1
 
 Master Version (unstable):
 
