@@ -105,6 +105,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Tree](http://mama.indstate.edu/users/ice/tree)
     - [Vim](http://www.vim.org)
     - [Watch](https://gitlab.com/procps-ng/procps)
+    - [Wrk](https://github.com/wg/wrk)
     - [Yank](https://github.com/mptre/yank)
     - [Yarn](https://yarnpkg.com)
     - [Z](https://github.com/rupa/z)

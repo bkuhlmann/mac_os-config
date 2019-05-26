@@ -75,6 +75,7 @@ brew install tmux
 brew install tree
 brew install vim
 brew install watch
+brew install wrk
 brew install yank
 brew install yarn
 brew install z
