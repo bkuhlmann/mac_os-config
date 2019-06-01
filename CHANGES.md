@@ -1,3 +1,15 @@
+# 9.4.0 (2019-06-01)
+
+- Added CleanShot preferences.
+- Added wrk Homebrew formula.
+- Updated contributing documentation.
+- Updated project icon.
+- Updated to Dotfiles 33.2.0.
+- Updated to Git Cop 3.5.0.
+- Updated to Ruby Setup 12.2.2.
+- Updated to Sublime Text Setup 10.1.0.
+- Updated to Yarn Setup 1.5.2.
+
 # 9.3.1 (2019-05-01)
 
 - Added project icon to README.
