@@ -15,7 +15,7 @@ export MRI=2.6.3
 export REPO_RUBY_SETUP=12.2.2
 export REPO_YARN_SETUP=1.5.2
 export REPO_SUBLIME_TEXT_SETUP=10.1.0
-export REPO_DOTFILES=33.0.0
+export REPO_DOTFILES=33.2.0
 
 # Applications
 export AUDIO_BRIDGE_APP_NAME="AudioBridge.app"
