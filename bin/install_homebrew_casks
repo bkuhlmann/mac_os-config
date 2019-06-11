@@ -4,6 +4,7 @@
 
 brew cask install alfred
 brew cask install appcleaner
+brew cask install balenaetcher
 brew cask install bartender
 brew cask install brave-browser
 brew cask install carbon-copy-cloner

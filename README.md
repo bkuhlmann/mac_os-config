@@ -113,6 +113,7 @@ project not be to your liking, feel free to fork and customize for your specific
   software:
     - [Alfred](http://www.alfredapp.com)
     - [App Cleaner](http://www.freemacsoft.net/appcleaner)
+    - [Balena Etcher](https://www.balena.io/etcher)
     - [Bartender](http://www.macbartender.com)
     - [Brave](https://brave.com)
     - [Carbon Copy Cloner](http://www.bombich.com)
