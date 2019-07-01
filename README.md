@@ -53,6 +53,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Entr](http://eradman.com/entrproject)
     - [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/index.html)
     - [fd](https://github.com/sharkdp/fd)
+    - [ffsend](https://github.com/timvisee/ffsend)
     - [FLAC](https://www.xiph.org/flac)
     - [FZF](https://github.com/junegunn/fzf)
     - [Git](http://git-scm.com)
