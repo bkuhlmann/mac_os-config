@@ -205,7 +205,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Docker](https://www.docker.com)
     - [HandBrake CLI](http://handbrake.fr)
     - [IVPN](https://www.ivpn.net)
-    - [OmniGraffle](http://www.omnigroup.com/applications/omnigraffle)
     - [Retrobatch](https://flyingmeat.com/retrobatch)
     - [Resolutionator](https://manytricks.com/resolutionator)
     - [Sonos](http://www.sonos.com)
