@@ -101,6 +101,9 @@
 /Users/bkuhlmann/Library/Preferences/com.apple.iTunes.plist
 /Users/bkuhlmann/Library/Preferences/com.apple.iTunesHelper.plist
 
+# KeyCastr
+/Users/bkuhlmann/Library/Preferences/net.stephendeken.KeyCastr.plist
+
 # Keymo
 /Users/bkuhlmann/Library/Preferences/com.manytricks.Keymo.plist
 

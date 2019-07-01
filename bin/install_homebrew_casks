@@ -21,6 +21,7 @@ brew cask install imageoptim
 brew cask install istat-menus
 brew cask install iterm2
 brew cask install keybase
+brew cask install keycastr
 brew cask install ksdiff
 brew cask install launchcontrol
 brew cask install marp
