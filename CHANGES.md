@@ -1,3 +1,17 @@
+# 10.0.0 (2019-07-01)
+
+- Added Balena Etcher Homebrew cask.
+- Added KeyCastr Homebrew cask.
+- Added PixelSnap application.
+- Added ffsend Homebrew formula.
+- Updated to Dotfiles 33.3.0.
+- Removed Brave Browser Homebrew cask installer.
+- Removed Gradient App Store app.
+- Removed Marp Homebrew cask.
+- Removed OmniGraffle application install.
+- Removed ScreenTray application install.
+- Removed xScope App Store application.
+
 # 9.4.0 (2019-06-01)
 
 - Added CleanShot preferences.
