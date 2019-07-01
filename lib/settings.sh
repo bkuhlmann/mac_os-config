@@ -55,10 +55,6 @@ export RESOLUTIONATOR_APP_NAME="Resolutionator.app"
 export RESOLUTIONATOR_VOLUME_NAME="Resolutionator"
 export RESOLUTIONATOR_APP_URL="https://manytricks.com/download/resolutionator"
 
-export SCREENTRAY_APP_NAME="ScreenTray.app"
-export SCREENTRAY_VOLUME_NAME="ScreenTray 1.2.0"
-export SCREENTRAY_APP_URL="https://screentray.com/download"
-
 export SONOS_APP_NAME="Sonos.app"
 export SONOS_VOLUME_NAME="Sonos"
 export SONOS_APP_URL="https://www.sonos.com/redir/controller_software_mac"

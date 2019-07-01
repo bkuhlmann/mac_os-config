@@ -208,7 +208,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [OmniGraffle](http://www.omnigroup.com/applications/omnigraffle)
     - [Retrobatch](https://flyingmeat.com/retrobatch)
     - [Resolutionator](https://manytricks.com/resolutionator)
-    - [ScreenTray](https://screentray.com)
     - [Sonos](http://www.sonos.com)
     - [Sublime Text URL Handler](https://github.com/asuth/subl-handler)
 - Downloads, installs, and configures software extensions:
