@@ -24,7 +24,6 @@ brew cask install keybase
 brew cask install keycastr
 brew cask install ksdiff
 brew cask install launchcontrol
-brew cask install marp
 brew cask install micro-snitch
 brew cask install muzzle
 brew cask install ngrok
