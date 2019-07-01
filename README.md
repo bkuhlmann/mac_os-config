@@ -193,7 +193,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Tweetbot](http://tapbots.com/tweetbot/mac)
     - [WiFi Explorer](http://www.adriangranados.com/apps/wifi-explorer)
     - [Witch](https://manytricks.com/witch)
-    - [xScope](http://iconfactory.com/software/xscope)
 - Downloads, installs, and configures software applications not supported via Homebrew or the App
   Store:
     - [Audio Bridge](https://audiobridge.site)
