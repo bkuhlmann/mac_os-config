@@ -23,6 +23,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Pre-Install](#pre-install)
     - [Install](#install)
     - [Post-Install](#post-install)
+    - [Global Hotkeys](#global-hotkeys)
     - [Newsyslog](#newsyslog)
     - [Customization](#customization)
   - [Versioning](#versioning)
@@ -303,6 +304,34 @@ install scripts have been executed:
     - Disable guest account.
 - iStat Menus (double click, within the Applications folder, to install as a system preference).
 - Hazel (double click, within the Applications folder, to install as a system preference).
+
+### Global Hotkeys
+
+Several applications provide global hotkey support. These are the associations I use (which are also
+captured in the `restore.bom` as well):
+
+- **COMMAND + SPACE (hold):** Siri (open)
+- **COMMAND + SPACE:** Spotlight (open)
+- **CONTROL + OPTION + COMMAND + 1:** CleanShot (capture area)
+- **CONTROL + OPTION + COMMAND + 2:** CleanShot (capture fullscreen)
+- **CONTROL + OPTION + COMMAND + 3:** CleanShot (record video)
+- **CONTROL + OPTION + COMMAND + 4:** Gifox (capture area)
+- **CONTROL + OPTION + COMMAND + 5:** Gifox (capture window)
+- **CONTROL + OPTION + COMMAND + b:** Bartender (hidden menu toggle)
+- **CONTROL + OPTION + COMMAND + c:** Sip (copy color)
+- **CONTROL + OPTION + COMMAND + ENTER:** Keymo (move cursor by division)
+- **CONTROL + OPTION + COMMAND + k:** Keymo (cursor highlight show/hide)
+- **CONTROL + OPTION + COMMAND + m:** Moom (show/hide)
+- **CONTROL + OPTION + COMMAND + n:** Notification Center (show/hide)
+- **CONTROL + OPTION + COMMAND + p:** PixelSnap (show/hide)
+- **CONTROL + OPTION + COMMAND + r:** Resolutionator (selector)
+- **CONTROL + OPTION + COMMAND + s:** KeyCastr (show/hide)
+- **CONTROL + OPTION + COMMAND + ←:** Keymo (move cursor left)
+- **CONTROL + OPTION + COMMAND + ↑:** Keymo (move cursor up)
+- **CONTROL + OPTION + COMMAND + →:** Keymo (move cursor right)
+- **CONTROL + OPTION + COMMAND + ↓:** Keymo (move cursor down)
+- **CONTROL + OPTION + SPACE:** OmniFocus (quick entry)
+- **OPTION + SPACE:** Alfred (open)
 
 ### Newsyslog
 
