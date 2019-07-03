@@ -198,11 +198,13 @@ project not be to your liking, feel free to fork and customize for your specific
   Store:
     - [Audio Bridge](https://audiobridge.site)
     - [Aurora Blu-ray Copy](http://www.bluray-player-software.com/mac-bluray-dvd-copy.htm)
+    - [CleanShot](https://getcleanshot.com)
     - [Code Climate Test Reporter](https://docs.codeclimate.com/docs/configuring-test-coverage)
     - [Coolant](https://coolantformac.com)
     - [Docker](https://www.docker.com)
     - [HandBrake CLI](http://handbrake.fr)
     - [IVPN](https://www.ivpn.net)
+    - [PixelSnap](https://getpixelsnap.com)
     - [Retrobatch](https://flyingmeat.com/retrobatch)
     - [Resolutionator](https://manytricks.com/resolutionator)
     - [Sonos](http://www.sonos.com)
@@ -221,11 +223,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Vim Text Object User](https://github.com/kana/vim-textobj-user)
     - [Vim Text Object Ruby Block](https://github.com/nelstrom/vim-textobj-rubyblock)
     - [Vim Unimpaired](https://github.com/tpope/vim-unimpaired)
-- The following apps, unfortunately, require secret links tied to your
-  [Gumroad](https://gumroad.com) account. If you are annoyed by this, be sure to keep bugging their
-  support team for public download of these files so installation can be automated.
-  - [CleanShot](https://getcleanshot.com)
-  - [PixelSnap](https://getpixelsnap.com)
 
 ## Requirements
 

@@ -26,6 +26,10 @@ export AURORA_BLU_RAY_COPY_APP_NAME="Aurora Blu-ray Copy.app"
 export AURORA_BLU_RAY_COPY_VOLUME_NAME="Aurora Blu-ray Copy"
 export AURORA_BLU_RAY_COPY_APP_URL="http://www.bluray-player-software.com/user/download/Aurora_Bluray_Copy.dmg"
 
+export CLEAN_SHOT_APP_NAME="CleanShot.app"
+export CLEAN_SHOT_VOLUME_NAME="CleanShot"
+export CLEAN_SHOT_APP_URL="https://updates.getcleanshot.com/v2/CleanShot-2.5.3.dmg"
+
 export CODE_CLIMATE_REPORTER_APP_NAME="cc-test-reporter"
 export CODE_CLIMATE_REPORTER_APP_URL="https://codeclimate.com/downloads/test-reporter/test-reporter-latest-darwin-amd64"
 
@@ -43,6 +47,10 @@ export HAND_BRAKE_CLI_APP_URL="https://download.handbrake.fr/releases/1.1.2/Hand
 export IVPN_APP_NAME="IVPN.app"
 export IVPN_VOLUME_NAME="IVPN"
 export IVPN_APP_URL="https://cdn.ivpn.net/releases/osx/IVPN-2.9.4.dmg"
+
+export PIXEL_SNAP_APP_NAME="PixelSnap 2.app"
+export PIXEL_SNAP_VOLUME_NAME="PixelSnap 2"
+export PIXEL_SNAP_APP_URL="https://updates.getpixelsnap.com/v2/PixelSnap-2-2.1.dmg"
 
 export RETROBATCH_HANDLER_APP_NAME="Retrobatch.app"
 export RETROBATCH_HANDLER_APP_URL="https://flyingmeat.com/download/Retrobatch.zip"
