@@ -46,7 +46,7 @@ export HAND_BRAKE_CLI_APP_URL="https://download.handbrake.fr/releases/1.1.2/Hand
 
 export IVPN_APP_NAME="IVPN.app"
 export IVPN_VOLUME_NAME="IVPN"
-export IVPN_APP_URL="https://cdn.ivpn.net/releases/osx/IVPN-2.9.4.dmg"
+export IVPN_APP_URL="https://cdn.ivpn.net/releases/osx/IVPN-2.9.9.dmg"
 
 export PIXEL_SNAP_APP_NAME="PixelSnap 2.app"
 export PIXEL_SNAP_VOLUME_NAME="PixelSnap 2"
