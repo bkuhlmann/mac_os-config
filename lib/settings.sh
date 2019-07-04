@@ -41,8 +41,8 @@ export DOCKER_VOLUME_NAME="Docker"
 export DOCKER_APP_URL="https://download.docker.com/mac/stable/Docker.dmg"
 
 export HAND_BRAKE_CLI_APP_NAME="HandBrakeCLI"
-export HAND_BRAKE_CLI_VOLUME_NAME="HandBrakeCLI-1.1.2"
-export HAND_BRAKE_CLI_APP_URL="https://download.handbrake.fr/releases/1.1.2/HandBrakeCLI-1.1.2.dmg"
+export HAND_BRAKE_CLI_VOLUME_NAME="HandBrakeCLI-1.2.2"
+export HAND_BRAKE_CLI_APP_URL="https://download2.handbrake.fr/1.2.2/HandBrakeCLI-1.2.2.dmg"
 
 export IVPN_APP_NAME="IVPN.app"
 export IVPN_VOLUME_NAME="IVPN"
