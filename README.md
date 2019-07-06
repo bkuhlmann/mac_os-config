@@ -254,6 +254,7 @@ Double check you have the following in place:
 
 1. A recent backup of your machine and a copy of your credentials to restore the backup.
 1. A copy of your of your Apple, backup server, and backup volume credentials.
+1. Xcode installed as per macOS requirements.
 
 ### Install
 
