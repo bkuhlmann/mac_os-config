@@ -160,7 +160,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Acorn](https://secure.flyingmeat.com/acorn)
     - [AquaPath](https://itunes.apple.com/us/app/aquapath/id424425207)
     - [Bear](https://bear.app)
-    - [CCMenu](http://ccmenu.org)
     - [Cocoa JSON Editor](http://www.cocoajsoneditor.com)
     - [Contrast](https://usecontrast.com)
     - [DaisyDisk](http://www.daisydiskapp.com)
