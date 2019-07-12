@@ -1,3 +1,14 @@
+# 11.0.0 (2019-07-12)
+
+- Fixed CleanShot and PixelSnap application installs.
+- Added Xcode pre-install step to README.
+- Added global hotkey documentation.
+- Updated to HandBrake CLI 1.2.2.
+- Updated to IVPN 2.9.9.
+- Removed CCMenu application.
+- Removed Paw plist from restore BOM.
+- Removed Zoom Homebrew cask.
+
 # 10.0.0 (2019-07-01)
 
 - Added Balena Etcher Homebrew cask.
