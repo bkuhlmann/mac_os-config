@@ -153,7 +153,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Viscosity](https://www.sparklabs.com/viscosity)
     - [Visual Studio Code](https://code.visualstudio.com)
     - [VLC](http://www.videolan.org/vlc)
-    - [Witch](https://manytricks.com/witch)
 - Downloads, installs, and configures
     [App Store](http://www.apple.com/macosx/whats-new/app-store.html) applications.
     - [1Password](http://agilewebsolutions.com/products/1Password)
@@ -191,7 +190,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Sip](http://sipapp.io)
     - [Tweetbot](http://tapbots.com/tweetbot/mac)
     - [WiFi Explorer](http://www.adriangranados.com/apps/wifi-explorer)
-    - [Witch](https://manytricks.com/witch)
 - Downloads, installs, and configures software applications not supported via Homebrew or the App
   Store:
     - [Audio Bridge](https://audiobridge.site)

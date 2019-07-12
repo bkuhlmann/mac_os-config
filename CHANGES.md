@@ -7,6 +7,7 @@
 - Updated to IVPN 2.9.9.
 - Removed CCMenu application.
 - Removed Paw plist from restore BOM.
+- Removed Witch Homebrew cask and App Store app.
 - Removed Zoom Homebrew cask.
 
 # 10.0.0 (2019-07-01)
