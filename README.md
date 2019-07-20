@@ -102,6 +102,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Siege](https://www.joedog.org/siege-home)
     - [Sleepwatcher](http://www.bernhard-baehr.de)
     - [Tag](https://github.com/jdberry/tag)
+    - [Tarsnap](https://www.tarsnap.com)
     - [Terraform](https://www.terraform.io)
     - [The Silver Surfer](https://github.com/ggreer/the_silver_searcher)
     - [Tig](https://jonas.github.io/tig)
