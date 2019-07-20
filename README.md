@@ -73,6 +73,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Lynis](https://github.com/CISOfy/lynis)
     - [Magic Wormhole](https://magic-wormhole.readthedocs.io)
     - [Mac App Store](https://github.com/mas-cli/mas)
+    - [Minisign](https://jedisct1.github.io/minisign)
     - [Mosh](http://mosh.mit.edu)
     - [Namebench](https://code.google.com/p/namebench)
     - [NCurses Disk Usage](https://dev.yorhel.nl/ncdu)

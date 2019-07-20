@@ -43,6 +43,7 @@ brew install lnav
 brew install lynis
 brew install magic-wormhole
 brew install mas
+brew install minisign
 brew install mosh
 brew install namebench
 brew install ncdu
