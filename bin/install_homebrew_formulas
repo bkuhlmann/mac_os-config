@@ -41,6 +41,7 @@ brew install jq
 brew install lame
 brew install lnav
 brew install lynis
+brew install magic-wormhole
 brew install mas
 brew install mosh
 brew install namebench

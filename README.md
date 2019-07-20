@@ -71,6 +71,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [lame](http://lame.sourceforge.net)
     - [lnav](http://braumeister.org/formula/lnav)
     - [Lynis](https://github.com/CISOfy/lynis)
+    - [Magic Wormhole](https://magic-wormhole.readthedocs.io)
     - [Mac App Store](https://github.com/mas-cli/mas)
     - [Mosh](http://mosh.mit.edu)
     - [Namebench](https://code.google.com/p/namebench)
