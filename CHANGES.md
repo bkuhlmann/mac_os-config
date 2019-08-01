@@ -1,3 +1,14 @@
+# 11.1.0 (2019-08-01)
+
+- Added Magic Wormhole Homebrew formula.
+- Added Minisign Homebrew formula.
+- Added Tarsnap Homebrew formula.
+- Added restoration of default Alchemists preferences.
+- Updated to CleanShot 2.6.0.
+- Updated to Dotfiles 33.4.0.
+- Updated to Sublime Text Setup 11.0.0.
+- Refactored printing of system/application defaults.
+
 # 11.0.0 (2019-07-12)
 
 - Fixed CleanShot and PixelSnap application installs.
