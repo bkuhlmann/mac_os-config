@@ -1,3 +1,11 @@
+# 11.2.0 (2019-09-01)
+
+- Updated to Dotfiles 34.0.0.
+- Updated to Ruby 2.6.4.
+- Updated to Ruby Setup 12.2.3.
+- Updated to Sublime Text Setup 12.0.0.
+- Updated to Yarn Setup 1.5.3.
+
 # 11.1.0 (2019-08-01)
 
 - Added Magic Wormhole Homebrew formula.
