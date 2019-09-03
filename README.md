@@ -101,6 +101,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [ShellCheck](https://github.com/koalaman/shellcheck)
     - [Siege](https://www.joedog.org/siege-home)
     - [Sleepwatcher](http://www.bernhard-baehr.de)
+    - [Sox](http://sox.sourceforge.net/sox.html)
     - [Tag](https://github.com/jdberry/tag)
     - [Tarsnap](https://www.tarsnap.com)
     - [Terraform](https://www.terraform.io)
