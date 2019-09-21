@@ -129,6 +129,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Doxie](http://www.getdoxie.com)
     - [Dropbox](https://www.dropbox.com)
     - [Firefox](http://www.mozilla.com/en-US/firefox)
+    - [Fission](https://www.rogueamoeba.com/fission)
     - [Google Chrome](http://www.google.com/chrome)
     - [HandBrake](https://handbrake.fr)
     - [Hazel](http://www.noodlesoft.com/hazel.php)

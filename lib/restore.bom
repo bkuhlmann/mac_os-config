@@ -72,6 +72,9 @@
 # Firefox
 /Users/bkuhlmann/Library/Preferences/org.mozilla.firefox.plist
 
+# Fission
+/Users/bkuhlmann/Library/Preferences/com.rogueamoeba.Fission.plist
+
 # Google Chrome
 /Users/bkuhlmann/Library/Preferences/com.google.Chrome.plist
 

@@ -14,6 +14,7 @@ brew cask install dash
 brew cask install doxie
 brew cask install dropbox
 brew cask install firefox
+brew cask install fission
 brew cask install google-chrome
 brew cask install handbrake
 brew cask install hazel
