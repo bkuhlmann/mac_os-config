@@ -21,6 +21,9 @@
 # AudioBridge
 /Users/bkuhlmann/Library/Preferences/org.jhurliman.AudioBridge.plist
 
+# Audio Hijack
+/Users/bkuhlmann/Library/Preferences/com.rogueamoeba.audiohijack3.plist
+
 # Aurora Blu-Ray Copy
 /Users/bkuhlmann/Library/Preferences/com.bluray-player-software.AuroraBlurayCopy.plist
 
