@@ -51,6 +51,7 @@ brew install nginx
 brew install ngrep
 brew install node
 brew install noti
+brew install nushell
 brew install openssl
 brew install overmind
 brew install pandoc

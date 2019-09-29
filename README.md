@@ -81,6 +81,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Network Grep](http://ngrep.sourceforge.net)
     - [Node.js](http://nodejs.org)
     - [Noti](https://github.com/variadico/noti)
+    - [Nushell](https://github.com/nushell/nushell)
     - [OpenSSL](https://openssl.org)
     - [Overmind](https://github.com/DarthSim/overmind)
     - [Pandoc](https://pandoc.org)
