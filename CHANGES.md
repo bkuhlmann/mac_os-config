@@ -1,3 +1,13 @@
+# 11.3.0 (2019-10-01)
+
+- Added Audio Hijack Homebrew cask.
+- Added Fission Homebrew cask.
+- Added Nushell Homebrew formula.
+- Added Sox Homebrew formula.
+- Updated to CleanShot 2.6.1.
+- Updated to Dotfiles 34.1.0.
+- Updated to PixelSnap 2.2.0.
+
 # 11.2.0 (2019-09-01)
 
 - Updated to Dotfiles 34.0.0.
