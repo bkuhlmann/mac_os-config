@@ -194,6 +194,7 @@
 # USER
 /Users/bkuhlmann/.asciinema
 /Users/bkuhlmann/.bundle/config
+/Users/bkuhlmann/.cache
 /Users/bkuhlmann/.config
 /Users/bkuhlmann/.gem/credentials
 /Users/bkuhlmann/.gem/gem-private_key.pem
@@ -209,7 +210,6 @@
 /Users/bkuhlmann/.ssh
 /Users/bkuhlmann/.ssl
 /Users/bkuhlmann/.vscode
-/Users/bkuhlmann/.z
 /Users/bkuhlmann/Apps
 /Users/bkuhlmann/Desktop
 /Users/bkuhlmann/Documents
