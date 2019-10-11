@@ -8,7 +8,6 @@ brew cask install audio-hijack
 brew cask install balenaetcher
 brew cask install bartender
 brew cask install carbon-copy-cloner
-brew cask install cardhop
 brew cask install clipgrab
 brew cask install dash
 brew cask install doxie

@@ -123,7 +123,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Balena Etcher](https://www.balena.io/etcher)
     - [Bartender](http://www.macbartender.com)
     - [Carbon Copy Cloner](http://www.bombich.com)
-    - [Cardhop](https://flexibits.com/cardhop)
     - [ClipGrab](https://clipgrab.org)
     - [Dash](http://kapeli.com/dash)
     - [Doxie](http://www.getdoxie.com)
