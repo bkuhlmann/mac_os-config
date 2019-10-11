@@ -141,7 +141,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Muzzle](https://muzzleapp.com)
     - [Ngrok](https://ngrok.com)
     - [Numi](http://numi.io)
-    - [OpenEmu](http://openemu.org)
     - [OpenOffice](http://www.openoffice.org)
     - [OWASP Zed Attack Proxy (ZAP)](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
     - [Path Finder](http://cocoatech.com)
