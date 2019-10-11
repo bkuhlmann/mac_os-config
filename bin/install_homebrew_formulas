@@ -23,7 +23,6 @@ brew install elm
 brew install entr
 brew install exiftool
 brew install fd
-brew install ffsend
 brew install flac
 brew install fzf
 brew install git
