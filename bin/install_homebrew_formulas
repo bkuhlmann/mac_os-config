@@ -12,7 +12,6 @@ brew install asciinema
 brew install bash
 brew install bash-completion
 brew install bat
-brew install certbot
 brew install chruby
 brew install cloc
 brew install crystal
