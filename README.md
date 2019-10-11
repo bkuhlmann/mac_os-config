@@ -137,7 +137,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [ImageOptim](http://imageoptim.pornel.net)
     - [iStat Menus](https://bjango.com/mac/istatmenus)
     - [iTerm2](http://www.iterm2.com)
-    - [Keybase](https://keybase.io)
     - [KeyCastr](https://github.com/keycastr/keycastr)
     - [ksdiff](http://www.kaleidoscopeapp.com/ksdiff2)
     - [Launch Control](http://www.soma-zone.com/LaunchControl)
