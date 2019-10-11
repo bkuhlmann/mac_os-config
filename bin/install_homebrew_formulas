@@ -29,7 +29,6 @@ brew install git
 brew install gpg
 brew install graphicsmagick
 brew install graphviz
-brew install hg
 brew install hr
 brew install htop
 brew install httpie
