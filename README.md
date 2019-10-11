@@ -137,7 +137,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [iTerm2](http://www.iterm2.com)
     - [KeyCastr](https://github.com/keycastr/keycastr)
     - [ksdiff](http://www.kaleidoscopeapp.com/ksdiff2)
-    - [Launch Control](http://www.soma-zone.com/LaunchControl)
     - [Micro Snitch](https://www.obdev.at/products/microsnitch/index.html)
     - [Muzzle](https://muzzleapp.com)
     - [Ngrok](https://ngrok.com)
