@@ -107,7 +107,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Tarsnap](https://www.tarsnap.com)
     - [Terraform](https://www.terraform.io)
     - [The Silver Surfer](https://github.com/ggreer/the_silver_searcher)
-    - [Tig](https://jonas.github.io/tig)
     - [tmux](http://tmux.sourceforge.net)
     - [Tree](http://mama.indstate.edu/users/ice/tree)
     - [Vim](http://www.vim.org)
