@@ -143,7 +143,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Path Finder](http://cocoatech.com)
     - [Paw](https://paw.cloud)
     - [pgAdmin](http://www.pgadmin.org/index.php)
-    - [PSequel](http://www.psequel.com)
     - [Signal](https://signal.org)
     - [Spotify](https://www.spotify.com)
     - [Sublime Text 3](http://www.sublimetext.com)
