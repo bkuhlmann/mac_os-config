@@ -14,7 +14,7 @@ export MRI=2.6.5
 # Repositories
 export REPO_RUBY_SETUP=12.3.0
 export REPO_YARN_SETUP=1.5.4
-export REPO_SUBLIME_TEXT_SETUP=12.0.0
+export REPO_SUBLIME_TEXT_SETUP=12.1.0
 export REPO_DOTFILES=34.1.0
 
 # Applications
