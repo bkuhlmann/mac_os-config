@@ -164,7 +164,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [GarageBand](http://www.apple.com/ilife/garageband)
     - [Gifox](https://gifox.io)
     - [iMovie](http://www.apple.com/ilife/imovie)
-    - [iPhoto](http://www.apple.com/ilife/iphoto)
     - [Kaleidoscope](http://www.kaleidoscopeapp.com)
     - [Key Codes](https://manytricks.com/keycodes)
     - [Keymou](https://manytricks.com/keymou)
