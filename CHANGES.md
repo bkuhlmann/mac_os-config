@@ -1,3 +1,24 @@
+# 12.0.0 (2019-10-13)
+
+- Added home cache directory to restore BOM.
+- Updated to PixelSnap 2.2.1.
+- Updated to Rake 13.0.0.
+- Updated to Ruby 2.6.5.
+- Updated to Ruby Setup 12.3.0.
+- Updated to Sublime Text Setup 12.1.0.
+- Updated to Yarn Setup 1.5.4.
+- Removed Audio Bridge application.
+- Removed Cardhop homebrew cask.
+- Removed Certbot Homebrew formula.
+- Removed Keybase Homebrew cask.
+- Removed Launch Control homebrew cask.
+- Removed Mercurial Homebrew formula.
+- Removed OpenEmu Homebrew cask.
+- Removed PSequel Homebrew cask.
+- Removed Tig Homebrew formula.
+- Removed ffsend Homebrew formula.
+- Removed iPhoto App Store app.
+
 # 11.3.0 (2019-10-01)
 
 - Added Audio Hijack Homebrew cask.
