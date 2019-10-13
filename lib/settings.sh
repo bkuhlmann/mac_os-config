@@ -18,10 +18,6 @@ export REPO_SUBLIME_TEXT_SETUP=12.1.0
 export REPO_DOTFILES=34.1.0
 
 # Applications
-export AUDIO_BRIDGE_APP_NAME="AudioBridge.app"
-export AUDIO_BRIDGE_VOLUME_NAME="AudioBridge"
-export AUDIO_BRIDGE_APP_URL="https://audiobridge.site/releases/AudioBridge-1.5.1.dmg"
-
 export AURORA_BLU_RAY_COPY_APP_NAME="Aurora Blu-ray Copy.app"
 export AURORA_BLU_RAY_COPY_VOLUME_NAME="Aurora Blu-ray Copy"
 export AURORA_BLU_RAY_COPY_APP_URL="http://www.bluray-player-software.com/user/download/Aurora_Bluray_Copy.dmg"
@@ -46,7 +42,7 @@ export HAND_BRAKE_CLI_APP_URL="https://download2.handbrake.fr/1.2.2/HandBrakeCLI
 
 export IVPN_APP_NAME="IVPN.app"
 export IVPN_VOLUME_NAME="IVPN"
-export IVPN_APP_URL="https://cdn.ivpn.net/releases/osx/IVPN-2.9.9.dmg"
+export IVPN_APP_URL="https://cdn.ivpn.net/releases/osx/IVPN-2.10.1.dmg"
 
 export PIXEL_SNAP_APP_NAME="PixelSnap 2.app"
 export PIXEL_SNAP_VOLUME_NAME="PixelSnap 2"
