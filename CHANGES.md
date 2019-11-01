@@ -1,3 +1,9 @@
+# 12.1.0 (2019-11-01)
+
+- Added blueutil Homebrew formula.
+- Updated to CleanShot 2.7.0.
+- Updated to Dotfiles 35.0.0.
+
 # 12.0.0 (2019-10-13)
 
 - Added home cache directory to restore BOM.
