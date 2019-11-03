@@ -65,6 +65,7 @@ brew install ranger
 brew install readline
 brew install reattach-to-user-namespace
 brew install redis
+brew install ripgrep
 brew install ruby-install
 brew install sassc
 brew install shellcheck

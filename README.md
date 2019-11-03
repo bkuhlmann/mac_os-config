@@ -95,6 +95,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Readline](http://tiswww.case.edu/php/chet/readline/rltop.html)
     - [Reattach to User Namespace](https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard)
     - [Redis](http://redis.io)
+    - [ripgrep](https://github.com/BurntSushi/ripgrep)
     - [Ruby Install](https://github.com/postmodern/ruby-install)
     - [Rust](https://www.rust-lang.org)
     - [SASSC](https://github.com/sass/sassc)
