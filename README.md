@@ -57,6 +57,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [FLAC](https://www.xiph.org/flac)
     - [FZF](https://github.com/junegunn/fzf)
     - [Git](http://git-scm.com)
+    - [Git Sizer](https://github.com/github/git-sizer)
     - [GPG](https://www.gnupg.org)
     - [Graphics Magick](http://www.graphicsmagick.org)
     - [Graphviz](http://www.graphviz.org)
