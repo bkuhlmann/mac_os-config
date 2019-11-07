@@ -173,6 +173,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Keymou](https://manytricks.com/keymou)
     - [Keynote](https://www.apple.com/keynote)
     - [Kindle](http://www.amazon.com/gp/feature.html?docId=1000464931)
+    - [LimeChat](http://limechat.net/mac)
     - [Leech](https://manytricks.com/leech)
     - [Marked 2](http://marked2app.com)
     - [Medis](http://getmedis.com)
