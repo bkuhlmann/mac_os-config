@@ -199,6 +199,7 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Code Climate Test Reporter](https://docs.codeclimate.com/docs/configuring-test-coverage)
     - [Coolant](https://coolantformac.com)
     - [Docker](https://www.docker.com)
+    - [Git Filter Repo](https://github.com/newren/git-filter-repo)
     - [HandBrake CLI](https://handbrake.fr/downloads2.php)
     - [IVPN](https://www.ivpn.net)
     - [PixelSnap](https://getpixelsnap.com)
