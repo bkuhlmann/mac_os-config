@@ -8,6 +8,9 @@ set -o errexit
 set -o pipefail
 IFS=$'\n\t'
 
+# Homebrew
+export HOMEBREW_CURL_RETRIES=3
+
 # Ruby
 export MRI=2.6.5
 
