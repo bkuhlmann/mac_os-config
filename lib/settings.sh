@@ -40,8 +40,8 @@ export GIT_FILTER_REPO_APP_NAME="git-filter-repo"
 export GIT_FILTER_REPO_APP_URL="https://raw.githubusercontent.com/newren/git-filter-repo/master/git-filter-repo"
 
 export HAND_BRAKE_CLI_APP_NAME="HandBrakeCLI"
-export HAND_BRAKE_CLI_VOLUME_NAME="HandBrakeCLI-1.2.2"
-export HAND_BRAKE_CLI_APP_URL="https://download2.handbrake.fr/1.2.2/HandBrakeCLI-1.2.2.dmg"
+export HAND_BRAKE_CLI_VOLUME_NAME="HandBrakeCLI-1.3.0"
+export HAND_BRAKE_CLI_APP_URL="https://download2.handbrake.fr/1.3.0/HandBrakeCLI-1.3.0.dmg"
 
 export IVPN_APP_NAME="IVPN.app"
 export IVPN_VOLUME_NAME="IVPN"
