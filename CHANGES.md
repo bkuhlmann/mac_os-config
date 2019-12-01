@@ -1,3 +1,15 @@
+# 12.2.0 (2019-12-01)
+
+- Added Git Filter Repo application.
+- Added Git Sizer Homebrew formula.
+- Added Hexyl Homebrew formula.
+- Added Homebrew curl retries.
+- Added LimeChat App Store app.
+- Added ripgrep Homebrew formula.
+- Updated to CleanShot 2.7.1.
+- Updated to HandBrake CLI 1.3.0.
+- Updated to IVPN 2.10.5.
+
 # 12.1.0 (2019-11-01)
 
 - Added blueutil Homebrew formula.
