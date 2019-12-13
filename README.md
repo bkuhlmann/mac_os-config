@@ -44,7 +44,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Bat](https://github.com/sharkdp/bat)
     - [blueutil](https://github.com/toy/blueutil)
     - [chruby](https://github.com/postmodern/chruby)
-    - [cloc](http://cloc.sourceforge.net)
     - [Crystal](https://crystal-lang.org)
     - [CTags](http://ctags.sourceforge.net)
     - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
