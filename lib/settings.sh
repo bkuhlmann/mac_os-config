@@ -18,7 +18,7 @@ export MRI=2.7.0
 export REPO_RUBY_SETUP=13.0.0
 export REPO_YARN_SETUP=1.5.5
 export REPO_SUBLIME_TEXT_SETUP=12.2.0
-export REPO_DOTFILES=35.0.0
+export REPO_DOTFILES=36.0.0
 
 # Applications
 export AURORA_BLU_RAY_COPY_APP_NAME="Aurora Blu-ray Copy.app"
