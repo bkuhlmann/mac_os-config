@@ -1,3 +1,14 @@
+# 13.0.0 (2020-01-01)
+
+- Added Tokei Homebrew formula.
+- Updated to Dotfiles 36.0.0.
+- Updated to IVPN 2.10.9.
+- Updated to Ruby 2.7.0.
+- Updated to Ruby Setup 13.0.0.
+- Updated to Sublime Text Setup 12.2.0.
+- Updated to Yarn Setup 1.5.5.
+- Removed Cloc Homebrew formula.
+
 # 12.2.0 (2019-12-01)
 
 - Added Git Filter Repo application.
