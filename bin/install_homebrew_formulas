@@ -34,6 +34,7 @@ brew install hexyl
 brew install hr
 brew install htop
 brew install httpie
+brew install httpstat
 brew install hyperfine
 brew install ioping
 brew install jq
