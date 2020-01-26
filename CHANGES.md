@@ -1,3 +1,11 @@
+# 13.1.0 (2020-01-26)
+
+- Fixed lnav link
+- Added HTTP Stat Homebrew formula
+- Added MindMap App Store application
+- Updated to CleanShot 2.7.3
+- Updated to Git Cop 4.0.0
+
 # 13.0.0 (2020-01-01)
 
 - Added Tokei Homebrew formula.
