@@ -190,7 +190,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Shush](http://mizage.com/shush)
     - [Slack](https://slack.com)
     - [Sip](http://sipapp.io)
-    - [Tweetbot](http://tapbots.com/tweetbot/mac)
     - [WiFi Explorer](http://www.adriangranados.com/apps/wifi-explorer)
 - Downloads, installs, and configures software applications not supported via Homebrew or the App
   Store:
