@@ -45,7 +45,6 @@ brew install magic-wormhole
 brew install mas
 brew install minisign
 brew install mosh
-brew install namebench
 brew install ncdu
 brew install nginx
 brew install ngrep

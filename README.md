@@ -75,7 +75,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Mac App Store](https://github.com/mas-cli/mas)
     - [Minisign](https://jedisct1.github.io/minisign)
     - [Mosh](http://mosh.mit.edu)
-    - [Namebench](https://code.google.com/p/namebench)
     - [NCurses Disk Usage](https://dev.yorhel.nl/ncdu)
     - [Nginx](http://wiki.nginx.org)
     - [Network Grep](http://ngrep.sourceforge.net)
