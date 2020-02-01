@@ -193,7 +193,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [WiFi Explorer](http://www.adriangranados.com/apps/wifi-explorer)
 - Downloads, installs, and configures software applications not supported via Homebrew or the App
   Store:
-    - [Aurora Blu-ray Copy](http://www.bluray-player-software.com/mac-bluray-dvd-copy.htm)
     - [CleanShot](https://getcleanshot.com)
     - [Code Climate Test Reporter](https://docs.codeclimate.com/docs/configuring-test-coverage)
     - [Coolant](https://coolantformac.com)

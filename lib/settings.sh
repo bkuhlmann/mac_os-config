@@ -21,10 +21,6 @@ export REPO_SUBLIME_TEXT_SETUP=12.2.0
 export REPO_DOTFILES=36.0.0
 
 # Applications
-export AURORA_BLU_RAY_COPY_APP_NAME="Aurora Blu-ray Copy.app"
-export AURORA_BLU_RAY_COPY_VOLUME_NAME="Aurora Blu-ray Copy"
-export AURORA_BLU_RAY_COPY_APP_URL="http://www.bluray-player-software.com/user/download/Aurora_Bluray_Copy.dmg"
-
 export CLEAN_SHOT_APP_NAME="CleanShot.app"
 export CLEAN_SHOT_VOLUME_NAME="CleanShot"
 export CLEAN_SHOT_APP_URL="https://updates.getcleanshot.com/v2/CleanShot-2.7.3.dmg"
