@@ -18,7 +18,7 @@ export MRI=2.7.0
 export REPO_RUBY_SETUP=13.0.0
 export REPO_YARN_SETUP=1.5.5
 export REPO_SUBLIME_TEXT_SETUP=12.2.0
-export REPO_DOTFILES=36.0.0
+export REPO_DOTFILES=37.0.0
 
 # Applications
 export CLEAN_SHOT_APP_NAME="CleanShot.app"
