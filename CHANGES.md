@@ -1,3 +1,14 @@
+# 14.0.0 (2020-02-01)
+
+- Fixed README links
+- Updated to Dotfiles 37.0.0
+- Removed Aurora Blu-ray Copy application
+- Removed Fantastical App Store application
+- Removed KeyCastr Homebrew cask
+- Removed Namebench Homebrew formula
+- Removed Sip App Store application
+- Removed Tweetbot App Store application
+
 # 13.1.0 (2020-01-26)
 
 - Fixed lnav link
