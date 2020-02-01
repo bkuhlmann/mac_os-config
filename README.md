@@ -164,7 +164,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Cocoa JSON Editor](http://www.cocoajsoneditor.com)
     - [Contrast](https://usecontrast.com)
     - [DaisyDisk](http://www.daisydiskapp.com)
-    - [Fantastical](http://flexibits.com/fantastical)
     - [GarageBand](http://www.apple.com/ilife/garageband)
     - [Gifox](https://gifox.io)
     - [iMovie](http://www.apple.com/ilife/imovie)
