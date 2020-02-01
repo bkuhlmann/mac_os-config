@@ -189,7 +189,6 @@ project not be to your liking, feel free to fork and customize for your specific
     - [Pixelmator](http://www.pixelmator.com)
     - [Shush](http://mizage.com/shush)
     - [Slack](https://slack.com)
-    - [Sip](http://sipapp.io)
     - [WiFi Explorer](http://www.adriangranados.com/apps/wifi-explorer)
 - Downloads, installs, and configures software applications not supported via Homebrew or the App
   Store:
@@ -312,7 +311,6 @@ captured in the `restore.bom` as well):
 - **CONTROL + OPTION + COMMAND + 4:** Gifox (capture area)
 - **CONTROL + OPTION + COMMAND + 5:** Gifox (capture window)
 - **CONTROL + OPTION + COMMAND + b:** Bartender (hidden menu toggle)
-- **CONTROL + OPTION + COMMAND + c:** Sip (copy color)
 - **CONTROL + OPTION + COMMAND + ENTER:** Keymo (move cursor by division)
 - **CONTROL + OPTION + COMMAND + k:** Keymo (cursor highlight show/hide)
 - **CONTROL + OPTION + COMMAND + m:** Moom (show/hide)
