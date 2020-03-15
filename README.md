@@ -19,6 +19,8 @@ project not be to your liking, feel free to fork and customize for your specific
   - [Features](#features)
   - [Requirements](#requirements)
   - [Setup](#setup)
+    - [Production](#production)
+    - [Development](#development)
   - [Usage](#usage)
     - [Pre-Install](#pre-install)
     - [Install](#install)
@@ -224,16 +226,17 @@ project not be to your liking, feel free to fork and customize for your specific
 
 ## Setup
 
-Open a terminal window and execute one of the following setup sequences depending on your version
-preference:
+### Production
 
-Current Version (stable):
+To install, run:
 
     git clone https://github.com/bkuhlmann/mac_os-config.git
     cd mac_os-config
     git checkout 14.0.0
 
-Master Version (unstable):
+### Development
+
+To contribute, run:
 
     git clone https://github.com/bkuhlmann/mac_os-config.git
     cd mac_os-config
