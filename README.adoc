@@ -1,0 +1,423 @@
+:toc: macro
+:toclevels: 5
+:figure-caption!:
+
+= macOS Configuration
+
+[link=https://circleci.com/gh/bkuhlmann/mac_os-config]
+image::https://circleci.com/gh/bkuhlmann/mac_os-config.svg?style=svg[Circle CI Status]
+
+Shell scripts for customized macOS machine setup and configuration.
+
+This project provides a highly opinionated default configuration built upon the
+link:https://www.alchemists.io/projects/mac_os[macOS] project. Should the configuration provided by
+this project not be to your liking, feel free to fork and customize for your specific needs.
+
+toc::[]
+
+== Features
+
+* Downloads, installs, and configures https://brew.sh[Homebrew Formula] command line software:
+** https://asciinema.org[asciinema]
+** https://www.gnu.org/software/bash[Bash]
+** http://bash-completion.alioth.debian.org[Bash Completion]
+** https://github.com/sharkdp/bat[Bat]
+** https://github.com/toy/blueutil[blueutil]
+** https://github.com/postmodern/chruby[chruby]
+** https://crystal-lang.org[Crystal]
+** http://ctags.sourceforge.net[CTags]
+** https://github.com/so-fancy/diff-so-fancy[diff-so-fancy]
+** https://direnv.net[direnv]
+** http://duti.org[duti]
+** https://elm-lang.org[Elm]
+** https://eradman.com/entrproject[Entr]
+** https://exiftool.org/index.html[ExifTool]
+** https://github.com/sharkdp/fd[fd]
+** https://www.xiph.org/flac[FLAC]
+** https://github.com/junegunn/fzf[FZF]
+** https://git-scm.com[Git]
+** https://github.com/github/git-sizer[Git Sizer]
+** https://www.gnupg.org[GPG]
+** http://www.graphicsmagick.org[Graphics Magick]
+** https://www.graphviz.org[Graphviz]
+** https://github.com/sharkdp/hexyl[hexyl]
+** https://github.com/LuRsT/hr[hr]
+** https://hisham.hm/htop[htop]
+** https://github.com/jkbrzt/httpie[HTTPie]
+** https://github.com/reorx/httpstat[HTTP Stat]
+** https://github.com/sharkdp/hyperfine[Hyperfine]
+** https://code.google.com/p/ioping[Ioping]
+** https://stedolan.github.io/jq[jq]
+** http://lame.sourceforge.net[lame]
+** https://lnav.org[lnav]
+** https://github.com/CISOfy/lynis[Lynis]
+** https://magic-wormhole.readthedocs.io[Magic Wormhole]
+** https://github.com/mas-cli/mas[Mac App Store]
+** https://jedisct1.github.io/minisign[Minisign]
+** https://mosh.org[Mosh]
+** https://dev.yorhel.nl/ncdu[NCurses Disk Usage]
+** https://www.nginx.com[Nginx]
+** http://ngrep.sourceforge.net[Network Grep]
+** https://nodejs.org[Node.js]
+** https://github.com/variadico/noti[Noti]
+** https://github.com/nushell/nushell[Nushell]
+** https://openssl.org[OpenSSL]
+** https://github.com/DarthSim/overmind[Overmind]
+** https://pandoc.org[Pandoc]
+** https://savannah.gnu.org/projects/parallel[Parallel]
+** https://github.com/peco/peco[Peco]
+** https://www.pgcli.com[pgcli]
+** https://www.zlib.net/pigz[Pigz]
+** https://www.postgresql.org[PostgreSQL]
+** http://denilson.sa.nom.br/prettyping[Pretty Ping]
+** https://www.ivarch.com/programs/pv.shtml[Pipe Viewer]
+** https://ranger.github.io[Ranger]
+** https://tiswww.case.edu/php/chet/readline/rltop.html[Readline]
+** https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard[Reattach to User Namespace]
+** http://redis.io[Redis]
+** https://github.com/BurntSushi/ripgrep[ripgrep]
+** https://github.com/postmodern/ruby-install[Ruby Install]
+** https://www.rust-lang.org[Rust]
+** https://github.com/sass/sassc[SASSC]
+** https://github.com/koalaman/shellcheck[ShellCheck]
+** https://www.joedog.org/siege-home[Siege]
+** https://www.bernhard-baehr.de[Sleepwatcher]
+** http://sox.sourceforge.net/sox.html[Sox]
+** https://github.com/jdberry/tag[Tag]
+** https://www.tarsnap.com[Tarsnap]
+** https://www.terraform.io[Terraform]
+** https://github.com/ggreer/the_silver_searcher[The Silver Surfer]
+** http://tmux.sourceforge.net[tmux]
+** https://github.com/XAMPPRocky/tokei[Tokie]
+** http://mama.indstate.edu/users/ice/tree[Tree]
+** https://www.vim.org[Vim]
+** https://gitlab.com/procps-ng/procps[Watch]
+** https://github.com/wg/wrk[Wrk]
+** https://github.com/mptre/yank[Yank]
+** https://yarnpkg.com[Yarn]
+** https://github.com/rupa/z[Z]
+* Downloads, installs, and configures https://caskroom.github.io[Homebrew Cask] command line
+software:
+** https://www.alfredapp.com[Alfred]
+** https://freemacsoft.net/appcleaner[App Cleaner]
+** https://www.rogueamoeba.com/audiohijack[Audio Hijack]
+** https://www.balena.io/etcher[Balena Etcher]
+** https://www.macbartender.com[Bartender]
+** https://bombich.com[Carbon Copy Cloner]
+** https://clipgrab.org[ClipGrab]
+** https://kapeli.com/dash[Dash]
+** https://www.getdoxie.com[Doxie]
+** https://www.dropbox.com[Dropbox]
+** https://www.mozilla.com/en-US/firefox[Firefox]
+** https://www.rogueamoeba.com/fission[Fission]
+** https://www.google.com/chrome[Google Chrome]
+** https://handbrake.fr[HandBrake]
+** https://www.noodlesoft.com[Hazel]
+** http://imageoptim.pornel.net[ImageOptim]
+** https://bjango.com/mac/istatmenus[iStat Menus]
+** https://www.iterm2.com[iTerm2]
+** https://www.kaleidoscopeapp.com/ksdiff2[ksdiff]
+** https://www.obdev.at/products/microsnitch/index.html[Micro Snitch]
+** https://muzzleapp.com[Muzzle]
+** https://ngrok.com[Ngrok]
+** https://numi.app[Numi]
+** https://www.openoffice.org[OpenOffice]
+** https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project[OWASP Zed Attack Proxy (ZAP)]
+** https://cocoatech.com[Path Finder]
+** https://paw.cloud[Paw]
+** https://www.pgadmin.org[pgAdmin]
+** https://signal.org[Signal]
+** https://www.spotify.com[Spotify]
+** https://www.sublimetext.com[Sublime Text 3]
+** https://www.torproject.org[Tor Browser]
+** https://panic.com/transmit[Transmit]
+** https://www.sparklabs.com/viscosity[Viscosity]
+** https://code.visualstudio.com[Visual Studio Code]
+** https://www.videolan.org/vlc[VLC]
+* Downloads, installs, and configures http://www.apple.com/macosx/whats-new/app-store.html[App
+Store] applications.
+** https://1password.com[1Password]
+** https://secure.flyingmeat.com/acorn[Acorn]
+** https://itunes.apple.com/us/app/aquapath/id424425207[AquaPath]
+** https://bear.app[Bear]
+** http://www.cocoajsoneditor.com[Cocoa JSON Editor]
+** https://usecontrast.com[Contrast]
+** https://daisydiskapp.com[DaisyDisk]
+** https://www.apple.com/mac/garageband[GarageBand]
+** https://gifox.io[Gifox]
+** https://www.apple.com/imovie[iMovie]
+** https://www.kaleidoscopeapp.com[Kaleidoscope]
+** https://manytricks.com/keycodes[Key Codes]
+** https://manytricks.com/keymou[Keymou]
+** https://www.apple.com/keynote[Keynote]
+** http://www.amazon.com/gp/feature.html?docId=1000464931[Kindle]
+** http://limechat.net/mac[LimeChat]
+** https://manytricks.com/leech[Leech]
+** https://marked2app.com[Marked 2]
+** http://getmedis.com[Medis]
+** https://mindnode.com[MindNode]
+** https://nothirst.com[MoneyWell]
+** https://manytricks.com/moom[Moom]
+** https://manytricks.com/namemangler[Name Mangler]
+** https://www.apple.com/numbers[Numbers]
+** https://www.omnigroup.com/omnifocus[OmniFocus]
+** https://www.omnigroup.com/omnioutliner[OmniOutliner]
+** https://www.apple.com/pages[Pages]
+** https://krillapps.com/patterns[Patterns]
+** https://smilesoftware.com/pdfpenpro[PDFpenPro]
+** https://www.pixelmator.com[Pixelmator]
+** https://mizage.com/shush[Shush]
+** https://slack.com[Slack]
+** https://www.adriangranados.com[WiFi Explorer]
+* Downloads, installs, and configures software applications not supported via Homebrew or the App
+Store:
+** https://getcleanshot.com[CleanShot]
+** https://docs.codeclimate.com/docs/configuring-test-coverage[Code Climate Test Reporter]
+** https://coolantformac.com[Coolant]
+** https://www.docker.com[Docker]
+** https://github.com/newren/git-filter-repo[Git Filter Repo]
+** https://handbrake.fr/downloads2.php[HandBrake CLI]
+** https://www.ivpn.net[IVPN]
+** https://getpixelsnap.com[PixelSnap]
+** https://flyingmeat.com/retrobatch[Retrobatch]
+** https://manytricks.com/resolutionator[Resolutionator]
+** https://www.sonos.com[Sonos]
+** https://github.com/asuth/subl-handler[Sublime Text URL Handler]
+* Downloads, installs, and configures software extensions:
+** https://github.com/jgdavey/vim-blockle[Vim Blockle]
+** https://github.com/tpope/vim-bundler[Vim Bundler]
+** https://github.com/tpope/vim-commentary[Vim Commentary]
+** https://github.com/tpope/vim-fugitive[Vim Fugitive]
+** https://github.com/airblade/vim-gitgutter[Vim Git Gutter]
+** https://github.com/tpope/vim-pathogen[Vim Pathogen]
+** https://github.com/tpope/vim-projectionist[Vim Projectionist]
+** https://github.com/tpope/vim-rails[Vim Rails]
+** https://github.com/vim-ruby/vim-ruby[Vim Ruby]
+** https://github.com/AndrewRadev/splitjoin.vim[Vim Splitjoin]
+** https://github.com/kana/vim-textobj-user[Vim Text Object User]
+** https://github.com/nelstrom/vim-textobj-rubyblock[Vim Text Object Ruby Block]
+** https://github.com/tpope/vim-unimpaired[Vim Unimpaired]
+
+== Requirements
+
+. link:https://www.alchemists.io/projects/mac_os[macOS]
+
+== Setup
+
+=== Production
+
+To install, run:
+
+....
+git clone https://github.com/bkuhlmann/mac_os-config.git
+cd mac_os-config
+git checkout 14.0.0
+....
+
+=== Development
+
+To contribute, run:
+
+....
+git clone https://github.com/bkuhlmann/mac_os-config.git
+cd mac_os-config
+....
+
+== Usage
+
+The following will walk you through the steps of installing/re-installing your machine.
+
+=== Pre-Install
+
+Double check you have the following in place:
+
+[arabic]
+. A recent backup of your machine and a copy of your credentials to restore the backup.
+. A copy of your of your Apple, backup server, and backup volume credentials.
+. Xcode installed as per macOS requirements.
+
+=== Install
+
+See the link:https://www.alchemists.io/projects/mac_os#_usage[macOS] project for usage as it provides
+the command line interface for running the configuration defined by this project.
+
+=== Post-Install
+
+The following are additional steps, not easily automated, that are worth completing after the
+install scripts have been executed:
+
+* System Preferences:
+** Security & Privacy:
+*** General:
+**** Require password immediately after sleep or screen saver begins.
+**** Enable message when screen is locked. Example: `+<url> | <email> | <phone>+`.
+**** Allow your Apple Watch to unlock your Mac.
+*** FileVault:
+**** Enable FileVault and save the recovery key in a secure location (i.e. 1Password).
+*** Firewall:
+**** Enabled it.
+**** Automatically allow signed software.
+**** Enable stealth mode.
+*** Privacy:
+**** Apps like Dash, Dropbox, etc. will need to be enabled for accessibility.
+** Notifications:
+*** Enable _Do Not Disturb_ from 9pm to 7am.
+*** Enable _When display is sleeping._
+*** Enable _When mirroring._
+*** Enable allow repeated calls.
+*** Disable _Show notifications on lock screen_ for all apps.
+*** Disable _Play sounds for notifications_ for all apps.
+*** Configure all calendar apps to show banners instead of alerts for notifications.
+** Printers & Scanners:
+*** Add printer/scanner.
+** iCloud:
+*** Enable Find My Mac.
+** Internet Accounts:
+*** Add all accounts used by Mail.
+** Network:
+*** Configure Wi-Fi.
+** Users & Groups:
+*** Update avatar.
+*** Remove unused login items.
+*** Disable guest account.
+* iStat Menus (double click, within the Applications folder, to install as a system preference).
+* Hazel (double click, within the Applications folder, to install as a system preference).
+
+=== Global Hotkeys
+
+Several applications provide global hotkey support. These are the associations I use (which are also
+captured in the `+restore.bom+` as well):
+
+* *COMMAND + SPACE (hold):* Siri (open)
+* *COMMAND + SPACE:* Spotlight (open)
+* *CONTROL + OPTION + COMMAND + 1:* CleanShot (capture area)
+* *CONTROL + OPTION + COMMAND + 2:* CleanShot (capture fullscreen)
+* *CONTROL + OPTION + COMMAND + 3:* CleanShot (record video)
+* *CONTROL + OPTION + COMMAND + 4:* Gifox (capture area)
+* *CONTROL + OPTION + COMMAND + 5:* Gifox (capture window)
+* *CONTROL + OPTION + COMMAND + b:* Bartender (hidden menu toggle)
+* *CONTROL + OPTION + COMMAND + ENTER:* Keymo (move cursor by division)
+* *CONTROL + OPTION + COMMAND + k:* Keymo (cursor highlight show/hide)
+* *CONTROL + OPTION + COMMAND + m:* Moom (show/hide)
+* *CONTROL + OPTION + COMMAND + n:* Notification Center (show/hide)
+* *CONTROL + OPTION + COMMAND + p:* PixelSnap (show/hide)
+* *CONTROL + OPTION + COMMAND + r:* Resolutionator (selector)
+* *CONTROL + OPTION + COMMAND + ←:* Keymo (move cursor left)
+* *CONTROL + OPTION + COMMAND + ↑:* Keymo (move cursor up)
+* *CONTROL + OPTION + COMMAND + →:* Keymo (move cursor right)
+* *CONTROL + OPTION + COMMAND + ↓:* Keymo (move cursor down)
+* *CONTROL + OPTION + SPACE:* OmniFocus (quick entry)
+* *OPTION + SPACE:* Alfred (open)
+
+=== Newsyslog
+
+Native to macOS, https://www.freebsd.org/cgi/man.cgi?newsyslog.conf(5)[newsyslog] can be used to
+configure system-wide log rotation across multiple projects. It’s a good recommendation to set this
+up so that disk space is carefully maintained. Here’s how to configure it for your system, start by
+creating a configuration for your projects in the `+/etc/newsyslog.d+` directory. In my case, I use
+the following configurations:
+
+* `+/etc/newsyslog.d/alchemists.conf+`
++
+....
+  # logfilename                                            [owner:group]    mode   count   size  when  flags
+  /Users/bkuhlmann/Dropbox/Development/Work/**/log/*.log                    644    2       5120  *     GJN
+....
+* `+/etc/newsyslog.d/homebrew.conf+`
++
+....
+  # logfilename                   [owner:group]    mode   count   size    when  flags
+  /usr/local/var/log/**/*.log                      644    2       5120    *     GJN
+....
+
+These configurations ensure that logs are rotated every 5MB (5120KB). In order to test that these
+configurations are valid, run:
+
+....
+sudo newsyslog -nvv
+....
+
+If you don’t see any errors in the output, then your configuration settings are correct.
+
+The last thing to do is to add a launch configuration to ensure the log rotations happen at
+regularly scheduled intervals. To do this create the following file:
+`+$HOME/Library/LaunchAgents/com.apple.newsyslog.plist+`. It should have the following content:
+
+[source,xml]
+----
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "https://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.apple.newsyslog</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>/usr/sbin/newsyslog</string>
+  </array>
+  <key>LowPriorityIO</key>
+  <true/>
+  <key>Nice</key>
+  <integer>1</integer>
+  <key>StartCalendarInterval</key>
+  <dict>
+    <key>Minute</key>
+    <integer>30</integer>
+  </dict>
+</dict>
+</plist>
+----
+
+That’s it. System-wide log rotation is setup for your projects.
+
+=== Customization
+
+While this project’s configuration is opinionated and tailored for my setup, you can easily fork
+this project and customize it for your environment. Start by editing the files found in the `+bin+`
+and `+lib+` directories. Here is a breakdown of each:
+
+* `bin/apply_basic_settings`: Applies basic and initial settings for setting up a machine.
+* `bin/apply_default_settings`: Applies useful system and application defaults.
+* `bin/install_app_store`: Installs macOS, GUI-based, App Store applications.
+* `bin/install_applications`: Installs macOS, GUI-based, non-App Store applications.
+* `bin/install_extensions`: Installs macOS application extensions and add-ons.
+* `bin/install_homebrew_casks`: Installs Homebrew Casks.
+* `bin/install_homebrew_formulas`: Installs Homebrew Formulas.
+* `bin/restore_backup`: Restores system/application settings from backup image.
+* `bin/setup_software`: Configures and launches (if necessary) installed software.
+* `lib/settings.sh`: Defines custom settings for software applications, extensions, etc.
+
+_TIP_: The installer determines which applications/extensions to install as defined in the
+`+settings.sh+` script. Applications defined with the "`APP_NAME`" suffix and extensions defined
+with the "`EXTENSION_PATH`" suffix inform the installer what to care about. Removing/commenting out
+these applications/extensions within the `+settings.sh+` file will cause the installer to skip these
+applications/extensions.
+
+== Versioning
+
+Read link:https://semver.org[Semantic Versioning] for details. Briefly, it means:
+
+* Major (X.y.z) - Incremented for any backwards incompatible public API changes.
+* Minor (x.Y.z) - Incremented for new, backwards compatible, public API enhancements/fixes.
+* Patch (x.y.Z) - Incremented for small, backwards compatible, bug fixes.
+
+== Code of Conduct
+
+Please note that this project is released with a link:CODE_OF_CONDUCT.adoc[CODE OF CONDUCT]. By
+participating in this project you agree to abide by its terms.
+
+== Contributions
+
+Read link:CONTRIBUTING.adoc[CONTRIBUTING] for details.
+
+== License
+
+Read link:LICENSE.adoc[LICENSE] for details.
+
+== History
+
+Read link:CHANGES.adoc[CHANGES] for details.
+
+== Credits
+
+Engineered by link:https://www.alchemists.io/team/brooke_kuhlmann.html[Brooke Kuhlmann].
