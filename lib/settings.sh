@@ -12,7 +12,7 @@ IFS=$'\n\t'
 export HOMEBREW_CURL_RETRIES=3
 
 # Ruby
-export MRI=2.7.0
+export MRI=2.7.1
 
 # Repositories
 export REPO_RUBY_SETUP=13.0.0
