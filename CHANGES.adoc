@@ -1,5 +1,21 @@
 = Changes
 
+== 14.1.0 (2020-04-01)
+
+- Added README production and development setup instructions
+- Updated Circle CI build label
+- Updated documentation to ASCII Doc format
+- Updated to CleanShot 2.7.4
+- Updated to Code of Conduct 2.0.0
+- Updated to Dotfiles 38.1.0
+- Updated to IVPN 2.11.3
+- Updated to PixelSnap 2.3.0
+- Updated to Ruby 2.7.1
+- Updated to Ruby Setup 13.1.0
+- Updated to Sublime Text Setup 13.0.0
+- Updated to Yarn Setup 1.6.0
+- Removed README images
+
 == 14.0.0 (2020-02-01)
 
 * Fixed README links
