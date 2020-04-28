@@ -48,7 +48,7 @@ export IVPN_APP_URL="https://cdn.ivpn.net/releases/osx/IVPN-2.11.8.dmg"
 
 export PIXEL_SNAP_APP_NAME="PixelSnap 2.app"
 export PIXEL_SNAP_VOLUME_NAME="PixelSnap 2"
-export PIXEL_SNAP_APP_URL="https://updates.getpixelsnap.com/v2/PixelSnap-2-2.3.dmg"
+export PIXEL_SNAP_APP_URL="https://updates.getpixelsnap.com/v2/PixelSnap-2-2.3.1.dmg"
 
 export RETROBATCH_HANDLER_APP_NAME="Retrobatch.app"
 export RETROBATCH_HANDLER_APP_URL="https://flyingmeat.com/download/Retrobatch.zip"
