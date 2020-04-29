@@ -145,7 +145,6 @@ Store] applications.
 ** https://usecontrast.com[Contrast]
 ** https://daisydiskapp.com[DaisyDisk]
 ** https://www.apple.com/mac/garageband[GarageBand]
-** https://gifox.io[Gifox]
 ** https://www.apple.com/imovie[iMovie]
 ** https://www.kaleidoscopeapp.com[Kaleidoscope]
 ** https://manytricks.com/keycodes[Key Codes]
