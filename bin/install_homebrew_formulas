@@ -44,7 +44,6 @@ brew install lynis
 brew install magic-wormhole
 brew install mas
 brew install minisign
-brew install mosh
 brew install ncdu
 brew install nginx
 brew install ngrep
