@@ -71,7 +71,6 @@ brew install shellcheck
 brew install siege
 brew install sleepwatcher
 brew install sox
-brew install tag
 brew install tarsnap
 brew install terraform
 brew install the_silver_searcher
