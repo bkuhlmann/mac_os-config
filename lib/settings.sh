@@ -25,9 +25,6 @@ export CLEAN_SHOT_APP_NAME="CleanShot.app"
 export CLEAN_SHOT_VOLUME_NAME="CleanShot"
 export CLEAN_SHOT_APP_URL="https://updates.getcleanshot.com/v3/CleanShot-X-3.0.dmg"
 
-export CODE_CLIMATE_REPORTER_APP_NAME="cc-test-reporter"
-export CODE_CLIMATE_REPORTER_APP_URL="https://codeclimate.com/downloads/test-reporter/test-reporter-latest-darwin-amd64"
-
 export COOLANT_APP_NAME="Coolant.app"
 export COOLANT_APP_URL="https://coolantformac.com/download/Coolant.zip"
 

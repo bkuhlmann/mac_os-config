@@ -170,7 +170,6 @@ Store] applications.
 * Downloads, installs, and configures software applications not supported via Homebrew or the App
 Store:
 ** https://getcleanshot.com[CleanShot]
-** https://docs.codeclimate.com/docs/configuring-test-coverage[Code Climate Test Reporter]
 ** https://coolantformac.com[Coolant]
 ** https://www.docker.com[Docker]
 ** https://github.com/newren/git-filter-repo[Git Filter Repo]
