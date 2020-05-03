@@ -180,7 +180,6 @@ Store:
 ** https://flyingmeat.com/retrobatch[Retrobatch]
 ** https://manytricks.com/resolutionator[Resolutionator]
 ** https://www.sonos.com[Sonos]
-** https://github.com/asuth/subl-handler[Sublime Text URL Handler]
 * Downloads, installs, and configures software extensions:
 ** https://github.com/jgdavey/vim-blockle[Vim Blockle]
 ** https://github.com/tpope/vim-bundler[Vim Bundler]
