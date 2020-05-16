@@ -23,7 +23,7 @@ export REPO_DOTFILES=38.2.0
 # Applications
 export CLEAN_SHOT_APP_NAME="CleanShot.app"
 export CLEAN_SHOT_VOLUME_NAME="CleanShot"
-export CLEAN_SHOT_APP_URL="https://updates.getcleanshot.com/v3/CleanShot-X-3.0.dmg"
+export CLEAN_SHOT_APP_URL="https://updates.getcleanshot.com/v3/CleanShot-X-3.2.1.dmg"
 
 export COOLANT_APP_NAME="Coolant.app"
 export COOLANT_APP_URL="https://coolantformac.com/download/Coolant.zip"
