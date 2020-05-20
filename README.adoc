@@ -279,26 +279,22 @@ install scripts have been executed:
 * iStat Menus (double click, within the Applications folder, to install as a system preference).
 * Hazel (double click, within the Applications folder, to install as a system preference).
 
-=== Global Hotkeys
+=== Keyboard Shortcuts
 
 Several applications provide global hotkey support. These are the associations I use (which are also
 captured in the `+restore.bom+` as well):
 
 * *COMMAND + SPACE (hold):* Siri (open)
 * *COMMAND + SPACE:* Spotlight (open)
-* *CONTROL + OPTION + COMMAND + 1:* CleanShot (capture area)
-* *CONTROL + OPTION + COMMAND + 2:* CleanShot (capture area and annotate)
-* *CONTROL + OPTION + COMMAND + 3:* CleanShot (capture window)
-* *CONTROL + OPTION + COMMAND + 4:* CleanShot (capture fullscreen)
-* *CONTROL + OPTION + COMMAND + 5:* CleanShot (capture with timer)
-* *CONTROL + OPTION + COMMAND + 6:* CleanShot (capture with scroll)
-* *CONTROL + OPTION + COMMAND + 7:* CleanShot (record screen start/stop)
+* link:https://www.alchemists.io/articles/clean_shot/#_shortcuts[CleanShot] - See article for
+  details.
 * *CONTROL + OPTION + COMMAND + b:* Bartender (hidden menu toggle)
 * *CONTROL + OPTION + COMMAND + ENTER:* Keymo (move cursor by division)
 * *CONTROL + OPTION + COMMAND + k:* Keymo (cursor highlight show/hide)
 * *CONTROL + OPTION + COMMAND + m:* Moom (show/hide)
 * *CONTROL + OPTION + COMMAND + n:* Notification Center (show/hide)
-* *CONTROL + OPTION + COMMAND + p:* PixelSnap (show/hide)
+* link:https://www.alchemists.io/articles/pixel_snap/#_shortcuts[PixelSnap] - See article for
+  details.
 * *CONTROL + OPTION + COMMAND + r:* Resolutionator (selector)
 * *CONTROL + OPTION + COMMAND + ←:* Keymo (move cursor left)
 * *CONTROL + OPTION + COMMAND + ↑:* Keymo (move cursor up)
