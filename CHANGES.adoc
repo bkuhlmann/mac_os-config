@@ -1,5 +1,16 @@
 = Changes
 
+== 15.1.0 (2020-05-25)
+
+- Added CleanShot screen capture and annotate keyboard shortcut
+- Updated keyboard shortcuts
+- Updated to CleanShot 3.2.1
+- Updated to Dotfiles 38.3.0
+- Updated to IVPN 2.12.2
+- Updated to PixelSnap 2.3.2
+- Updated to Ruby Setup 13.1.1
+- Updated to Sublime Text Setup 14.0.0
+
 == 15.0.0 (2020-05-03)
 
 * Added XSV Home brew formula
