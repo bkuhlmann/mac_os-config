@@ -128,6 +128,7 @@ software:
 ** https://paw.cloud[Paw]
 ** https://www.pgadmin.org[pgAdmin]
 ** https://getpixelsnap.com[PixelSnap]
+** https://flyingmeat.com/retrobatch[Retrobatch]
 ** https://signal.org[Signal]
 ** https://www.spotify.com[Spotify]
 ** https://www.sublimetext.com[Sublime Text 3]
@@ -176,7 +177,6 @@ Store:
 ** https://www.docker.com[Docker]
 ** https://github.com/newren/git-filter-repo[Git Filter Repo]
 ** https://handbrake.fr/downloads2.php[HandBrake CLI]
-** https://flyingmeat.com/retrobatch[Retrobatch]
 ** https://manytricks.com/resolutionator[Resolutionator]
 ** https://www.sonos.com[Sonos]
 * Downloads, installs, and configures software extensions:
