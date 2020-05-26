@@ -103,6 +103,7 @@ software:
 ** https://www.balena.io/etcher[Balena Etcher]
 ** https://www.macbartender.com[Bartender]
 ** https://bombich.com[Carbon Copy Cloner]
+** https://getcleanshot.com[CleanShot]
 ** https://clipgrab.org[ClipGrab]
 ** https://kapeli.com/dash[Dash]
 ** https://www.getdoxie.com[Doxie]
@@ -170,7 +171,6 @@ Store] applications.
 ** https://www.adriangranados.com[WiFi Explorer]
 * Downloads, installs, and configures software applications not supported via Homebrew or the App
 Store:
-** https://getcleanshot.com[CleanShot]
 ** https://coolantformac.com[Coolant]
 ** https://www.docker.com[Docker]
 ** https://github.com/newren/git-filter-repo[Git Filter Repo]
