@@ -33,6 +33,7 @@ brew cask install path-finder
 brew cask install paw
 brew cask install pgadmin4
 brew cask install pixelsnap
+brew cask install resolutionator
 brew cask install retrobatch
 brew cask install signal
 brew cask install spotify

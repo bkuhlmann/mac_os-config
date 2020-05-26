@@ -35,10 +35,6 @@ export HAND_BRAKE_CLI_APP_NAME="HandBrakeCLI"
 export HAND_BRAKE_CLI_VOLUME_NAME="HandBrakeCLI-1.3.0"
 export HAND_BRAKE_CLI_APP_URL="https://download2.handbrake.fr/1.3.0/HandBrakeCLI-1.3.0.dmg"
 
-export RESOLUTIONATOR_APP_NAME="Resolutionator.app"
-export RESOLUTIONATOR_VOLUME_NAME="Resolutionator"
-export RESOLUTIONATOR_APP_URL="https://manytricks.com/download/resolutionator"
-
 export SONOS_APP_NAME="Sonos.app"
 export SONOS_VOLUME_NAME="Sonos"
 export SONOS_APP_URL="https://www.sonos.com/redir/controller_software_mac"
