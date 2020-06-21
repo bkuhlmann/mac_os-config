@@ -158,6 +158,7 @@ Store] applications.
 ** http://limechat.net/mac[LimeChat]
 ** https://marked2app.com[Marked 2]
 ** http://getmedis.com[Medis]
+** https://trymeeter.com[Meeter]
 ** https://mindnode.com[MindNode]
 ** https://nothirst.com[MoneyWell]
 ** https://manytricks.com/moom[Moom]
