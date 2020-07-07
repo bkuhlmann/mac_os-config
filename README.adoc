@@ -289,17 +289,17 @@ captured in the `+restore.bom+` as well):
 * link:https://www.alchemists.io/articles/clean_shot/#_shortcuts[CleanShot] - See article for
   details.
 * *CONTROL + OPTION + COMMAND + b:* Bartender (hidden menu toggle)
-* *CONTROL + OPTION + COMMAND + ENTER:* Keymo (move cursor by division)
-* *CONTROL + OPTION + COMMAND + k:* Keymo (cursor highlight show/hide)
+* *CONTROL + OPTION + COMMAND + ENTER:* Keymou (move cursor by division)
+* *CONTROL + OPTION + COMMAND + k:* Keymou (cursor highlight show/hide)
 * *CONTROL + OPTION + COMMAND + m:* Moom (show/hide)
 * *CONTROL + OPTION + COMMAND + n:* Notification Center (show/hide)
 * link:https://www.alchemists.io/articles/pixel_snap/#_shortcuts[PixelSnap] - See article for
   details.
 * *CONTROL + OPTION + COMMAND + r:* Resolutionator (selector)
-* *CONTROL + OPTION + COMMAND + ←:* Keymo (move cursor left)
-* *CONTROL + OPTION + COMMAND + ↑:* Keymo (move cursor up)
-* *CONTROL + OPTION + COMMAND + →:* Keymo (move cursor right)
-* *CONTROL + OPTION + COMMAND + ↓:* Keymo (move cursor down)
+* *CONTROL + OPTION + COMMAND + ←:* Keymou (move cursor left)
+* *CONTROL + OPTION + COMMAND + ↑:* Keymou (move cursor up)
+* *CONTROL + OPTION + COMMAND + →:* Keymou (move cursor right)
+* *CONTROL + OPTION + COMMAND + ↓:* Keymou (move cursor down)
 * *CONTROL + OPTION + SPACE:* OmniFocus (quick entry)
 * *OPTION + SPACE:* Alfred (open)
 
