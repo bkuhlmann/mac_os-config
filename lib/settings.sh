@@ -18,7 +18,7 @@ export MRI=2.7.1
 export REPO_RUBY_SETUP=13.1.1
 export REPO_YARN_SETUP=1.6.0
 export REPO_SUBLIME_TEXT_SETUP=14.0.0
-export REPO_DOTFILES=38.3.0
+export REPO_DOTFILES=40.0.0
 
 # Applications
 export COOLANT_APP_NAME="Coolant.app"
