@@ -1,5 +1,18 @@
 = Changes
 
+== 15.3.0 (2020-07-13)
+
+* Fixed Alfred BOM entries
+* Fixed Keymou typos
+* Added Meeter App Store application
+* Added Primitive App Store application
+* Updated GitHub templates
+* Updated to Dotfiles 40.0.0
+* Updated to Git Lint 1.0.0
+* Updated to Sublime Text Setup 14.1.0
+* Removed duplicate parallel BOM entry
+* Refactored Rakefile requirements
+
 == 15.2.0 (2020-05-27)
 
 * Fixed Homebrew install
