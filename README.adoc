@@ -121,6 +121,7 @@ software:
 ** https://www.obdev.at/products/microsnitch/index.html[Micro Snitch]
 ** https://muzzleapp.com[Muzzle]
 ** https://ngrok.com[Ngrok]
+** https://www.notion.so[Notion]
 ** https://numi.app[Numi]
 ** https://www.openoffice.org[OpenOffice]
 ** https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project[OWASP Zed Attack Proxy (ZAP)]
