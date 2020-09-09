@@ -171,6 +171,7 @@ Store] applications.
 ** https://krillapps.com/patterns[Patterns]
 ** https://smilesoftware.com/pdfpenpro[PDFpenPro]
 ** https://www.pixelmator.com[Pixelmator]
+** https://www.color.ninja[Paletter]
 ** https://primitive.lol[Primitive]
 ** https://mizage.com/shush[Shush]
 ** https://slack.com[Slack]
