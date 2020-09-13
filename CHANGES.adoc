@@ -1,5 +1,12 @@
 = Changes
 
+== 15.4.0 (2020-09-13)
+
+* Fixed Sonos application install to use S1 controller
+* Added Hand Mirror App Store application
+* Added Notion Homebrew cask
+* Added Paletter App Store application
+
 == 15.3.0 (2020-07-13)
 
 * Fixed Alfred BOM entries
