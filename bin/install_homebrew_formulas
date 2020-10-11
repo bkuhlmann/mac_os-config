@@ -58,6 +58,7 @@ brew install parallel
 brew install peco
 brew install pgcli
 brew install pigz
+brew install pinentry-mac
 brew install postgresql
 brew install prettyping
 brew install pv
