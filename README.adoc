@@ -207,24 +207,14 @@ Store:
 
 == Setup
 
-=== Production
-
 To install, run:
 
-....
+[source,bash]
+----
 git clone https://github.com/bkuhlmann/mac_os-config.git
 cd mac_os-config
 git checkout 15.4.0
-....
-
-=== Development
-
-To contribute, run:
-
-....
-git clone https://github.com/bkuhlmann/mac_os-config.git
-cd mac_os-config
-....
+----
 
 == Usage
 
@@ -393,6 +383,16 @@ _TIP_: The installer determines which applications/extensions to install as defi
 with the "`EXTENSION_PATH`" suffix inform the installer what to care about. Removing/commenting out
 these applications/extensions within the `+settings.sh+` file will cause the installer to skip these
 applications/extensions.
+
+== Development
+
+To contribute, run:
+
+[source,bash]
+----
+git clone https://github.com/bkuhlmann/mac_os-config.git
+cd mac_os-config
+----
 
 == Versioning
 
