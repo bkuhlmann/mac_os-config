@@ -16,7 +16,6 @@ brew install blueutil
 brew install chruby
 brew install crystal
 brew install ctags
-brew install diff-so-fancy
 brew install direnv
 brew install duti
 brew install elm
