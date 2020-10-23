@@ -26,6 +26,7 @@ brew install fd
 brew install flac
 brew install fzf
 brew install git
+brew install git-delta
 brew install git-sizer
 brew install gpg
 brew install graphicsmagick
