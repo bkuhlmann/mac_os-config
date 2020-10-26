@@ -179,6 +179,7 @@ Store] applications.
 ** link:https://primitive.lol[Primitive]
 ** link:https://mizage.com/shush[Shush]
 ** link:https://slack.com[Slack]
+** link:https://textsniper.app/[TextSniper]
 ** link:https://www.adriangranados.com[WiFi Explorer]
 * Downloads, installs, and configures software applications not supported via Homebrew or the App
 Store:
