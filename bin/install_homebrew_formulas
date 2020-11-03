@@ -21,6 +21,7 @@ brew install direnv
 brew install duti
 brew install elm
 brew install entr
+brew install exa
 brew install exiftool
 brew install fd
 brew install flac
