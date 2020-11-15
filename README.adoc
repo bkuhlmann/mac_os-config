@@ -187,7 +187,6 @@ Store] applications.
 ** link:https://www.adriangranados.com[WiFi Explorer]
 * Downloads, installs, and configures software applications not supported via Homebrew or the App
 Store:
-** link:https://coolantformac.com[Coolant]
 ** link:https://www.docker.com[Docker]
 ** link:https://github.com/newren/git-filter-repo[Git Filter Repo]
 ** link:https://handbrake.fr/downloads2.php[HandBrake CLI]

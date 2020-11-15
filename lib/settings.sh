@@ -21,9 +21,6 @@ export REPO_SUBLIME_TEXT_SETUP=14.2.0
 export REPO_DOTFILES=40.2.0
 
 # Applications
-export COOLANT_APP_NAME="Coolant.app"
-export COOLANT_APP_URL="https://coolantformac.com/download/Coolant.zip"
-
 export DOCKER_APP_NAME="Docker.app"
 export DOCKER_VOLUME_NAME="Docker"
 export DOCKER_APP_URL="https://download.docker.com/mac/stable/Docker.dmg"
