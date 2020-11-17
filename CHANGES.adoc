@@ -1,5 +1,23 @@
 = Changes
 
+== 15.5.0 (2020-11-17)
+
+- Added Delta Homebrew formula
+- Added Exa Homebrew formula
+- Added GPG Pinentry Homebrew formula
+- Added ImageOptim CLI Homebrew formula
+- Added Oha Homebrew formula
+- Added Procs Homebrew formula
+- Added Silicon Homebrew formula
+- Added TextSniper App Store application
+- Updated project documentation to conform to Rubysmith template
+- Updated to Dotfiles 40.2.0
+- Updated to Git Lint 1.3.0
+- Updated to Ruby 2.7.2
+- Updated to Ruby Setup 13.3.0
+- Updated to Sublime Text Setup 14.2.0
+- Updated to Yarn Setup 1.7.0
+
 == 15.4.0 (2020-09-13)
 
 * Fixed Sonos application install to use S1 controller
