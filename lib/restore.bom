@@ -154,9 +154,6 @@
 # System Preferences
 /Users/bkuhlmann/Library/Preferences/com.apple.systempreferences.plist
 
-# Tor Browser
-/Users/bkuhlmann/Library/Preferences/org.mozilla.tor browser.plist
-
 # Transmit
 /Users/bkuhlmann/Library/Preferences/com.panic.Transmit.plist
 

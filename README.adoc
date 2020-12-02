@@ -137,7 +137,6 @@ software:
 ** link:https://signal.org[Signal]
 ** link:https://www.spotify.com[Spotify]
 ** link:https://www.sublimetext.com[Sublime Text 3]
-** link:https://www.torproject.org[Tor Browser]
 ** link:https://panic.com/transmit[Transmit]
 ** link:https://www.sparklabs.com/viscosity[Viscosity]
 ** link:https://code.visualstudio.com[Visual Studio Code]
