@@ -187,7 +187,6 @@ Store] applications.
 Store:
 ** link:https://www.docker.com[Docker]
 ** link:https://github.com/newren/git-filter-repo[Git Filter Repo]
-** link:https://handbrake.fr/downloads2.php[HandBrake CLI]
 ** link:https://www.sonos.com[Sonos]
 * Downloads, installs, and configures software extensions:
 ** link:https://github.com/jgdavey/vim-blockle[Vim Blockle]
