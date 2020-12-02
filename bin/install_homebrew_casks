@@ -25,7 +25,6 @@ brew install --cask ksdiff
 brew install --cask micro-snitch
 brew install --cask muzzle
 brew install --cask ngrok
-brew install --cask notion
 brew install --cask numi
 brew install --cask openoffice
 brew install --cask owasp-zap
