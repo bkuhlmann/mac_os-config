@@ -43,6 +43,9 @@
 /Users/bkuhlmann/Library/Application Support/Dash
 /Users/bkuhlmann/Library/Preferences/com.kapeli.dashdoc.plist
 
+# Discord
+/Users/bkuhlmann/Library/Preferences/com.hnc.Discord.plist
+
 # Docker
 /Users/bkuhlmann/Library/Preferences/com.docker.docker.plist
 
