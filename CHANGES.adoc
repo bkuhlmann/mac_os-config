@@ -1,5 +1,18 @@
 = Changes
 
+== 17.0.0 (2020-12-30)
+
+* Fixed Circle CI configuration for Bundler config path - Brooke Kuhlmann
+* Added Circle CI explicit Bundle install configuration - Brooke Kuhlmann
+* Added Discord Homebrew cask - Brooke Kuhlmann
+* Added scratch folder to BOM - Brooke Kuhlmann
+* Updated to Dotfiles 41.0.0 - Brooke Kuhlmann
+* Updated to Git Lint 2.0.0 - Brooke Kuhlmann
+* Updated to Ruby 3.0.0 - Brooke Kuhlmann
+* Updated to Ruby Setup 14.0.0 - Brooke Kuhlmann
+* Updated to Sublime Text Setup 15.0.0 - Brooke Kuhlmann
+* Updated to Yarn Setup 2.0.0 - Brooke Kuhlmann
+
 == 16.0.0 (2020-12-01)
 
 * Fixed Homebrew cask deprecation warnings
