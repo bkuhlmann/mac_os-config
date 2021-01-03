@@ -226,9 +226,19 @@ The following will walk you through the steps of installing/re-installing your m
 Double check you have the following in place:
 
 [arabic]
-. A recent backup of your machine and a copy of your credentials to restore the backup.
-. A copy of your of your Apple, backup server, and backup volume credentials.
-. Xcode installed as per macOS requirements.
+. Ensure a backup of your Apple, NAS, backup, and Dropbox credentials are available.
+. Ensure a recent backup of your machine exists and works properly.
+. Ensure Xcode installed per macOS requirements.
+. Ensure link:https://support.apple.com/en-us/HT208198[Startup Security Utility] is disabled.
+.. Turn on or restart your machine then press and hold `COMMAND + R` immediately after seeing the
+  Apple logo.
+.. Select Utilities → Startup Security Utility from the main menu.
+.. Select _Secure Boot: No Security_.
+.. Select _External Boot: Allow booting from external media_.
+.. Click _Turn Off Firmware Password_.
+.. Quit the utility and restart the machine.
+. You are now ready to boot your system with the macOS Boot Disk, erase/format your drive, and start
+the install process.
 
 === Install
 
@@ -300,6 +310,12 @@ install scripts have completed:
 ** Double click, within the Applications folder, to install as a system preference.
 * Carbon Copy Cloner
 ** Rename old backup, create new backup, and set frequency schedule.
+* Ensure link:https://support.apple.com/en-us/HT208198[Startup Security Utility] is enabled.
+** Restart your machine then press and hold `COMMAND + R` immediately after seeing the Apple logo.
+** Select _Secure Boot: Full Security_.
+** Select _External Boot: Disallow booting from external or removable media_.
+** Click _Turn On Firmware Password_.
+** Quit the utility and restart the machine.
 
 === Keyboard Shortcuts
 
