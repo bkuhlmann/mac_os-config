@@ -238,44 +238,68 @@ provides the command line interface for running the configuration defined by thi
 === Post-Install
 
 The following are additional steps, not easily automated, that are worth completing after the
-install scripts have been executed:
+install scripts have completed:
 
-* System Preferences:
-** Security & Privacy:
-*** General:
+* System Preferences
+** Apple ID
+*** Configure iCloud.
+*** Enable Find My Mac.
+** Security & Privacy
+*** General
 **** Require password immediately after sleep or screen saver begins.
 **** Enable message when screen is locked. Example: `+<url> | <email> | <phone>+`.
 **** Allow your Apple Watch to unlock your Mac.
-*** FileVault:
+*** FileVault
 **** Enable FileVault and save the recovery key in a secure location (i.e. 1Password).
-*** Firewall:
-**** Enabled it.
+*** Firewall
+**** Enable.
 **** Automatically allow signed software.
 **** Enable stealth mode.
-*** Privacy:
-**** Apps like Dash, Dropbox, etc. will need to be enabled for accessibility.
-** Notifications:
-*** Enable _Do Not Disturb_ from 9pm to 7am.
-*** Enable _When display is sleeping._
-*** Enable _When mirroring._
-*** Enable allow repeated calls.
-*** Disable _Show notifications on lock screen_ for all apps.
-*** Disable _Play sounds for notifications_ for all apps.
-*** Configure all calendar apps to show banners instead of alerts for notifications.
-** Printers & Scanners:
-*** Add printer/scanner.
-** iCloud:
-*** Enable Find My Mac.
-** Internet Accounts:
-*** Add all accounts used by Mail.
-** Network:
+** Internet Accounts
+*** Add all accounts.
+** Touch ID
+*** Rename fingerprint.
+** Keyboard
+*** Keyboard
+**** Slide _Key Repeat_ to _Fast_ (max).
+**** Slide _Delay Until Repeat_ to _Short_ (max).
+*** Shortcuts
+**** Select _Launchpad and Dock_ and uncheck _Turn Dock Hiding On/Off_.
+**** Select _Mission Control_ and assign `CONTROL + OPTION + COMMAND + N` to _Show Notification
+     Center_.
+**** Select _Screenshots_ and uncheck all boxes.
+** Desktop and Screen Saver
+*** Select _Desktop_, click `+`, and choose custom image.
+*** Select _Screen Saver_, select _Message_, enter custom message, start after 10 minutes, and check
+    _show with clock_.
+** Bluetooth
+*** Reconnect keyboard, mouse, and earbuds.
+** Network
 *** Configure Wi-Fi.
-** Users & Groups:
-*** Update avatar.
+** Printers & Scanners
+*** Add printer/scanner.
+** Users & Groups
+*** Update avatar image.
 *** Remove unused login items.
 *** Disable guest account.
-* iStat Menus (double click, within the Applications folder, to install as a system preference).
-* Hazel (double click, within the Applications folder, to install as a system preference).
+** Wallet and Apple Pay
+*** Reenable all accounts and assign default card.
+** Notifications
+*** Do Not Disturb
+**** Enable _Do Not Disturb_ from 9pm to 7am.
+**** Enable _When display is sleeping_.
+**** Enable _When screen is locked_.
+**** Enable _When mirroring_.
+**** Disable _Allow calls from everyone_.
+**** Enable allow repeated calls.
+*** Applications
+**** Select _Banners_ for all apps.
+**** Disable _Show notifications on lock screen_.
+**** Disable _Play sounds for notifications_.
+* iStat Menus
+** Double click, within the Applications folder, to install as a system preference.
+* Carbon Copy Cloner
+** Rename old backup, create new backup, and set frequency schedule.
 
 === Keyboard Shortcuts
 
