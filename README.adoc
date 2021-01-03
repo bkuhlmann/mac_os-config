@@ -308,6 +308,7 @@ captured in the `+restore.bom+` as well):
 
 * *COMMAND + SPACE (hold):* Siri (open)
 * *COMMAND + SPACE:* Spotlight (open)
+* *COMMAND + SHIFT + T:* TextSnipper (capture text)
 * link:https://www.alchemists.io/articles/clean_shot/#_shortcuts[CleanShot] - See article for
   details.
 * *CONTROL + OPTION + COMMAND + b:* Bartender (hidden menu toggle)
