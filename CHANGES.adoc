@@ -1,5 +1,12 @@
 = Changes
 
+== 17.1.0 (2021-01-03)
+
+* Added README Startup Security Utility pre and post install steps - Brooke Kuhlmann
+* Added README TextSnipper global shortcut - Brooke Kuhlmann
+* Updated README post-install steps - Brooke Kuhlmann
+* Removed Bundler configuration from BOM - Brooke Kuhlmann
+
 == 17.0.0 (2020-12-30)
 
 * Fixed Circle CI configuration for Bundler config path - Brooke Kuhlmann
