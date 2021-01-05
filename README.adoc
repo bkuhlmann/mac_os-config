@@ -294,6 +294,14 @@ install scripts have completed:
 *** Disable guest account.
 ** Wallet and Apple Pay
 *** Reenable all accounts and assign default card.
+** Sound
+*** Sound Effects
+**** Uncheck _Play sound on startup_.
+**** Uncheck _Play user interface sound effects_.
+*** Battery
+**** Click on _Battery_ and uncheck _Show battery status in menu bar_.
+**** Click on _Power Adapter_ and check _Prevent computer from sleeping automatically when the
+     display is off_.
 ** Notifications
 *** Do Not Disturb
 **** Enable _Do Not Disturb_ from 9pm to 7am.
