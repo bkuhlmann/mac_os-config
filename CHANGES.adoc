@@ -1,5 +1,12 @@
 = Changes
 
+== 17.2.0 (2021-01-10)
+
+* Added NetNewsWire application - Brooke Kuhlmann
+* Added README system preference sound and battery post-install steps - Brooke Kuhlmann
+* Updated BOM to group Apple settings together - Brooke Kuhlmann
+* Updated to Acorn 6.6.3 - Brooke Kuhlmann
+
 == 17.1.0 (2021-01-03)
 
 * Added README Startup Security Utility pre and post install steps - Brooke Kuhlmann
