@@ -2,6 +2,8 @@
 
 # Installs Homebrew Casks.
 
+install_homebrew
+
 brew install --cask alfred
 brew install --cask appcleaner
 brew install --cask audio-hijack

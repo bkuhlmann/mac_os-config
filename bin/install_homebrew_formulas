@@ -2,11 +2,7 @@
 
 # Installs Homebrew software.
 
-if ! command -v brew > /dev/null; then
-  /bin/bash -c "$(curl --location --fail --silent --show-error https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
-  export PATH="/usr/local/bin:$PATH"
-  printf "export PATH=\"/usr/local/bin:$PATH\"\n" >> $HOME/.bash_profile
-fi
+install_homebrew
 
 brew install asciinema
 brew install bash
