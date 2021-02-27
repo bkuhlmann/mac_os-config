@@ -23,7 +23,12 @@ export REPO_DOTFILES=41.0.0
 # Applications
 export DOCKER_APP_NAME="Docker.app"
 export DOCKER_VOLUME_NAME="Docker"
-export DOCKER_APP_URL="https://download.docker.com/mac/stable/Docker.dmg"
+
+if [[ -n "$(get_cpu)" ]]; then
+  export DOCKER_APP_URL="https://desktop.docker.com/mac/stable/arm64/60984/Docker.dmg"
+else
+  export DOCKER_APP_URL="https://download.docker.com/mac/stable/Docker.dmg"
+fi
 
 export GIT_FILTER_REPO_APP_NAME="git-filter-repo"
 export GIT_FILTER_REPO_APP_URL="https://raw.githubusercontent.com/newren/git-filter-repo/master/git-filter-repo"
