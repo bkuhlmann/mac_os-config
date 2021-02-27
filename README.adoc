@@ -37,6 +37,7 @@ toc::[]
 ** link:https://github.com/junegunn/fzf[FZF]
 ** link:https://git-scm.com[Git]
 ** link:https://github.com/dandavison/delta[Git Delta]
+** link:https://github.com/newren/git-filter-repo[Git Filter Repo]
 ** link:https://github.com/github/git-sizer[Git Sizer]
 ** link:https://www.gnupg.org[GPG]
 ** link:http://www.graphicsmagick.org[Graphics Magick]
@@ -185,7 +186,6 @@ Store] applications.
 * Downloads, installs, and configures software applications not supported via Homebrew or the App
 Store:
 ** link:https://www.docker.com[Docker]
-** link:https://github.com/newren/git-filter-repo[Git Filter Repo]
 ** link:https://ranchero.com/netnewswire[NewNewsWire]
 ** link:https://www.sonos.com[Sonos]
 * Downloads, installs, and configures software extensions:

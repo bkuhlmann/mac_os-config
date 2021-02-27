@@ -30,9 +30,6 @@ else
   export DOCKER_APP_URL="https://download.docker.com/mac/stable/Docker.dmg"
 fi
 
-export GIT_FILTER_REPO_APP_NAME="git-filter-repo"
-export GIT_FILTER_REPO_APP_URL="https://raw.githubusercontent.com/newren/git-filter-repo/master/git-filter-repo"
-
 export NET_NEWS_WIRE_APP_NAME="NetNewsWire.app"
 export NET_NEWS_WIRE_APP_URL="https://github.com/Ranchero-Software/NetNewsWire/releases/download/mac-5.1.3/NetNewsWire5.1.3.zip"
 

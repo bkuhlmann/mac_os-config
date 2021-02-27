@@ -3,6 +3,5 @@
 # Installs applications.
 
 install_dmg_app "$DOCKER_APP_URL" "$DOCKER_VOLUME_NAME" "$DOCKER_APP_NAME"
-install_program "$GIT_FILTER_REPO_APP_URL" "$GIT_FILTER_REPO_APP_NAME"
 install_zip_app "$NET_NEWS_WIRE_APP_URL" "$NET_NEWS_WIRE_APP_NAME"
 install_dmg_app "$SONOS_APP_URL" "$SONOS_VOLUME_NAME" "$SONOS_APP_NAME"
