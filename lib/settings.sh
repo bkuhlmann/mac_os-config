@@ -18,7 +18,7 @@ export MRI=3.0.0
 export REPO_RUBY_SETUP=14.0.0
 export REPO_YARN_SETUP=2.0.0
 export REPO_SUBLIME_TEXT_SETUP=15.0.0
-export REPO_DOTFILES=41.0.0
+export REPO_DOTFILES=42.1.0
 
 # Applications
 export DOCKER_APP_NAME="Docker.app"
