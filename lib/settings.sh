@@ -24,7 +24,7 @@ export REPO_DOTFILES=42.1.0
 export DOCKER_APP_NAME="Docker.app"
 export DOCKER_VOLUME_NAME="Docker"
 
-if [[ -n "$(get_cpu)" ]]; then
+if [[ "$(/usr/bin/arch)" == "arm64" ]]; then
   export DOCKER_APP_URL="https://desktop.docker.com/mac/stable/arm64/60984/Docker.dmg"
 else
   export DOCKER_APP_URL="https://download.docker.com/mac/stable/Docker.dmg"
