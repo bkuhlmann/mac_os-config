@@ -2,8 +2,6 @@
 
 # Installs Homebrew software.
 
-install_homebrew
-
 brew install asciinema
 brew install bash
 brew install bash-completion
