@@ -2,12 +2,6 @@
 
 # Installs App Store software.
 
-if ! command -v mas > /dev/null; then
-  printf "%s\n" "ERROR: Mac App Store CLI (mas) can't be found."
-  printf "%s\n" "       Please ensure Homebrew and mas (i.e. brew install mas) have been installed."
-  exit 1
-fi
-
 # 1Password
 mas install 443987910
 
