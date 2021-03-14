@@ -28,7 +28,6 @@ toc::[]
 ** link:http://ctags.sourceforge.net[CTags]
 ** link:https://direnv.net[direnv]
 ** link:http://duti.org[duti]
-** link:https://elm-lang.org[Elm]
 ** link:https://eradman.com/entrproject[Entr]
 ** link:https://the.exa.website[Exa]
 ** link:https://exiftool.org/index.html[ExifTool]
@@ -184,6 +183,7 @@ Store] applications.
 ** link:https://www.adriangranados.com[WiFi Explorer]
 * Downloads, installs, and configures software applications not supported via Homebrew or the App
 Store:
+** link:https://elm-lang.org[Elm]
 ** link:https://www.docker.com[Docker]
 ** link:https://ranchero.com/netnewswire[NewNewsWire]
 ** link:https://www.sonos.com[Sonos]

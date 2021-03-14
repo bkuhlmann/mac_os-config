@@ -21,6 +21,9 @@ export REPO_SUBLIME_TEXT_SETUP=15.0.0
 export REPO_DOTFILES=42.1.0
 
 # Applications
+export ELM_APP_NAME="elm"
+export ELM_APP_URL="https://github.com/elm/compiler/releases/download/0.19.1/installer-for-mac.pkg"
+
 export DOCKER_APP_NAME="Docker.app"
 export DOCKER_VOLUME_NAME="Docker"
 
