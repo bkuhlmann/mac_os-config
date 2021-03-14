@@ -42,12 +42,6 @@ sudo cp -p "$mac_os_backup_root/etc/newsyslog.d/homebrew.conf" "/etc/newsyslog.d
   bin/run l
 )
 
-# Ruby
-(
-  cd "$HOME/Dropbox/Development/OSS/ruby_setup"
-  bin/run i
-)
-
 # Sublime Text
 (
   cd "$HOME/Dropbox/Development/OSS/sublime_text_setup"

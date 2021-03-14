@@ -12,12 +12,6 @@ chsh -s "$(get_homebrew_bin_root)/bash"
   git config --local core.hooksPath /dev/null
 )
 
-# Ruby
-printf "%s\n" "---" > "$HOME/.gemrc"
-printf "%s\n" "gem: --no-document" >> "$HOME/.gemrc"
-printf "%s\n" "$MRI" > "$HOME/.ruby-version"
-$(get_homebrew_bin_root)/ruby-install "ruby-$MRI"
-
 # Sublime Text
 if [ ! -e "/usr/bin/sublime" ]; then
   sudo ln -sv "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" "$(get_homebrew_bin_root)/sublime"
