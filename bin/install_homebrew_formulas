@@ -72,7 +72,6 @@ brew install ruby-install
 brew install sassc
 brew install shellcheck
 brew install siege
-brew install silicon
 brew install sleepwatcher
 brew install sox
 brew install tarsnap

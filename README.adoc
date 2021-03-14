@@ -83,11 +83,9 @@ toc::[]
 ** link:http://redis.io[Redis]
 ** link:https://github.com/BurntSushi/ripgrep[ripgrep]
 ** link:https://github.com/postmodern/ruby-install[Ruby Install]
-** link:https://www.rust-lang.org[Rust]
 ** link:https://github.com/sass/sassc[SASSC]
 ** link:https://github.com/koalaman/shellcheck[ShellCheck]
 ** link:https://www.joedog.org/siege-home[Siege]
-** link:https://github.com/Aloxaf/silicon[Silicon]
 ** link:https://www.bernhard-baehr.de[Sleepwatcher]
 ** link:http://sox.sourceforge.net/sox.html[Sox]
 ** link:https://www.tarsnap.com[Tarsnap]
@@ -203,6 +201,9 @@ Store:
 ** link:https://github.com/kana/vim-textobj-user[Vim Text Object User]
 ** link:https://github.com/nelstrom/vim-textobj-rubyblock[Vim Text Object Ruby Block]
 ** link:https://github.com/tpope/vim-unimpaired[Vim Unimpaired]
+* Downloads, installs, and configures link:https://www.rust-lang.org[Rust] and associated
+  link:https://crates.io[Crates]:
+** link:https://github.com/Aloxaf/silicon[Silicon]
 
 == Requirements
 
