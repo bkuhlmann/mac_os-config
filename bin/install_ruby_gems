@@ -1,0 +1,31 @@
+#! /usr/bin/env bash
+
+# Installs Ruby gems.
+
+gem install amazing_print
+gem install asciidoctor
+gem install benchmark-ips
+gem install bundler-stats
+gem install fakerbot
+gem install flacsmith
+gem install gem-ctags
+gem install gem-man
+gem install gemsmith
+gem install git-lint
+gem install gitfinger
+gem install hanami
+gem install pennyworth
+gem install pessimize
+gem install pragmater
+gem install pry
+gem install pry-byebug
+gem install rails
+gem install rake
+gem install reek
+gem install rspec
+gem install rubocop
+gem install rubocop-performance
+gem install rubocop-rake
+gem install rubocop-rspec
+gem install rubysmith
+gem install sublime_text_kit
