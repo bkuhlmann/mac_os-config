@@ -7,8 +7,3 @@
   cd "$(get_homebrew_root)"
   git config --local core.hooksPath /dev/null
 )
-
-# Sublime Text
-if [ ! -e "/usr/bin/sublime" ]; then
-  sudo ln -sv "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" "$(get_homebrew_bin_root)/sublime"
-fi
