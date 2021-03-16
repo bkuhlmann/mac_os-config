@@ -20,6 +20,3 @@ fi
 # Dotfiles
 rm -f $HOME/.bash_profile
 install_git_project "https://github.com/bkuhlmann/dotfiles.git" $REPO_DOTFILES "dotfiles" "bin/run i"
-
-# Yarn Setup
-install_git_project "https://github.com/bkuhlmann/yarn_setup.git" $REPO_YARN_SETUP "yarn_setup" "bin/run i"
