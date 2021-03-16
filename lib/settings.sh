@@ -11,9 +11,6 @@ IFS=$'\n\t'
 # Homebrew
 export HOMEBREW_CURL_RETRIES=3
 
-# Ruby
-export MRI=3.0.0
-
 # Repositories
 export REPO_SUBLIME_TEXT_SETUP=15.0.0
 export REPO_DOTFILES=42.1.0

@@ -2,10 +2,6 @@
 
 # Sets up and launches (if necessary) installed software.
 
-# Bash
-sudo bash -c "printf '$(get_homebrew_bin_root)/bash\n' >> /etc/shells"
-chsh -s "$(get_homebrew_bin_root)/bash"
-
 # Homebrew
 (
   cd "$(get_homebrew_root)"
@@ -16,7 +12,3 @@ chsh -s "$(get_homebrew_bin_root)/bash"
 if [ ! -e "/usr/bin/sublime" ]; then
   sudo ln -sv "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" "$(get_homebrew_bin_root)/sublime"
 fi
-
-# Dotfiles
-rm -f $HOME/.bash_profile
-install_git_project "https://github.com/bkuhlmann/dotfiles.git" $REPO_DOTFILES "dotfiles" "bin/run i"
