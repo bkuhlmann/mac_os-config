@@ -1,6 +1,6 @@
 #! /usr/bin/env bash
 
-# Sets up and launches (if necessary) installed software.
+# Configures installed software.
 
 # Homebrew
 (
