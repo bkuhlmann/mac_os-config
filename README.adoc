@@ -201,6 +201,12 @@ Store:
 ** link:https://github.com/kana/vim-textobj-user[Vim Text Object User]
 ** link:https://github.com/nelstrom/vim-textobj-rubyblock[Vim Text Object Ruby Block]
 ** link:https://github.com/tpope/vim-unimpaired[Vim Unimpaired]
+* Downloads, installs, and configures link:https://nodejs.org[Node]
+  link:https://www.npmjs.com[packages]:
+** link:https://github.com/stil4m/elm-analyse[Elm Analyse]
+** link:https://github.com/tomekwi/elm-live[Elm Live]
+** link:https://github.com/elm-community/elm-test[Elm Test]
+** link:https://webpack.js.org[Webpack]
 * Downloads, installs, and configures link:https://www.ruby-lang.org[Ruby] and associated
   link:https://rubygems.org[Gems]:
 ** link:https://github.com/amazing-print/amazing_print[Amazing Print]
