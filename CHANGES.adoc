@@ -1,5 +1,24 @@
 = Changes
 
+== 18.0.0 (2021-03-16)
+
+* Fixed Elm to be an application install - Brooke Kuhlmann
+* Added Dotfiles script - Brooke Kuhlmann
+* Added Highlight Homebrew formula - Brooke Kuhlmann
+* Added Node packages script - Brooke Kuhlmann
+* Added Ruby gems script - Brooke Kuhlmann
+* Added Rust crates script - Brooke Kuhlmann
+* Added version release notes - Brooke Kuhlmann
+* Updated Docker install to check for architecture instead of CPU - Brooke Kuhlmann
+* Updated setup software as configure software script - Brooke Kuhlmann
+* Updated to Dotfiles 42.2.0 - Brooke Kuhlmann
+* Updated to Sublime Text Setup 15.1.0 - Brooke Kuhlmann
+* Removed App Store script check for Mac App Store CLI - Brooke Kuhlmann
+* Removed Homebrew install from Cask and Formula scripts - Brooke Kuhlmann
+* Removed Ruby setup scripts - Brooke Kuhlmann
+* Removed Rust from setup software script - Brooke Kuhlmann
+* Removed Yarn Setup scripts - Brooke Kuhlmann
+
 == 17.3.0 (2021-02-27)
 
 * Fixed Mac App Store CLI error - Brooke Kuhlmann

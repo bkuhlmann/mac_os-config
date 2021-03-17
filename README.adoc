@@ -17,228 +17,256 @@ toc::[]
 
 == Features
 
-* Downloads, installs, and configures link:https://brew.sh[Homebrew Formula] command line software:
-** link:https://asciinema.org[asciinema]
-** link:https://www.gnu.org/software/bash[Bash]
-** link:http://bash-completion.alioth.debian.org[Bash Completion]
-** link:https://github.com/sharkdp/bat[Bat]
-** link:https://github.com/toy/blueutil[blueutil]
-** link:https://github.com/postmodern/chruby[chruby]
-** link:https://crystal-lang.org[Crystal]
-** link:http://ctags.sourceforge.net[CTags]
-** link:https://direnv.net[direnv]
-** link:http://duti.org[duti]
-** link:https://eradman.com/entrproject[Entr]
-** link:https://the.exa.website[Exa]
-** link:https://exiftool.org/index.html[ExifTool]
-** link:https://github.com/sharkdp/fd[fd]
-** link:https://www.xiph.org/flac[FLAC]
-** link:https://github.com/junegunn/fzf[FZF]
-** link:https://git-scm.com[Git]
-** link:https://github.com/dandavison/delta[Git Delta]
-** link:https://github.com/newren/git-filter-repo[Git Filter Repo]
-** link:https://github.com/github/git-sizer[Git Sizer]
-** link:https://www.gnupg.org[GPG]
-** link:http://www.graphicsmagick.org[Graphics Magick]
-** link:https://www.graphviz.org[Graphviz]
-** link:https://github.com/sharkdp/hexyl[hexyl]
-** link:http://www.andre-simon.de/doku/highlight/en/highlight.php[Highlight]
-** link:https://github.com/LuRsT/hr[hr]
-** link:https://hisham.hm/htop[htop]
-** link:https://github.com/jkbrzt/httpie[HTTPie]
-** link:https://github.com/reorx/httpstat[HTTP Stat]
-** link:https://github.com/sharkdp/hyperfine[Hyperfine]
-** link:https://github.com/JamieMason/ImageOptim-CLI[ImageOptim CLI]
-** link:https://code.google.com/p/ioping[Ioping]
-** link:https://stedolan.github.io/jq[jq]
-** link:http://lame.sourceforge.net[lame]
-** link:https://lnav.org[lnav]
-** link:https://github.com/CISOfy/lynis[Lynis]
-** link:https://magic-wormhole.readthedocs.io[Magic Wormhole]
-** link:https://github.com/mas-cli/mas[Mac App Store]
-** link:https://jedisct1.github.io/minisign[Minisign]
-** link:https://dev.yorhel.nl/ncdu[NCurses Disk Usage]
-** link:https://www.nginx.com[Nginx]
-** link:http://ngrep.sourceforge.net[Network Grep]
-** link:https://nodejs.org[Node.js]
-** link:https://github.com/variadico/noti[Noti]
-** link:https://github.com/nushell/nushell[Nushell]
-** link:https://github.com/hatoo/oha[Oha]
-** link:https://openssl.org[OpenSSL]
-** link:https://github.com/DarthSim/overmind[Overmind]
-** link:https://pandoc.org[Pandoc]
-** link:https://savannah.gnu.org/projects/parallel[Parallel]
-** link:https://github.com/peco/peco[Peco]
-** link:https://www.pgcli.com[pgcli]
-** link:https://www.zlib.net/pigz[Pigz]
-** link:https://github.com/GPGTools/pinentry-mac[Pinentry]
-** link:https://www.postgresql.org[PostgreSQL]
-** link:http://denilson.sa.nom.br/prettyping[Pretty Ping]
-** link:https://github.com/dalance/procs[Procs]
-** link:https://www.ivarch.com/programs/pv.shtml[Pipe Viewer]
-** link:https://ranger.github.io[Ranger]
-** link:https://tiswww.case.edu/php/chet/readline/rltop.html[Readline]
-** link:https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard[Reattach to User Namespace]
-** link:http://redis.io[Redis]
-** link:https://github.com/BurntSushi/ripgrep[ripgrep]
-** link:https://github.com/postmodern/ruby-install[Ruby Install]
-** link:https://github.com/sass/sassc[SASSC]
-** link:https://github.com/koalaman/shellcheck[ShellCheck]
-** link:https://www.joedog.org/siege-home[Siege]
-** link:https://www.bernhard-baehr.de[Sleepwatcher]
-** link:http://sox.sourceforge.net/sox.html[Sox]
-** link:https://www.tarsnap.com[Tarsnap]
-** link:https://www.terraform.io[Terraform]
-** link:https://github.com/ggreer/the_silver_searcher[The Silver Surfer]
-** link:http://tmux.sourceforge.net[tmux]
-** link:https://github.com/XAMPPRocky/tokei[Tokie]
-** link:https://www.vim.org[Vim]
-** link:https://gitlab.com/procps-ng/procps[Watch]
-** link:https://github.com/wg/wrk[Wrk]
-** link:https://github.com/BurntSushi/xsv[xsv]
-** link:https://github.com/mptre/yank[Yank]
-** link:https://yarnpkg.com[Yarn]
-** link:https://github.com/rupa/z[Z]
-* Downloads, installs, and configures link:https://caskroom.github.io[Homebrew Cask] command line
-software:
-** link:https://www.alfredapp.com[Alfred]
-** link:https://freemacsoft.net/appcleaner[App Cleaner]
-** link:https://www.rogueamoeba.com/audiohijack[Audio Hijack]
-** link:https://www.balena.io/etcher[Balena Etcher]
-** link:https://www.macbartender.com[Bartender]
-** link:https://beakerbrowser.com[Beaker]
-** link:https://bombich.com[Carbon Copy Cloner]
-** link:https://getcleanshot.com[CleanShot]
-** link:https://clipgrab.org[ClipGrab]
-** link:https://kapeli.com/dash[Dash]
-** link:https://discord.com[Discord]
-** link:https://www.getdoxie.com[Doxie]
-** link:https://www.dropbox.com[Dropbox]
-** link:https://www.mozilla.com/en-US/firefox[Firefox]
-** link:https://www.rogueamoeba.com/fission[Fission]
-** link:https://www.google.com/chrome[Google Chrome]
-** link:https://www.noodlesoft.com[Hazel]
-** link:http://imageoptim.pornel.net[ImageOptim]
-** link:https://bjango.com/mac/istatmenus[iStat Menus]
-** link:https://www.iterm2.com[iTerm2]
-** link:https://www.ivpn.net[IVPN]
-** link:https://www.kaleidoscopeapp.com/ksdiff2[ksdiff]
-** link:https://www.obdev.at/products/microsnitch/index.html[Micro Snitch]
-** link:https://muzzleapp.com[Muzzle]
-** link:https://ngrok.com[Ngrok]
-** link:https://numi.app[Numi]
-** link:https://www.openoffice.org[OpenOffice]
-** link:https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project[OWASP Zed Attack Proxy (ZAP)]
-** link:https://cocoatech.com[Path Finder]
-** link:https://paw.cloud[Paw]
-** link:https://www.pgadmin.org[pgAdmin]
-** link:https://getpixelsnap.com[PixelSnap]
-** link:https://manytricks.com/resolutionator[Resolutionator]
-** link:https://flyingmeat.com/retrobatch[Retrobatch]
-** link:https://signal.org[Signal]
-** link:https://www.spotify.com[Spotify]
-** link:https://www.sublimetext.com[Sublime Text 3]
-** link:https://panic.com/transmit[Transmit]
-** link:https://www.sparklabs.com/viscosity[Viscosity]
-** link:https://code.visualstudio.com[Visual Studio Code]
-** link:https://www.videolan.org/vlc[VLC]
-* Downloads, installs, and configures http://www.apple.com/macosx/whats-new/app-store.html[App
-Store] applications.
-** link:https://1password.com[1Password]
-** link:https://secure.flyingmeat.com/acorn[Acorn]
-** link:https://itunes.apple.com/us/app/aquapath/id424425207[AquaPath]
-** link:https://bear.app[Bear]
-** link:http://www.cocoajsoneditor.com[Cocoa JSON Editor]
-** link:https://usecontrast.com[Contrast]
-** link:https://daisydiskapp.com[DaisyDisk]
-** link:https://www.apple.com/mac/garageband[GarageBand]
-** link:https://handmirror.app[Hand Mirror]
-** link:https://www.apple.com/imovie[iMovie]
-** link:https://www.kaleidoscopeapp.com[Kaleidoscope]
-** link:https://manytricks.com/keycodes[Key Codes]
-** link:https://manytricks.com/keymou[Keymou]
-** link:https://www.apple.com/keynote[Keynote]
-** link:http://www.amazon.com/gp/feature.html?docId=1000464931[Kindle]
-** link:https://manytricks.com/leech[Leech]
-** link:http://limechat.net/mac[LimeChat]
-** link:https://marked2app.com[Marked 2]
-** link:http://getmedis.com[Medis]
-** link:https://trymeeter.com[Meeter]
-** link:https://mindnode.com[MindNode]
-** link:https://nothirst.com[MoneyWell]
-** link:https://manytricks.com/moom[Moom]
-** link:https://manytricks.com/namemangler[Name Mangler]
-** link:https://www.apple.com/numbers[Numbers]
-** link:https://www.omnigroup.com/omnifocus[OmniFocus]
-** link:https://www.omnigroup.com/omnioutliner[OmniOutliner]
-** link:https://www.apple.com/pages[Pages]
-** link:https://krillapps.com/patterns[Patterns]
-** link:https://smilesoftware.com/pdfpenpro[PDFpenPro]
-** link:https://www.pixelmator.com[Pixelmator]
-** link:https://www.color.ninja[Paletter]
-** link:https://primitive.lol[Primitive]
-** link:https://mizage.com/shush[Shush]
-** link:https://slack.com[Slack]
-** link:https://textsniper.app/[TextSniper]
-** link:https://www.adriangranados.com[WiFi Explorer]
-* Downloads, installs, and configures software applications not supported via Homebrew or the App
-Store:
-** link:https://elm-lang.org[Elm]
-** link:https://www.docker.com[Docker]
-** link:https://ranchero.com/netnewswire[NewNewsWire]
-** link:https://www.sonos.com[Sonos]
-* Downloads, installs, and configures software extensions:
-** link:https://github.com/jgdavey/vim-blockle[Vim Blockle]
-** link:https://github.com/tpope/vim-bundler[Vim Bundler]
-** link:https://github.com/tpope/vim-commentary[Vim Commentary]
-** link:https://github.com/tpope/vim-fugitive[Vim Fugitive]
-** link:https://github.com/airblade/vim-gitgutter[Vim Git Gutter]
-** link:https://github.com/tpope/vim-pathogen[Vim Pathogen]
-** link:https://github.com/tpope/vim-projectionist[Vim Projectionist]
-** link:https://github.com/tpope/vim-rails[Vim Rails]
-** link:https://github.com/vim-ruby/vim-ruby[Vim Ruby]
-** link:https://github.com/AndrewRadev/splitjoin.vim[Vim Splitjoin]
-** link:https://github.com/kana/vim-textobj-user[Vim Text Object User]
-** link:https://github.com/nelstrom/vim-textobj-rubyblock[Vim Text Object Ruby Block]
-** link:https://github.com/tpope/vim-unimpaired[Vim Unimpaired]
-* Downloads, installs, and configures link:https://nodejs.org[Node]
-  link:https://www.npmjs.com[packages]:
-** link:https://github.com/stil4m/elm-analyse[Elm Analyse]
-** link:https://github.com/tomekwi/elm-live[Elm Live]
-** link:https://github.com/elm-community/elm-test[Elm Test]
-** link:https://webpack.js.org[Webpack]
-* Downloads, installs, and configures link:https://www.ruby-lang.org[Ruby] and associated
-  link:https://rubygems.org[Gems]:
-** link:https://github.com/amazing-print/amazing_print[Amazing Print]
-** link:https://asciidoctor.org[ASCII Doctor]
-** link:https://github.com/evanphx/benchmark-ips[Benchmark IPS]
-** link:https://github.com/jmmastey/bundler-stats[Bundler Stats]
-** link:https://github.com/akabiru/fakerbot[Fakerbot]
-** link:https://www.alchemists.io/projects/flacsmith[Flacsmith]
-** link:https://github.com/tpope/gem-ctags[Gem Ctags]
-** link:https://github.com/defunkt/gem-man[Gem Man]
-** link:https://www.alchemists.io/projects/gemsmith[Gemsmith]
-** link:https://www.alchemists.io/projects/git-lint[Git Lint]
-** link:https://github.com/danchoi/gitfinger[Gitfinger]
-** link:https://hanamirb.org[Hanami]
-** link:https://www.alchemists.io/projects/pennyworth[Pennyworth]
-** link:https://github.com/joonty/pessimize[Pessimize]
-** link:https://www.alchemists.io/projects/pragmater[Pragmater]
-** link:https://github.com/pry/pry[Pry]
-** link:https://github.com/deivid-rodriguez/pry-byebug[Pry ByeBug]
-** link:https://rubyonrails.org[Ruby on Rails]
-** link:https://github.com/ruby/rake[Rake]
-** link:https://github.com/troessner/reek[Reek]
-** link:https://rspec.info[RSpec]
-** link:https://github.com/rubocop-hq/rubocop[Rubocop]
-** link:https://github.com/rubocop-hq/rubocop-performance[Rubocop Performance]
-** link:https://github.com/rubocop-hq/rubocop-rake[Rubocop Rake]
-** link:https://github.com/rubocop-hq/rubocop-rspec[Rubocop RSpec]
-** link:https://www.alchemists.io/projects/rubysmith[Rubysmith]
-** link:https://www.alchemists.io/projects/sublime_text_kit[Sublime Text Kit]
-* Downloads, installs, and configures link:https://www.rust-lang.org[Rust] and associated
-  link:https://crates.io[Crates]:
-** link:https://github.com/Aloxaf/silicon[Silicon]
+Due to the amount of tooling used, the following features are broken down into subsections for
+easier navigation.
+
+=== Homebrew Formulas
+
+Installs the following link:https://brew.sh[formulas]:
+
+* link:https://asciinema.org[asciinema]
+* link:https://www.gnu.org/software/bash[Bash]
+* link:http://bash-completion.alioth.debian.org[Bash Completion]
+* link:https://github.com/sharkdp/bat[Bat]
+* link:https://github.com/toy/blueutil[blueutil]
+* link:https://github.com/postmodern/chruby[chruby]
+* link:https://crystal-lang.org[Crystal]
+* link:http://ctags.sourceforge.net[CTags]
+* link:https://direnv.net[direnv]
+* link:http://duti.org[duti]
+* link:https://eradman.com/entrproject[Entr]
+* link:https://the.exa.website[Exa]
+* link:https://exiftool.org/index.html[ExifTool]
+* link:https://github.com/sharkdp/fd[fd]
+* link:https://www.xiph.org/flac[FLAC]
+* link:https://github.com/junegunn/fzf[FZF]
+* link:https://git-scm.com[Git]
+* link:https://github.com/dandavison/delta[Git Delta]
+* link:https://github.com/newren/git-filter-repo[Git Filter Repo]
+* link:https://github.com/github/git-sizer[Git Sizer]
+* link:https://www.gnupg.org[GPG]
+* link:http://www.graphicsmagick.org[Graphics Magick]
+* link:https://www.graphviz.org[Graphviz]
+* link:https://github.com/sharkdp/hexyl[hexyl]
+* link:http://www.andre-simon.de/doku/highlight/en/highlight.php[Highlight]
+* link:https://github.com/LuRsT/hr[hr]
+* link:https://hisham.hm/htop[htop]
+* link:https://github.com/jkbrzt/httpie[HTTPie]
+* link:https://github.com/reorx/httpstat[HTTP Stat]
+* link:https://github.com/sharkdp/hyperfine[Hyperfine]
+* link:https://github.com/JamieMason/ImageOptim-CLI[ImageOptim CLI]
+* link:https://code.google.com/p/ioping[Ioping]
+* link:https://stedolan.github.io/jq[jq]
+* link:http://lame.sourceforge.net[lame]
+* link:https://lnav.org[lnav]
+* link:https://github.com/CISOfy/lynis[Lynis]
+* link:https://magic-wormhole.readthedocs.io[Magic Wormhole]
+* link:https://github.com/mas-cli/mas[Mac App Store]
+* link:https://jedisct1.github.io/minisign[Minisign]
+* link:https://dev.yorhel.nl/ncdu[NCurses Disk Usage]
+* link:https://www.nginx.com[Nginx]
+* link:http://ngrep.sourceforge.net[Network Grep]
+* link:https://nodejs.org[Node.js]
+* link:https://github.com/variadico/noti[Noti]
+* link:https://github.com/nushell/nushell[Nushell]
+* link:https://github.com/hatoo/oha[Oha]
+* link:https://openssl.org[OpenSSL]
+* link:https://github.com/DarthSim/overmind[Overmind]
+* link:https://pandoc.org[Pandoc]
+* link:https://savannah.gnu.org/projects/parallel[Parallel]
+* link:https://github.com/peco/peco[Peco]
+* link:https://www.pgcli.com[pgcli]
+* link:https://www.zlib.net/pigz[Pigz]
+* link:https://github.com/GPGTools/pinentry-mac[Pinentry]
+* link:https://www.postgresql.org[PostgreSQL]
+* link:http://denilson.sa.nom.br/prettyping[Pretty Ping]
+* link:https://github.com/dalance/procs[Procs]
+* link:https://www.ivarch.com/programs/pv.shtml[Pipe Viewer]
+* link:https://ranger.github.io[Ranger]
+* link:https://tiswww.case.edu/php/chet/readline/rltop.html[Readline]
+* link:https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard[Reattach to User Namespace]
+* link:http://redis.io[Redis]
+* link:https://github.com/BurntSushi/ripgrep[ripgrep]
+* link:https://github.com/postmodern/ruby-install[Ruby Install]
+* link:https://github.com/sass/sassc[SASSC]
+* link:https://github.com/koalaman/shellcheck[ShellCheck]
+* link:https://www.joedog.org/siege-home[Siege]
+* link:https://www.bernhard-baehr.de[Sleepwatcher]
+* link:http://sox.sourceforge.net/sox.html[Sox]
+* link:https://www.tarsnap.com[Tarsnap]
+* link:https://www.terraform.io[Terraform]
+* link:https://github.com/ggreer/the_silver_searcher[The Silver Surfer]
+* link:http://tmux.sourceforge.net[tmux]
+* link:https://github.com/XAMPPRocky/tokei[Tokie]
+* link:https://www.vim.org[Vim]
+* link:https://gitlab.com/procps-ng/procps[Watch]
+* link:https://github.com/wg/wrk[Wrk]
+* link:https://github.com/BurntSushi/xsv[xsv]
+* link:https://github.com/mptre/yank[Yank]
+* link:https://yarnpkg.com[Yarn]
+* link:https://github.com/rupa/z[Z]
+
+=== Homebrew Casks
+
+Installs the following link:https://brew.sh[casks]:
+
+* link:https://www.alfredapp.com[Alfred]
+* link:https://freemacsoft.net/appcleaner[App Cleaner]
+* link:https://www.rogueamoeba.com/audiohijack[Audio Hijack]
+* link:https://www.balena.io/etcher[Balena Etcher]
+* link:https://www.macbartender.com[Bartender]
+* link:https://beakerbrowser.com[Beaker]
+* link:https://bombich.com[Carbon Copy Cloner]
+* link:https://getcleanshot.com[CleanShot]
+* link:https://clipgrab.org[ClipGrab]
+* link:https://kapeli.com/dash[Dash]
+* link:https://discord.com[Discord]
+* link:https://www.getdoxie.com[Doxie]
+* link:https://www.dropbox.com[Dropbox]
+* link:https://www.mozilla.com/en-US/firefox[Firefox]
+* link:https://www.rogueamoeba.com/fission[Fission]
+* link:https://www.google.com/chrome[Google Chrome]
+* link:https://www.noodlesoft.com[Hazel]
+* link:http://imageoptim.pornel.net[ImageOptim]
+* link:https://bjango.com/mac/istatmenus[iStat Menus]
+* link:https://www.iterm2.com[iTerm2]
+* link:https://www.ivpn.net[IVPN]
+* link:https://www.kaleidoscopeapp.com/ksdiff2[ksdiff]
+* link:https://www.obdev.at/products/microsnitch/index.html[Micro Snitch]
+* link:https://muzzleapp.com[Muzzle]
+* link:https://ngrok.com[Ngrok]
+* link:https://numi.app[Numi]
+* link:https://www.openoffice.org[OpenOffice]
+* link:https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project[OWASP Zed Attack Proxy (ZAP)]
+* link:https://cocoatech.com[Path Finder]
+* link:https://paw.cloud[Paw]
+* link:https://www.pgadmin.org[pgAdmin]
+* link:https://getpixelsnap.com[PixelSnap]
+* link:https://manytricks.com/resolutionator[Resolutionator]
+* link:https://flyingmeat.com/retrobatch[Retrobatch]
+* link:https://signal.org[Signal]
+* link:https://www.spotify.com[Spotify]
+* link:https://www.sublimetext.com[Sublime Text 3]
+* link:https://panic.com/transmit[Transmit]
+* link:https://www.sparklabs.com/viscosity[Viscosity]
+* link:https://code.visualstudio.com[Visual Studio Code]
+* link:https://www.videolan.org/vlc[VLC]
+
+=== App Store Applications
+
+Installs the following link:https://www.apple.com/app-store[App Store] applications:
+
+* link:https://1password.com[1Password]
+* link:https://secure.flyingmeat.com/acorn[Acorn]
+* link:https://itunes.apple.com/us/app/aquapath/id424425207[AquaPath]
+* link:https://bear.app[Bear]
+* link:http://www.cocoajsoneditor.com[Cocoa JSON Editor]
+* link:https://usecontrast.com[Contrast]
+* link:https://daisydiskapp.com[DaisyDisk]
+* link:https://www.apple.com/mac/garageband[GarageBand]
+* link:https://handmirror.app[Hand Mirror]
+* link:https://www.apple.com/imovie[iMovie]
+* link:https://www.kaleidoscopeapp.com[Kaleidoscope]
+* link:https://manytricks.com/keycodes[Key Codes]
+* link:https://manytricks.com/keymou[Keymou]
+* link:https://www.apple.com/keynote[Keynote]
+* link:http://www.amazon.com/gp/feature.html?docId=1000464931[Kindle]
+* link:https://manytricks.com/leech[Leech]
+* link:http://limechat.net/mac[LimeChat]
+* link:https://marked2app.com[Marked 2]
+* link:http://getmedis.com[Medis]
+* link:https://trymeeter.com[Meeter]
+* link:https://mindnode.com[MindNode]
+* link:https://nothirst.com[MoneyWell]
+* link:https://manytricks.com/moom[Moom]
+* link:https://manytricks.com/namemangler[Name Mangler]
+* link:https://www.apple.com/numbers[Numbers]
+* link:https://www.omnigroup.com/omnifocus[OmniFocus]
+* link:https://www.omnigroup.com/omnioutliner[OmniOutliner]
+* link:https://www.apple.com/pages[Pages]
+* link:https://krillapps.com/patterns[Patterns]
+* link:https://smilesoftware.com/pdfpenpro[PDFpenPro]
+* link:https://www.pixelmator.com[Pixelmator]
+* link:https://www.color.ninja[Paletter]
+* link:https://primitive.lol[Primitive]
+* link:https://mizage.com/shush[Shush]
+* link:https://slack.com[Slack]
+* link:https://textsniper.app/[TextSniper]
+* link:https://www.adriangranados.com[WiFi Explorer]
+
+=== Non-App Store Applications
+
+Installs the following macOS applications which are not located in the App Store:
+
+* link:https://elm-lang.org[Elm]
+* link:https://www.docker.com[Docker]
+* link:https://ranchero.com/netnewswire[NewNewsWire]
+* link:https://www.sonos.com[Sonos]
+
+=== Application Extensions
+
+Installs the following extensions to existing applications:
+
+* link:https://github.com/jgdavey/vim-blockle[Vim Blockle]
+* link:https://github.com/tpope/vim-bundler[Vim Bundler]
+* link:https://github.com/tpope/vim-commentary[Vim Commentary]
+* link:https://github.com/tpope/vim-fugitive[Vim Fugitive]
+* link:https://github.com/airblade/vim-gitgutter[Vim Git Gutter]
+* link:https://github.com/tpope/vim-pathogen[Vim Pathogen]
+* link:https://github.com/tpope/vim-projectionist[Vim Projectionist]
+* link:https://github.com/tpope/vim-rails[Vim Rails]
+* link:https://github.com/vim-ruby/vim-ruby[Vim Ruby]
+* link:https://github.com/AndrewRadev/splitjoin.vim[Vim Splitjoin]
+* link:https://github.com/kana/vim-textobj-user[Vim Text Object User]
+* link:https://github.com/nelstrom/vim-textobj-rubyblock[Vim Text Object Ruby Block]
+* link:https://github.com/tpope/vim-unimpaired[Vim Unimpaired]
+
+=== Node Packages
+
+Installs the following link:https://nodejs.org[Node] link:https://www.npmjs.com[packages]:
+
+* link:https://github.com/stil4m/elm-analyse[Elm Analyse]
+* link:https://github.com/tomekwi/elm-live[Elm Live]
+* link:https://github.com/elm-community/elm-test[Elm Test]
+* link:https://webpack.js.org[Webpack]
+
+=== Ruby Gems
+
+Installs the following link:https://www.ruby-lang.org[Ruby] link:https://rubygems.org[gems]:
+
+* link:https://github.com/amazing-print/amazing_print[Amazing Print]
+* link:https://asciidoctor.org[ASCII Doctor]
+* link:https://github.com/evanphx/benchmark-ips[Benchmark IPS]
+* link:https://github.com/jmmastey/bundler-stats[Bundler Stats]
+* link:https://github.com/akabiru/fakerbot[Fakerbot]
+* link:https://www.alchemists.io/projects/flacsmith[Flacsmith]
+* link:https://github.com/tpope/gem-ctags[Gem Ctags]
+* link:https://github.com/defunkt/gem-man[Gem Man]
+* link:https://www.alchemists.io/projects/gemsmith[Gemsmith]
+* link:https://www.alchemists.io/projects/git-lint[Git Lint]
+* link:https://github.com/danchoi/gitfinger[Gitfinger]
+* link:https://hanamirb.org[Hanami]
+* link:https://www.alchemists.io/projects/pennyworth[Pennyworth]
+* link:https://github.com/joonty/pessimize[Pessimize]
+* link:https://www.alchemists.io/projects/pragmater[Pragmater]
+* link:https://github.com/pry/pry[Pry]
+* link:https://github.com/deivid-rodriguez/pry-byebug[Pry ByeBug]
+* link:https://rubyonrails.org[Ruby on Rails]
+* link:https://github.com/ruby/rake[Rake]
+* link:https://github.com/troessner/reek[Reek]
+* link:https://rspec.info[RSpec]
+* link:https://github.com/rubocop-hq/rubocop[Rubocop]
+* link:https://github.com/rubocop-hq/rubocop-performance[Rubocop Performance]
+* link:https://github.com/rubocop-hq/rubocop-rake[Rubocop Rake]
+* link:https://github.com/rubocop-hq/rubocop-rspec[Rubocop RSpec]
+* link:https://www.alchemists.io/projects/rubysmith[Rubysmith]
+* link:https://www.alchemists.io/projects/sublime_text_kit[Sublime Text Kit]
+
+=== Rust Crates
+
+Installs the following link:https://www.rust-lang.org[Rust] link:https://crates.io[crates]:
+
+* link:https://github.com/Aloxaf/silicon[Silicon]
 
 == Requirements
 
@@ -374,17 +402,21 @@ captured in the `+restore.bom+` as well):
 * link:https://www.alchemists.io/articles/clean_shot/#_shortcuts[CleanShot] - See article for
   details.
 * *CONTROL + OPTION + COMMAND + b:* Bartender (hidden menu toggle)
-* *CONTROL + OPTION + COMMAND + ENTER:* Keymou (move cursor by division)
+* *CONTROL + OPTION + COMMAND + d:* Alfred Define (use OPTION to open Dictionary)
+* *CONTROL + OPTION + COMMAND + h:* Alfred Highlight Syntax
 * *CONTROL + OPTION + COMMAND + k:* Keymou (cursor highlight show/hide)
 * *CONTROL + OPTION + COMMAND + m:* Moom (show/hide)
 * *CONTROL + OPTION + COMMAND + n:* Notification Center (show/hide)
+* *CONTROL + OPTION + COMMAND + o:* Alfred Open URL in default browser
 * link:https://www.alchemists.io/articles/pixel_snap/#_shortcuts[PixelSnap] - See article for
   details.
 * *CONTROL + OPTION + COMMAND + r:* Resolutionator (selector)
+* *CONTROL + OPTION + COMMAND + t:* Alfred Large Type
 * *CONTROL + OPTION + COMMAND + ←:* Keymou (move cursor left)
 * *CONTROL + OPTION + COMMAND + ↑:* Keymou (move cursor up)
 * *CONTROL + OPTION + COMMAND + →:* Keymou (move cursor right)
 * *CONTROL + OPTION + COMMAND + ↓:* Keymou (move cursor down)
+* *CONTROL + OPTION + COMMAND + ENTER:* Keymou (move cursor by division)
 * *CONTROL + OPTION + SPACE:* OmniFocus (quick entry)
 * *OPTION + SPACE:* Alfred (open)
 
@@ -453,18 +485,9 @@ That’s it. System-wide log rotation is setup for your projects.
 
 While this project’s configuration is opinionated and tailored for my setup, you can easily fork
 this project and customize it for your environment. Start by editing the files found in the `+bin+`
-and `+lib+` directories. Here is a breakdown of each:
-
-* `bin/apply_basic_settings`: Applies basic and initial settings for setting up a machine.
-* `bin/apply_default_settings`: Applies useful system and application defaults.
-* `bin/install_app_store`: Installs macOS, GUI-based, App Store applications.
-* `bin/install_applications`: Installs macOS, GUI-based, non-App Store applications.
-* `bin/install_extensions`: Installs macOS application extensions and add-ons.
-* `bin/install_homebrew_casks`: Installs Homebrew Casks.
-* `bin/install_homebrew_formulas`: Installs Homebrew Formulas.
-* `bin/restore_backup`: Restores system/application settings from backup image.
-* `bin/setup_software`: Configures and launches (if necessary) installed software.
-* `lib/settings.sh`: Defines custom settings for software applications, extensions, etc.
+and `+lib+` directories. Check out the
+link:https://www.alchemists.io/projects/mac_os/#_customization[macOS Customization Documentation]
+for further details.
 
 _TIP_: The installer determines which applications/extensions to install as defined in the
 `+settings.sh+` script. Applications defined with the "`APP_NAME`" suffix and extensions defined
