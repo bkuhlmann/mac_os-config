@@ -28,9 +28,6 @@ else
   export DOCKER_APP_URL="https://download.docker.com/mac/stable/Docker.dmg"
 fi
 
-export NET_NEWS_WIRE_APP_NAME="NetNewsWire.app"
-export NET_NEWS_WIRE_APP_URL="https://github.com/Ranchero-Software/NetNewsWire/releases/download/mac-5.1.3/NetNewsWire5.1.3.zip"
-
 export SONOS_APP_NAME="Sonos S1 Controller.app"
 export SONOS_VOLUME_NAME="Sonos"
 export SONOS_APP_URL="https://www.sonos.com/redir/controller_software_mac"
