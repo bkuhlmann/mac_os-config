@@ -23,7 +23,7 @@ export DOCKER_APP_NAME="Docker.app"
 export DOCKER_VOLUME_NAME="Docker"
 
 if [[ "$(/usr/bin/arch)" == "arm64" ]]; then
-  export DOCKER_APP_URL="https://desktop.docker.com/mac/stable/arm64/60984/Docker.dmg"
+  export DOCKER_APP_URL="https://desktop.docker.com/mac/stable/arm64/62345/Docker.dmg"
 else
   export DOCKER_APP_URL="https://download.docker.com/mac/stable/Docker.dmg"
 fi
