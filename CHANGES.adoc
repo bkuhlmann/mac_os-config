@@ -1,5 +1,11 @@
 = Changes
 
+== 18.1.1 (2021-04-06)
+
+* Updated to Docker Preview RC3 - Brooke Kuhlmann
+* Updated to Dotfiles 43.0.0 - Brooke Kuhlmann
+* Updated to Ruby 3.0.1 - Brooke Kuhlmann
+
 == 18.1.0 (2021-03-28)
 
 * Updated NetNewsWire to use Homebrew Cask - Brooke Kuhlmann
