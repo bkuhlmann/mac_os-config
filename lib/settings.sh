@@ -23,9 +23,9 @@ export DOCKER_APP_NAME="Docker.app"
 export DOCKER_VOLUME_NAME="Docker"
 
 if [[ "$(/usr/bin/arch)" == "arm64" ]]; then
-  export DOCKER_APP_URL="https://desktop.docker.com/mac/stable/arm64/62632/Docker.dmg"
+  export DOCKER_APP_URL="https://desktop.docker.com/mac/stable/arm64/Docker.dmg"
 else
-  export DOCKER_APP_URL="https://download.docker.com/mac/stable/Docker.dmg"
+  export DOCKER_APP_URL="https://desktop.docker.com/mac/stable/amd64/Docker.dmg"
 fi
 
 export SONOS_APP_NAME="Sonos S1 Controller.app"
