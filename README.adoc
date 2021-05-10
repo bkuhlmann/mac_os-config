@@ -191,6 +191,7 @@ Installs the following link:https://www.apple.com/app-store[App Store] applicati
 * link:https://www.pixelmator.com[Pixelmator]
 * link:https://www.color.ninja[Paletter]
 * link:https://primitive.lol[Primitive]
+* link:https://apps.apple.com/gb/app/sequence-diagram/id1195426709[Sequence Diagram]
 * link:https://mizage.com/shush[Shush]
 * link:https://slack.com[Slack]
 * link:https://textsniper.app/[TextSniper]
