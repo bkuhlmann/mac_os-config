@@ -153,6 +153,7 @@ Installs the following link:https://brew.sh[casks]:
 * link:https://www.sparklabs.com/viscosity[Viscosity]
 * link:https://code.visualstudio.com[Visual Studio Code]
 * link:https://www.videolan.org/vlc[VLC]
+* link:https://zulip.com[Zulip]
 
 === App Store Applications
 

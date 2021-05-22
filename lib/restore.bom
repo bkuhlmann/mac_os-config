@@ -191,6 +191,9 @@
 /Users/bkuhlmann/Library/Application Support/org.videolan.vlc
 /Users/bkuhlmann/Library/Preferences/org.videolan.vlc.plist
 
+# Zulip
+/Users/bkuhlmann/Library/Preferences/org.zulip.zulip-electron.plist
+
 # SYSTEM
 
 # newsyslog
