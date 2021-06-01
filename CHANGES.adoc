@@ -1,5 +1,14 @@
 = Changes
 
+== 18.2.0 (2021-06-01)
+
+* Added OpenSSH Homebrew formula - Brooke Kuhlmann
+* Added Sequence Diagram macOS application - Brooke Kuhlmann
+* Added Zulip Homebrew cask - Brooke Kuhlmann
+* Updated to Docker 3.3.1 - Brooke Kuhlmann
+* Updated to Dotfiles 43.1.0 - Brooke Kuhlmann
+* Updated to Sublime Text Setup 17.0.0 - Brooke Kuhlmann
+
 == 18.1.1 (2021-04-06)
 
 * Updated to Docker Preview RC3 - Brooke Kuhlmann
