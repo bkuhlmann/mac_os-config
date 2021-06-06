@@ -292,12 +292,10 @@ The following will walk you through the steps of installing/re-installing your m
 
 === Pre-Install
 
-Double check you have the following in place:
+Ensure you have the following in place:
 
-[arabic]
-. Ensure a backup of your Apple, NAS, backup, and Dropbox credentials are available.
+. Ensure a backup of your Apple, NAS, backup image, and Dropbox credentials are available.
 . Ensure a recent backup of your machine exists and works properly.
-. Ensure Xcode installed per macOS requirements.
 . Ensure link:https://support.apple.com/en-us/HT208198[Startup Security Utility] is disabled.
 .. Turn on or restart your machine then press and hold `POWER` (Silicon) or `COMMAND + R` (Intel)
    buttons immediately upon boot or restart.
@@ -306,13 +304,16 @@ Double check you have the following in place:
 .. Select _External Boot: Allow booting from external media_.
 .. Click _Turn Off Firmware Password_.
 .. Quit the utility and restart the machine.
-. You are now ready to boot your system with the macOS Boot Disk, erase/format your drive, and start
-the install process.
 
 === Install
 
-See the link:https://www.alchemists.io/projects/mac_os#_usage[macOS] project for usage as it
-provides the command line interface for running the configuration defined by this project.
+. Create a link:https://www.alchemists.io/projects/mac_os/#_boot_disk[macOS Boot Disk] and follow
+  instructions.
+. Ensure latest software updates are applied per
+  link:https://www.alchemists.io/projects/mac_os/#_requirements[macOS Requirements].
+. Ensure Xcode is installed per link:https://www.alchemists.io/projects/mac_os/#_requirements[macOS
+  Requirements].
+. Run link:https://www.alchemists.io/projects/mac_os#_usage[macOS Install] and follow all prompts.
 
 === Post-Install
 
