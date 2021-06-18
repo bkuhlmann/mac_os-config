@@ -4,6 +4,29 @@
 
 = macOS Configuration
 
+=== Shell scripts for customized macOS machine setup and configuration.
+
+--
+=====
+
+This ** REPO ** is a ** FORK ** 
+
+This is my own personal customized fork from link:https://github.com/bkuhlmann/mac_os-config/[bkuhlmann/mac_os-config], part of The link:https://www.alchemists.io/projects/mac_os-config/[macOS Config] project by the very talented link:https://github.com/bkuhlmann/[Brooke Kuhlmann].
+
+
+image::https://raw.githubusercontent.com/eirikmadland/notion-icons/master/v5/icon4/ul-apple.svg?style=svg[]
+
+---
+_Everything below this is from the original project's **README...**_ 
+--
+
+
+
+
+
+
+
+
 [link=https://circleci.com/gh/bkuhlmann/mac_os-config]
 image::https://circleci.com/gh/bkuhlmann/mac_os-config.svg?style=svg[Circle CI Status]
 
