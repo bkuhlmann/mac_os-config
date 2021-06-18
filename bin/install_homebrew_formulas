@@ -12,6 +12,7 @@ brew install htop
 brew install imagemagick
 brew install mas
 brew install node
+brew install pipenv
 brew install python@3.9
 brew install rsync
 brew install speedtest-cli
