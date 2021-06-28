@@ -34,6 +34,7 @@ Installs the following link:https://brew.sh[formulas]:
 * link:http://ctags.sourceforge.net[CTags]
 * link:https://direnv.net[direnv]
 * link:https://dns.lookup.dog[dog]
+* link:https://github.com/muesli/duf[duf]
 * link:http://duti.org[duti]
 * link:https://eradman.com/entrproject[Entr]
 * link:https://the.exa.website[Exa]
