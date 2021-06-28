@@ -47,6 +47,7 @@ Installs the following link:https://brew.sh[formulas]:
 * link:https://github.com/newren/git-filter-repo[Git Filter Repo]
 * link:https://github.com/github/git-sizer[Git Sizer]
 * link:https://www.gnupg.org[GPG]
+* link:https://github.com/orf/gping[gping]
 * link:http://www.graphicsmagick.org[Graphics Magick]
 * link:https://www.graphviz.org[Graphviz]
 * link:https://github.com/sharkdp/hexyl[hexyl]

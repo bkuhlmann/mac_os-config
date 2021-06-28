@@ -25,6 +25,7 @@ brew install git-delta
 brew install git-filter-repo
 brew install git-sizer
 brew install gpg
+brew install gping
 brew install graphicsmagick
 brew install graphviz
 brew install hexyl
