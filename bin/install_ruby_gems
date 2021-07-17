@@ -29,3 +29,4 @@ gem install rubocop-rake
 gem install rubocop-rspec
 gem install rubysmith
 gem install sublime_text_kit
+gem install youplot
