@@ -105,6 +105,7 @@ Installs the following link:https://brew.sh[formulas]:
 * link:https://github.com/XAMPPRocky/tokei[Tokie]
 * link:https://www.vim.org[Vim]
 * link:https://gitlab.com/procps-ng/procps[Watch]
+* link:https://github.com/vi/websocat[Websocat]
 * link:https://github.com/wg/wrk[Wrk]
 * link:https://github.com/BurntSushi/xsv[xsv]
 * link:https://github.com/mptre/yank[Yank]

@@ -83,6 +83,7 @@ brew install tmux
 brew install tokei
 brew install vim
 brew install watch
+brew install websocat
 brew install wrk
 brew install xsv
 brew install yank
