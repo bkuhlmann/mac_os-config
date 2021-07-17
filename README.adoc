@@ -173,7 +173,6 @@ Installs the following link:https://www.apple.com/app-store[App Store] applicati
 * link:https://itunes.apple.com/us/app/aquapath/id424425207[AquaPath]
 * link:https://bear.app[Bear]
 * link:http://www.cocoajsoneditor.com[Cocoa JSON Editor]
-* link:https://usecontrast.com[Contrast]
 * link:https://daisydiskapp.com[DaisyDisk]
 * link:https://www.apple.com/mac/garageband[GarageBand]
 * link:https://handmirror.app[Hand Mirror]
