@@ -59,7 +59,6 @@ brew install overmind
 brew install pandoc
 brew install parallel
 brew install pastel
-brew install peco
 brew install pgcli
 brew install pigz
 brew install pinentry-mac
