@@ -149,6 +149,7 @@ Installs the following link:https://brew.sh[casks]:
 * link:https://cocoatech.com[Path Finder]
 * link:https://paw.cloud[Paw]
 * link:https://www.pgadmin.org[pgAdmin]
+* link:https://superhighfives.com/pika[Pika]
 * link:https://getpixelsnap.com[PixelSnap]
 * link:https://manytricks.com/resolutionator[Resolutionator]
 * link:https://flyingmeat.com/retrobatch[Retrobatch]
@@ -413,6 +414,7 @@ captured in the `+restore.bom+` as well):
 * link:https://www.alchemists.io/articles/clean_shot/#_shortcuts[CleanShot] - See article for
   details.
 * *CONTROL + OPTION + COMMAND + b:* Bartender (hidden menu toggle)
+* *CONTROL + OPTION + COMMAND + c:* Pika (copy color)
 * *CONTROL + OPTION + COMMAND + d:* Alfred Define (use OPTION to open Dictionary)
 * *CONTROL + OPTION + COMMAND + h:* Alfred Highlight Syntax
 * *CONTROL + OPTION + COMMAND + k:* Keymou (cursor highlight show/hide)
