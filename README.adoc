@@ -192,7 +192,6 @@ Installs the following link:https://www.apple.com/app-store[App Store] applicati
 * link:https://www.omnigroup.com/omnioutliner[OmniOutliner]
 * link:https://www.apple.com/pages[Pages]
 * link:https://krillapps.com/patterns[Patterns]
-* link:https://smilesoftware.com/pdfpenpro[PDFpenPro]
 * link:https://www.pixelmator.com[Pixelmator]
 * link:https://www.color.ninja[Paletter]
 * link:https://primitive.lol[Primitive]
