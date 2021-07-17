@@ -48,7 +48,6 @@ brew install mas
 brew install minisign
 brew install mitmproxy
 brew install ncdu
-brew install ngrep
 brew install node
 brew install noti
 brew install nushell
