@@ -9,7 +9,6 @@ gem install bundler-stats
 gem install fakerbot
 gem install flacsmith
 gem install gem-ctags
-gem install gem-man
 gem install gemsmith
 gem install git-lint
 gem install gitfinger
