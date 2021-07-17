@@ -113,7 +113,6 @@ Installs the following link:https://brew.sh[formulas]:
 * link:https://github.com/BurntSushi/xsv[xsv]
 * link:https://github.com/mptre/yank[Yank]
 * link:https://yarnpkg.com[Yarn]
-* link:https://github.com/rupa/z[Z]
 * link:https://github.com/ajeetdsouza/zoxide[Zoxide]
 
 === Homebrew Casks
