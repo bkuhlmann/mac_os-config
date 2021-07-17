@@ -69,7 +69,6 @@ Installs the following link:https://brew.sh[formulas]:
 * link:https://github.com/mas-cli/mas[Mac App Store]
 * link:https://jedisct1.github.io/minisign[Minisign]
 * link:https://dev.yorhel.nl/ncdu[NCurses Disk Usage]
-* link:https://www.nginx.com[Nginx]
 * link:http://ngrep.sourceforge.net[Network Grep]
 * link:https://nodejs.org[Node.js]
 * link:https://github.com/variadico/noti[Noti]
