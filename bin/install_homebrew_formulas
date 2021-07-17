@@ -46,6 +46,7 @@ brew install lynis
 brew install magic-wormhole
 brew install mas
 brew install minisign
+brew install mitmproxy
 brew install ncdu
 brew install ngrep
 brew install node
