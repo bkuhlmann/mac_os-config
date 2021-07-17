@@ -253,7 +253,6 @@ Installs the following link:https://www.ruby-lang.org[Ruby] link:https://rubygem
 * link:https://github.com/tpope/gem-ctags[Gem Ctags]
 * link:https://www.alchemists.io/projects/gemsmith[Gemsmith]
 * link:https://www.alchemists.io/projects/git-lint[Git Lint]
-* link:https://github.com/danchoi/gitfinger[Gitfinger]
 * link:https://hanamirb.org[Hanami]
 * link:https://www.alchemists.io/projects/pennyworth[Pennyworth]
 * link:https://github.com/joonty/pessimize[Pessimize]
