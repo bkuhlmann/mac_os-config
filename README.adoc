@@ -293,7 +293,7 @@ To install, run:
 ----
 git clone https://github.com/bkuhlmann/mac_os-config.git
 cd mac_os-config
-git checkout 18.2.0
+git checkout 18.3.0
 ----
 
 == Usage

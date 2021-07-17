@@ -1,5 +1,21 @@
 = Changes
 
+== 18.3.0 (2021-07-17)
+
+* Fixed README usage pre-install and install steps - Brooke Kuhlmann
+* Added Dive Homebrew formula - Brooke Kuhlmann
+* Added Ghostlab application - Brooke Kuhlmann
+* Added Pastel Homebrew formula - Brooke Kuhlmann
+* Added Pika Homebrew cask - Brooke Kuhlmann
+* Added Tealdeer Homebrew formula - Brooke Kuhlmann
+* Added Websocat Homebrew formula - Brooke Kuhlmann
+* Added YouPlot Ruby gem - Brooke Kuhlmann
+* Added dog Homebrew formula - Brooke Kuhlmann
+* Added duf Homebrew formula - Brooke Kuhlmann
+* Added gping Homebrew formula - Brooke Kuhlmann
+* Updated to Dotfiles 43.2.0 - Brooke Kuhlmann
+* Updated to Ruby 3.0.2 - Brooke Kuhlmann
+
 == 18.2.0 (2021-06-01)
 
 * Added OpenSSH Homebrew formula - Brooke Kuhlmann
