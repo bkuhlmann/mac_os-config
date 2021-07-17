@@ -63,7 +63,6 @@ brew install pigz
 brew install pinentry-mac
 brew install postgresql
 brew install procs
-brew install pv
 brew install ranger
 brew install readline
 brew install reattach-to-user-namespace
