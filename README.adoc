@@ -99,6 +99,7 @@ Installs the following link:https://brew.sh[formulas]:
 * link:https://www.bernhard-baehr.de[Sleepwatcher]
 * link:http://sox.sourceforge.net/sox.html[Sox]
 * link:https://www.tarsnap.com[Tarsnap]
+* link:https://github.com/dbrgn/tealdeer[Tealdeer]
 * link:https://www.terraform.io[Terraform]
 * link:https://github.com/ggreer/the_silver_searcher[The Silver Surfer]
 * link:http://tmux.sourceforge.net[tmux]

@@ -77,6 +77,7 @@ brew install siege
 brew install sleepwatcher
 brew install sox
 brew install tarsnap
+brew install tealdeer
 brew install terraform
 brew install the_silver_searcher
 brew install tmux
