@@ -11,6 +11,7 @@ brew install chruby
 brew install crystal
 brew install ctags
 brew install direnv
+brew install dive
 brew install dog
 brew install duf
 brew install duti

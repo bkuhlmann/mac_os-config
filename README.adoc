@@ -33,6 +33,7 @@ Installs the following link:https://brew.sh[formulas]:
 * link:https://crystal-lang.org[Crystal]
 * link:http://ctags.sourceforge.net[CTags]
 * link:https://direnv.net[direnv]
+* link:https://github.com/wagoodman/dive[Dive]
 * link:https://dns.lookup.dog[dog]
 * link:https://github.com/muesli/duf[duf]
 * link:http://duti.org[duti]
