@@ -28,6 +28,10 @@ else
   export DOCKER_APP_URL="https://desktop.docker.com/mac/stable/amd64/Docker.dmg"
 fi
 
+export GHOSTLAB_APP_NAME="Ghostlab3.app"
+export GHOSTLAB_VOLUME_NAME="Ghostlab3"
+export GHOSTLAB_APP_URL="https://awesome.vanamco.com/Ghostlab3/downloads/Ghostlab3.dmg"
+
 export SONOS_APP_NAME="Sonos S1 Controller.app"
 export SONOS_VOLUME_NAME="Sonos"
 export SONOS_APP_URL="https://www.sonos.com/redir/controller_software_mac"
