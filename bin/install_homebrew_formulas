@@ -92,3 +92,4 @@ brew install xsv
 brew install yank
 brew install yarn
 brew install z
+brew install zoxide
