@@ -245,7 +245,6 @@ Installs the following link:https://www.ruby-lang.org[Ruby] link:https://rubygem
 * link:https://github.com/jmmastey/bundler-stats[Bundler Stats]
 * link:https://github.com/akabiru/fakerbot[Fakerbot]
 * link:https://www.alchemists.io/projects/flacsmith[Flacsmith]
-* link:https://github.com/tpope/gem-ctags[Gem Ctags]
 * link:https://www.alchemists.io/projects/gemsmith[Gemsmith]
 * link:https://www.alchemists.io/projects/git-lint[Git Lint]
 * link:https://hanamirb.org[Hanami]
