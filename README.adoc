@@ -29,7 +29,6 @@ Installs the following link:https://brew.sh[formulas]:
 * link:http://bash-completion.alioth.debian.org[Bash Completion]
 * link:https://github.com/sharkdp/bat[Bat]
 * link:https://github.com/toy/blueutil[blueutil]
-* link:https://github.com/postmodern/chruby[chruby]
 * link:https://crystal-lang.org[Crystal]
 * link:http://ctags.sourceforge.net[CTags]
 * link:https://direnv.net[direnv]
