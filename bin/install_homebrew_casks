@@ -19,6 +19,7 @@ brew install --cask firefox
 brew install --cask fission
 brew install --cask google-chrome
 brew install --cask hazel
+brew install --cask iina
 brew install --cask imageoptim
 brew install --cask istat-menus
 brew install --cask iterm2
