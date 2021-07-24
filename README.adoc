@@ -133,7 +133,6 @@ Installs the following link:https://brew.sh[casks]:
 * link:http://imageoptim.pornel.net[ImageOptim]
 * link:https://bjango.com/mac/istatmenus[iStat Menus]
 * link:https://www.iterm2.com[iTerm2]
-* link:https://www.ivpn.net[IVPN]
 * link:https://www.kaleidoscopeapp.com/ksdiff2[ksdiff]
 * link:https://ranchero.com/netnewswire[NewNewsWire]
 * link:https://www.obdev.at/products/microsnitch/index.html[Micro Snitch]
