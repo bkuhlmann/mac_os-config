@@ -44,5 +44,4 @@ brew install --cask sublime-text
 brew install --cask transmit
 brew install --cask viscosity
 brew install --cask visual-studio-code
-brew install --cask vlc
 brew install --cask zulip
