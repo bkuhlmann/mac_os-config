@@ -58,7 +58,6 @@ Installs the following link:https://brew.sh[formulas]:
 * link:https://github.com/jkbrzt/httpie[HTTPie]
 * link:https://github.com/reorx/httpstat[HTTP Stat]
 * link:https://github.com/sharkdp/hyperfine[Hyperfine]
-* link:https://github.com/JamieMason/ImageOptim-CLI[ImageOptim CLI]
 * link:https://github.com/koct9i/ioping[Ioping]
 * link:https://stedolan.github.io/jq[jq]
 * link:http://lame.sourceforge.net[lame]

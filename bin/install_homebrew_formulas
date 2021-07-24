@@ -36,7 +36,6 @@ brew install htop
 brew install httpie
 brew install httpstat
 brew install hyperfine
-brew install imageoptim-cli
 brew install ioping
 brew install jq
 brew install lame
