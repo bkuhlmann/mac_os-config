@@ -42,6 +42,7 @@ Installs the following link:https://brew.sh[formulas]:
 * link:https://github.com/sharkdp/fd[fd]
 * link:https://www.xiph.org/flac[FLAC]
 * link:https://github.com/tako8ki/frum[Frum]
+* link:https://github.com/Schniz/fnm[Fast Node Manager]
 * link:https://github.com/junegunn/fzf[FZF]
 * link:https://git-scm.com[Git]
 * link:https://github.com/dandavison/delta[Git Delta]
