@@ -2,7 +2,7 @@
 
 # Installs Node packages.
 
-yarn global add elm-analyse
-yarn global add elm-live
-yarn global add elm-test
-yarn global add webpack
+npm install --global elm-analyse
+npm install --global elm-live
+npm install --global elm-test
+npm install --global webpack
