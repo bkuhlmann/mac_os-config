@@ -163,7 +163,6 @@ Installs the following link:https://www.apple.com/app-store[App Store] applicati
 * link:https://1password.com[1Password]
 * link:https://secure.flyingmeat.com/acorn[Acorn]
 * link:https://itunes.apple.com/us/app/aquapath/id424425207[AquaPath]
-* link:https://bear.app[Bear]
 * link:http://www.cocoajsoneditor.com[Cocoa JSON Editor]
 * link:https://daisydiskapp.com[DaisyDisk]
 * link:https://www.apple.com/mac/garageband[GarageBand]
