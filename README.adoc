@@ -184,7 +184,6 @@ Installs the following link:https://www.apple.com/app-store[App Store] applicati
 * link:https://manytricks.com/namemangler[Name Mangler]
 * link:https://www.apple.com/numbers[Numbers]
 * link:https://www.omnigroup.com/omnifocus[OmniFocus]
-* link:https://www.omnigroup.com/omnioutliner[OmniOutliner]
 * link:https://www.apple.com/pages[Pages]
 * link:https://krillapps.com/patterns[Patterns]
 * link:https://www.pixelmator.com[Pixelmator]
