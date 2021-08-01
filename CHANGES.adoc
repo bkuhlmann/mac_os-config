@@ -1,5 +1,38 @@
 = Changes
 
+== 19.0.0 (2021-08-01)
+
+* Fixed README software links - Brooke Kuhlmann
+* Added Fast Node Manager Homebrew formula - Brooke Kuhlmann
+* Added Frum Homebrew formula - Brooke Kuhlmann
+* Added IINA Homebrew cask - Brooke Kuhlmann
+* Added Mockuuups Studio Homebrew cask - Brooke Kuhlmann
+* Added Zoxide Homebrew formula - Brooke Kuhlmann
+* Added mitmproxy Homebrew formula - Brooke Kuhlmann
+* Updated node packages script to use NPM - Brooke Kuhlmann
+* Updated to Dotfiles 44.0.0 - Brooke Kuhlmann
+* Updated to Sublime Text Setup 18.0.0 - Brooke Kuhlmann
+* Removed Bear App Store application - Brooke Kuhlmann
+* Removed Contrast App Store application - Brooke Kuhlmann
+* Removed Gem Man Ruby gem - Brooke Kuhlmann
+* Removed Git Finger Ruby gem - Brooke Kuhlmann
+* Removed IVPN Homebrew cask - Brooke Kuhlmann
+* Removed ImageOptim CLI - Brooke Kuhlmann
+* Removed Nginx Homebrew formula - Brooke Kuhlmann
+* Removed OmniOutliner App Store application - Brooke Kuhlmann
+* Removed PDF Pen Pro App Store application - Brooke Kuhlmann
+* Removed Peco Homebrew formula - Brooke Kuhlmann
+* Removed Pipe Viewer Homebrew formula - Brooke Kuhlmann
+* Removed Pretty Ping Homebrew formula - Brooke Kuhlmann
+* Removed Ruby Install Homebrew formula - Brooke Kuhlmann
+* Removed Ruby ctags gem - Brooke Kuhlmann
+* Removed VLC Homebrew cask - Brooke Kuhlmann
+* Removed Wrk Homebrew formula - Brooke Kuhlmann
+* Removed Yarn Homebrew formula - Brooke Kuhlmann
+* Removed Z Homebrew formula - Brooke Kuhlmann
+* Removed chruby Homebrew formula - Brooke Kuhlmann
+* Removed ngrep Homebrew formula - Brooke Kuhlmann
+
 == 18.3.0 (2021-07-17)
 
 * Fixed README usage pre-install and install steps - Brooke Kuhlmann
