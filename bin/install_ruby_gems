@@ -11,6 +11,7 @@ gem install flacsmith
 gem install gemsmith
 gem install git-lint
 gem install hanami
+gem install libyear-bundler
 gem install pennyworth
 gem install pessimize
 gem install pragmater

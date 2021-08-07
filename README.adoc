@@ -244,6 +244,7 @@ Installs the following link:https://www.ruby-lang.org[Ruby] link:https://rubygem
 * link:https://www.alchemists.io/projects/gemsmith[Gemsmith]
 * link:https://www.alchemists.io/projects/git-lint[Git Lint]
 * link:https://hanamirb.org[Hanami]
+* link:https://github.com/jaredbeck/libyear-bundler[Libyear (Bundler)]
 * link:https://www.alchemists.io/projects/pennyworth[Pennyworth]
 * link:https://github.com/joonty/pessimize[Pessimize]
 * link:https://www.alchemists.io/projects/pragmater[Pragmater]
