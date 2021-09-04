@@ -152,6 +152,7 @@ Installs the following link:https://brew.sh[casks]:
 * link:https://www.spotify.com[Spotify]
 * link:https://www.sublimetext.com[Sublime Text]
 * link:https://panic.com/transmit[Transmit]
+* link:https://twist.com[Twist]
 * link:https://www.sparklabs.com/viscosity[Viscosity]
 * link:https://code.visualstudio.com[Visual Studio Code]
 * link:https://zulip.com[Zulip]
