@@ -242,7 +242,7 @@ Installs the following link:https://www.ruby-lang.org[Ruby] link:https://rubygem
 * link:https://asciidoctor.org[ASCII Doctor]
 * link:https://github.com/evanphx/benchmark-ips[Benchmark IPS]
 * link:https://github.com/jmmastey/bundler-stats[Bundler Stats]
-* link:https://github.com/akabiru/fakerbot[Fakerbot]
+* link:https://github.com/faker-ruby/faker-bot[Faker Bot]
 * link:https://www.alchemists.io/projects/flacsmith[Flacsmith]
 * link:https://www.alchemists.io/projects/gemsmith[Gemsmith]
 * link:https://www.alchemists.io/projects/git-lint[Git Lint]
