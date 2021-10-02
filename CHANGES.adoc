@@ -1,5 +1,16 @@
 = Changes
 
+== 19.1.0 (2021-10-02)
+
+* Fixed Ruby Faker Bot gem install and documentation - Brooke Kuhlmann
+* Added HTMLQ Homebrew formula - Brooke Kuhlmann
+* Added Libyear Bundler Ruby gem - Brooke Kuhlmann
+* Added Twist Homebrew cask - Brooke Kuhlmann
+* Added YubiKey Manager application - Brooke Kuhlmann
+* Updated to Dotfiles 44.1.0 - Brooke Kuhlmann
+* Updated to Sublime Text Setup 18.1.0 - Brooke Kuhlmann
+* Removed TextSniper from README shortcuts - Brooke Kuhlmann
+
 == 19.0.0 (2021-08-01)
 
 * Fixed README software links - Brooke Kuhlmann
