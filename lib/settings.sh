@@ -13,7 +13,7 @@ export HOMEBREW_CURL_RETRIES=3
 
 # Repositories
 export REPO_SUBLIME_TEXT_SETUP=18.0.0
-export REPO_DOTFILES=44.0.0
+export REPO_DOTFILES=44.1.0
 
 # Applications
 export ELM_APP_NAME="elm"
