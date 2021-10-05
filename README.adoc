@@ -193,7 +193,6 @@ Installs the following link:https://www.apple.com/app-store[App Store] applicati
 * link:https://apps.apple.com/gb/app/sequence-diagram/id1195426709[Sequence Diagram]
 * link:https://mizage.com/shush[Shush]
 * link:https://slack.com[Slack]
-* link:https://textsniper.app/[TextSniper]
 * link:https://www.adriangranados.com[WiFi Explorer]
 
 === Non-App Store Applications
