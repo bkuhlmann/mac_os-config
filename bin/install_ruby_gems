@@ -16,8 +16,6 @@ gem install libyear-bundler
 gem install pennyworth
 gem install pessimize
 gem install pragmater
-gem install pry
-gem install pry-byebug
 gem install rails
 gem install rake
 gem install reek
