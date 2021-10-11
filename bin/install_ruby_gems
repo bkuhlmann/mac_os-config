@@ -6,6 +6,7 @@ gem install amazing_print
 gem install asciidoctor
 gem install benchmark-ips
 gem install bundler-stats
+gem install debug
 gem install faker-bot
 gem install flacsmith
 gem install gemsmith
