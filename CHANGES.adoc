@@ -1,5 +1,16 @@
 = Changes
 
+== 20.0.0 (2021-10-25)
+
+* Added Ruby Debug gem - Brooke Kuhlmann
+* Updated to Dotfiles 45.0.0 - Brooke Kuhlmann
+* Updated to Sublime Text Setup 18.2.0 - Brooke Kuhlmann
+* Removed Micro Snitch Homebrew Cask - Brooke Kuhlmann
+* Removed Ruby Pry gems - Brooke Kuhlmann
+* Removed Text Sniper App Store application - Brooke Kuhlmann
+* Removed Zulip Homebrew cask - Brooke Kuhlmann
+* Removed notes from pull request template - Brooke Kuhlmann
+
 == 19.1.0 (2021-10-02)
 
 * Fixed Ruby Faker Bot gem install and documentation - Brooke Kuhlmann
