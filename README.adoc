@@ -260,6 +260,7 @@ Installs the following link:https://www.ruby-lang.org[Ruby] link:https://rubygem
 * link:https://github.com/rubocop-hq/rubocop-rake[Rubocop Rake]
 * link:https://github.com/rubocop-hq/rubocop-rspec[Rubocop RSpec]
 * link:https://www.alchemists.io/projects/rubysmith[Rubysmith]
+* link:https://solargraph.org/guides[Solargraph]
 * link:https://www.alchemists.io/projects/sublime_text_kit[Sublime Text Kit]
 * link:https://github.com/red-data-tools/YouPlot[YouPlot]
 
