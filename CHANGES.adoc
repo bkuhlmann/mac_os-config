@@ -1,5 +1,13 @@
 = Changes
 
+== 20.1.0 (2021-11-20)
+
+* Added README community link - Brooke Kuhlmann
+* Added Ruby DeadEnd gem - Brooke Kuhlmann
+* Added Shapes App Store application - Brooke Kuhlmann
+* Added Solargraph gem - Brooke Kuhlmann
+* Added YubiKey Manager CLI Homebrew formula - Brooke Kuhlmann
+
 == 20.0.0 (2021-10-25)
 
 * Added Ruby Debug gem - Brooke Kuhlmann
