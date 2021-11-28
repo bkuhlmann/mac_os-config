@@ -349,6 +349,7 @@ install scripts have completed:
 **** Select _Mission Control_ and assign `CONTROL + OPTION + COMMAND + N` to _Show Notification
      Center_.
 **** Select _Screenshots_ and uncheck all boxes.
+**** Select _Spotlight_ and uncheck all boxes.
 ** Desktop and Screen Saver
 *** Select _Desktop_, click `+`, and choose custom image.
 *** Select _Screen Saver_, select _Message_, enter custom message, start after 10 minutes, and check
