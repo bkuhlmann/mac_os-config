@@ -36,9 +36,6 @@ export SONOS_APP_NAME="Sonos S1 Controller.app"
 export SONOS_VOLUME_NAME="Sonos"
 export SONOS_APP_URL="https://www.sonos.com/redir/controller_software_mac"
 
-export YUBIKEY_MANAGER_APP_NAME="YubiKey Manager.app"
-export YUBIKEY_MANAGER_APP_URL="https://developers.yubico.com/yubikey-manager-qt/Releases/yubikey-manager-qt-latest-mac.pkg"
-
 # Application Extensions
 export VIM_EXTENSION_ROOT="$HOME/.vim/bundle"
 export VIM_BLOCKLE_EXTENSION_PATH="$VIM_EXTENSION_ROOT/vim-blockle"

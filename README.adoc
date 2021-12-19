@@ -203,7 +203,6 @@ Installs the following macOS applications which are not located in the App Store
 * link:https://www.docker.com[Docker]
 * link:https://www.vanamco.com[Ghostlab]
 * link:https://www.sonos.com[Sonos]
-* link:https://www.yubico.com/support/download/yubikey-manager[YubiKey Manager]
 
 === Application Extensions
 
