@@ -68,7 +68,6 @@ brew install readline
 brew install reattach-to-user-namespace
 brew install redis
 brew install ripgrep
-brew install sassc
 brew install shellcheck
 brew install siege
 brew install sleepwatcher

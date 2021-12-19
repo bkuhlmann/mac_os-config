@@ -90,7 +90,6 @@ Installs the following link:https://brew.sh[formulas]:
 * link:https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard[Reattach to User Namespace]
 * link:http://redis.io[Redis]
 * link:https://github.com/BurntSushi/ripgrep[ripgrep]
-* link:https://github.com/sass/sassc[SASSC]
 * link:https://github.com/koalaman/shellcheck[ShellCheck]
 * link:https://www.joedog.org/siege-home[Siege]
 * link:https://www.bernhard-baehr.de[Sleepwatcher]
