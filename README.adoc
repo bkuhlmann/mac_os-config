@@ -65,7 +65,6 @@ Installs the following link:https://brew.sh[formulas]:
 * link:https://stedolan.github.io/jq[jq]
 * link:https://lnav.org[lnav]
 * link:https://github.com/CISOfy/lynis[Lynis]
-* link:https://magic-wormhole.readthedocs.io[Magic Wormhole]
 * link:https://github.com/mas-cli/mas[Mac App Store]
 * link:https://jedisct1.github.io/minisign[Minisign]
 * link:https://mitmproxy.org[mitmproxy]

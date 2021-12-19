@@ -43,7 +43,6 @@ brew install ioping
 brew install jq
 brew install lnav
 brew install lynis
-brew install magic-wormhole
 brew install mas
 brew install minisign
 brew install mitmproxy
