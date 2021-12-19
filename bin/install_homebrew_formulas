@@ -40,7 +40,6 @@ brew install httpstat
 brew install hyperfine
 brew install ioping
 brew install jq
-brew install lame
 brew install lnav
 brew install lynis
 brew install magic-wormhole
