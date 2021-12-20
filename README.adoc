@@ -388,12 +388,6 @@ install scripts have completed:
 ** Double click, within the Applications folder, to install as a system preference.
 * Carbon Copy Cloner
 ** Rename old backup, create new backup, and set frequency schedule.
-* Ensure link:https://support.apple.com/en-us/HT208198[Startup Security Utility] is enabled.
-** Restart your machine then press and hold `COMMAND + R` immediately after seeing the Apple logo.
-** Select _Secure Boot: Full Security_.
-** Select _External Boot: Disallow booting from external or removable media_.
-** Click _Turn On Firmware Password_.
-** Quit the utility and restart the machine.
 
 === Keyboard Shortcuts
 
