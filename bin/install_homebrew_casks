@@ -29,6 +29,7 @@ brew install --cask mockuuups-studio
 brew install --cask muzzle
 brew install --cask ngrok
 brew install --cask numi
+brew install --cask obsidian
 brew install --cask openoffice
 brew install --cask owasp-zap
 brew install --cask path-finder

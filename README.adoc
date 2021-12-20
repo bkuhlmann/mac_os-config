@@ -138,6 +138,7 @@ Installs the following link:https://brew.sh[casks]:
 * link:https://muzzleapp.com[Muzzle]
 * link:https://ngrok.com[Ngrok]
 * link:https://numi.app[Numi]
+* link:https://obsidian.md[Obsidian]
 * link:https://www.openoffice.org[OpenOffice]
 * link:https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project[OWASP Zed Attack Proxy (ZAP)]
 * link:https://cocoatech.com[Path Finder]

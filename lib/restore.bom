@@ -149,6 +149,9 @@
 # Numi
 /Users/bkuhlmann/Library/Preferences/com.dmitrynikolaev.numi.plist
 
+# Obsidian
+/Users/bkuhlmann/Library/Preferences/md.obsidian.plist
+
 # Path Finder
 /Users/bkuhlmann/Library/Application Support/Path Finder
 /Users/bkuhlmann/Library/Preferences/com.cocoatech.PathFinder.LSSharedFileList.plist
