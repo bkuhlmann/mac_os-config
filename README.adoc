@@ -145,6 +145,7 @@ Installs the following link:https://brew.sh[casks]:
 * link:https://www.pgadmin.org[pgAdmin]
 * link:https://superhighfives.com/pika[Pika]
 * link:https://getpixelsnap.com[PixelSnap]
+* link:https://protonvpn.com[ProtonVPN]
 * link:https://manytricks.com/resolutionator[Resolutionator]
 * link:https://flyingmeat.com/retrobatch[Retrobatch]
 * link:https://signal.org[Signal]

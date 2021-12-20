@@ -36,6 +36,7 @@ brew install --cask paw
 brew install --cask pgadmin4
 brew install --cask pika
 brew install --cask pixelsnap
+brew install --cask protonvpn
 brew install --cask resolutionator
 brew install --cask retrobatch
 brew install --cask signal
