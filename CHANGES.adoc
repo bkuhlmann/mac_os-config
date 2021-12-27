@@ -1,5 +1,33 @@
 = Changes
 
+== 21.0.0 (2021-12-27)
+
+* Fixed Hippocratic license structure - Brooke Kuhlmann
+* Fixed README changes and credits sections - Brooke Kuhlmann
+* Fixed Rubocop Bundler/OrderedGems issue - Brooke Kuhlmann
+* Fixed contributing documentation - Brooke Kuhlmann
+* Added Apple Silicon machine specific documentation - Brooke Kuhlmann
+* Added BundleUp Ruby Gem - Brooke Kuhlmann
+* Added Obsidian Homebrew cask - Brooke Kuhlmann
+* Added Permute App Store application - Brooke Kuhlmann
+* Added ProtonVPN Homebrew cask - Brooke Kuhlmann
+* Added README post-install spotlight keyboard steps - Brooke Kuhlmann
+* Added croc Homebrew Formula - Brooke Kuhlmann
+* Added project citation information - Brooke Kuhlmann
+* Updated GitHub issue template - Brooke Kuhlmann
+* Updated to Dotfiles 46.0.0 - Brooke Kuhlmann
+* Updated to Git Lint 3.0.0 - Brooke Kuhlmann
+* Updated to Hippocratic License 3.0.0 - Brooke Kuhlmann
+* Updated to Ruby 3.0.3 - Brooke Kuhlmann
+* Updated to Ruby 3.1.0 - Brooke Kuhlmann
+* Updated to Sublime Text Kit 19.0.0 - Brooke Kuhlmann
+* Removed Git config from BOM - Brooke Kuhlmann
+* Removed Lame Homebrew formula - Brooke Kuhlmann
+* Removed Magic WormHole Homebrew formula - Brooke Kuhlmann
+* Removed README post-install steps for Startup Utility - Brooke Kuhlmann
+* Removed SASSC Homebrew formula - Brooke Kuhlmann
+* Removed YubiKey Manager application - Brooke Kuhlmann
+
 == 20.1.0 (2021-11-20)
 
 * Added README community link - Brooke Kuhlmann
