@@ -12,7 +12,7 @@ IFS=$'\n\t'
 export HOMEBREW_CURL_RETRIES=3
 
 # Repositories
-export REPO_SUBLIME_TEXT_SETUP=18.2.0
+export REPO_SUBLIME_TEXT_SETUP=19.0.0
 export REPO_DOTFILES=46.0.0
 
 # Applications
