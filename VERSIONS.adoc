@@ -1,5 +1,11 @@
 = Versions
 
+== 21.0.1 (2022-01-01)
+
+* Updated README policy section links - Brooke Kuhlmann
+* Updated changes as versions documentation - Brooke Kuhlmann
+* Removed code of conduct and contributing files - Brooke Kuhlmann
+
 == 21.0.0 (2021-12-27)
 
 * Fixed Hippocratic license structure - Brooke Kuhlmann
