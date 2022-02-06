@@ -4,9 +4,6 @@
 
 = macOS Configuration
 
-[link=https://circleci.com/gh/bkuhlmann/mac_os-config]
-image::https://circleci.com/gh/bkuhlmann/mac_os-config.svg?style=svg[Circle CI Status]
-
 Shell scripts for customized macOS machine setup and configuration.
 
 This project provides a highly opinionated default configuration built upon the
