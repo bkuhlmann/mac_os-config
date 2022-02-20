@@ -1,5 +1,15 @@
 = Versions
 
+== 21.1.0 (2022-02-20)
+
+* Added Ruby version to Gemfile - Brooke Kuhlmann
+* Added jless Rust crate - Brooke Kuhlmann
+* Updated to Dotfiles 46.2.0 - Brooke Kuhlmann
+* Updated to Git Lint 3.2.0 - Brooke Kuhlmann
+* Updated to Ruby 3.1.1 - Brooke Kuhlmann
+* Updated to Sublime Text Setup 19.1.0 - Brooke Kuhlmann
+* Removed README badges - Brooke Kuhlmann
+
 == 21.0.1 (2022-01-01)
 
 * Updated README policy section links - Brooke Kuhlmann
