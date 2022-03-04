@@ -2,9 +2,9 @@ cff-version: 1.2.0
 message: Please use the following metadata when citing this project in your work.
 title: macOS Configuration
 abstract: Provides a highly opinionated default configuration built upon the macOS project.
-version: 21.1.0
+version: 21.1.1
 license: Hippocratic-2.1
-date-released: 2022-02-20
+date-released: 2022-03-04
 authors:
   - family-names: Kuhlmann
     given-names: Brooke

@@ -1,5 +1,12 @@
 = Versions
 
+== 21.1.1 (2022-03-04)
+
+* Fixed Hippocratic License to be 2.1.0 version - Brooke Kuhlmann
+* Added Caliber gem - Brooke Kuhlmann
+* Updated default Rake task to include Git Lint and Rubocop - Brooke Kuhlmann
+* Updated to Dotfiles 46.2.1 - Brooke Kuhlmann
+
 == 21.1.0 (2022-02-20)
 
 * Added Ruby version to Gemfile - Brooke Kuhlmann
