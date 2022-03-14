@@ -8,7 +8,6 @@ gem install benchmark-ips
 gem install bundler-stats
 gem install bundleup
 gem install debug
-gem install faker-bot
 gem install flacsmith
 gem install gemsmith
 gem install git-lint
