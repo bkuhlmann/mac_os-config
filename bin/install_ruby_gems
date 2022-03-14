@@ -7,7 +7,6 @@ gem install asciidoctor
 gem install benchmark-ips
 gem install bundler-stats
 gem install bundleup
-gem install dead_end
 gem install debug
 gem install faker-bot
 gem install flacsmith
