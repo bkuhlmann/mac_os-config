@@ -40,7 +40,6 @@ brew install --cask protonvpn
 brew install --cask resolutionator
 brew install --cask retrobatch
 brew install --cask signal
-brew install --cask spotify
 brew install --cask sublime-text
 brew install --cask transmit
 brew install --cask twist

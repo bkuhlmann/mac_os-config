@@ -145,7 +145,6 @@ Installs the following link:https://brew.sh[casks]:
 * link:https://manytricks.com/resolutionator[Resolutionator]
 * link:https://flyingmeat.com/retrobatch[Retrobatch]
 * link:https://signal.org[Signal]
-* link:https://www.spotify.com[Spotify]
 * link:https://www.sublimetext.com[Sublime Text]
 * link:https://panic.com/transmit[Transmit]
 * link:https://twist.com[Twist]

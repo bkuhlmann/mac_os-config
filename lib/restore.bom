@@ -179,10 +179,6 @@
 # Sonos
 /Users/bkuhlmann/Library/Preferences/com.sonos.macController.plist
 
-# Spotify
-/Users/bkuhlmann/Library/Preferences/com.spotify.client.helper.plist
-/Users/bkuhlmann/Library/Preferences/com.spotify.client.plist
-
 # Transmit
 /Users/bkuhlmann/Library/Preferences/com.panic.Transmit.plist
 
