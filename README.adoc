@@ -112,7 +112,6 @@ Installs the following link:https://brew.sh[casks]:
 * link:https://www.rogueamoeba.com/audiohijack[Audio Hijack]
 * link:https://www.balena.io/etcher[Balena Etcher]
 * link:https://www.macbartender.com[Bartender]
-* link:https://beakerbrowser.com[Beaker]
 * link:https://bombich.com[Carbon Copy Cloner]
 * link:https://getcleanshot.com[CleanShot]
 * link:https://clipgrab.org[ClipGrab]
