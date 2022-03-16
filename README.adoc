@@ -221,7 +221,6 @@ Installs the following extensions to existing applications:
 
 Installs the following link:https://nodejs.org[Node] link:https://www.npmjs.com[packages]:
 
-* link:https://github.com/stil4m/elm-analyse[Elm Analyse]
 * link:https://github.com/tomekwi/elm-live[Elm Live]
 * link:https://github.com/elm-explorations/test[Elm Test]
 
