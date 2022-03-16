@@ -272,8 +272,9 @@ Installs the following link:https://www.rust-lang.org[Rust] link:https://crates.
 
 == Requirements
 
-. link:https://www.alchemists.io/projects/mac_os[macOS]
 . Apple Silicon hardware.
+. link:https://www.alchemists.io/projects/mac_os[macOS]
+. link:https://developer.apple.com/xcode[Xcode]
 
 == Setup
 
