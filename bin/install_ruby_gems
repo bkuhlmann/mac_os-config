@@ -21,10 +21,6 @@ gem install rails
 gem install rake
 gem install reek
 gem install rspec
-gem install rubocop
-gem install rubocop-performance
-gem install rubocop-rake
-gem install rubocop-rspec
 gem install rubysmith
 gem install solargraph
 gem install sublime_text_kit
