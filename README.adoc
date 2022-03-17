@@ -82,7 +82,6 @@ Installs the following link:https://brew.sh[formulas]:
 * link:https://www.postgresql.org[PostgreSQL]
 * link:https://github.com/dalance/procs[Procs]
 * link:https://tiswww.case.edu/php/chet/readline/rltop.html[Readline]
-* link:https://github.com/ChrisJohnsen/tmux-MacOSX-pasteboard[Reattach to User Namespace]
 * link:http://redis.io[Redis]
 * link:https://github.com/BurntSushi/ripgrep[ripgrep]
 * link:https://github.com/koalaman/shellcheck[ShellCheck]
