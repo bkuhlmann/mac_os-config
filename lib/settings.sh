@@ -34,8 +34,6 @@ export SONOS_APP_URL="https://www.sonos.com/redir/controller_software_mac"
 
 # Application Extensions
 export VIM_EXTENSION_ROOT="$HOME/.vim/bundle"
-export VIM_BLOCKLE_EXTENSION_PATH="$VIM_EXTENSION_ROOT/vim-blockle"
-export VIM_BLOCKLE_EXTENSION_URL="https://github.com/tpope/vim-bundler"
 export VIM_BUNDLER_EXTENSION_PATH="$VIM_EXTENSION_ROOT/vim-bundler"
 export VIM_BUNDLER_EXTENSION_URL="https://github.com/tpope/vim-bundler"
 export VIM_COMMENTARY_EXTENSION_PATH="$VIM_EXTENSION_ROOT/vim-commentary"

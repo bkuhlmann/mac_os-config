@@ -200,7 +200,6 @@ Installs the following macOS applications which are not located in the App Store
 
 Installs the following extensions to existing applications:
 
-* link:https://github.com/jgdavey/vim-blockle[Vim Blockle]
 * link:https://github.com/tpope/vim-bundler[Vim Bundler]
 * link:https://github.com/tpope/vim-commentary[Vim Commentary]
 * link:https://github.com/tpope/vim-fugitive[Vim Fugitive]
