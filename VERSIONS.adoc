@@ -1,5 +1,27 @@
 = Versions
 
+== 22.0.0 (2022-03-16)
+
+* Fixed Elm Test link - Brooke Kuhlmann
+* Fixed Paletter site link - Brooke Kuhlmann
+* Fixed jless Rust crate link - Brooke Kuhlmann
+* Added Caliber Ruby gem - Brooke Kuhlmann
+* Added Xcode requirement - Brooke Kuhlmann
+* Removed Beaker browser Homebrew cask - Brooke Kuhlmann
+* Removed DeadEnd Ruby gem - Brooke Kuhlmann
+* Removed Elm Analyse - Brooke Kuhlmann
+* Removed Faker Bot Ruby gem - Brooke Kuhlmann
+* Removed Ghostlab application - Brooke Kuhlmann
+* Removed JSON Cocoa JSON Editor App Store application - Brooke Kuhlmann
+* Removed Ranger Homebrew formula - Brooke Kuhlmann
+* Removed Reattach to User Namespace Homebrew formula - Brooke Kuhlmann
+* Removed Rubocop gems - Brooke Kuhlmann
+* Removed Sox Homebrew formula - Brooke Kuhlmann
+* Removed Spotify Homebrew cask - Brooke Kuhlmann
+* Removed Vim Blockle extension - Brooke Kuhlmann
+* Removed Vim text object Ruby block extension - Brooke Kuhlmann
+* Removed Webpack Node package - Brooke Kuhlmann
+
 == 21.1.1 (2022-03-04)
 
 * Fixed Hippocratic License to be 2.1.0 version - Brooke Kuhlmann
