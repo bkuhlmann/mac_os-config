@@ -1,5 +1,13 @@
 = Versions
 
+== 22.0.1 (2022-04-17)
+
+* Added GitHub sponsorship configuration - Brooke Kuhlmann
+* Updated to Caliber 0.4.0 - Brooke Kuhlmann
+* Updated to Caliber 0.5.0 - Brooke Kuhlmann
+* Updated to Git Lint 4.0.0 - Brooke Kuhlmann
+* Updated to Ruby 3.1.2 - Brooke Kuhlmann
+
 == 22.0.0 (2022-03-16)
 
 * Fixed Elm Test link - Brooke Kuhlmann
