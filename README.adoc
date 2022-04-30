@@ -29,6 +29,7 @@ Installs the following link:https://brew.sh[formulas]:
 * link:https://github.com/schollz/croc[croc]
 * link:https://crystal-lang.org[Crystal]
 * link:http://ctags.sourceforge.net[CTags]
+* link:https://dagger.io[Dagger]
 * link:https://direnv.net[direnv]
 * link:https://github.com/wagoodman/dive[Dive]
 * link:https://dns.lookup.dog[dog]
