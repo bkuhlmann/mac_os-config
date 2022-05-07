@@ -1,5 +1,12 @@
 = Versions
 
+== 22.1.0 (2022-05-07)
+
+* Added Dagger Homebrew formula - Brooke Kuhlmann
+* Updated to Caliber 0.6.0 - Brooke Kuhlmann
+* Updated to Caliber 0.7.0 - Brooke Kuhlmann
+* Updated to Caliber 0.8.0 - Brooke Kuhlmann
+
 == 22.0.1 (2022-04-17)
 
 * Added GitHub sponsorship configuration - Brooke Kuhlmann
