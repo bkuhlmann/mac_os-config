@@ -1,5 +1,10 @@
 = Versions
 
+== 22.2.0 (2022-05-28)
+
+* Updated to Dotfiles 47.1.0 - Brooke Kuhlmann
+* Updated to Sublime Text Setup 19.3.1 - Brooke Kuhlmann
+
 == 22.1.0 (2022-05-07)
 
 * Added Dagger Homebrew formula - Brooke Kuhlmann
