@@ -23,9 +23,10 @@ brew install --cask imageoptim
 brew install --cask istat-menus
 brew install --cask iterm2
 brew install --cask ksdiff
-brew install --cask netnewswire
+brew install --cask logseq
 brew install --cask mockuuups-studio
 brew install --cask muzzle
+brew install --cask netnewswire
 brew install --cask ngrok
 brew install --cask numi
 brew install --cask obsidian
