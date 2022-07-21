@@ -27,6 +27,9 @@
 # Apple Control Center
 /Users/bkuhlmann/Library/Preferences/com.apple.controlcenter.plist
 
+# Apple Dock
+/Users/bkuhlmann/Library/Preferences/com.apple.dock.plist
+
 # Apple FaceTime
 /Users/bkuhlmann/Library/Preferences/com.apple.facetime.bag.plist
 /Users/bkuhlmann/Library/Preferences/com.apple.FaceTime.plist
