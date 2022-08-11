@@ -1,5 +1,14 @@
 = Versions
 
+== 22.4.0 (2022-08-11)
+
+* Added Apple Dock perferences to BOM - Brooke Kuhlmann
+* Added Viddy Homebrew formula - Brooke Kuhlmann
+* Added keyboard shortcut for Mission Control - Brooke Kuhlmann
+* Updated to Caliber 0.11.0 - Brooke Kuhlmann
+* Updated to Dotfiles 47.3.0 - Brooke Kuhlmann
+* Updated to Sublime Text Setup 19.5.0 - Brooke Kuhlmann
+
 == 22.3.0 (2022-07-09)
 
 * Added Logseq Homebrew cask - Brooke Kuhlmann
