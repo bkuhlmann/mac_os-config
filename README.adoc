@@ -233,7 +233,6 @@ Installs the following link:https://www.ruby-lang.org[Ruby] link:https://rubygem
 * link:https://github.com/joonty/pessimize[Pessimize]
 * link:https://www.alchemists.io/projects/pragmater[Pragmater]
 * link:https://rubyonrails.org[Ruby on Rails]
-* link:https://github.com/ruby/rake[Rake]
 * link:https://github.com/troessner/reek[Reek]
 * link:https://rspec.info[RSpec]
 * link:https://www.alchemists.io/projects/rubysmith[Rubysmith]
