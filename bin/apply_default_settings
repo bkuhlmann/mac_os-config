@@ -213,3 +213,156 @@ defaults write com.apple.appstore WebKitDeveloperExtras -bool true
 
 printf "%s\n" "App Store - Enable Debug Menu in the Mac App Store."
 defaults write com.apple.appstore ShowDebugMenu -bool true
+
+printf "CCMenu - Add open source projects\n"
+defaults write net.sourceforge.cruisecontrol.CCMenu Projects '
+(
+  {
+    projectName = "bkuhlmann/archiver";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/archiver.cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/auther";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/auther.cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/bashsmith";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/bashsmith.cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/benchmarks";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/benchmarks.cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/caliber";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/caliber.cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/cogger";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/cogger.cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/docker-alpine-base";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/docker-alpine-base.cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/docker-alpine-ruby";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/docker-alpine-ruby.cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/dotfiles";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/dotfiles.cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/flacsmith";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/flacsmith.cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/form-validator";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/form-validator.cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/gemsmith";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/gemsmith.cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/ghub";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/ghub.cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/git-lint";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/git-lint.cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/git_plus";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/git_plus.cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/http-fake";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/http-fake.cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/infusible";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/infusible.cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/mac_os";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/mac_os.cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/mac_os-config";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/mac_os-config.cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/marameters";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/marameters.cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/milestoner";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/milestoner.cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/navigator";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/navigator.cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/pennyworth";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/pennyworth.cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/pkce";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/pkce.cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/pragmater";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/pragmater.cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/prawn_plus";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/prawn_plus.cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/refinements";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/refinements.cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/rubysmith";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/rubysmith.cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/runcom";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/runcom.cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/spek";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/spek.cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/sublime_text_kit";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/sublime_text_kit.cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/sublime_text_setup";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/sublime_text_setup.cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/tocer";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/tocer.cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/transactable";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/transactable.cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/ubuntu";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/ubuntu.cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/versionaire";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/versionaire.cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/xdg";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/xdg.cc.xml";
+  }
+)'
