@@ -164,6 +164,7 @@ Installs the following link:https://www.apple.com/app-store[App Store] applicati
 * link:https://marked2app.com[Marked 2]
 * link:http://getmedis.com[Medis]
 * link:https://trymeeter.com[Meeter]
+* link:https://www.markvapps.com/metadatics[Metadatics]
 * link:https://mindnode.com[MindNode]
 * link:https://manytricks.com/moom[Moom]
 * link:https://manytricks.com/namemangler[Name Mangler]
