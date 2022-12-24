@@ -1,14 +1,11 @@
 #! /usr/bin/env bash
 
-# Installs Dotfiles project.
+# Installs shell.
 
 if [[ -z $(cat /etc/shells | grep "$(get_homebrew_bin_root)/bash") ]]; then
   sudo bash -c "printf '$(get_homebrew_bin_root)/bash\n' >> /etc/shells"
   chsh -s "$(get_homebrew_bin_root)/bash"
-
   rm -f "$HOME/.bash_profile"
-  install_git_project "https://github.com/bkuhlmann/dotfiles.git" $REPO_DOTFILES "dotfiles" "bin/run i"
-  source "$HOME/.bashrc"
 else
-  printf "%s\n" "Dotfiles are installed."
+  printf "%s\n" "Shell is installed."
 fi

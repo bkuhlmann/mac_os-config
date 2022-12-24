@@ -1,6 +1,6 @@
 #! /usr/bin/env bash
 
-# Applies basic system settings.
+# Installs basic system settings.
 
 read -p "What is this machine's label (Example: \"Alchemist\")? " mac_os_label
 if [[ -z "$mac_os_label" ]]; then
