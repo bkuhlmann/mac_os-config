@@ -4,3 +4,4 @@
 
 cargo install jless
 cargo install silicon
+cargo install dotenv-linter
