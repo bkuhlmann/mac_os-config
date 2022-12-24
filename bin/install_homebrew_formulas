@@ -46,7 +46,6 @@ brew install mas
 brew install minisign
 brew install mitmproxy
 brew install ncdu
-brew install node
 brew install noti
 brew install nushell
 brew install oha
