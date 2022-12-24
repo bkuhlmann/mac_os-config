@@ -34,7 +34,6 @@ Installs the following link:https://brew.sh[formulas]:
 * link:https://dns.lookup.dog[dog]
 * link:https://github.com/muesli/duf[duf]
 * link:http://duti.org[duti]
-* link:https://eradman.com/entrproject[Entr]
 * link:https://the.exa.website[Exa]
 * link:https://exiftool.org/index.html[ExifTool]
 * link:https://github.com/sharkdp/fd[fd]
