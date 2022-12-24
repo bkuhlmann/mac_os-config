@@ -193,6 +193,7 @@ Installs the following link:https://www.apple.com/app-store[App Store] applicati
 Installs the following macOS applications which are not located in the App Store:
 
 * link:https://elm-lang.org[Elm]
+* link:https://diffusionbee.com[DiffusionBee]
 * link:https://www.docker.com[Docker]
 * link:https://www.kaleidoscopeapp.com[Kaleidoscope]
 * link:https://moneywell.app[MoneyWell]

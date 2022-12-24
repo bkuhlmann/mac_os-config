@@ -19,6 +19,10 @@ export REPO_DOTFILES=47.3.0
 export ELM_APP_NAME="elm"
 export ELM_APP_URL="https://github.com/elm/compiler/releases/download/0.19.1/installer-for-mac.pkg"
 
+export DIFFUION_BEE_APP_NAME="DiffusionBee.app"
+export DIFFUION_BEE_VOLUME_NAME="DiffusionBee 1.5.1-arm64 1"
+export DIFFUION_BEE_APP_URL="https://github.com/divamgupta/diffusionbee-stable-diffusion-ui/releases/download/1.5.1/DiffusionBee-1.5.1-arm64_TF_SD1.4_FP32.dmg"
+
 export DOCKER_APP_NAME="Docker.app"
 export DOCKER_VOLUME_NAME="Docker"
 
@@ -29,7 +33,7 @@ else
 fi
 
 export KALEIDOSCOPE_APP_NAME="Kaleidoscope.app"
-export KALEIDOSCOPE_APP_URL="https://kaleidoscope.app/download/latest/ks"
+export KALEIDOSCOPE_APP_URL="https://kaleidoscope.app/download"
 
 export MONEYWELL_APP_NAME="MoneyWell.app"
 export MONEYWELL_APP_URL="https://moneywell.app/downloads/sparkle/MoneyWell-3.1.2.zip"
