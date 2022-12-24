@@ -26,6 +26,12 @@ if [[ "$downloads" == "y" ]]; then
   printf "%s\n" "Downloads deleted."
 fi
 
+read -p "Change /usr/local ownership to $USER:staff (y/n)? " ownership
+if [[ "$ownership" == "y" ]]; then
+  sudo chown -R "$USER":staff /usr/local
+  printf "%s\n" "Ownership changed."
+fi
+
 printf "Setting system label and name...\n"
 sudo scutil --set ComputerName $mac_os_label
 sudo scutil --set HostName $mac_os_name
