@@ -24,4 +24,5 @@ gem install rspec
 gem install rubysmith
 gem install solargraph
 gem install sublime_text_kit
+gem install syntax_tree
 gem install youplot
