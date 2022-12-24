@@ -31,6 +31,9 @@ fi
 export KALEIDOSCOPE_APP_NAME="Kaleidoscope.app"
 export KALEIDOSCOPE_APP_URL="https://kaleidoscope.app/download/latest/ks"
 
+export MONEYWELL_APP_NAME="MoneyWell.app"
+export MONEYWELL_APP_URL="https://moneywell.app/downloads/sparkle/MoneyWell-3.1.2.zip"
+
 export SONOS_APP_NAME="Sonos S1 Controller.app"
 export SONOS_VOLUME_NAME="Sonos"
 export SONOS_APP_URL="https://www.sonos.com/redir/controller_software_mac"
