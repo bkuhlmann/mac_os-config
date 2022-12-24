@@ -10,7 +10,6 @@ brew install blueutil
 brew install croc
 brew install crystal
 brew install ctags
-brew install dagger
 brew install direnv
 brew install dive
 brew install dog
