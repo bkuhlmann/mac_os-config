@@ -111,6 +111,7 @@ Installs the following link:https://brew.sh[casks]:
 * link:https://getcleanshot.com[CleanShot]
 * link:https://kapeli.com/dash[Dash]
 * link:https://discord.com[Discord]
+* link:https://software.charliemonroe.net/downie[Downie]
 * link:https://www.getdoxie.com[Doxie]
 * link:https://www.dropbox.com[Dropbox]
 * link:https://www.mozilla.com/en-US/firefox[Firefox]

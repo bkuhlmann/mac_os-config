@@ -11,6 +11,7 @@ brew install --cask carbon-copy-cloner
 brew install --cask cleanshot
 brew install --cask dash
 brew install --cask discord
+brew install --cask downie
 brew install --cask doxie
 brew install --cask dropbox
 brew install --cask firefox
