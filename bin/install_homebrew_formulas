@@ -18,7 +18,6 @@ brew install duti
 brew install exa
 brew install exiftool
 brew install fd
-brew install flac
 brew install fnm
 brew install frum
 brew install fzf
