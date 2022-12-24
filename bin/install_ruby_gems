@@ -2,6 +2,7 @@
 
 # Installs Ruby gems.
 
+gem update --system && gem update
 gem install amazing_print
 gem install asciidoctor
 gem install benchmark-ips
