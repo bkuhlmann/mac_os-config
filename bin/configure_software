@@ -1,9 +1,0 @@
-#! /usr/bin/env bash
-
-# Configures installed software.
-
-# Homebrew
-(
-  cd "$(get_homebrew_root)"
-  git config --local core.hooksPath /dev/null
-)
