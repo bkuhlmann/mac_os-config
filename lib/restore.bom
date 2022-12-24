@@ -196,8 +196,26 @@
 
 # USER
 /Users/bkuhlmann/.asciinema
-/Users/bkuhlmann/.cache
-/Users/bkuhlmann/.config
+/Users/bkuhlmann/.cache/psql
+/Users/bkuhlmann/.cache/ruby
+/Users/bkuhlmann/.cache/zoxide
+/Users/bkuhlmann/.config/archiver
+/Users/bkuhlmann/.config/asciinema
+/Users/bkuhlmann/.config/bash
+/Users/bkuhlmann/.config/bundler
+/Users/bkuhlmann/.config/duti
+/Users/bkuhlmann/.config/gemsmith
+/Users/bkuhlmann/.config/git
+/Users/bkuhlmann/.config/htop
+/Users/bkuhlmann/.config/iterm2
+/Users/bkuhlmann/.config/lnav
+/Users/bkuhlmann/.config/pennyworth
+/Users/bkuhlmann/.config/pgcli
+/Users/bkuhlmann/.config/pragmater
+/Users/bkuhlmann/.config/rubocop
+/Users/bkuhlmann/.config/rubysmith
+/Users/bkuhlmann/.config/sublime_text_kit
+/Users/bkuhlmann/.diffusionbee
 /Users/bkuhlmann/.gem/credentials
 /Users/bkuhlmann/.gem/gem-private_key.pem
 /Users/bkuhlmann/.gem/gem-public_cert.pem
@@ -208,7 +226,6 @@
 /Users/bkuhlmann/.pgadmin
 /Users/bkuhlmann/.siege
 /Users/bkuhlmann/.ssh
-/Users/bkuhlmann/.ssl
 /Users/bkuhlmann/.vscode
 /Users/bkuhlmann/Apps
 /Users/bkuhlmann/Desktop
