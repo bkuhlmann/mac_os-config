@@ -191,6 +191,7 @@ Installs the following macOS applications which are not located in the App Store
 * link:https://diffusionbee.com[DiffusionBee]
 * link:https://www.docker.com[Docker]
 * link:https://moneywell.app[MoneyWell]
+* link:https://osv.dev[Open Source Vulnerability Scanner]
 * link:https://www.sonos.com[Sonos]
 
 === Application Extensions
