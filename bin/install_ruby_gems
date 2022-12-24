@@ -9,7 +9,6 @@ gem install benchmark-ips
 gem install bundler-stats
 gem install bundleup
 gem install caliber
-gem install debug
 gem install gemsmith
 gem install git-lint
 gem install hanami
