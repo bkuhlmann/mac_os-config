@@ -87,7 +87,6 @@ Installs the following link:https://brew.sh[formulas]:
 * link:https://github.com/BurntSushi/ripgrep[ripgrep]
 * link:https://github.com/koalaman/shellcheck[ShellCheck]
 * link:https://www.joedog.org/siege-home[Siege]
-* link:https://www.bernhard-baehr.de[Sleepwatcher]
 * link:https://www.tarsnap.com[Tarsnap]
 * link:https://github.com/dbrgn/tealdeer[Tealdeer]
 * link:https://www.terraform.io[Terraform]
