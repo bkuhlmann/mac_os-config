@@ -32,9 +32,6 @@ else
   export DOCKER_APP_URL="https://desktop.docker.com/mac/stable/amd64/Docker.dmg"
 fi
 
-export KALEIDOSCOPE_APP_NAME="Kaleidoscope.app"
-export KALEIDOSCOPE_APP_URL="https://kaleidoscope.app/download"
-
 export MONEYWELL_APP_NAME="MoneyWell.app"
 export MONEYWELL_APP_URL="https://moneywell.app/downloads/sparkle/MoneyWell-3.1.2.zip"
 

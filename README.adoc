@@ -122,6 +122,7 @@ Installs the following link:https://brew.sh[casks]:
 * link:http://imageoptim.pornel.net[ImageOptim]
 * link:https://bjango.com/mac/istatmenus[iStat Menus]
 * link:https://www.iterm2.com[iTerm2]
+* link:https://www.kaleidoscopeapp.com[Kaleidoscope]
 * link:https://mockuuups.studio[Mockuuups Studio]
 * link:https://muzzleapp.com[Muzzle]
 * link:https://netnewswire.com[NewNewsWire]
@@ -189,7 +190,6 @@ Installs the following macOS applications which are not located in the App Store
 * link:https://elm-lang.org[Elm]
 * link:https://diffusionbee.com[DiffusionBee]
 * link:https://www.docker.com[Docker]
-* link:https://www.kaleidoscopeapp.com[Kaleidoscope]
 * link:https://moneywell.app[MoneyWell]
 * link:https://www.sonos.com[Sonos]
 
