@@ -110,7 +110,6 @@ Installs the following link:https://brew.sh[casks]:
 * link:https://www.macbartender.com[Bartender]
 * link:https://bombich.com[Carbon Copy Cloner]
 * link:https://getcleanshot.com[CleanShot]
-* link:https://clipgrab.org[ClipGrab]
 * link:https://kapeli.com/dash[Dash]
 * link:https://discord.com[Discord]
 * link:https://www.getdoxie.com[Doxie]
