@@ -11,10 +11,6 @@ IFS=$'\n\t'
 # Homebrew
 export HOMEBREW_CURL_RETRIES=3
 
-# Repositories
-export REPO_SUBLIME_TEXT_SETUP=19.5.0
-export REPO_DOTFILES=47.3.0
-
 # Applications
 export ELM_APP_NAME="elm"
 export ELM_APP_URL="https://github.com/elm/compiler/releases/download/0.19.1/installer-for-mac.pkg"
