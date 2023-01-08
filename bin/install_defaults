@@ -242,6 +242,10 @@ defaults write net.sourceforge.cruisecontrol.CCMenu Projects '
     serverUrl = "https://circleci.com/gh/bkuhlmann/cogger.cc.xml";
   },
   {
+    projectName = "bkuhlmann/core";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/core.cc.xml";
+  },
+  {
     projectName = "bkuhlmann/docker-alpine-base";
     serverUrl = "https://circleci.com/gh/bkuhlmann/docker-alpine-base.cc.xml";
   },
@@ -276,6 +280,10 @@ defaults write net.sourceforge.cruisecontrol.CCMenu Projects '
   {
     projectName = "bkuhlmann/git_plus";
     serverUrl = "https://circleci.com/gh/bkuhlmann/git_plus.cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/gitt";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/gitt.cc.xml";
   },
   {
     projectName = "bkuhlmann/http-fake";
@@ -352,10 +360,6 @@ defaults write net.sourceforge.cruisecontrol.CCMenu Projects '
   {
     projectName = "bkuhlmann/transactable";
     serverUrl = "https://circleci.com/gh/bkuhlmann/transactable.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/ubuntu";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/ubuntu.cc.xml";
   },
   {
     projectName = "bkuhlmann/versionaire";
