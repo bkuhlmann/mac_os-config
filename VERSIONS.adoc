@@ -1,5 +1,12 @@
 = Versions
 
+== 23.1.0 (2023-01-08)
+
+* Fixed DiffusionBee to restore only images and data - Brooke Kuhlmann
+* Updated CCMenu with latest project index - Brooke Kuhlmann
+* Updated to Caliber 0.21.0 - Brooke Kuhlmann
+* Updated to Git Lint 5.0.0 - Brooke Kuhlmann
+
 == 23.0.0 (2022-12-25)
 
 * Fixed restore backup script to use proper project paths - Brooke Kuhlmann
