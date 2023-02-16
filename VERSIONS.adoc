@@ -1,5 +1,12 @@
 = Versions
 
+== 23.2.0 (2023-02-15)
+
+* Added Hanamismith and Hemo projects to CCMenu defaults - Brooke Kuhlmann
+* Added Rake binstub - Brooke Kuhlmann
+* Updated to Caliber 0.25.0 - Brooke Kuhlmann
+* Updated to Ruby 3.2.1 - Brooke Kuhlmann
+
 == 23.1.0 (2023-01-08)
 
 * Fixed DiffusionBee to restore only images and data - Brooke Kuhlmann
