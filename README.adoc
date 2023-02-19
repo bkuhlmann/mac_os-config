@@ -7,7 +7,7 @@
 Shell scripts for customized macOS machine setup and configuration.
 
 This project provides a highly opinionated default configuration built upon the
-link:https://www.alchemists.io/projects/mac_os[macOS] project. Should the configuration provided by
+link:https://alchemists.io/projects/mac_os[macOS] project. Should the configuration provided by
 this project not be to your liking, feel free to fork and customize for your specific needs.
 
 toc::[]
@@ -226,20 +226,20 @@ Installs the following link:https://www.ruby-lang.org[Ruby] link:https://rubygem
 * link:https://github.com/evanphx/benchmark-ips[Benchmark IPS]
 * link:https://github.com/jmmastey/bundler-stats[Bundler Stats]
 * link:https://github.com/mattbrictson/bundleup[BundleUp]
-* link:https://www.alchemists.io/projects/caliber[Caliber]
-* link:https://www.alchemists.io/projects/gemsmith[Gemsmith]
-* link:https://www.alchemists.io/projects/git-lint[Git Lint]
+* link:https://alchemists.io/projects/caliber[Caliber]
+* link:https://alchemists.io/projects/gemsmith[Gemsmith]
+* link:https://alchemists.io/projects/git-lint[Git Lint]
 * link:https://hanamirb.org[Hanami]
 * link:https://github.com/jaredbeck/libyear-bundler[Libyear (Bundler)]
-* link:https://www.alchemists.io/projects/pennyworth[Pennyworth]
+* link:https://alchemists.io/projects/pennyworth[Pennyworth]
 * link:https://github.com/joonty/pessimize[Pessimize]
-* link:https://www.alchemists.io/projects/pragmater[Pragmater]
+* link:https://alchemists.io/projects/pragmater[Pragmater]
 * link:https://rubyonrails.org[Ruby on Rails]
 * link:https://github.com/troessner/reek[Reek]
 * link:https://rspec.info[RSpec]
-* link:https://www.alchemists.io/projects/rubysmith[Rubysmith]
+* link:https://alchemists.io/projects/rubysmith[Rubysmith]
 * link:https://solargraph.org/guides[Solargraph]
-* link:https://www.alchemists.io/projects/sublime_text_kit[Sublime Text Kit]
+* link:https://alchemists.io/projects/sublime_text_kit[Sublime Text Kit]
 * link:https://github.com/ruby-syntax-tree/syntax_tree[Syntax Tree]
 * link:https://github.com/red-data-tools/YouPlot[YouPlot]
 
@@ -254,7 +254,7 @@ Installs the following link:https://www.rust-lang.org[Rust] link:https://crates.
 == Requirements
 
 . Apple Silicon hardware.
-. link:https://www.alchemists.io/projects/mac_os[macOS]
+. link:https://alchemists.io/projects/mac_os[macOS]
 . link:https://developer.apple.com/xcode[Xcode]
 
 == Setup
@@ -288,13 +288,13 @@ Ensure you have the following in place for your Silicon machine:
 
 === Install
 
-. Create a link:https://www.alchemists.io/projects/mac_os/#_boot_disk[macOS Boot Disk] and follow
+. Create a link:https://alchemists.io/projects/mac_os/#_boot_disk[macOS Boot Disk] and follow
   instructions.
 . Ensure latest software updates are applied per
-  link:https://www.alchemists.io/projects/mac_os/#_requirements[macOS Requirements].
-. Ensure Xcode is installed per link:https://www.alchemists.io/projects/mac_os/#_requirements[macOS
+  link:https://alchemists.io/projects/mac_os/#_requirements[macOS Requirements].
+. Ensure Xcode is installed per link:https://alchemists.io/projects/mac_os/#_requirements[macOS
   Requirements].
-. Run link:https://www.alchemists.io/projects/mac_os#_usage[macOS Install] and follow all prompts.
+. Run link:https://alchemists.io/projects/mac_os#_usage[macOS Install] and follow all prompts.
 
 === Post-Install
 
@@ -379,7 +379,7 @@ captured in the `+restore.bom+` as well):
 
 * *COMMAND + SPACE (hold):* Siri (open)
 * *COMMAND + SPACE:* Spotlight (open)
-* link:https://www.alchemists.io/articles/clean_shot/#_shortcuts[CleanShot] - See article for
+* link:https://alchemists.io/articles/clean_shot/#_shortcuts[CleanShot] - See article for
   details.
 * *CONTROL + OPTION + COMMAND + b:* Bartender (hidden menu toggle)
 * *CONTROL + OPTION + COMMAND + c:* Pika (copy color)
@@ -389,7 +389,7 @@ captured in the `+restore.bom+` as well):
 * *CONTROL + OPTION + COMMAND + m:* Moom (show/hide)
 * *CONTROL + OPTION + COMMAND + n:* Notification Center (show/hide)
 * *CONTROL + OPTION + COMMAND + o:* Alfred Open URL in default browser
-* link:https://www.alchemists.io/articles/pixel_snap/#_shortcuts[PixelSnap] - See article for
+* link:https://alchemists.io/articles/pixel_snap/#_shortcuts[PixelSnap] - See article for
   details.
 * *CONTROL + OPTION + COMMAND + r:* Resolutionator (selector)
 * *CONTROL + OPTION + COMMAND + t:* Alfred Large Type
@@ -468,7 +468,7 @@ That’s it. System-wide log rotation is setup for your projects.
 While this project’s configuration is opinionated and tailored for my setup, you can easily fork
 this project and customize it for your environment. Start by editing the files found in the `+bin+`
 and `+lib+` directories. Check out the
-link:https://www.alchemists.io/projects/mac_os/#_customization[macOS Customization Documentation]
+link:https://alchemists.io/projects/mac_os/#_customization[macOS Customization Documentation]
 for further details.
 
 _TIP_: The installer determines which applications/extensions to install as defined in the
@@ -487,18 +487,18 @@ git clone https://github.com/bkuhlmann/mac_os-config.git
 cd mac_os-config
 ----
 
-== link:https://www.alchemists.io/policies/license[License]
+== link:https://alchemists.io/policies/license[License]
 
-== link:https://www.alchemists.io/policies/security[Security]
+== link:https://alchemists.io/policies/security[Security]
 
-== link:https://www.alchemists.io/policies/code_of_conduct[Code of Conduct]
+== link:https://alchemists.io/policies/code_of_conduct[Code of Conduct]
 
-== link:https://www.alchemists.io/policies/contributions[Contributions]
+== link:https://alchemists.io/policies/contributions[Contributions]
 
-== link:https://www.alchemists.io/projects/mac_os-config/versions[Versions]
+== link:https://alchemists.io/projects/mac_os-config/versions[Versions]
 
-== link:https://www.alchemists.io/community[Community]
+== link:https://alchemists.io/community[Community]
 
 == Credits
 
-Engineered by link:https://www.alchemists.io/team/brooke_kuhlmann[Brooke Kuhlmann].
+Engineered by link:https://alchemists.io/team/brooke_kuhlmann[Brooke Kuhlmann].
