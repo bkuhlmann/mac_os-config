@@ -230,6 +230,7 @@ Installs the following link:https://www.ruby-lang.org[Ruby] link:https://rubygem
 * link:https://alchemists.io/projects/gemsmith[Gemsmith]
 * link:https://alchemists.io/projects/git-lint[Git Lint]
 * link:https://hanamirb.org[Hanami]
+* link:https://alchemists.io/projects/hanamismith[Hanamismith]
 * link:https://github.com/jaredbeck/libyear-bundler[Libyear (Bundler)]
 * link:https://alchemists.io/projects/pennyworth[Pennyworth]
 * link:https://github.com/joonty/pessimize[Pessimize]

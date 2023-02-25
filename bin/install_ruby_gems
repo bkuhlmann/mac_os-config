@@ -12,6 +12,7 @@ gem install caliber
 gem install gemsmith
 gem install git-lint
 gem install hanami
+gem install hanamismith
 gem install libyear-bundler
 gem install pennyworth
 gem install pessimize
