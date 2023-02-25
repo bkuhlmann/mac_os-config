@@ -2,6 +2,7 @@
 
 # Installs applications.
 
+install_zip_app "$BIT_WARDEN_APP_URL" "$BIT_WARDEN_APP_NAME"
 install_bare_pkg "$ELM_APP_URL" "$ELM_APP_NAME"
 install_dmg_app "$DIFFUION_BEE_APP_URL" "$DIFFUION_BEE_VOLUME_NAME" "$DIFFUION_BEE_APP_NAME"
 install_dmg_app "$DOCKER_APP_URL" "$DOCKER_VOLUME_NAME" "$DOCKER_APP_NAME"
