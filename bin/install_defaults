@@ -262,10 +262,6 @@ defaults write net.sourceforge.cruisecontrol.CCMenu Projects '
     serverUrl = "https://circleci.com/gh/bkuhlmann/etcher.cc.xml";
   },
   {
-    projectName = "bkuhlmann/flacsmith";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/flacsmith.cc.xml";
-  },
-  {
     projectName = "bkuhlmann/form-validator";
     serverUrl = "https://circleci.com/gh/bkuhlmann/form-validator.cc.xml";
   },
@@ -280,10 +276,6 @@ defaults write net.sourceforge.cruisecontrol.CCMenu Projects '
   {
     projectName = "bkuhlmann/git-lint";
     serverUrl = "https://circleci.com/gh/bkuhlmann/git-lint.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/git_plus";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/git_plus.cc.xml";
   },
   {
     projectName = "bkuhlmann/gitt";
