@@ -258,6 +258,10 @@ defaults write net.sourceforge.cruisecontrol.CCMenu Projects '
     serverUrl = "https://circleci.com/gh/bkuhlmann/dotfiles.cc.xml";
   },
   {
+    projectName = "bkuhlmann/etcher";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/etcher.cc.xml";
+  },
+  {
     projectName = "bkuhlmann/flacsmith";
     serverUrl = "https://circleci.com/gh/bkuhlmann/flacsmith.cc.xml";
   },
