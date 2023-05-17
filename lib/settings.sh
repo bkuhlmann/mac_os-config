@@ -18,10 +18,6 @@ export BIT_WARDEN_APP_URL="https://vault.bitwarden.com/download/?app=cli&platfor
 export ELM_APP_NAME="elm"
 export ELM_APP_URL="https://github.com/elm/compiler/releases/download/0.19.1/installer-for-mac.pkg"
 
-export DIFFUION_BEE_APP_NAME="DiffusionBee.app"
-export DIFFUION_BEE_VOLUME_NAME="DiffusionBee 1.5.1-arm64 1"
-export DIFFUION_BEE_APP_URL="https://github.com/divamgupta/diffusionbee-stable-diffusion-ui/releases/download/1.5.1/DiffusionBee-1.5.1-arm64_TF_SD1.4_FP32.dmg"
-
 export DOCKER_APP_NAME="Docker.app"
 export DOCKER_VOLUME_NAME="Docker"
 

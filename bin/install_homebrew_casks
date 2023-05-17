@@ -10,6 +10,7 @@ brew install --cask bartender
 brew install --cask carbon-copy-cloner
 brew install --cask cleanshot
 brew install --cask dash
+brew install --cask diffusionbee
 brew install --cask discord
 brew install --cask downie
 brew install --cask doxie

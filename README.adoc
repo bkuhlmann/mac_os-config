@@ -111,6 +111,7 @@ Installs the following link:https://brew.sh[casks]:
 * link:https://bombich.com[Carbon Copy Cloner]
 * link:https://getcleanshot.com[CleanShot]
 * link:https://kapeli.com/dash[Dash]
+* link:https://diffusionbee.com[DiffusionBee]
 * link:https://discord.com[Discord]
 * link:https://software.charliemonroe.net/downie[Downie]
 * link:https://www.getdoxie.com[Doxie]
@@ -191,7 +192,6 @@ Installs the following macOS applications which are not located in the App Store
 
 * link:https://bitwarden.com[Bitwarden CLI]
 * link:https://elm-lang.org[Elm]
-* link:https://diffusionbee.com[DiffusionBee]
 * link:https://www.docker.com[Docker]
 * link:https://moneywell.app[MoneyWell]
 * link:https://osv.dev[Open Source Vulnerability Scanner]
