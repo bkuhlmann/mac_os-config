@@ -15,9 +15,6 @@ export HOMEBREW_CURL_RETRIES=3
 export BIT_WARDEN_APP_NAME="bw"
 export BIT_WARDEN_APP_URL="https://vault.bitwarden.com/download/?app=cli&platform=macos"
 
-export ELM_APP_NAME="elm"
-export ELM_APP_URL="https://github.com/elm/compiler/releases/download/0.19.1/installer-for-mac.pkg"
-
 export DOCKER_APP_NAME="Docker.app"
 export DOCKER_VOLUME_NAME="Docker"
 

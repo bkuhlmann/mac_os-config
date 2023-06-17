@@ -191,7 +191,6 @@ Installs the following link:https://www.apple.com/app-store[App Store] applicati
 Installs the following macOS applications which are not located in the App Store:
 
 * link:https://bitwarden.com[Bitwarden CLI]
-* link:https://elm-lang.org[Elm]
 * link:https://www.docker.com[Docker]
 * link:https://moneywell.app[MoneyWell]
 * link:https://osv.dev[Open Source Vulnerability Scanner]
@@ -217,8 +216,7 @@ Installs the following extensions to existing applications:
 
 Installs the following link:https://nodejs.org[Node] link:https://www.npmjs.com[packages]:
 
-* link:https://github.com/tomekwi/elm-live[Elm Live]
-* link:https://github.com/elm-explorations/test[Elm Test]
+_None are used at the moment._
 
 === Ruby Gems
 

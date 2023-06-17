@@ -1,6 +1,3 @@
 #! /usr/bin/env bash
 
 # Installs Node packages.
-
-npm install --global elm-live
-npm install --global elm-test
