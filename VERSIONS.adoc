@@ -1,5 +1,13 @@
 = Versions
 
+== 24.0.0 (2023-06-19)
+
+* Added CCMenu HTMX default - Brooke Kuhlmann
+* Updated to Caliber 0.35.0 - Brooke Kuhlmann
+* Updated to Git Lint 6.0.0 - Brooke Kuhlmann
+* Updated to Refinements 11.0.0 - Brooke Kuhlmann
+* Removed Elm - Brooke Kuhlmann
+
 == 23.4.0 (2023-05-18)
 
 * Added Etcher CCMenu configuration - Brooke Kuhlmann
