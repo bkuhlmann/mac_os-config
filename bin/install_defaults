@@ -350,6 +350,10 @@ defaults write net.sourceforge.cruisecontrol.CCMenu Projects '
     serverUrl = "https://circleci.com/gh/bkuhlmann/runcom.cc.xml";
   },
   {
+    projectName = "bkuhlmann/sod";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/sod.cc.xml";
+  },
+  {
     projectName = "bkuhlmann/spek";
     serverUrl = "https://circleci.com/gh/bkuhlmann/spek.cc.xml";
   },
@@ -376,6 +380,10 @@ defaults write net.sourceforge.cruisecontrol.CCMenu Projects '
   {
     projectName = "bkuhlmann/versionaire";
     serverUrl = "https://circleci.com/gh/bkuhlmann/versionaire.cc.xml";
+  },
+  {
+    projectName = "bkuhlmann/wholable";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/wholable.cc.xml";
   },
   {
     projectName = "bkuhlmann/xdg";
