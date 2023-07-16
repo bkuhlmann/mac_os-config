@@ -251,7 +251,6 @@ Installs the following link:https://www.rust-lang.org[Rust] link:https://crates.
 
 * link:https://dotenv-linter.github.io[Dotenv Linter]
 * link:https://jless.io[jless]
-* link:https://github.com/Aloxaf/silicon[Silicon]
 
 == Requirements
 
