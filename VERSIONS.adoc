@@ -1,5 +1,11 @@
 = Versions
 
+== 24.1.0 (2023-09-28)
+
+* Added CCMenu Sod and Wholable defaults - Brooke Kuhlmann
+* Added Debug gem - Brooke Kuhlmann
+* Updated Kindle App Store application ID - Brooke Kuhlmann
+
 == 24.0.0 (2023-06-19)
 
 * Added CCMenu HTMX default - Brooke Kuhlmann
