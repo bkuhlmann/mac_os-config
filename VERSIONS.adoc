@@ -1,5 +1,12 @@
 = Versions
 
+== 24.2.0 (2023-11-04)
+
+* Added defaults for not launching previously opened applications - Brooke Kuhlmann
+* Updated GitHub issue template with simplified sections - Brooke Kuhlmann
+* Updated to Caliber 0.42.0 - Brooke Kuhlmann
+* Refactored Gemfile to use ruby file syntax - Brooke Kuhlmann
+
 == 24.1.0 (2023-09-28)
 
 * Added CCMenu Sod and Wholable defaults - Brooke Kuhlmann
