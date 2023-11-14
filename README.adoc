@@ -109,7 +109,6 @@ Installs the following link:https://brew.sh[casks]:
 * link:https://www.macbartender.com[Bartender]
 * link:https://bombich.com[Carbon Copy Cloner]
 * link:https://getcleanshot.com[CleanShot]
-* link:https://kapeli.com/dash[Dash]
 * link:https://diffusionbee.com[DiffusionBee]
 * link:https://discord.com[Discord]
 * link:https://software.charliemonroe.net/downie[Downie]
