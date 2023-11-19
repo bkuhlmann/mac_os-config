@@ -293,6 +293,10 @@ defaults write net.sourceforge.cruisecontrol.CCMenu Projects '
     serverUrl = "https://circleci.com/gh/bkuhlmann/htmx.cc.xml";
   },
   {
+    projectName = "bkuhlmann/htmx-remove";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/htmx-remove.cc.xml";
+  },
+  {
     projectName = "bkuhlmann/hemo";
     serverUrl = "https://circleci.com/gh/bkuhlmann/hemo.cc.xml";
   },
