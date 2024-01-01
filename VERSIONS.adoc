@@ -1,5 +1,19 @@
 = Versions
 
+== 25.0.0 (2024-01-01)
+
+* Added CCMenu htmx-remove JavaScript library - Brooke Kuhlmann
+* Added Lode CCMenu default - Brooke Kuhlmann
+* Added Rakefile quality task - Brooke Kuhlmann
+* Updated Circle CI step names - Brooke Kuhlmann
+* Updated gem dependencies - Brooke Kuhlmann
+* Updated to Ruby 3.3.0 - Brooke Kuhlmann
+* Removed Dash Homebrew Cask - Brooke Kuhlmann
+* Removed KeyCastr restore BOM configuration - Brooke Kuhlmann
+* Removed Pixelmator app store application - Brooke Kuhlmann
+* Removed Silicon Rust crate - Brooke Kuhlmann
+* Removed Watch Homebrew formula - Brooke Kuhlmann
+
 == 24.2.0 (2023-11-04)
 
 * Added defaults for not launching previously opened applications - Brooke Kuhlmann
