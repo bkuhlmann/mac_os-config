@@ -172,6 +172,9 @@
 # Sonos
 /Users/bkuhlmann/Library/Preferences/com.sonos.macController.plist
 
+# Tana
+/Users/bkuhlmann/Library/Preferences/inc.tana.desktop.plist
+
 # Transmit
 /Users/bkuhlmann/Library/Preferences/com.panic.Transmit.plist
 

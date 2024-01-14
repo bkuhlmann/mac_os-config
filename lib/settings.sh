@@ -34,6 +34,9 @@ export SONOS_APP_NAME="Sonos S1 Controller.app"
 export SONOS_VOLUME_NAME="Sonos"
 export SONOS_APP_URL="https://www.sonos.com/redir/controller_software_mac"
 
+export TANA_APP_NAME="Tana.app"
+export TANA_APP_URL="https://desktop-update.tana.inc/download/darwin"
+
 # Application Extensions
 export VIM_EXTENSION_ROOT="$HOME/.vim/bundle"
 export VIM_BUNDLER_EXTENSION_PATH="$VIM_EXTENSION_ROOT/vim-bundler"
