@@ -377,6 +377,10 @@ defaults write net.sourceforge.cruisecontrol.CCMenu Projects '
     serverUrl = "https://circleci.com/gh/bkuhlmann/sublime_text_setup.cc.xml";
   },
   {
+    projectName = "bkuhlmann/tana";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/tana.cc.xml";
+  },
+  {
     projectName = "bkuhlmann/tocer";
     serverUrl = "https://circleci.com/gh/bkuhlmann/tocer.cc.xml";
   },
