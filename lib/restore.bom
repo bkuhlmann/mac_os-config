@@ -75,9 +75,6 @@
 # CleanShot
 /Users/bkuhlmann/Library/Preferences/pl.maketheweb.cleanshotx.plist
 
-# DiffusionBee
-/Users/bkuhlmann/Library/Preferences/com.linerai.liner.plist
-
 # Discord
 /Users/bkuhlmann/Library/Preferences/com.hnc.Discord.plist
 
@@ -213,8 +210,6 @@
 /Users/bkuhlmann/.config/pragmater
 /Users/bkuhlmann/.config/rubysmith
 /Users/bkuhlmann/.config/sublime_text_kit
-/Users/bkuhlmann/.diffusionbee/data.json
-/Users/bkuhlmann/.diffusionbee/images
 /Users/bkuhlmann/.gem/credentials
 /Users/bkuhlmann/.gem/gem-private_key.pem
 /Users/bkuhlmann/.gem/gem-public_cert.pem
