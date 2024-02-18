@@ -43,7 +43,6 @@ brew install lnav
 brew install lynis
 brew install mas
 brew install minisign
-brew install mitmproxy
 brew install ncdu
 brew install noti
 brew install nushell
