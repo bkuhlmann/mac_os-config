@@ -266,7 +266,7 @@ To install, run:
 ----
 git clone https://github.com/bkuhlmann/mac_os-config.git
 cd mac_os-config
-git checkout 25.0.0
+git checkout 25.1.0
 ----
 
 == Usage
@@ -317,7 +317,7 @@ install scripts have completed:
 *** Disable entire feature.
 ** General
 *** Login Items
-**** Ensure only _Alfred_ and _Carbon Copy Cloner_ are listed.
+**** Ensure only _Alfred_ is listed.
 *** Language and Region
 **** Set _First day of week_ to _Monday_.
 **** Set _Date format_ to _YYYY-MM-DD_.
@@ -327,13 +327,13 @@ install scripts have completed:
 *** Disable Battery and Spotlight from showing in Menu Bar.
 **  Privacy & Security
 *** Enable _FileVault_.
-** Displays
-*** Click _Advanced_ and enable _Prevent automatic sleeping on power adapter when the
-display is off_.
 ** Wallpaper
 *** Select custom image from _Documents_.
 ** Screen Saver
 *** Use _Message_ with custom text.
+** Battery
+*** Click _Options_ and enable _Prevent automatic sleeping on power adapter when the
+display is off_.
 ** Lock Screen
 *** Set _Start Screen Saver when inactive_ for 5 minutes.
 *** Set _Turn display off on battery when inactive_ for 2 minutes.
@@ -342,7 +342,7 @@ display is off_.
 *** Set _Show message when locked_. Example: `<url> | <email> | <phone>`.
 ** Touch ID & Password
 *** Rename fingerprint.
-*** Enable use of Touche ID for all settings.
+*** Enable use of Touch ID for all settings.
 *** Enable use of Apple Watch.
 ** Users & Groups
 *** Update avatar image.
@@ -371,7 +371,7 @@ display is off_.
 *** Disable _Allow notifications when the screen is locked_.
 *** Disable _Allow notifications when mirroring or sharing the display_.
 *** Disable _Show notifications on lock screen_ and _Play sound for notification_ for all applications.
-** Rename old backup, create new backup, and set frequency schedule.
+** Rename old backup, create new backup, and schedule frequency.
 
 === Keyboard Shortcuts
 

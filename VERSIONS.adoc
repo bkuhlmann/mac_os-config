@@ -1,5 +1,18 @@
 = Versions
 
+== 25.1.0 (2024-02-18)
+
+* ✅ Fixed exa install to be a crate - Brooke Kuhlmann
+* ✅ Fixed mitmproxy install to be a cask - Brooke Kuhlmann
+* 🟢 Added CCMenu Tana default - Brooke Kuhlmann
+* 🟢 Added OrbStack Homebrew Formula - Brooke Kuhlmann
+* 🟢 Added ReplTypeCompletor Ruby gem - Brooke Kuhlmann
+* 🟢 Added Tana application - Brooke Kuhlmann
+* 🔼 Updated restore BOM with latest backup information - Brooke Kuhlmann
+* 🔼 Updated to Bitwarden CLI 2024.2.0 - Brooke Kuhlmann
+* 🔼 Updated to Caliber 0.50.0 - Brooke Kuhlmann
+* 🔼 Updated to OSV Scanner 1.6.2 - Brooke Kuhlmann
+
 == 25.0.0 (2024-01-01)
 
 * Added CCMenu htmx-remove JavaScript library - Brooke Kuhlmann
