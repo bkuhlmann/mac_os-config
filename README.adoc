@@ -69,6 +69,7 @@ Installs the following link:https://brew.sh[formulas]:
 * link:https://github.com/hatoo/oha[Oha]
 * link:https://www.openssh.com[OpenSSH]
 * link:https://openssl.org[OpenSSL]
+* link:https://osv.dev[Open Source Vulnerability Scanner]
 * link:https://github.com/DarthSim/overmind[Overmind]
 * link:https://pandoc.org[Pandoc]
 * link:https://savannah.gnu.org/projects/parallel[Parallel]
@@ -189,7 +190,6 @@ Installs the following macOS applications which are not located in the App Store
 * link:https://bitwarden.com[Bitwarden CLI]
 * link:https://www.docker.com[Docker]
 * link:https://moneywell.app[MoneyWell]
-* link:https://osv.dev[Open Source Vulnerability Scanner]
 * link:https://www.sonos.com[Sonos]
 * link:https://tana.inc[Tana]
 

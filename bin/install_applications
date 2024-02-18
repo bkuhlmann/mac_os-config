@@ -5,6 +5,5 @@
 install_zip_app "$BIT_WARDEN_APP_URL" "$BIT_WARDEN_APP_NAME"
 install_dmg_app "$DOCKER_APP_URL" "$DOCKER_VOLUME_NAME" "$DOCKER_APP_NAME"
 install_zip_app "$MONEYWELL_APP_URL" "$MONEYWELL_APP_NAME"
-install_program "$OSV_APP_URL" "$OSV_APP_NAME"
 install_dmg_app "$SONOS_APP_URL" "$SONOS_VOLUME_NAME" "$SONOS_APP_NAME"
 install_zip_app "$TANA_APP_URL" "$TANA_APP_NAME"
