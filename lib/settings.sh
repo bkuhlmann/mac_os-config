@@ -13,7 +13,7 @@ export HOMEBREW_CURL_RETRIES=3
 
 # Applications
 export BIT_WARDEN_APP_NAME="bw"
-export BIT_WARDEN_APP_URL="https://vault.bitwarden.com/download/?app=cli&platform=macos"
+export BIT_WARDEN_APP_URL="https://github.com/bitwarden/clients/releases/download/cli-v2024.2.0/bw-macos-2024.2.0.zip"
 
 export DOCKER_APP_NAME="Docker.app"
 export DOCKER_VOLUME_NAME="Docker"
