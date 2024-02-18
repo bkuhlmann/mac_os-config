@@ -35,7 +35,6 @@ Installs the following link:https://brew.sh[formulas]:
 * link:https://dns.lookup.dog[dog]
 * link:https://github.com/muesli/duf[duf]
 * link:http://duti.org[duti]
-* link:https://the.exa.website[Exa]
 * link:https://exiftool.org/index.html[ExifTool]
 * link:https://github.com/sharkdp/fd[fd]
 * link:https://github.com/tako8ki/frum[Frum]
@@ -249,6 +248,7 @@ Installs the following link:https://www.ruby-lang.org[Ruby] link:https://rubygem
 Installs the following link:https://www.rust-lang.org[Rust] link:https://crates.io[crates]:
 
 * link:https://dotenv-linter.github.io[Dotenv Linter]
+* link:https://the.exa.website[Exa]
 * link:https://jless.io[jless]
 
 == Requirements
