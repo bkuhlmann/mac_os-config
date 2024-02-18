@@ -49,6 +49,7 @@ brew install nushell
 brew install oha
 brew install openssh
 brew install openssl
+brew install orbstack
 brew install osv-scanner
 brew install overmind
 brew install pandoc

@@ -68,6 +68,7 @@ Installs the following link:https://brew.sh[formulas]:
 * link:https://github.com/hatoo/oha[Oha]
 * link:https://www.openssh.com[OpenSSH]
 * link:https://openssl.org[OpenSSL]
+* link:https://orbstack.dev[OrbStack]
 * link:https://osv.dev[Open Source Vulnerability Scanner]
 * link:https://github.com/DarthSim/overmind[Overmind]
 * link:https://pandoc.org[Pandoc]
@@ -309,11 +310,6 @@ install scripts have completed:
 *** Enable Find My Mac.
 ** Bluetooth
 *** Reconnect keyboard, mouse, and earbuds.
-** Notifications
-*** Disable _Allow notifications when the display is sleeping_.
-*** Disable _Allow notifications when the screen is locked_.
-*** Disable _Allow notifications when mirroring or sharing the display_.
-*** Disable _Show notifications on lock screen_ and _Play sound for notification_ for all applications.
 ** Sound
 *** Disable _Play sound on startup_.
 *** Disable _Play user interface sound effects_.
@@ -370,6 +366,11 @@ display is off_.
 * iStat Menus
 ** Double click, within the Applications folder, to install as a system preference.
 * Carbon Copy Cloner
+** Notifications
+*** Disable _Allow notifications when the display is sleeping_.
+*** Disable _Allow notifications when the screen is locked_.
+*** Disable _Allow notifications when mirroring or sharing the display_.
+*** Disable _Show notifications on lock screen_ and _Play sound for notification_ for all applications.
 ** Rename old backup, create new backup, and set frequency schedule.
 
 === Keyboard Shortcuts
