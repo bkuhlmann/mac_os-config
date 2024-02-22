@@ -268,7 +268,7 @@ To install, run:
 ----
 git clone https://github.com/bkuhlmann/mac_os-config.git
 cd mac_os-config
-git checkout 25.1.0
+git checkout 25.2.0
 ----
 
 == Usage
@@ -318,6 +318,8 @@ install scripts have completed:
 ** Screen Time
 *** Disable entire feature.
 ** General
+*** AirDrop & Handoff
+**** Disable _AirPlay Receiver_ so you can run link:https://github.com/rack/rack[Rack] applications on Port 5000.
 *** Login Items
 **** Ensure only _Alfred_ is listed.
 *** Language and Region

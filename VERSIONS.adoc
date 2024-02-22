@@ -1,5 +1,14 @@
 = Versions
 
+== 25.2.0 (2024-02-25)
+
+* ✅ Fixed OrbStack install to be cask instead of formula - Brooke Kuhlmann
+* ✅ Fixed Rapid API Homebrew cask - Brooke Kuhlmann
+* ✅ Fixed install basics script quotes - Brooke Kuhlmann
+* ✅ Fixed restore backup script quotes - Brooke Kuhlmann
+* 🟢 Added Ollama Homebrew formula - Brooke Kuhlmann
+* 🟢 Added pgenv application install - Brooke Kuhlmann
+
 == 25.1.0 (2024-02-18)
 
 * ✅ Fixed exa install to be a crate - Brooke Kuhlmann
