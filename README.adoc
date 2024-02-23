@@ -66,6 +66,7 @@ Installs the following link:https://brew.sh[formulas]:
 * link:https://github.com/variadico/noti[Noti]
 * link:https://github.com/nushell/nushell[Nushell]
 * link:https://github.com/hatoo/oha[Oha]
+* link:https://ollama.com[Ollama]
 * link:https://www.openssh.com[OpenSSH]
 * link:https://openssl.org[OpenSSL]
 * link:https://osv.dev[Open Source Vulnerability Scanner]
