@@ -19,13 +19,8 @@ export DISPLAY_LINK_APP_NAME="DisplayLink Manager.app"
 export DISPLAY_LINK_APP_URL="https://www.synaptics.com/node/6376?filetype=exe"
 
 export DOCKER_APP_NAME="Docker.app"
+export DOCKER_APP_URL="https://desktop.docker.com/mac/stable/arm64/Docker.dmg"
 export DOCKER_VOLUME_NAME="Docker"
-
-if [[ "$(/usr/bin/arch)" == "arm64" ]]; then
-  export DOCKER_APP_URL="https://desktop.docker.com/mac/stable/arm64/Docker.dmg"
-else
-  export DOCKER_APP_URL="https://desktop.docker.com/mac/stable/amd64/Docker.dmg"
-fi
 
 export MONEYWELL_APP_NAME="MoneyWell.app"
 export MONEYWELL_APP_URL="https://moneywell.app/downloads/sparkle/MoneyWell-3.1.2.zip"
