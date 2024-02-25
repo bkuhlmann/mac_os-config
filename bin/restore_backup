@@ -5,7 +5,7 @@
 read -p "Enter the backup volume path (Example: \"/Volumes/alchemist\")? " mac_os_backup_root
 
 if [[ ! -e "$mac_os_backup_root" ]]; then
-  printf "ERROR: Backup volume cannot be found: $mac_os_backup_root\n"
+  printf "%s\n" "ERROR: Backup volume cannot be found: $mac_os_backup_root."
   exit 1
 fi
 
