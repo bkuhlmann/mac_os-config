@@ -151,7 +151,6 @@ Installs the following link:https://brew.sh[casks]:
 
 Installs the following link:https://www.apple.com/app-store[App Store] applications:
 
-* link:https://1password.com[1Password]
 * link:https://secure.flyingmeat.com/acorn[Acorn]
 * link:https://bitwarden.com[Bitwarden]
 * link:https://daisydiskapp.com[DaisyDisk]

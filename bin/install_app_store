@@ -2,9 +2,6 @@
 
 # Installs App Store software.
 
-# 1Password
-mas install 443987910
-
 # Acorn
 mas install 1547371478
 
