@@ -1,5 +1,11 @@
 = Versions
 
+== 25.3.0 (2024-03-03)
+
+* 🔼 Updated RuboCop to use XDG local configuration - Brooke Kuhlmann
+* 🔼 Updated to Caliber 0.51.0 - Brooke Kuhlmann
+* 🔼 Updated to Git Lint 7.1.0 - Brooke Kuhlmann
+
 == 25.2.0 (2024-02-25)
 
 * ✅ Fixed OrbStack install to be cask instead of formula - Brooke Kuhlmann
