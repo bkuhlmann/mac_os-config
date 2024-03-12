@@ -190,6 +190,7 @@ Installs the following link:https://www.apple.com/app-store[App Store] applicati
 Installs the following macOS applications which are not located in the App Store:
 
 * link:https://bitwarden.com[Bitwarden CLI]
+* link:https://www.synaptics.com/products/displaylink-graphics/downloads/macos[DisplayLink]
 * link:https://www.docker.com[Docker]
 * link:https://moneywell.app[MoneyWell]
 * link:https://github.com/theory/pgenv[pgenv]

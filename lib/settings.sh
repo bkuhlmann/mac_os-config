@@ -15,6 +15,9 @@ export HOMEBREW_CURL_RETRIES=3
 export BIT_WARDEN_APP_NAME="bw"
 export BIT_WARDEN_APP_URL="https://github.com/bitwarden/clients/releases/download/cli-v2024.2.0/bw-macos-2024.2.0.zip"
 
+export DISPLAY_LINK_APP_NAME="DisplayLink Manager.app"
+export DISPLAY_LINK_APP_URL="https://www.synaptics.com/node/6376?filetype=exe"
+
 export DOCKER_APP_NAME="Docker.app"
 export DOCKER_VOLUME_NAME="Docker"
 
