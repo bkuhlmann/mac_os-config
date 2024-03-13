@@ -5,3 +5,4 @@
 cargo install dotenv-linter
 cargo install exa
 cargo install jless
+cargo install sd

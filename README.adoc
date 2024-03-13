@@ -255,6 +255,7 @@ Installs the following link:https://www.rust-lang.org[Rust] link:https://crates.
 * link:https://dotenv-linter.github.io[Dotenv Linter]
 * link:https://the.exa.website[Exa]
 * link:https://jless.io[jless]
+* link:https://github.com/chmln/sd[sd]
 
 == Requirements
 
