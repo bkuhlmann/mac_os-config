@@ -1,5 +1,17 @@
 = Versions
 
+== 26.0.0 (2024-03-16)
+
+* 🟢 Added Difftastic Homebrew formula - Brooke Kuhlmann
+* 🟢 Added DisplayLink application - Brooke Kuhlmann
+* 🟢 Added sd crate - Brooke Kuhlmann
+* ⛔️ Removed 1Password App Store application - Brooke Kuhlmann
+* ⛔️ Removed DiffusionBee Homebrew cask - Brooke Kuhlmann
+* ⛔️ Removed Docker Desktop AMD 64 support - Brooke Kuhlmann
+* ⛔️ Removed Kaleidoscope Homebrew cask - Brooke Kuhlmann
+* ⛔️ Removed Leech App Store application - Brooke Kuhlmann
+* ⛔️ Removed PostgreSQL Homebrew formula - Brooke Kuhlmann
+
 == 25.3.0 (2024-03-03)
 
 * 🔼 Updated RuboCop to use XDG local configuration - Brooke Kuhlmann
