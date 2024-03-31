@@ -245,6 +245,10 @@ defaults write net.sourceforge.cruisecontrol.CCMenu Projects '
     serverUrl = "https://circleci.com/gh/bkuhlmann/cogger.cc.xml";
   },
   {
+    projectName = "bkuhlmann/containable";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/containable.cc.xml";
+  },
+  {
     projectName = "bkuhlmann/core";
     serverUrl = "https://circleci.com/gh/bkuhlmann/core.cc.xml";
   },
