@@ -221,10 +221,6 @@ printf "CCMenu - Add open source projects\n"
 defaults write net.sourceforge.cruisecontrol.CCMenu Projects '
 (
   {
-    projectName = "bkuhlmann/archiver";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/archiver.cc.xml";
-  },
-  {
     projectName = "bkuhlmann/auther";
     serverUrl = "https://circleci.com/gh/bkuhlmann/auther.cc.xml";
   },
@@ -391,10 +387,6 @@ defaults write net.sourceforge.cruisecontrol.CCMenu Projects '
   {
     projectName = "bkuhlmann/tone";
     serverUrl = "https://circleci.com/gh/bkuhlmann/tone.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/transactable";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/transactable.cc.xml";
   },
   {
     projectName = "bkuhlmann/versionaire";
