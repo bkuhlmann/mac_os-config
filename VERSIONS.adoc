@@ -1,5 +1,13 @@
 = Versions
 
+== 26.1.0 (2024-04-23)
+
+* 🟢 Added CCMenu Containable default - Brooke Kuhlmann
+* 🔼 Updated to Git Lint 7.3.0 - Brooke Kuhlmann
+* 🔼 Updated to Rake 13.2.0 - Brooke Kuhlmann
+* 🔼 Updated to Ruby 3.3.1 - Brooke Kuhlmann
+* ⛔️ Removed CCMenu projects no longer maintained - Brooke Kuhlmann
+
 == 26.0.0 (2024-03-16)
 
 * 🟢 Added Difftastic Homebrew formula - Brooke Kuhlmann
