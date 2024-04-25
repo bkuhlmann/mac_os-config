@@ -145,6 +145,7 @@ Installs the following link:https://brew.sh[casks]:
 * link:https://twist.com[Twist]
 * link:https://www.sparklabs.com/viscosity[Viscosity]
 * link:https://code.visualstudio.com[Visual Studio Code]
+* link:https://zed.dev[Zed]
 
 === App Store Applications
 

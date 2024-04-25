@@ -45,3 +45,4 @@ brew install --cask transmit
 brew install --cask twist
 brew install --cask viscosity
 brew install --cask visual-studio-code
+brew install --cask zed
