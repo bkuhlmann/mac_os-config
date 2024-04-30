@@ -4,8 +4,6 @@
 
 = macOS Configuration
 
-Shell scripts for customized macOS machine setup and configuration.
-
 This project provides a highly opinionated default configuration built upon the
 link:https://alchemists.io/projects/mac_os[macOS] project. Should the configuration provided by
 this project not be to your liking, feel free to fork and customize for your specific needs.
@@ -268,7 +266,7 @@ To install, run:
 ----
 git clone https://github.com/bkuhlmann/mac_os-config.git
 cd mac_os-config
-git checkout 26.1.0
+git checkout 26.2.0
 ----
 
 == Usage
