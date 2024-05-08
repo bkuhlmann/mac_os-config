@@ -337,6 +337,10 @@ defaults write net.sourceforge.cruisecontrol.CCMenu Projects '
     serverUrl = "https://circleci.com/gh/bkuhlmann/pennyworth.cc.xml";
   },
   {
+    projectName = "bkuhlmann/pipeable";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/pipeable.cc.xml";
+  },
+  {
     projectName = "bkuhlmann/pkce";
     serverUrl = "https://circleci.com/gh/bkuhlmann/pkce.cc.xml";
   },
