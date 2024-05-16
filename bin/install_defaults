@@ -309,6 +309,10 @@ defaults write net.sourceforge.cruisecontrol.CCMenu Projects '
     serverUrl = "https://circleci.com/gh/bkuhlmann/infusible.cc.xml";
   },
   {
+    projectName = "bkuhlmann/irb-kit";
+    serverUrl = "https://circleci.com/gh/bkuhlmann/irb-kit.cc.xml";
+  },
+  {
     projectName = "bkuhlmann/lode";
     serverUrl = "https://circleci.com/gh/bkuhlmann/lode.cc.xml";
   },
