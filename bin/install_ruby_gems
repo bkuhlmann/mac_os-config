@@ -13,6 +13,7 @@ gem install gemsmith
 gem install git-lint
 gem install hanami
 gem install hanamismith
+gem install irb-kit
 gem install libyear-bundler
 gem install pennyworth
 gem install pessimize
