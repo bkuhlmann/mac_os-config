@@ -1,5 +1,10 @@
 = Versions
 
+== 26.2.1 (2024-06-01)
+
+* 🔼 Updated citation URLs - Brooke Kuhlmann
+* 🔼 Updated to Ruby 3.3.2 - Brooke Kuhlmann
+
 == 26.2.0 (2024-05-18)
 
 * 🟢 Added CCMenu IRB Kit default - Brooke Kuhlmann
