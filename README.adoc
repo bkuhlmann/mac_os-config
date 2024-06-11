@@ -104,7 +104,6 @@ Installs the following link:https://brew.sh[casks]:
 * link:https://freemacsoft.net/appcleaner[App Cleaner]
 * link:https://www.rogueamoeba.com/audiohijack[Audio Hijack]
 * link:https://www.balena.io/etcher[Balena Etcher]
-* link:https://www.macbartender.com[Bartender]
 * link:https://bombich.com[Carbon Copy Cloner]
 * link:https://getcleanshot.com[CleanShot]
 * link:https://discord.com[Discord]
@@ -384,7 +383,6 @@ captured in the `+restore.bom+` as well):
 * *COMMAND + SPACE:* Spotlight (open)
 * link:https://alchemists.io/articles/clean_shot/#_shortcuts[CleanShot] - See article for
   details.
-* *CONTROL + OPTION + COMMAND + b:* Bartender (hidden menu toggle)
 * *CONTROL + OPTION + COMMAND + c:* Pika (copy color)
 * *CONTROL + OPTION + COMMAND + d:* Alfred Define (use OPTION to open Dictionary)
 * *CONTROL + OPTION + COMMAND + h:* Alfred Highlight Syntax
