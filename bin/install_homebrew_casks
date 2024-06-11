@@ -6,7 +6,6 @@ brew install --cask alfred
 brew install --cask appcleaner
 brew install --cask audio-hijack
 brew install --cask balenaetcher
-brew install --cask bartender
 brew install --cask carbon-copy-cloner
 brew install --cask cleanshot
 brew install --cask discord
