@@ -1,5 +1,13 @@
 = Versions
 
+== 27.0.0 (2024-07-08)
+
+* 🟢 Added Ice application - Brooke Kuhlmann
+* 🔼 Updated to Caliber 0.58.0 - Brooke Kuhlmann
+* 🔼 Updated to Git Lint 8.0.0 - Brooke Kuhlmann
+* 🔼 Updated to Ruby 3.3.3 - Brooke Kuhlmann
+* ⛔️ Removed Bartender Homebrew cask - Brooke Kuhlmann
+
 == 26.2.1 (2024-06-01)
 
 * 🔼 Updated citation URLs - Brooke Kuhlmann
