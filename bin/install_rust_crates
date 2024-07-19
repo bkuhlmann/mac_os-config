@@ -3,7 +3,6 @@
 # Installs Rust crates.
 
 cargo install dotenv-linter
-cargo install exa
 cargo install eza
 cargo install jless
 cargo install sd
