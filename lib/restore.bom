@@ -172,6 +172,10 @@
 # Tana
 /Users/bkuhlmann/Library/Preferences/inc.tana.desktop.plist
 
+# Tuple
+/Users/bkuhlmann/Library/Preferences/app.tuple.app.plist
+/Users/bkuhlmann/Library/Preferences/app.tuple.app.web.plist
+
 # Transmit
 /Users/bkuhlmann/Library/Preferences/com.panic.Transmit.plist
 
