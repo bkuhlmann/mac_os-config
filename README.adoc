@@ -88,6 +88,7 @@ Installs the following link:https://brew.sh[formulas]:
 * link:https://github.com/ggreer/the_silver_searcher[The Silver Surfer]
 * link:https://github.com/tmux/tmux/wiki[tmux]
 * link:https://github.com/XAMPPRocky/tokei[Tokie]
+* link:https://vale.sh[Vale]
 * link:https://github.com/sachaos/viddy[Viddy]
 * link:https://www.vim.org[Vim]
 * link:https://github.com/vi/websocat[Websocat]
