@@ -1,5 +1,14 @@
 = Versions
 
+== 27.1.0 (2024-07-20)
+
+* 🟢 Added Dust Rust create - Brooke Kuhlmann
+* 🟢 Added Eza Rust crate - Brooke Kuhlmann
+* 🟢 Added Tuple application - Brooke Kuhlmann
+* 🟢 Added Vale Homebrew formula - Brooke Kuhlmann
+* 🔼 Updated to Ruby 3.3.4 - Brooke Kuhlmann
+* ⛔️ Removed Exa - Brooke Kuhlmann
+
 == 27.0.0 (2024-07-08)
 
 * 🟢 Added Ice application - Brooke Kuhlmann
