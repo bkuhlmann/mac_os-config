@@ -12,6 +12,9 @@ IFS=$'\n\t'
 export HOMEBREW_CURL_RETRIES=3
 
 # Applications
+export APPMAP_APP_NAME="appmap"
+export APPMAP_APP_URL="https://github.com/getappmap/appmap-js/releases/download/%40appland%2Fappmap-v3.154.0/appmap-macos-arm64"
+
 export DOCKER_APP_NAME="Docker.app"
 export DOCKER_APP_URL="https://desktop.docker.com/mac/stable/arm64/Docker.dmg"
 export DOCKER_VOLUME_NAME="Docker"
