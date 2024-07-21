@@ -16,6 +16,7 @@ brew install direnv
 brew install dive
 brew install dog
 brew install duf
+brew install dust
 brew install duti
 brew install exiftool
 brew install fd
