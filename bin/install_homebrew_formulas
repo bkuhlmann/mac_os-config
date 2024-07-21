@@ -32,7 +32,6 @@ brew install graphicsmagick
 brew install graphviz
 brew install hexyl
 brew install highlight
-brew install hr
 brew install htmlq
 brew install htop
 brew install httpie
