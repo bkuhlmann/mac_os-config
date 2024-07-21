@@ -185,7 +185,6 @@ Installs the following link:https://www.apple.com/app-store[App Store] applicati
 
 Installs the following macOS applications which are not located in the App Store:
 
-* link:https://bitwarden.com[Bitwarden CLI]
 * link:https://www.docker.com[Docker]
 * link:https://icemenubar.app[Ice]
 * link:https://moneywell.app[MoneyWell]
