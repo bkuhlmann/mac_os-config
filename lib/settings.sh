@@ -12,9 +12,6 @@ IFS=$'\n\t'
 export HOMEBREW_CURL_RETRIES=3
 
 # Applications
-export BIT_WARDEN_APP_NAME="bw"
-export BIT_WARDEN_APP_URL="https://vault.bitwarden.com/download/?app=cli&platform=macos"
-
 export DOCKER_APP_NAME="Docker.app"
 export DOCKER_APP_URL="https://desktop.docker.com/mac/stable/arm64/Docker.dmg"
 export DOCKER_VOLUME_NAME="Docker"
