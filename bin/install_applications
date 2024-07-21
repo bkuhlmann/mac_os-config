@@ -2,6 +2,7 @@
 
 # Installs applications.
 
+install_program "$APPMAP_APP_URL" "$APPMAP_APP_NAME"
 install_dmg_app "$DOCKER_APP_URL" "$DOCKER_VOLUME_NAME" "$DOCKER_APP_NAME"
 install_zip_app "$ICE_APP_URL" "$ICE_APP_NAME"
 install_zip_app "$MONEYWELL_APP_URL" "$MONEYWELL_APP_NAME"

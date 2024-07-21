@@ -142,7 +142,7 @@ Installs the following link:https://brew.sh[casks]:
 * link:https://code.visualstudio.com[Visual Studio Code]
 * link:https://zed.dev[Zed]
 
-=== App Store Applications
+=== App Store
 
 Installs the following link:https://www.apple.com/app-store[App Store] applications:
 
@@ -178,10 +178,11 @@ Installs the following link:https://www.apple.com/app-store[App Store] applicati
 * link:https://slack.com[Slack]
 * link:https://www.adriangranados.com[WiFi Explorer]
 
-=== Non-App Store Applications
+=== Applications
 
-Installs the following macOS applications which are not located in the App Store:
+Installs the following, basic, macOS applications which are not located in the App Store:
 
+* link:https://appmap.io[AppMap]
 * link:https://www.docker.com[Docker]
 * link:https://icemenubar.app[Ice]
 * link:https://moneywell.app[MoneyWell]
