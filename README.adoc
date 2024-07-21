@@ -91,7 +91,6 @@ Installs the following link:https://brew.sh[formulas]:
 * link:https://www.vim.org[Vim]
 * link:https://github.com/vi/websocat[Websocat]
 * link:https://github.com/BurntSushi/xsv[xsv]
-* link:https://github.com/mptre/yank[Yank]
 * link:https://developers.yubico.com/yubikey-manager[YubiKey Manager CLI]
 * link:https://github.com/ajeetdsouza/zoxide[Zoxide]
 
