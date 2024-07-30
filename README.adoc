@@ -150,6 +150,7 @@ Installs the following link:https://www.apple.com/app-store[App Store] applicati
 * link:https://bitwarden.com[Bitwarden]
 * link:https://ccmenu.org[CCMenu]
 * link:https://daisydiskapp.com[DaisyDisk]
+* link:https://dropoverapp.com[Dropover]
 * link:https://www.apple.com/mac/garageband[GarageBand]
 * link:https://handmirror.app[Hand Mirror]
 * link:https://www.apple.com/imovie[iMovie]
