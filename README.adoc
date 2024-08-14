@@ -151,6 +151,7 @@ Installs the following link:https://www.apple.com/app-store[App Store] applicati
 
 * link:https://secure.flyingmeat.com/acorn[Acorn]
 * link:https://bitwarden.com[Bitwarden]
+* link:https://ccmenu.org[CCMenu]
 * link:https://daisydiskapp.com[DaisyDisk]
 * link:https://www.apple.com/mac/garageband[GarageBand]
 * link:https://handmirror.app[Hand Mirror]
@@ -158,7 +159,7 @@ Installs the following link:https://www.apple.com/app-store[App Store] applicati
 * link:https://manytricks.com/keycodes[Key Codes]
 * link:https://manytricks.com/keymou[Keymou]
 * link:https://www.apple.com/keynote[Keynote]
-* link:http://www.amazon.com/gp/feature.html?docId=1000464931[Kindle]
+* link:https://apps.apple.com/us/app/amazon-kindle/id302584613[Kindle]
 * link:http://limechat.net/mac[LimeChat]
 * link:https://marked2app.com[Marked 2]
 * link:http://getmedis.com[Medis]
