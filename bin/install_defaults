@@ -218,194 +218,307 @@ printf "%s\n" "App Store - Enable Debug Menu in the Mac App Store."
 defaults write com.apple.appstore ShowDebugMenu -bool true
 
 printf "CCMenu - Add open source projects\n"
-defaults write net.sourceforge.cruisecontrol.CCMenu Projects '
-(
-  {
-    projectName = "bkuhlmann/auther";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/auther.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/bashsmith";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/bashsmith.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/benchmarks";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/benchmarks.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/caliber";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/caliber.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/cogger";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/cogger.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/containable";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/containable.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/core";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/core.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/docker-alpine-base";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/docker-alpine-base.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/docker-alpine-ruby";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/docker-alpine-ruby.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/dotfiles";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/dotfiles.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/etcher";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/etcher.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/form-validator";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/form-validator.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/gemsmith";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/gemsmith.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/ghub";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/ghub.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/git-lint";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/git-lint.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/gitt";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/gitt.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/hanamismith";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/hanamismith.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/htmx";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/htmx.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/htmx-remove";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/htmx-remove.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/hemo";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/hemo.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/http-fake";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/http-fake.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/infusible";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/infusible.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/irb-kit";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/irb-kit.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/lode";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/lode.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/mac_os";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/mac_os.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/mac_os-config";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/mac_os-config.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/marameters";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/marameters.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/milestoner";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/milestoner.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/navigator";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/navigator.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/pennyworth";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/pennyworth.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/pipeable";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/pipeable.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/pkce";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/pkce.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/pragmater";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/pragmater.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/prawn_plus";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/prawn_plus.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/refinements";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/refinements.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/rubysmith";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/rubysmith.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/runcom";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/runcom.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/sod";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/sod.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/spek";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/spek.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/sublime_text_kit";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/sublime_text_kit.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/sublime_text_setup";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/sublime_text_setup.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/tana";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/tana.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/tocer";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/tocer.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/tone";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/tone.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/versionaire";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/versionaire.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/wholable";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/wholable.cc.xml";
-  },
-  {
-    projectName = "bkuhlmann/xdg";
-    serverUrl = "https://circleci.com/gh/bkuhlmann/xdg.cc.xml";
-  }
-)'
+defaults write net.sourceforge.cruisecontrol.CCMenu '
+{
+    NSNavLastRootDirectory = "~/Downloads";
+    NSNavPanelExpandedSizeForSaveMode = "{800, 448}";
+    "NSStatusItem Preferred Position Item-0" = 628;
+    "PlaySound Broken" = 0;
+    "PlaySound Fixed" = 0;
+    "PlaySound StillFailing" = 0;
+    "PlaySound Successful" = 0;
+    ProjectOrder = 1;
+    "SendNotification Broken" = 1;
+    "SendNotification Fixed" = 1;
+    "SendNotification StillFailing" = 1;
+    "SendNotification Successful" = 1;
+    ShowPipelineStatusInWindow = 1;
+    "Sound Broken" = Sosumi;
+    "Sound Fixed" = Sosumi;
+    "Sound StillFailing" = Sosumi;
+    "Sound Successful" = Sosumi;
+    pipelines =     (
+                {
+            feedName = "bkuhlmann/auther";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/auther.cc.xml";
+            name = Auther;
+        },
+                {
+            feedName = "bkuhlmann/bashsmith";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/bashsmith.cc.xml";
+            name = Bashsmith;
+        },
+                {
+            feedName = "bkuhlmann/benchmarks";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/benchmarks.cc.xml";
+            name = Benchmarks;
+        },
+                {
+            feedName = "bkuhlmann/caliber";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/caliber.cc.xml";
+            name = Caliber;
+        },
+                {
+            feedName = "bkuhlmann/cogger";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/cogger.cc.xml";
+            name = Cogger;
+        },
+                {
+            feedName = "bkuhlmann/containable";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/containable.cc.xml";
+            name = Containable;
+        },
+                {
+            feedName = "bkuhlmann/core";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/core.cc.xml";
+            name = Core;
+        },
+                {
+            feedName = "bkuhlmann/docker-alpine-base";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/docker-alpine-base.cc.xml";
+            name = "Docker Alpine Base";
+        },
+                {
+            feedName = "bkuhlmann/docker-alpine-ruby";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/docker-alpine-ruby.cc.xml";
+            name = "Docker Alpine Ruby";
+        },
+                {
+            feedName = "bkuhlmann/dotfiles";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/dotfiles.cc.xml";
+            name = Dotfiles;
+        },
+                {
+            feedName = "bkuhlmann/etcher";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/etcher.cc.xml";
+            name = Etcher;
+        },
+                {
+            feedName = "bkuhlmann/form-validator";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/form-validator.cc.xml";
+            name = "Form Validator";
+        },
+                {
+            feedName = "bkuhlmann/gemsmith";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/gemsmith.cc.xml";
+            name = Gemsmith;
+        },
+                {
+            feedName = "bkuhlmann/ghub";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/ghub.cc.xml";
+            name = Ghub;
+        },
+                {
+            feedName = "bkuhlmann/git-lint";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/git-lint.cc.xml";
+            name = "Git Lint";
+        },
+                {
+            feedName = "bkuhlmann/gitt";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/gitt.cc.xml";
+            name = Gitt;
+        },
+                {
+            feedName = "bkuhlmann/hanamismith";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/hanamismith.cc.xml";
+            name = Hanamismith;
+        },
+                {
+            feedName = "bkuhlmann/htmx";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/htmx.cc.xml";
+            name = HTMX;
+        },
+                {
+            feedName = "bkuhlmann/htmx-remove";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/htmx-remove.cc.xml";
+            name = "htmx Remove";
+        },
+                {
+            feedName = "bkuhlmann/hemo";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/hemo.cc.xml";
+            name = Hemo;
+        },
+                {
+            feedName = "bkuhlmann/http-fake";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/http-fake.cc.xml";
+            name = "HTTP Ffake";
+        },
+                {
+            feedName = "bkuhlmann/infusible";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/infusible.cc.xml";
+            name = Infusible;
+        },
+                {
+            feedName = "bkuhlmann/irb-kit";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/irb-kit.cc.xml";
+            name = "IRB Kit";
+        },
+                {
+            feedName = "bkuhlmann/lode";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/lode.cc.xml";
+            name = Lode;
+        },
+                {
+            feedName = "bkuhlmann/mac_os";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/mac_os.cc.xml";
+            name = macOS;
+        },
+                {
+            feedName = "bkuhlmann/mac_os-config";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/mac_os-config.cc.xml";
+            name = "macOS Configuration";
+        },
+                {
+            feedName = "bkuhlmann/marameters";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/marameters.cc.xml";
+            name = Marameters;
+        },
+                {
+            feedName = "bkuhlmann/milestoner";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/milestoner.cc.xml";
+            name = Milestoner;
+        },
+                {
+            feedName = "bkuhlmann/navigator";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/navigator.cc.xml";
+            name = Navigator;
+        },
+                {
+            feedName = "bkuhlmann/pennyworth";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/pennyworth.cc.xml";
+            name = Pennyworth;
+        },
+                {
+            feedName = "bkuhlmann/pipeable";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/pipeable.cc.xml";
+            name = Pipeable;
+        },
+                {
+            feedName = "bkuhlmann/pkce";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/pkce.cc.xml";
+            name = PKCE;
+        },
+                {
+            feedName = "bkuhlmann/pragmater";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/pragmater.cc.xml";
+            name = Pragmater;
+        },
+                {
+            feedName = "bkuhlmann/prawn_plus";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/prawn_plus.cc.xml";
+            name = "Prawn+";
+        },
+                {
+            feedName = "bkuhlmann/refinements";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/refinements.cc.xml";
+            name = Refinements;
+        },
+                {
+            feedName = "bkuhlmann/rubysmith";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/rubysmith.cc.xml";
+            name = Rubysmith;
+        },
+                {
+            feedName = "bkuhlmann/runcom";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/runcom.cc.xml";
+            name = Runcom;
+        },
+                {
+            feedName = "bkuhlmann/sod";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/sod.cc.xml";
+            name = Sod;
+        },
+                {
+            feedName = "bkuhlmann/spek";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/spek.cc.xml";
+            name = Spek;
+        },
+                {
+            feedName = "bkuhlmann/sublime_text_kit";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/sublime_text_kit.cc.xml";
+            name = "Sublime Text Kit";
+        },
+                {
+            feedName = "bkuhlmann/sublime_text_setup";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/sublime_text_setup.cc.xml";
+            name = "Sublime Text Setup";
+        },
+                {
+            feedName = "bkuhlmann/tana";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/tana.cc.xml";
+            name = Tana;
+        },
+                {
+            feedName = "bkuhlmann/tocer";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/tocer.cc.xml";
+            name = Tocer;
+        },
+                {
+            feedName = "bkuhlmann/tone";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/tone.cc.xml";
+            name = Tone;
+        },
+                {
+            feedName = "bkuhlmann/versionaire";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/versionaire.cc.xml";
+            name = Versionaire;
+        },
+                {
+            feedName = "bkuhlmann/wholable";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/wholable.cc.xml";
+            name = Wholable;
+        },
+                {
+            feedName = "bkuhlmann/xdg";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/xdg.cc.xml";
+            name = XDG;
+        }
+    );
+}'
