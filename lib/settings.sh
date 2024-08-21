@@ -25,6 +25,10 @@ export ICE_APP_URL="https://github.com/jordanbaird/Ice/releases/download/0.9.0/I
 export MONEYWELL_APP_NAME="MoneyWell.app"
 export MONEYWELL_APP_URL="https://moneywell.app/downloads/sparkle/MoneyWell-3.1.2.zip"
 
+export MOOM_APP_NAME="Moom.app"
+export MOOM_VOLUME_NAME="Moom"
+export MOOM_APP_URL="https://manytricks.com/download/moom"
+
 export PGENV_APP_URL="https://github.com/theory/pgenv"
 export PGENV_APP_PATH="$HOME/.pgenv"
 
