@@ -381,29 +381,30 @@ display is off_.
 Several applications provide global hotkey support. These are the associations I use (which are also
 captured in the `+restore.bom+` as well):
 
-* *COMMAND + SPACE (hold):* Siri (open)
-* *COMMAND + SPACE:* Spotlight (open)
+* *COMMAND + SPACE (hold)*: Siri (open)
+* *COMMAND + SPACE*: Spotlight (open)
 * link:https://alchemists.io/articles/clean_shot/#_shortcuts[CleanShot] - See article for
   details.
-* *CONTROL + OPTION + COMMAND + c:* Pika (copy color)
-* *CONTROL + OPTION + COMMAND + d:* Alfred Define (use OPTION to open Dictionary)
-* *CONTROL + OPTION + COMMAND + h:* Alfred Highlight Syntax
-* *CONTROL + OPTION + COMMAND + k:* Keymou (cursor highlight show/hide)
-* *CONTROL + OPTION + COMMAND + m:* Moom (show/hide)
-* *CONTROL + OPTION + COMMAND + n:* Notification Center (show/hide)
-* *CONTROL + OPTION + COMMAND + o:* Alfred Open URL in default browser
+* *CONTROL + OPTION + COMMAND + c*: Pika (copy color)
+* *CONTROL + OPTION + COMMAND + d*: Alfred Define (use OPTION to open Dictionary)
+* *CONTROL + OPTION + COMMAND + h*: Alfred Highlight Syntax
+* *CONTROL + OPTION + COMMAND + k*: Keymou (cursor highlight show/hide)
+* *CONTROL + OPTION + COMMAND + m*: Moom (toggle)
+* *CONTROL + OPTION + SHIFT + m*: Moom (open custom actions)
+* *CONTROL + OPTION + COMMAND + n*: Notification Center (show/hide)
+* *CONTROL + OPTION + COMMAND + o*: Alfred Open URL in default browser
 * link:https://alchemists.io/articles/pixel_snap/#_shortcuts[PixelSnap] - See article for
   details.
-* *CONTROL + OPTION + COMMAND + r:* Resolutionator (selector)
-* *CONTROL + OPTION + COMMAND + t:* Alfred Large Type
-* *CONTROL + OPTION + COMMAND + w:* Mission Control
-* *CONTROL + OPTION + COMMAND + ←:* Keymou (move cursor left)
-* *CONTROL + OPTION + COMMAND + ↑:* Keymou (move cursor up)
-* *CONTROL + OPTION + COMMAND + →:* Keymou (move cursor right)
-* *CONTROL + OPTION + COMMAND + ↓:* Keymou (move cursor down)
-* *CONTROL + OPTION + COMMAND + ENTER:* Keymou (move cursor by division)
-* *CONTROL + OPTION + SPACE:* OmniFocus (quick entry)
-* *OPTION + SPACE:* Alfred (open)
+* *CONTROL + OPTION + COMMAND + r*: Resolutionator (selector)
+* *CONTROL + OPTION + COMMAND + t*: Alfred Large Type
+* *CONTROL + OPTION + COMMAND + w*: Mission Control
+* *CONTROL + OPTION + COMMAND + ←*: Keymou (move cursor left)
+* *CONTROL + OPTION + COMMAND + ↑*: Keymou (move cursor up)
+* *CONTROL + OPTION + COMMAND + →*: Keymou (move cursor right)
+* *CONTROL + OPTION + COMMAND + ↓*: Keymou (move cursor down)
+* *CONTROL + OPTION + COMMAND + ENTER*: Keymou (move cursor by division)
+* *CONTROL + OPTION + SPACE*: OmniFocus (quick entry)
+* *OPTION + SPACE*: Alfred (open)
 
 === Newsyslog
 
