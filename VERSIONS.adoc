@@ -1,5 +1,11 @@
 = Versions
 
+== 27.1.1 (2024-09-03)
+
+* ✅ Fixed App Store links - Brooke Kuhlmann
+* 🟢 Added README Developer Certificate of Origin documentation - Brooke Kuhlmann
+* 🔼 Updated to Ruby 3.3.5 - Brooke Kuhlmann
+
 == 27.1.0 (2024-07-20)
 
 * 🟢 Added Dust Rust create - Brooke Kuhlmann
