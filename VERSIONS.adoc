@@ -1,5 +1,21 @@
 = Versions
 
+== 28.0.0 (2024-09-19)
+
+* 🟢 Added AppMap application - Brooke Kuhlmann
+* 🟢 Added Dropover Apple Store application - Brooke Kuhlmann
+* 🟢 Added Retest Ruby gem - Brooke Kuhlmann
+* 🟢 Added version release notes - Brooke Kuhlmann
+* 🔼 Updated to CCMenu 25.0.0 defaults - Brooke Kuhlmann
+* 🔼 Updated to Moom 4.0.0 - Brooke Kuhlmann
+* ⛔️ Removed Bitwarden CLI - Brooke Kuhlmann
+* ⛔️ Removed DisplayLink application - Brooke Kuhlmann
+* ⛔️ Removed GPG Pinentry Homebrew formula - Brooke Kuhlmann
+* ⛔️ Removed NCurses Disk Usage Homebrew formula - Brooke Kuhlmann
+* ⛔️ Removed Yank Homebrew formula - Brooke Kuhlmann
+* ⛔️ Removed hr Homebrew formula - Brooke Kuhlmann
+* 🔁 Refactored Dust as Homebrew Formula - Brooke Kuhlmann
+
 == 27.1.1 (2024-09-03)
 
 * ✅ Fixed App Store links - Brooke Kuhlmann
