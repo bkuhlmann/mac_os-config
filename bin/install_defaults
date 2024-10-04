@@ -509,10 +509,10 @@ defaults write net.sourceforge.cruisecontrol.CCMenu '
             name = Versionaire;
         },
                 {
-            feedName = "bkuhlmann/wholable";
+            feedName = "bkuhlmann/wholeable";
             feedType = cctray;
-            feedUrl = "https://circleci.com/gh/bkuhlmann/wholable.cc.xml";
-            name = Wholable;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/wholeable.cc.xml";
+            name = Wholeable;
         },
                 {
             feedName = "bkuhlmann/xdg";
