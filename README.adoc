@@ -154,6 +154,7 @@ Installs the following link:https://www.apple.com/app-store[App Store] applicati
 * link:https://www.apple.com/mac/garageband[GarageBand]
 * link:https://handmirror.app[Hand Mirror]
 * link:https://www.apple.com/imovie[iMovie]
+* link:https://firecore.com/infuse[Infuse]
 * link:https://manytricks.com/keycodes[Key Codes]
 * link:https://manytricks.com/keymou[Keymou]
 * link:https://www.apple.com/keynote[Keynote]
