@@ -20,7 +20,6 @@ gem install pessimize
 gem install pragmater
 gem install rails
 gem install reek
-gem install repl_type_completor
 gem install retest
 gem install rspec
 gem install rubysmith

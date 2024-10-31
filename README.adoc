@@ -238,7 +238,6 @@ Installs the following link:https://www.ruby-lang.org[Ruby] link:https://rubygem
 * link:https://alchemists.io/projects/pragmater[Pragmater]
 * link:https://rubyonrails.org[Ruby on Rails]
 * link:https://github.com/troessner/reek[Reek]
-* link:https://github.com/ruby/repl_type_completor[ReplTypeCompletor]
 * link:https://github.com/AlexB52/retest[Retest]
 * link:https://rspec.info[RSpec]
 * link:https://alchemists.io/projects/rubysmith[Rubysmith]
