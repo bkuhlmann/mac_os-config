@@ -71,6 +71,5 @@ brew install vale
 brew install viddy
 brew install vim
 brew install websocat
-brew install xsv
 brew install ykman
 brew install zoxide

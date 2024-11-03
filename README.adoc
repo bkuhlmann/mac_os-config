@@ -88,7 +88,6 @@ Installs the following link:https://brew.sh[formulas]:
 * link:https://github.com/sachaos/viddy[Viddy]
 * link:https://www.vim.org[Vim]
 * link:https://github.com/vi/websocat[Websocat]
-* link:https://github.com/BurntSushi/xsv[xsv]
 * link:https://developers.yubico.com/yubikey-manager[YubiKey Manager CLI]
 * link:https://github.com/ajeetdsouza/zoxide[Zoxide]
 
