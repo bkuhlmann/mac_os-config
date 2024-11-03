@@ -35,7 +35,6 @@ brew install hexyl
 brew install highlight
 brew install htmlq
 brew install htop
-brew install httpie
 brew install httpstat
 brew install hyperfine
 brew install ioping
