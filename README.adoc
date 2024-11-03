@@ -80,7 +80,6 @@ Installs the following link:https://brew.sh[formulas]:
 * link:https://github.com/koalaman/shellcheck[ShellCheck]
 * link:https://www.joedog.org/siege-home[Siege]
 * link:https://www.tarsnap.com[Tarsnap]
-* link:https://github.com/dbrgn/tealdeer[Tealdeer]
 * link:https://www.terraform.io[Terraform]
 * link:https://github.com/ggreer/the_silver_searcher[The Silver Surfer]
 * link:https://github.com/tmux/tmux/wiki[tmux]
