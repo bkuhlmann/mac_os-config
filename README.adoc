@@ -52,7 +52,6 @@ Installs the following link:https://brew.sh[formulas]:
 * link:http://www.andre-simon.de/doku/highlight/en/highlight.php[Highlight]
 * link:https://github.com/mgdm/htmlq[htmlq]
 * link:https://hisham.hm/htop[htop]
-* link:https://github.com/jkbrzt/httpie[HTTPie]
 * link:https://github.com/reorx/httpstat[HTTP Stat]
 * link:https://github.com/sharkdp/hyperfine[Hyperfine]
 * link:https://github.com/koct9i/ioping[Ioping]
