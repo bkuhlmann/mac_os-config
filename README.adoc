@@ -116,7 +116,6 @@ Installs the following link:https://brew.sh[casks]:
 * link:https://www.iterm2.com[iTerm2]
 * link:https://mitmproxy.org[mitmproxy]
 * link:https://mockuuups.studio[Mockuuups Studio]
-* link:https://muzzleapp.com[Muzzle]
 * link:https://netnewswire.com[NewNewsWire]
 * link:https://ngrok.com[Ngrok]
 * link:https://numi.app[Numi]
