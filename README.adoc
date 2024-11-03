@@ -54,7 +54,6 @@ Installs the following link:https://brew.sh[formulas]:
 * link:https://hisham.hm/htop[htop]
 * link:https://github.com/reorx/httpstat[HTTP Stat]
 * link:https://github.com/sharkdp/hyperfine[Hyperfine]
-* link:https://github.com/koct9i/ioping[Ioping]
 * link:https://stedolan.github.io/jq[jq]
 * link:https://lnav.org[lnav]
 * link:https://github.com/CISOfy/lynis[Lynis]
