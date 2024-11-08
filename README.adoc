@@ -102,6 +102,7 @@ Installs the following link:https://brew.sh[casks]:
 * link:https://freemacsoft.net/appcleaner[App Cleaner]
 * link:https://www.rogueamoeba.com/audiohijack[Audio Hijack]
 * link:https://www.balena.io/etcher[Balena Etcher]
+* link:https://brave.com[Brave]
 * link:https://bombich.com[Carbon Copy Cloner]
 * link:https://getcleanshot.com[CleanShot]
 * link:https://discord.com[Discord]
