@@ -66,6 +66,9 @@
 # Balena Etcher
 /Users/bkuhlmann/Library/Preferences/io.balena.etcher.plist
 
+# Brave Browser
+/Users/bkuhlmann/Library/Preferences/com.brave.Browser.plist
+
 # Carbon Copy Cloner
 /Users/bkuhlmann/Library/Preferences/com.bombich.ccc.plist
 
