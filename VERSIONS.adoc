@@ -1,5 +1,12 @@
 = Versions
 
+== 28.1.0 (2024-11-08)
+
+* ✅ Fixed wholeable typo for defaults - Brooke Kuhlmann
+* 🟢 Added Brave browser Homebrew cask - Brooke Kuhlmann
+* 🟢 Added Infuse App Store application - Brooke Kuhlmann
+* 🔼 Updated to Ruby 3.3.6 - Brooke Kuhlmann
+
 == 28.0.0 (2024-09-19)
 
 * 🟢 Added AppMap application - Brooke Kuhlmann
