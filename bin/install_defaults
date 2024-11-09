@@ -362,7 +362,7 @@ defaults write net.sourceforge.cruisecontrol.CCMenu '
             feedName = "bkuhlmann/http-fake";
             feedType = cctray;
             feedUrl = "https://circleci.com/gh/bkuhlmann/http-fake.cc.xml";
-            name = "HTTP Ffake";
+            name = "HTTP Fake";
         },
                 {
             feedName = "bkuhlmann/infusible";
