@@ -270,7 +270,7 @@ To install, run:
 ----
 git clone https://github.com/bkuhlmann/mac_os-config.git
 cd mac_os-config
-git checkout 28.2.0
+git checkout 28.3.0
 ----
 
 == Usage
@@ -322,15 +322,18 @@ install scripts have completed:
 ** General
 *** AirDrop & Handoff
 **** Disable _AirPlay Receiver_ so you can run link:https://github.com/rack/rack[Rack] applications on Port 5000.
+*** AutoFill & Passwords
+**** Disable _AutoFill Passwords and Passkeys_.
 *** Login Items
 **** Ensure only _Alfred_ is listed.
 *** Language and Region
 **** Set _First day of week_ to _Monday_.
 **** Set _Date format_ to _YYYY-MM-DD_.
+** Accessibility
+*** Hearing
+**** Enable _Turn off background sounds when your Mac is not in use._
 ** Appearance
-*** Use _Auto_ theme.
-** Control Center
-*** Disable Battery and Spotlight from showing in Menu Bar.
+*** Use _Light_ theme.
 **  Privacy & Security
 *** Enable _FileVault_.
 ** Wallpaper
@@ -365,6 +368,7 @@ display is off_.
 **** Select _Launchpad and Dock_ and uncheck _Turn Dock Hiding On/Off_.
 **** Select _Mission Control_ and assign `CONTROL + OPTION + COMMAND + N` to _Show Notification
      Center_.
+**** Within _Mission Control_, assign `CONTROL + OPTION + COMMAND + W` to _Mission Control_.
 **** Select _Screenshots_ and uncheck all boxes.
 **** Select _Spotlight_ and uncheck all boxes.
 ** Printers & Scanners
@@ -372,12 +376,13 @@ display is off_.
 * iStat Menus
 ** Double click, within the Applications folder, to install as a system preference.
 * Carbon Copy Cloner
-** Notifications
-*** Disable _Allow notifications when the display is sleeping_.
-*** Disable _Allow notifications when the screen is locked_.
-*** Disable _Allow notifications when mirroring or sharing the display_.
-*** Disable _Show notifications on lock screen_ and _Play sound for notification_ for all applications.
 ** Rename old backup, create new backup, and schedule frequency.
+* Notifications
+** Set _Show previews when unlocked_.
+** Disable _Allow notifications when the display is sleeping_.
+** Disable _Allow notifications when the screen is locked_.
+** Disable _Allow notifications when mirroring or sharing the display_.
+** Disable _Show notifications on lock screen_ and _Play sound for notification_ for all applications.
 
 === Keyboard Shortcuts
 

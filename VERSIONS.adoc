@@ -1,5 +1,12 @@
 = Versions
 
+== 28.3.0 (2024-11-11)
+
+* ✅ Fixed HTTP Fake CCMenu label - Brooke Kuhlmann
+* 🟢 Added Brave BOM - Brooke Kuhlmann
+* 🟢 Added GPG Pinentry Homebrew formula - Brooke Kuhlmann
+* 🟢 Added version release notes - Brooke Kuhlmann
+
 == 28.2.0 (2024-11-09)
 
 * 🔼 Updated to Caliber 0.64.0 - Brooke Kuhlmann
