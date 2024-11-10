@@ -57,6 +57,7 @@ brew install parallel
 brew install pastel
 brew install pgcli
 brew install pigz
+brew install pinentry-mac
 brew install procs
 brew install readline
 brew install redis
