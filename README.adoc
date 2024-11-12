@@ -377,6 +377,7 @@ display is off_.
 ** Disable _Allow notifications when the screen is locked_.
 ** Disable _Allow notifications when mirroring or sharing the display_.
 ** Disable _Show notifications on lock screen_ and _Play sound for notification_ for all applications.
+** Enable _Allow notifications from iPhone_ but disable _Play sounds for notifications from iPhone_ within this option.
 
 === Keyboard Shortcuts
 
