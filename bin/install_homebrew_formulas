@@ -43,7 +43,6 @@ brew install lynis
 brew install mas
 brew install minisign
 brew install noti
-brew install nushell
 brew install oha
 brew install ollama
 brew install openssh
