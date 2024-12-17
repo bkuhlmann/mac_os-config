@@ -3,7 +3,7 @@
 # Installs App Store software.
 
 # Acorn
-mas install 1547371478
+mas install 6737921844
 
 # Bitwarden
 mas install 1352778147
