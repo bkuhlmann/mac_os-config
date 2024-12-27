@@ -1,5 +1,23 @@
 = Versions
 
+== 29.0.0 (2024-12-27)
+
+* 🟢 Added Atuin Rust crate - Brooke Kuhlmann
+* 🟢 Added Protobuf Homebrew formula - Brooke Kuhlmann
+* 🟢 Added version release notes - Brooke Kuhlmann
+* 🔼 Updated to Acorn 8.0.0 - Brooke Kuhlmann
+* 🔼 Updated to Caliber 0.68.0 - Brooke Kuhlmann
+* 🔼 Updated to Git Lint 9.0.0 - Brooke Kuhlmann
+* 🔼 Updated to Ruby 3.4.0 - Brooke Kuhlmann
+* ⛔️ Removed HTTPie Homebrew formula - Brooke Kuhlmann
+* ⛔️ Removed Muzzle Homebrew cask - Brooke Kuhlmann
+* ⛔️ Removed Nushell - Brooke Kuhlmann
+* ⛔️ Removed Repl Type Completer gem - Brooke Kuhlmann
+* ⛔️ Removed Shush App Store application - Brooke Kuhlmann
+* ⛔️ Removed Tealdeer Homebrew formula - Brooke Kuhlmann
+* ⛔️ Removed XSV Homebrew formula - Brooke Kuhlmann
+* ⛔️ Removed ioping Homebrew formula - Brooke Kuhlmann
+
 == 28.3.0 (2024-11-11)
 
 * ✅ Fixed HTTP Fake CCMenu label - Brooke Kuhlmann
