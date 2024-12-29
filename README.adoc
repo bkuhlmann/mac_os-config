@@ -141,7 +141,7 @@ Installs the following link:https://brew.sh[casks]:
 
 === App Store
 
-Installs the following link:https://www.apple.com/app-store[App Store] applications:
+Installs link:https://www.apple.com/app-store[App Store] applications as managed by the link:https://github.com/mas-cli/mas[Mac App Store] CLI which assumes you've _purchased_ the applications listed below:
 
 * link:https://secure.flyingmeat.com/acorn[Acorn]
 * link:https://bitwarden.com[Bitwarden]
