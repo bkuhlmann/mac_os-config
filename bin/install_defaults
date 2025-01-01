@@ -371,6 +371,12 @@ defaults write net.sourceforge.cruisecontrol.CCMenu '
             name = Infusible;
         },
                 {
+            feedName = "bkuhlmann/initable";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/initable.cc.xml";
+            name = Initable;
+        },
+                {
             feedName = "bkuhlmann/irb-kit";
             feedType = cctray;
             feedUrl = "https://circleci.com/gh/bkuhlmann/irb-kit.cc.xml";
