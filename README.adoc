@@ -267,7 +267,7 @@ To install, run:
 ----
 git clone https://github.com/bkuhlmann/mac_os-config.git
 cd mac_os-config
-git checkout 29.0.0
+git checkout 29.1.0
 ----
 
 == Usage
@@ -331,10 +331,15 @@ install scripts have completed:
 **** Enable _Turn off background sounds when your Mac is not in use._
 ** Appearance
 *** Use _Light_ theme.
+** Apple Intelligence & Siri
+*** Disable _Listen for_.
+*** Disable _Keyboard shortcut_ (use Alfred instead).
 **  Privacy & Security
 *** Enable _FileVault_.
 ** Wallpaper
 *** Select custom image from _Documents_.
+** Spotlight
+*** Disable _Help Apple Improve Search_. link:https://obdev.at/blog/what-happens-on-your-device-stays-on-your-device-until-it-doesnt[Details].
 ** Screen Saver
 *** Use _Message_ with custom text.
 ** Battery
