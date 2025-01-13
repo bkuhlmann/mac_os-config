@@ -162,6 +162,10 @@
 # Resolutionator
 /Users/bkuhlmann/Library/Preferences/com.manytricks.Resolutionator.plist
 
+# Skim
+/Users/bkuhlmann/Library/Prererences/net.sourceforge.skim-aoo.skim.bookmarks.plist
+/Users/bkuhlmann/Library/Preferences/net.sourceforge.skim-app.skim.plist
+
 # Signal
 /Users/bkuhlmann/Library/Preferences/org.whispersystems.signal-desktop.helper.plist
 /Users/bkuhlmann/Library/Preferences/org.whispersystems.signal-desktop.plist

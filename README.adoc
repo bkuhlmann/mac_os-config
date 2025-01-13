@@ -131,6 +131,7 @@ Installs the following link:https://brew.sh[casks]:
 * link:https://paw.cloud[Rapid API]
 * link:https://manytricks.com/resolutionator[Resolutionator]
 * link:https://flyingmeat.com/retrobatch[Retrobatch]
+* link:https://skim-app.sourceforge.io[Skim]
 * link:https://signal.org[Signal]
 * link:https://www.sublimetext.com[Sublime Text]
 * link:https://panic.com/transmit[Transmit]
