@@ -18,6 +18,7 @@ brew install dog
 brew install duf
 brew install dust
 brew install duti
+brew install entr
 brew install exiftool
 brew install fd
 brew install fnm

@@ -35,6 +35,7 @@ Installs the following link:https://brew.sh[formulas]:
 * link:https://github.com/muesli/duf[duf]
 * link:https://github.com/bootandy/dust[Dust]
 * link:http://duti.org[duti]
+* link:https://eradman.com/entrproject[Entr]
 * link:https://exiftool.org/index.html[ExifTool]
 * link:https://github.com/sharkdp/fd[fd]
 * link:https://github.com/tako8ki/frum[Frum]
