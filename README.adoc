@@ -373,6 +373,10 @@ display is off_.
 **** Within _Mission Control_, assign `CONTROL + OPTION + COMMAND + W` to _Mission Control_.
 **** Select _Screenshots_ and uncheck all boxes.
 **** Select _Spotlight_ and uncheck all boxes.
+** Mouse
+*** Ensure tracking speed is on the 5th setting (i.e. 5th from right of _Slow_).
+** Trackpad
+*** Ensure tracking speed is on the 5th setting (i.e. 5th from right of _Slow_).
 ** Printers & Scanners
 *** Add printer/scanner.
 * iStat Menus
