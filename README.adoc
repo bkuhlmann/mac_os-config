@@ -31,7 +31,6 @@ Installs the following link:https://brew.sh[formulas]:
 * link:https://difftastic.wilfred.me.uk[Difftastic]
 * link:https://direnv.net[direnv]
 * link:https://github.com/wagoodman/dive[Dive]
-* link:https://dns.lookup.dog[dog]
 * link:https://github.com/muesli/duf[duf]
 * link:https://github.com/bootandy/dust[Dust]
 * link:http://duti.org[duti]
@@ -171,7 +170,6 @@ Installs link:https://www.apple.com/app-store[App Store] applications as managed
 * link:https://krillapps.com/patterns[Patterns]
 * link:https://software.charliemonroe.net/permute[Permute]
 * link:https://apps.apple.com/app/apple-store/id1494948845[Paletter]
-* link:https://primitive.lol[Primitive]
 * link:https://apps.apple.com/gb/app/sequence-diagram/id1195426709[Sequence Diagram]
 * link:https://shapesapp.com[Shapes]
 * link:https://slack.com[Slack]
@@ -373,6 +371,10 @@ display is off_.
 **** Within _Mission Control_, assign `CONTROL + OPTION + COMMAND + W` to _Mission Control_.
 **** Select _Screenshots_ and uncheck all boxes.
 **** Select _Spotlight_ and uncheck all boxes.
+** Mouse
+*** Ensure tracking speed is on the 5th setting (i.e. 5th from right of _Slow_).
+** Trackpad
+*** Ensure tracking speed is on the 5th setting (i.e. 5th from right of _Slow_).
 ** Printers & Scanners
 *** Add printer/scanner.
 * iStat Menus

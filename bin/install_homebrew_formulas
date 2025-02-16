@@ -14,7 +14,6 @@ brew install ctags
 brew install difftastic
 brew install direnv
 brew install dive
-brew install dog
 brew install duf
 brew install dust
 brew install duti
