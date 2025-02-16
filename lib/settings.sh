@@ -30,7 +30,7 @@ export MOOM_VOLUME_NAME="Moom"
 export MOOM_APP_URL="https://manytricks.com/download/moom"
 
 export PGENV_APP_URL="https://github.com/theory/pgenv"
-export PGENV_APP_PATH="$HOME/.pgenv"
+export PGENV_APP_PATH="$HOME/.cache/pgenv"
 
 export SONOS_APP_NAME="Sonos S1 Controller.app"
 export SONOS_VOLUME_NAME="Sonos"
