@@ -37,6 +37,7 @@ brew install htmlq
 brew install htop
 brew install httpstat
 brew install hyperfine
+brew install imagemagick
 brew install jq
 brew install lnav
 brew install lynis
