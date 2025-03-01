@@ -29,6 +29,7 @@ brew install --cask numi
 brew install --cask obsidian
 brew install --cask openoffice
 brew install --cask orbstack
+brew install --cask orion
 brew install --cask owasp-zap
 brew install --cask path-finder
 brew install --cask pgadmin4
@@ -38,8 +39,8 @@ brew install --cask protonvpn
 brew install --cask rapidapi
 brew install --cask resolutionator
 brew install --cask retrobatch
-brew install --cask skim
 brew install --cask signal
+brew install --cask skim
 brew install --cask sublime-text
 brew install --cask transmit
 brew install --cask twist
