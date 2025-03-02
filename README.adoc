@@ -269,7 +269,7 @@ To install, run:
 ----
 git clone https://github.com/bkuhlmann/mac_os-config.git
 cd mac_os-config
-git checkout 29.2.0
+git checkout 29.3.0
 ----
 
 == Usage
@@ -398,10 +398,9 @@ display is off_.
 Several applications provide global hotkey support. These are the associations I use (which are also
 captured in the `+restore.bom+` as well):
 
-* *COMMAND + SPACE (hold)*: Siri (open)
-* *COMMAND + SPACE*: Spotlight (open)
-* link:https://alchemists.io/articles/clean_shot/#_shortcuts[CleanShot] - See article for
-  details.
+* *COMMAND (x2)*: Siri (open)
+* *COMMAND + SPACE*: Alfred/Spotlight (open)
+* link:https://alchemists.io/articles/clean_shot/#_shortcuts[CleanShot]
 * *CONTROL + OPTION + COMMAND + c*: Pika (copy color)
 * *CONTROL + OPTION + COMMAND + d*: Alfred Define (use OPTION to open Dictionary)
 * *CONTROL + OPTION + COMMAND + h*: Alfred Highlight Syntax
@@ -410,8 +409,7 @@ captured in the `+restore.bom+` as well):
 * *CONTROL + OPTION + SHIFT + m*: Moom (open custom actions)
 * *CONTROL + OPTION + COMMAND + n*: Notification Center (show/hide)
 * *CONTROL + OPTION + COMMAND + o*: Alfred Open URL in default browser
-* link:https://alchemists.io/articles/pixel_snap/#_shortcuts[PixelSnap] - See article for
-  details.
+* link:https://alchemists.io/articles/pixel_snap/#_shortcuts[PixelSnap]
 * *CONTROL + OPTION + COMMAND + r*: Resolutionator (selector)
 * *CONTROL + OPTION + COMMAND + t*: Alfred Large Type
 * *CONTROL + OPTION + COMMAND + w*: Mission Control
@@ -422,6 +420,8 @@ captured in the `+restore.bom+` as well):
 * *CONTROL + OPTION + COMMAND + ENTER*: Keymou (move cursor by division)
 * *CONTROL + OPTION + SPACE*: OmniFocus (quick entry)
 * *OPTION + SPACE*: Alfred (open)
+
+💡 See additional link:https://saurabhs.org/macos-tips[tips] for details.
 
 === Newsyslog
 
