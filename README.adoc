@@ -149,6 +149,7 @@ Installs link:https://www.apple.com/app-store[App Store] applications as managed
 * link:https://secure.flyingmeat.com/acorn[Acorn]
 * link:https://bitwarden.com[Bitwarden]
 * link:https://ccmenu.org[CCMenu]
+* link:https://sindresorhus.com/system-color-picker[Color Picker]
 * link:https://daisydiskapp.com[DaisyDisk]
 * link:https://dropoverapp.com[Dropover]
 * link:https://www.apple.com/mac/garageband[GarageBand]
