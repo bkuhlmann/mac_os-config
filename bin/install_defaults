@@ -431,6 +431,12 @@ defaults write net.sourceforge.cruisecontrol.CCMenu '
             name = Pennyworth;
         },
                 {
+            feedName = "bkuhlmann/petail";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/petail.cc.xml";
+            name = Petail;
+        },
+                {
             feedName = "bkuhlmann/pipeable";
             feedType = cctray;
             feedUrl = "https://circleci.com/gh/bkuhlmann/pipeable.cc.xml";
@@ -513,6 +519,18 @@ defaults write net.sourceforge.cruisecontrol.CCMenu '
             feedType = cctray;
             feedUrl = "https://circleci.com/gh/bkuhlmann/tone.cc.xml";
             name = Tone;
+        },
+                {
+            feedName = "usetrmnl/trmnl-i18n";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/usetrmnl/trmnl-i18n.cc.xml";
+            name = "TRMNL i18n";
+        },
+                {
+            feedName = "usetrmnl/byos_hanami";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/usetrmnl/byos_hanami.cc.xml";
+            name = "TRMNL Terminus";
         },
                 {
             feedName = "bkuhlmann/versionaire";
