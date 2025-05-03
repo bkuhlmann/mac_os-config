@@ -252,6 +252,7 @@ Installs the following link:https://www.rust-lang.org[Rust] link:https://crates.
 * link:https://github.com/nabijaczleweli/cargo-update[Cargo Update]
 * link:https://dotenv-linter.github.io[Dotenv Linter]
 * link:https://eza.rocks[Eza]
+* link:https://jj-vcs.github.io[Jujutsu]
 * link:https://jless.io[jless]
 * link:https://github.com/chmln/sd[sd]
 

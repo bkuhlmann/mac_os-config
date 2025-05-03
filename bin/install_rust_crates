@@ -6,5 +6,6 @@ cargo install atuin
 cargo install cargo-update
 cargo install dotenv-linter
 cargo install eza
+cargo install jj-cli
 cargo install jless
 cargo install sd
