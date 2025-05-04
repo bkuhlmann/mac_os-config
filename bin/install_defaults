@@ -383,10 +383,22 @@ defaults write net.sourceforge.cruisecontrol.CCMenu '
             name = Initable;
         },
                 {
+            feedName = "bkuhlmann/inspectable";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/inspectable.cc.xml";
+            name = Inspectable;
+        },
+                {
             feedName = "bkuhlmann/irb-kit";
             feedType = cctray;
             feedUrl = "https://circleci.com/gh/bkuhlmann/irb-kit.cc.xml";
             name = "IRB Kit";
+        },
+                {
+            feedName = "bkuhlmann/kagi-api";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/kagi-api.cc.xml";
+            name = "Kagi API";
         },
                 {
             feedName = "bkuhlmann/lode";
