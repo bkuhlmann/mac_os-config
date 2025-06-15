@@ -22,6 +22,7 @@ brew install exiftool
 brew install fd
 brew install fnm
 brew install frum
+brew install fx
 brew install fzf
 brew install git
 brew install git-delta
