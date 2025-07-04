@@ -2,9 +2,9 @@ cff-version: 1.2.0
 message: Please use the following metadata when citing this project in your work.
 title: macOS Configuration
 abstract: Shell scripts for customized macOS machine setup.
-version: 29.4.0
+version: 29.5.0
 license: Hippocratic-2.1
-date-released: 2025-05-16
+date-released: 2025-07-04
 authors:
   - family-names: Kuhlmann
     given-names: Brooke
