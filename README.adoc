@@ -59,6 +59,7 @@ Installs the following link:https://brew.sh[formulas]:
 * link:https://stedolan.github.io/jq[jq]
 * link:https://lnav.org[lnav]
 * link:https://github.com/CISOfy/lynis[Lynis]
+* link:https://mailpit.axllent.org[Mailpit]
 * link:https://github.com/mas-cli/mas[Mac App Store]
 * link:https://jedisct1.github.io/minisign[Minisign]
 * link:https://github.com/variadico/noti[Noti]
