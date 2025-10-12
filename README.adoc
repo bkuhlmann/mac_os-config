@@ -70,7 +70,6 @@ Installs the following link:https://brew.sh[formulas]:
 * link:https://pandoc.org[Pandoc]
 * link:https://savannah.gnu.org/projects/parallel[Parallel]
 * link:https://github.com/sharkdp/pastel[Pastel]
-* link:https://www.pgcli.com[pgcli]
 * link:https://www.zlib.net/pigz[Pigz]
 * link:https://github.com/GPGTools/pinentry[Pinentry]
 * link:https://github.com/dalance/procs[Procs]
