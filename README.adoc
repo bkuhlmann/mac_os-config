@@ -186,7 +186,6 @@ Installs the following, basic, macOS applications which are not located in the A
 * link:https://github.com/theory/pgenv[pgenv]
 * link:https://www.sonos.com[Sonos]
 * link:https://tana.inc[Tana]
-* link:https://tuple.app[Tuple]
 
 === Application Extensions
 
