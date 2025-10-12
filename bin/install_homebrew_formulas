@@ -56,7 +56,6 @@ brew install pastel
 brew install pigz
 brew install pinentry-mac
 brew install procs
-brew install protobuf
 brew install readline
 brew install redis
 brew install ripgrep
