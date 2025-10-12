@@ -39,9 +39,6 @@ export SONOS_APP_URL="https://www.sonos.com/redir/controller_software_mac"
 export TANA_APP_NAME="Tana.app"
 export TANA_APP_URL="https://desktop-update.tana.inc/download/darwin"
 
-export TUPLE_APP_NAME="Tuple.app"
-export TUPLE_APP_URL="https://tuple.app/download/mac"
-
 # Application Extensions
 export VIM_EXTENSION_ROOT="$HOME/.vim/bundle"
 export VIM_BUNDLER_EXTENSION_PATH="$VIM_EXTENSION_ROOT/vim-bundler"
