@@ -136,7 +136,6 @@ Installs the following link:https://brew.sh[casks]:
 * link:https://panic.com/transmit[Transmit]
 * link:https://twist.com[Twist]
 * link:https://www.sparklabs.com/viscosity[Viscosity]
-* link:https://code.visualstudio.com[Visual Studio Code]
 * link:https://vivaldi.com[Vivaldi]
 * link:https://zed.dev[Zed]
 
