@@ -50,7 +50,6 @@ Installs the following link:https://brew.sh[formulas]:
 * link:https://www.graphviz.org[Graphviz]
 * link:https://github.com/sharkdp/hexyl[hexyl]
 * link:http://www.andre-simon.de/doku/highlight/en/highlight.php[Highlight]
-* link:https://github.com/mgdm/htmlq[htmlq]
 * link:https://hisham.hm/htop[htop]
 * link:https://github.com/reorx/httpstat[HTTP Stat]
 * link:https://github.com/sharkdp/hyperfine[Hyperfine]
