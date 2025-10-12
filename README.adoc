@@ -73,7 +73,6 @@ Installs the following link:https://brew.sh[formulas]:
 * link:https://www.zlib.net/pigz[Pigz]
 * link:https://github.com/GPGTools/pinentry[Pinentry]
 * link:https://github.com/dalance/procs[Procs]
-* link:https://protobuf.dev[Protobuf]
 * link:https://tiswww.case.edu/php/chet/readline/rltop.html[Readline]
 * link:http://redis.io[Redis]
 * link:https://github.com/BurntSushi/ripgrep[ripgrep]
