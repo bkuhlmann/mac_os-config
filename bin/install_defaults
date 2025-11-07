@@ -305,10 +305,10 @@ defaults write net.sourceforge.cruisecontrol.CCMenu '
             name = Etcher;
         },
                 {
-            feedName = "bkuhlmann/form-validator";
+            feedName = "bkuhlmann/functionable";
             feedType = cctray;
-            feedUrl = "https://circleci.com/gh/bkuhlmann/form-validator.cc.xml";
-            name = "Form Validator";
+            feedUrl = "https://circleci.com/gh/bkuhlmann/functionable.cc.xml";
+            name = "Functionable";
         },
                 {
             feedName = "bkuhlmann/gemsmith";
