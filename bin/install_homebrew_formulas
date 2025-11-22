@@ -66,6 +66,7 @@ brew install the_silver_searcher
 brew install tmux
 brew install tokei
 brew install vale
+brew install valkey
 brew install viddy
 brew install vim
 brew install vips

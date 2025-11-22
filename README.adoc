@@ -83,6 +83,7 @@ Installs the following link:https://brew.sh[formulas]:
 * link:https://github.com/tmux/tmux/wiki[tmux]
 * link:https://github.com/XAMPPRocky/tokei[Tokie]
 * link:https://vale.sh[Vale]
+* link:https://valkey.io[Valkey]
 * link:https://github.com/sachaos/viddy[Viddy]
 * link:https://www.vim.org[Vim]
 * link:https://github.com/libvips/libvips[Vips]
