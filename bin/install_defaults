@@ -449,6 +449,12 @@ defaults write net.sourceforge.cruisecontrol.CCMenu '
             name = Petail;
         },
                 {
+            feedName = "bkuhlmann/pi";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/pi.cc.xml";
+            name = Pi;
+        },
+                {
             feedName = "bkuhlmann/pipeable";
             feedType = cctray;
             feedUrl = "https://circleci.com/gh/bkuhlmann/pipeable.cc.xml";
@@ -539,9 +545,21 @@ defaults write net.sourceforge.cruisecontrol.CCMenu '
             name = "TRMNL API";
         },
                 {
-            feedName = "usetrmnl/byos_hanami";
+            feedName = "usetrmnl/trmnl-liquid";
             feedType = cctray;
-            feedUrl = "https://circleci.com/gh/usetrmnl/byos_hanami.cc.xml";
+            feedUrl = "https://circleci.com/gh/usetrmnl/trmnl-liquid.cc.xml";
+            name = "TRMNL Liquid";
+        },
+                {
+            feedName = "usetrmnl/sensor_scanner";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/usetrmnl/sensor_scanner.cc.xml";
+            name = "TRMNL Sensors";
+        },
+                {
+            feedName = "usetrmnl/terminus";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/usetrmnl/terminus.cc.xml";
             name = "TRMNL Terminus";
         },
                 {
