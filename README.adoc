@@ -79,6 +79,7 @@ Installs the following link:https://brew.sh[formulas]:
 * link:https://rsync.samba.org[rsync]
 * link:https://github.com/koalaman/shellcheck[ShellCheck]
 * link:https://www.joedog.org/siege-home[Siege]
+* link:https://github.com/karol-broda/snitch[Snitch]
 * link:https://www.tarsnap.com[Tarsnap]
 * link:https://www.terraform.io[Terraform]
 * link:https://github.com/ggreer/the_silver_searcher[The Silver Surfer]

@@ -62,6 +62,7 @@ brew install ripgrep
 brew install rsync
 brew install shellcheck
 brew install siege
+brew install snitch
 brew install tarsnap
 brew install terraform
 brew install the_silver_searcher
