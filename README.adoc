@@ -128,7 +128,6 @@ Installs the following link:https://brew.sh[casks]:
 * link:https://orbstack.dev[OrbStack]
 * link:https://kagi.com/orion[Orion]
 * link:https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project[OWASP Zed Attack Proxy (ZAP)]
-* link:https://cocoatech.com[Path Finder]
 * link:https://www.pgadmin.org[pgAdmin]
 * link:https://superhighfives.com/pika[Pika]
 * link:https://getpixelsnap.com[PixelSnap]
