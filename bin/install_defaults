@@ -109,7 +109,7 @@ printf "%s\n" "iCloud - Save to disk by default."
 defaults write NSGlobalDomain NSDocumentSaveNewDocumentsToCloud -bool false
 
 printf "%s\n" "Finder - Show the $HOME/Library folder."
-chflags nohidden $HOME/Library
+chflags nohidden "$HOME/Library"
 
 printf "%s\n" "Finder - Show hidden files."
 defaults write com.apple.finder AppleShowAllFiles -bool true
@@ -140,6 +140,9 @@ defaults write com.apple.finder WarnOnEmptyTrash -bool false
 
 printf "%s\n" "Finder - Allow text selection in Quick Look."
 defaults write com.apple.finder QLEnableTextSelection -bool true
+
+printf "%s\n" "Finder - Disable .DS_Store files on network volumes."
+defaults write com.apple.desktopservices DSDontWriteNetworkStores true
 
 printf "%s\n" "iOS Simulator - Symlink the iOS Simulator application."
 sudo ln -sf "/Applications/Xcode.app/Contents/Applications/iPhone Simulator.app" "/Applications/iOS Simulator.app"
