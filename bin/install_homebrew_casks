@@ -26,6 +26,7 @@ brew install --cask mitmproxy
 brew install --cask netnewswire
 brew install --cask ngrok
 brew install --cask numi
+brew install --cask obs
 brew install --cask obsidian
 brew install --cask openoffice
 brew install --cask orbstack
