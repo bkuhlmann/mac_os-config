@@ -15,6 +15,7 @@ brew install --cask dropbox
 brew install --cask element
 brew install --cask firefox
 brew install --cask fission
+brew install --cask focusrite-control
 brew install --cask google-chrome
 brew install --cask hazel
 brew install --cask iina
