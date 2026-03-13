@@ -46,7 +46,6 @@ brew install mas
 brew install minisign
 brew install noti
 brew install oha
-brew install ollama
 brew install openssh
 brew install openssl
 brew install osv-scanner
