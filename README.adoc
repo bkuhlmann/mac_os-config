@@ -100,6 +100,7 @@ Installs the following link:https://brew.sh[casks]:
 
 * link:https://www.alfredapp.com[Alfred]
 * link:https://freemacsoft.net/appcleaner[App Cleaner]
+* link:https://www.arduino.cc/en/software/[Arduino IDE]
 * link:https://www.rogueamoeba.com/audiohijack[Audio Hijack]
 * link:https://www.balena.io/etcher[Balena Etcher]
 * link:https://bombich.com[Carbon Copy Cloner]

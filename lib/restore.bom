@@ -60,6 +60,9 @@
 # Apple System Preferences
 /Users/bkuhlmann/Library/Preferences/com.apple.systempreferences.plist
 
+# Arduino IDE
+/Users/bkuhlmann/Library/Preferences/cc.arduino.IDE2.plist
+
 # Audio Hijack
 /Users/bkuhlmann/Library/Preferences/com.rogueamoeba.audiohijack3.plist
 
