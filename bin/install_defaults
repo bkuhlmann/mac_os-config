@@ -93,6 +93,9 @@ defaults write com.apple.systemuiserver menuExtras -array \
   "/System/Library/CoreServices/Menu Extras/Bluetooth.menu" \
   "/System/Library/CoreServices/Menu Extras/AirPort.menu"
 
+printf "%s\n" "Menus - Partially disable icons."
+defaults write -g NSMenuEnableActionImages -bool false
+
 printf "%s\n" "Dock - Remove all default app icons."
 defaults write com.apple.dock persistent-apps -array
 
