@@ -112,6 +112,7 @@ Installs the following link:https://brew.sh[casks]:
 * link:https://www.mozilla.com/en-US/firefox[Firefox]
 * link:https://www.rogueamoeba.com/fission[Fission]
 * link:https://focusrite.com[Focusrite Control]
+* link:https://ghostty.org[Ghostly]
 * link:https://www.google.com/chrome[Google Chrome]
 * link:https://www.noodlesoft.com[Hazel]
 * link:https://iina.io[IINA]
