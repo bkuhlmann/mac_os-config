@@ -190,7 +190,6 @@
 /Users/bkuhlmann/.cache/psql
 /Users/bkuhlmann/.cache/ruby
 /Users/bkuhlmann/.cache/zoxide
-/Users/bkuhlmann/.config/atuin
 /Users/bkuhlmann/.config/bash
 /Users/bkuhlmann/.config/bundler
 /Users/bkuhlmann/.config/duti
@@ -210,7 +209,6 @@
 /Users/bkuhlmann/.gem/gem-private_key.pem
 /Users/bkuhlmann/.gem/gem-public_cert.pem
 /Users/bkuhlmann/.gnupg
-/Users/bkuhlmann/.local/share/atuin/history.db
 /Users/bkuhlmann/.minisign
 /Users/bkuhlmann/.netrc
 /Users/bkuhlmann/.parallel

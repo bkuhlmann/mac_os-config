@@ -2,7 +2,6 @@
 
 # Installs Rust crates.
 
-cargo install atuin
 cargo install cargo-update
 cargo install dotenv-linter
 cargo install eza
