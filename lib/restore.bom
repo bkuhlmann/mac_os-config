@@ -114,9 +114,6 @@
 /Users/bkuhlmann/Library/Preferences/com.bjango.istatmenus.plist
 /Users/bkuhlmann/Library/Preferences/com.bjango.istatmenus6.extras.plist
 
-# iTerm
-/Users/bkuhlmann/Library/Preferences/com.googlecode.iterm2.plist
-
 # Kagi
 /Users/bkuhlmann/Library/Preferences/com.kagi.kagimacOS.plist
 
@@ -189,12 +186,10 @@
 /Users/bkuhlmann/Library/LaunchAgents/com.apple.newsyslog.plist
 
 # USER
-/Users/bkuhlmann/.asciinema
 /Users/bkuhlmann/.cache/milestoner
 /Users/bkuhlmann/.cache/psql
 /Users/bkuhlmann/.cache/ruby
 /Users/bkuhlmann/.cache/zoxide
-/Users/bkuhlmann/.config/asciinema
 /Users/bkuhlmann/.config/atuin
 /Users/bkuhlmann/.config/bash
 /Users/bkuhlmann/.config/bundler
@@ -204,7 +199,6 @@
 /Users/bkuhlmann/.config/git
 /Users/bkuhlmann/.config/hanamismith
 /Users/bkuhlmann/.config/htop
-/Users/bkuhlmann/.config/iterm2
 /Users/bkuhlmann/.config/lnav
 /Users/bkuhlmann/.config/milestoner
 /Users/bkuhlmann/.config/pennyworth

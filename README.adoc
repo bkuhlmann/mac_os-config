@@ -117,7 +117,6 @@ Installs the following link:https://brew.sh[casks]:
 * link:https://iina.io[IINA]
 * link:http://imageoptim.pornel.net[ImageOptim]
 * link:https://bjango.com/mac/istatmenus[iStat Menus]
-* link:https://www.iterm2.com[iTerm2]
 * link:https://mitmproxy.org[mitmproxy]
 * link:https://netnewswire.com[NewNewsWire]
 * link:https://ngrok.com[Ngrok]
