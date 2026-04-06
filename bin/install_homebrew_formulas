@@ -26,7 +26,6 @@ brew install fzf
 brew install git
 brew install git-delta
 brew install git-filter-repo
-brew install git-sizer
 brew install gpg
 brew install gping
 brew install graphicsmagick

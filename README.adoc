@@ -43,7 +43,6 @@ Installs the following link:https://brew.sh[formulas]:
 * link:https://git-scm.com[Git]
 * link:https://github.com/dandavison/delta[Git Delta]
 * link:https://github.com/newren/git-filter-repo[Git Filter Repo]
-* link:https://github.com/github/git-sizer[Git Sizer]
 * link:https://www.gnupg.org[GPG]
 * link:https://github.com/orf/gping[gping]
 * link:http://www.graphicsmagick.org[Graphics Magick]
