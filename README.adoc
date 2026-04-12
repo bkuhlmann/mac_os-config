@@ -181,7 +181,6 @@ Installs link:https://www.apple.com/app-store[App Store] applications as managed
 
 Installs the following, basic, macOS applications which are not located in the App Store:
 
-* link:https://appmap.io[AppMap]
 * link:https://www.docker.com[Docker]
 * link:https://icemenubar.app[Ice]
 * link:https://moneywell.app[MoneyWell]
