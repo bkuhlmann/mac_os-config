@@ -18,7 +18,6 @@ gem install libyear-bundler
 gem install pennyworth
 gem install pessimize
 gem install pragmater
-gem install rails
 gem install reek
 gem install retest
 gem install rspec
