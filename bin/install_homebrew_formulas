@@ -52,6 +52,7 @@ brew install overmind
 brew install pandoc
 brew install parallel
 brew install pastel
+brew install pgweb
 brew install pigz
 brew install pinentry-mac
 brew install procs
