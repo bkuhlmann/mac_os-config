@@ -17,7 +17,7 @@ export DOCKER_APP_URL="https://desktop.docker.com/mac/stable/arm64/Docker.dmg"
 export DOCKER_VOLUME_NAME="Docker"
 
 export ICE_APP_NAME="Ice.app"
-export ICE_APP_URL="https://github.com/jordanbaird/Ice/releases/download/0.9.0/Ice.zip"
+export ICE_APP_URL="https://github.com/jordanbaird/Ice/releases/download/0.11.13-dev.2/Ice.zip"
 
 export MONEYWELL_APP_NAME="MoneyWell.app"
 export MONEYWELL_APP_URL="https://moneywell.app/downloads/sparkle/MoneyWell-3.1.2.zip"
