@@ -365,6 +365,12 @@ defaults write net.sourceforge.cruisecontrol.CCMenu '
             name = "htmx Select";
         },
                 {
+            feedName = "bkuhlmann/htmx-slide";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/htmx-slide.cc.xml";
+            name = "htmx Slide";
+        },
+                {
             feedName = "bkuhlmann/hemo";
             feedType = cctray;
             feedUrl = "https://circleci.com/gh/bkuhlmann/hemo.cc.xml";
