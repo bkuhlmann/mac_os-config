@@ -133,6 +133,7 @@ Installs the following link:https://brew.sh[casks]:
 * link:https://www.raspberrypi.com/software/[Raspberry Pi Imager]
 * link:https://manytricks.com/resolutionator[Resolutionator]
 * link:https://flyingmeat.com/retrobatch[Retrobatch]
+* link:https://revpdf.com[RevPDF]
 * link:https://signal.org[Signal]
 * link:https://skim-app.sourceforge.io[Skim]
 * link:https://www.sonos.com[Sonos]

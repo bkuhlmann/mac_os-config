@@ -40,6 +40,7 @@ brew install --cask rapidapi
 brew install --cask raspberry-pi-imager
 brew install --cask resolutionator
 brew install --cask retrobatch
+brew install --cask revpdf-editor
 brew install --cask signal
 brew install --cask skim
 brew install --cask sonos
