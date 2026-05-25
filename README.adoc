@@ -261,7 +261,7 @@ To install, run:
 ----
 git clone https://github.com/bkuhlmann/mac_os-config.git
 cd mac_os-config
-git checkout 31.0.0
+git checkout 31.1.0
 ----
 
 == Usage
