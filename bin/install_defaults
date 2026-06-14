@@ -299,6 +299,12 @@ defaults write net.sourceforge.cruisecontrol.CCMenu '
             name = "Docker Alpine Ruby";
         },
                 {
+            feedName = "bkuhlmann/docker-debian-ruby";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/docker-debian-ruby.cc.xml";
+            name = "Docker Debian Ruby";
+        },
+                {
             feedName = "bkuhlmann/dotfiles";
             feedType = cctray;
             feedUrl = "https://circleci.com/gh/bkuhlmann/dotfiles.cc.xml";
