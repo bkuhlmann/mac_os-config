@@ -208,7 +208,7 @@ Installs the following extensions to existing applications:
 
 Installs the following link:https://nodejs.org[Node] link:https://www.npmjs.com[packages]:
 
-_None are used at the moment._
+* link:https://github.com/pwa-today/pwa-check[PWA Check]
 
 === Ruby Gems
 
