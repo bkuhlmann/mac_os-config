@@ -245,12 +245,6 @@ defaults write net.sourceforge.cruisecontrol.CCMenu '
     "Sound Successful" = Sosumi;
     pipelines =     (
                 {
-            feedName = "bkuhlmann/auther";
-            feedType = cctray;
-            feedUrl = "https://circleci.com/gh/bkuhlmann/auther.cc.xml";
-            name = Auther;
-        },
-                {
             feedName = "bkuhlmann/bashsmith";
             feedType = cctray;
             feedUrl = "https://circleci.com/gh/bkuhlmann/bashsmith.cc.xml";
@@ -377,18 +371,6 @@ defaults write net.sourceforge.cruisecontrol.CCMenu '
             name = "htmx Slide";
         },
                 {
-            feedName = "bkuhlmann/hemo";
-            feedType = cctray;
-            feedUrl = "https://circleci.com/gh/bkuhlmann/hemo.cc.xml";
-            name = Hemo;
-        },
-                {
-            feedName = "bkuhlmann/http-fake";
-            feedType = cctray;
-            feedUrl = "https://circleci.com/gh/bkuhlmann/http-fake.cc.xml";
-            name = "HTTP Fake";
-        },
-                {
             feedName = "bkuhlmann/infusible";
             feedType = cctray;
             feedUrl = "https://circleci.com/gh/bkuhlmann/infusible.cc.xml";
@@ -449,22 +431,10 @@ defaults write net.sourceforge.cruisecontrol.CCMenu '
             name = Milestoner;
         },
                 {
-            feedName = "bkuhlmann/navigator";
-            feedType = cctray;
-            feedUrl = "https://circleci.com/gh/bkuhlmann/navigator.cc.xml";
-            name = Navigator;
-        },
-                {
             feedName = "bkuhlmann/pennyworth";
             feedType = cctray;
             feedUrl = "https://circleci.com/gh/bkuhlmann/pennyworth.cc.xml";
             name = Pennyworth;
-        },
-                {
-            feedName = "bkuhlmann/petail";
-            feedType = cctray;
-            feedUrl = "https://circleci.com/gh/bkuhlmann/petail.cc.xml";
-            name = Petail;
         },
                 {
             feedName = "bkuhlmann/pi";
@@ -479,22 +449,10 @@ defaults write net.sourceforge.cruisecontrol.CCMenu '
             name = Pipeable;
         },
                 {
-            feedName = "bkuhlmann/pkce";
-            feedType = cctray;
-            feedUrl = "https://circleci.com/gh/bkuhlmann/pkce.cc.xml";
-            name = PKCE;
-        },
-                {
             feedName = "bkuhlmann/pragmater";
             feedType = cctray;
             feedUrl = "https://circleci.com/gh/bkuhlmann/pragmater.cc.xml";
             name = Pragmater;
-        },
-                {
-            feedName = "bkuhlmann/prawn_plus";
-            feedType = cctray;
-            feedUrl = "https://circleci.com/gh/bkuhlmann/prawn_plus.cc.xml";
-            name = "Prawn+";
         },
                 {
             feedName = "bkuhlmann/refinements";
@@ -539,12 +497,6 @@ defaults write net.sourceforge.cruisecontrol.CCMenu '
             name = "Sublime Text Setup";
         },
                 {
-            feedName = "bkuhlmann/tana";
-            feedType = cctray;
-            feedUrl = "https://circleci.com/gh/bkuhlmann/tana.cc.xml";
-            name = Tana;
-        },
-                {
             feedName = "bkuhlmann/tocer";
             feedType = cctray;
             feedUrl = "https://circleci.com/gh/bkuhlmann/tocer.cc.xml";
@@ -567,12 +519,6 @@ defaults write net.sourceforge.cruisecontrol.CCMenu '
             feedType = cctray;
             feedUrl = "https://circleci.com/gh/usetrmnl/trmnl-liquid.cc.xml";
             name = "TRMNL Liquid";
-        },
-                {
-            feedName = "usetrmnl/sensor_scanner";
-            feedType = cctray;
-            feedUrl = "https://circleci.com/gh/usetrmnl/sensor_scanner.cc.xml";
-            name = "TRMNL Sensors";
         },
                 {
             feedName = "usetrmnl/terminus";
