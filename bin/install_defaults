@@ -461,6 +461,18 @@ defaults write net.sourceforge.cruisecontrol.CCMenu '
             name = Refinements;
         },
                 {
+            feedName = "bkuhlmann/rfc-api-problem";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/rfc-api-problem.cc.xml";
+            name = "RFC API Problem";
+        },
+                {
+            feedName = "bkuhlmann/rfc-web-link";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/rfc-web-link.cc.xml";
+            name = "RFC Web Link";
+        },
+                {
             feedName = "bkuhlmann/rubysmith";
             feedType = cctray;
             feedUrl = "https://circleci.com/gh/bkuhlmann/rubysmith.cc.xml";
