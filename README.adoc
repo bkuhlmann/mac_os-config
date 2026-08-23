@@ -58,7 +58,7 @@ Installs the following link:https://brew.sh[formulas]:
 * link:https://mailpit.axllent.org[Mailpit]
 * link:https://github.com/mas-cli/mas[Mac App Store]
 * link:https://jedisct1.github.io/minisign[Minisign]
-* link:https://github.com/variadico/noti[Noti]
+* link:https://codeberg.org/roble/noti[Noti]
 * link:https://github.com/hatoo/oha[Oha]
 * link:https://www.openssh.com[OpenSSH]
 * link:https://openssl.org[OpenSSL]
@@ -261,7 +261,7 @@ To install, run:
 ----
 git clone https://github.com/bkuhlmann/mac_os-config.git
 cd mac_os-config
-git checkout 31.1.0
+git checkout 31.2.0
 ----
 
 == Usage

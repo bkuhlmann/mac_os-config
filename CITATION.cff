@@ -4,7 +4,7 @@ title: macOS Configuration
 abstract: Shell scripts for customized macOS machine setup.
 version: 31.1.0
 license: Hippocratic-2.1
-date-released: 2026-05-25
+date-released: 2026-08-23
 authors:
   - family-names: Kuhlmann
     given-names: Brooke
