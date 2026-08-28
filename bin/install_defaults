@@ -509,6 +509,12 @@ defaults write net.sourceforge.cruisecontrol.CCMenu '
             name = "Sublime Text Setup";
         },
                 {
+            feedName = "usetrmnl/terminus";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/usetrmnl/terminus.cc.xml";
+            name = "Terminus";
+        },
+                {
             feedName = "bkuhlmann/tocer";
             feedType = cctray;
             feedUrl = "https://circleci.com/gh/bkuhlmann/tocer.cc.xml";
@@ -525,18 +531,6 @@ defaults write net.sourceforge.cruisecontrol.CCMenu '
             feedType = cctray;
             feedUrl = "https://circleci.com/gh/usetrmnl/trmnl-api.cc.xml";
             name = "TRMNL API";
-        },
-                {
-            feedName = "usetrmnl/trmnl-liquid";
-            feedType = cctray;
-            feedUrl = "https://circleci.com/gh/usetrmnl/trmnl-liquid.cc.xml";
-            name = "TRMNL Liquid";
-        },
-                {
-            feedName = "usetrmnl/terminus";
-            feedType = cctray;
-            feedUrl = "https://circleci.com/gh/usetrmnl/terminus.cc.xml";
-            name = "TRMNL Terminus";
         },
                 {
             feedName = "bkuhlmann/versionaire";
