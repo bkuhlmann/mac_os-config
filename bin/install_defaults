@@ -509,6 +509,12 @@ defaults write net.sourceforge.cruisecontrol.CCMenu '
             name = "Sublime Text Setup";
         },
                 {
+            feedName = "bkuhlmann/superfluid";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/superfluid.cc.xml";
+            name = "Superfluid";
+        },
+                {
             feedName = "usetrmnl/terminus";
             feedType = cctray;
             feedUrl = "https://circleci.com/gh/usetrmnl/terminus.cc.xml";
