@@ -117,6 +117,7 @@ Installs the following link:https://brew.sh[casks]:
 * link:http://imageoptim.pornel.net[ImageOptim]
 * link:https://bjango.com/mac/istatmenus[iStat Menus]
 * link:https://mitmproxy.org[mitmproxy]
+* link:https://mullvad.net[Mullvad]
 * link:https://netnewswire.com[NewNewsWire]
 * link:https://ngrok.com[Ngrok]
 * link:https://numi.app[Numi]

@@ -24,6 +24,7 @@ brew install --cask iina
 brew install --cask imageoptim
 brew install --cask istat-menus
 brew install --cask mitmproxy
+brew install --cask mullvad-vpn
 brew install --cask netnewswire
 brew install --cask ngrok
 brew install --cask numi
