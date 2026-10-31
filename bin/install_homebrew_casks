@@ -35,7 +35,6 @@ brew install --cask owasp-zap
 brew install --cask pgadmin4
 brew install --cask pika
 brew install --cask pixelsnap
-brew install --cask protonvpn
 brew install --cask rapidapi
 brew install --cask raspberry-pi-imager
 brew install --cask resolutionator
