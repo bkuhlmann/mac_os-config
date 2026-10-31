@@ -122,7 +122,6 @@ Installs the following link:https://brew.sh[casks]:
 * link:https://ngrok.com[Ngrok]
 * link:https://numi.app[Numi]
 * link:https://obsidian.md[Obsidian]
-* link:https://www.openoffice.org[OpenOffice]
 * link:https://orbstack.dev[OrbStack]
 * link:https://kagi.com/orion[Orion]
 * link:https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project[OWASP Zed Attack Proxy (ZAP)]

@@ -29,7 +29,6 @@ brew install --cask netnewswire
 brew install --cask ngrok
 brew install --cask numi
 brew install --cask obsidian
-brew install --cask openoffice
 brew install --cask orbstack
 brew install --cask orion
 brew install --cask owasp-zap
