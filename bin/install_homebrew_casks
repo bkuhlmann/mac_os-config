@@ -32,7 +32,6 @@ brew install --cask obsidian
 brew install --cask orbstack
 brew install --cask orion
 brew install --cask pgadmin4
-brew install --cask pika
 brew install --cask pixelsnap
 brew install --cask rapidapi
 brew install --cask raspberry-pi-imager

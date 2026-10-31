@@ -125,7 +125,6 @@ Installs the following link:https://brew.sh[casks]:
 * link:https://orbstack.dev[OrbStack]
 * link:https://kagi.com/orion[Orion]
 * link:https://www.pgadmin.org[pgAdmin]
-* link:https://superhighfives.com/pika[Pika]
 * link:https://getpixelsnap.com[PixelSnap]
 * link:https://paw.cloud[Rapid API]
 * link:https://www.raspberrypi.com/software/[Raspberry Pi Imager]
