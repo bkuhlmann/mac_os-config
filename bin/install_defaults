@@ -425,6 +425,12 @@ defaults write net.sourceforge.cruisecontrol.CCMenu '
             name = Marameters;
         },
                 {
+            feedName = "bkuhlmann/metapath";
+            feedType = cctray;
+            feedUrl = "https://circleci.com/gh/bkuhlmann/metapath.cc.xml";
+            name = Metapath;
+        },
+                {
             feedName = "bkuhlmann/milestoner";
             feedType = cctray;
             feedUrl = "https://circleci.com/gh/bkuhlmann/milestoner.cc.xml";
