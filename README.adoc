@@ -23,7 +23,6 @@ Installs the following link:https://brew.sh[formulas]:
 * link:https://github.com/toy/blueutil[blueutil]
 * link:https://github.com/cloudflare/cloudflared[cloudflared]
 * link:https://github.com/schollz/croc[croc]
-* link:https://crystal-lang.org[Crystal]
 * link:http://ctags.sourceforge.net[CTags]
 * link:https://difftastic.wilfred.me.uk[Difftastic]
 * link:https://direnv.net[direnv]
