@@ -2,6 +2,7 @@
 
 # Installs Homebrew software.
 
+brew install age
 brew install bash
 brew install bash-completion
 brew install bat

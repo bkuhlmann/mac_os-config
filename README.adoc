@@ -17,6 +17,7 @@ easier navigation.
 
 Installs the following link:https://brew.sh[formulas]:
 
+* link:https://github.com/FiloSottile/age[Age]
 * link:https://www.gnu.org/software/bash[Bash]
 * link:http://bash-completion.alioth.debian.org[Bash Completion]
 * link:https://github.com/sharkdp/bat[Bat]
