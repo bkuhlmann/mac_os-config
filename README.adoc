@@ -21,7 +21,6 @@ Installs the following link:https://brew.sh[formulas]:
 * link:http://bash-completion.alioth.debian.org[Bash Completion]
 * link:https://github.com/sharkdp/bat[Bat]
 * link:https://github.com/toy/blueutil[blueutil]
-* link:https://github.com/cloudflare/cloudflared[cloudflared]
 * link:https://github.com/schollz/croc[croc]
 * link:http://ctags.sourceforge.net[CTags]
 * link:https://curl.se[curl]
@@ -55,7 +54,6 @@ Installs the following link:https://brew.sh[formulas]:
 * link:https://imagemagick.org[ImageMagick]
 * link:https://stedolan.github.io/jq[jq]
 * link:https://lnav.org[lnav]
-* link:https://github.com/CISOfy/lynis[Lynis]
 * link:https://mailpit.axllent.org[Mailpit]
 * link:https://github.com/mas-cli/mas[Mac App Store]
 * link:https://jedisct1.github.io/minisign[Minisign]
@@ -120,7 +118,6 @@ Installs the following link:https://brew.sh[casks]:
 * link:https://mitmproxy.org[mitmproxy]
 * link:https://mullvad.net[Mullvad]
 * link:https://netnewswire.com[NewNewsWire]
-* link:https://ngrok.com[Ngrok]
 * link:https://numi.app[Numi]
 * link:https://obsidian.md[Obsidian]
 * link:https://orbstack.dev[OrbStack]
@@ -482,6 +479,14 @@ for further details.
 with the "`EXTENSION_PATH`" suffix inform the installer what to care about. Removing/commenting out
 these applications/extensions within the `+settings.sh+` file will cause the installer to skip these
 applications/extensions.
+
+== Ancillaries
+
+The following applications are not not managed by this project but might be of interest as one-off installs:
+
+* link:https://github.com/cloudflare/cloudflared[cloudflared]: `brew install cloudflared`
+* link:https://github.com/CISOfy/lynis[Lynis]: `brew install lynis`
+* link:https://ngrok.com[Ngrok]: `brew install --cask ngrok`
 
 == Development
 

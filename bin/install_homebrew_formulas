@@ -6,7 +6,6 @@ brew install bash
 brew install bash-completion
 brew install bat
 brew install blueutil
-brew install cloudflared
 brew install croc
 brew install ctags
 brew install curl
@@ -40,7 +39,6 @@ brew install hyperfine
 brew install imagemagick
 brew install jq
 brew install lnav
-brew install lynis
 brew install mailpit
 brew install mas
 brew install minisign
