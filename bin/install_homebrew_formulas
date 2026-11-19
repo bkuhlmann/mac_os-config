@@ -9,6 +9,7 @@ brew install blueutil
 brew install cloudflared
 brew install croc
 brew install ctags
+brew install curl
 brew install difftastic
 brew install direnv
 brew install dive
