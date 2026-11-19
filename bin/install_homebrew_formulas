@@ -16,6 +16,7 @@ brew install dive
 brew install duf
 brew install dust
 brew install duti
+brew install e2tools
 brew install entr
 brew install exiftool
 brew install fd
